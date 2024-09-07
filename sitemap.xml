@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://dalmapping.com/kr-common-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalmapping.com/en-common-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalmapping.com/en-articles-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalmapping.com/kr-articles-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalmapping.com/en-tags-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalmapping.com/kr-tags-sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>

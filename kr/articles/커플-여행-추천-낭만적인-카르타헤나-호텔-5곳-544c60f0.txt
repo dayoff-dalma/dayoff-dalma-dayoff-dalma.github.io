@@ -1,0 +1,399 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%BB%A4%ED%94%8C-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EB%82%AD%EB%A7%8C%EC%A0%81%EC%9D%B8-%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%ED%98%B8%ED%85%94-5%EA%B3%B3-544c60f0","d"],{"children":["__PAGE__?{\"slug\":\"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%BB%A4%ED%94%8C-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EB%82%AD%EB%A7%8C%EC%A0%81%EC%9D%B8-%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%ED%98%B8%ED%85%94-5%EA%B3%B3-544c60f0","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0\"}"},"styles":[]}],"segment":["slug","%EC%BB%A4%ED%94%8C-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EB%82%AD%EB%A7%8C%EC%A0%81%EC%9D%B8-%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%ED%98%B8%ED%85%94-5%EA%B3%B3-544c60f0","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요."}],["$","meta","3",{"name":"keywords","content":"남미,카르타헤나,휴식,해변,모험,즐거움,친절,편안함,럭셔리,모던,위치,관광,바다,전망,서비스,수영장,레스토랑,가족,커플,스파,키즈클럽,조식,현대적"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%BB%A4%ED%94%8C-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EB%82%AD%EB%A7%8C%EC%A0%81%EC%9D%B8-%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%ED%98%B8%ED%85%94-5%EA%B3%B3-544c60f0"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%BB%A4%ED%94%8C-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EB%82%AD%EB%A7%8C%EC%A0%81%EC%9D%B8-%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%ED%98%B8%ED%85%94-5%EA%B3%B3-544c60f0"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/10838-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/10838-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2798,
+    
+
+
+## 낭만적인 커플 여행을 위한 카르타헤나 호텔 추천
+
+안녕하세요. 달마야 여행가자의 달마입니다. 사랑스러운 커플 여러분, 혹시 낭만적인 휴가를 계획하고 계신가요? 여러분을 위한 **완벽한 로맨틱 휴가지**, 콜롬비아 카르타헤나를 소개합니다! 그곳에서 특별한 추억을 쌓을 수 있는 5곳의 멋진 호텔들을 추천드릴게요. 현대적인 시설부터 고풍스러운 분위기까지, 모든 스타일의 커플들이 만족할 만한 호텔들이 기다리고 있어요. 자, 커플 여행을 더욱 특별하게 만들어줄 카르타헤나의 최고의 호텔들을 함께 살펴보아요!
+
+
+## 카르타헤나의 고급 낙원
+Oz Hotel Cartagena
+    ![Oz Hotel Cartagena_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821584.jpg?k=bebc81c0a04985578f67f1ba4a308eeef6b4651e8658c64dabb1147a837e8a31&s=450x450)
+![Oz Hotel Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/29137212.jpg?k=68dd257f833f11b697d17e21c369742112bb6d84952e8f03b9eb5adc084e1b31&s=50x50)
+![Oz Hotel Cartagena_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821575.jpg?k=4983d982d180ef0b13b5a309e7c1e1ccbb1f1af948cdaaefdfa3b9b8583581c2&s=50x50)
+
+카르타헤나의 매력적인 거리와 해변가에 위치한 이 호텔은 마치 작은 낙원 같아요. 모던한 인테리어와 편안한 객실은 방문객들에게 최고의 휴식을 선사해줘요. 특히 객실에서 바라보는 바다 전망은 말로 표현할 수 없을 정도로 멋있답니다. 아침마다 제공되는 조식은 신선하고 다양한 메뉴로 구성되어 있어 숙박의 즐거움을 더해줘요. 여기서 아침을 시작하면 하루가 활기차게 시작될 거예요.
+
+호텔 내에 있는 수영장은 여행의 피로를 풀어주기에 충분해요. 따뜻한 햇살 아래에서 수영을 즐기고 나면 진정한 휴식을 느낄 수 있을 거예요. 또한 인근에 위치한 다양한 관광 명소들도 도보로 쉽게 접근 가능해 여행의 편리함을 더해줘요. 친절한 직원들은 언제나 웃으며 맞이해주고, 필요한 모든 것을 신속하게 해결해준답니다. 카르타헤나에서의 완벽한 휴식과 모험을 동시에 누리고 싶다면 이 호텔이 딱이에요.
+
+[Oz Hotel Cartagena](https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html)
+ 
+
+## 럭셔리한 카르타헤나 여행의 완성
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/278575787.jpg?k=e484b4e2de827b1dca6486b03dde8378aeb773f97b48569b4564b003b44d1ecd&s=50x50)
+
+카르타헤나의 중심지에 위치한 이 호텔은 모든 여행자의 꿈을 실현시킬 수 있는 곳이에요. 호텔 내부는 화려하고 세련된 디자인으로 꾸며져 있어, 첫 발을 디디는 순간부터 럭셔리한 분위기가 물씬 느껴져요. 특히, 이곳의 객실은 모던하면서도 안락한 침대와 넓은 창문을 통해 바라보는 멋진 전망 덕분에 여행의 피로를 한순간에 날려줍니다. 매일 아침 제공되는 다양한 조식 옵션은 신선한 재료로 구성되어 있어 맛과 건강을 동시에 챙길 수 있어요. 또한, 주변에 다양한 명소들이 가까이 있어 이동도 편리해요. 숙소를 선택할 때 주변 환경도 중요한데, 이 호텔은 고급 레스토랑, 쇼핑몰, 관광지와 가까워 이동하는 데 시간과 노력을 절약할 수 있답니다. 카르타헤나의 풍부한 역사와 문화를 탐험하는 동안, 이 호텔은 편안한 휴식처가 되어줄 거예요. 객실 서비스는 꼼꼼하고 친절하며, 필요할 때 언제든 도움을 받을 수 있어요. 여유로운 휴식을 원한다면 이곳의 스파와 수영장을 이용해보세요. 정말로 하루의 피로를 말끔히 씻어내고 재충전할 수 있을 거예요. 여행 중에도 집에 있는 것처럼 편안히 쉴 수 있는 곳을 찾는다면 이곳을 추천해요.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 밤
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645696.jpg?k=6e32d3f5f7a0ca957772984ab5c501fea2555af11ff91722f07314ac3df245e9&s=50x50)
+
+카르타헤나의 매력적인 어느 저녁, 바다 옆에서 펼쳐지는 *마법 같은 풍경*을 만끽해보세요. **Estelar Cartagena De Indias Hotel and Centro De Convenciones**는 그 매력을 더욱 끌어올리는 아름다운 곳이에요. 이 호텔은 넓은 수영장과 멋진 해변 전망을 자랑하며, 특히 해질 녘의 칵테일은 말로 표현할 수 없을 정도로 환상적이에요.
+
+호텔의 서비스 역시 뛰어나서 여행객에게 필요한 모든 것을 갖추고 있어요. 친절한 직원들이 미소로 맞아주고, **깔끔한 객실**과 **최상의 편의시설**로 최고의 고객 만족을 제공합니다. 또한, 호텔 내 레스토랑에서는 지역 특산 요리부터 세계 여러 나라의 요리를 맛볼 수 있어 *미식가*들에게도 천국 같은 곳이죠.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 캐리비안 해변의 럭셔리 휴양지
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/6798489/0/cef8962f63669d8be906001e5203f5f5.jpeg)
+
+카르타헤나의 낭만적인 분위기와 현대적인 시설이 잘 어우러진 이곳은 바로 여러분이 찾던 완벽한 휴양지에요. 해변과 바로 연결된 위치 덕분에 첫눈에 반할 만한 바다 전망을 자랑해요. 고급스러운 스파 시설과 넓은 수영장에서 느긋하게 여유를 즐길 수 있어요. 마음껏 바다를 즐기다 보면 시간 가는 줄 모를 거예요.
+
+이 호텔은 가족 여행자나 커플에게 특히 추천드려요. 아이들을 위한 키즈클럽과 다양한 액티비티가 준비되어 있어 가족 모두가 행복한 시간을 보낼 수 있어요. 커플들을 위한 로맨틱한 식사와 바다가 보이는 멋진 전망의 객실에서 사랑스러운 추억을 쌓을 수 있답니다. 또한, 호텔 내 레스토랑에서는 신선한 현지 해산물 요리를 맛볼 수 있어요. 음식과 경치를 한 번에 즐길 수 있는 완벽한 장소에 오신 것을 환영해요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 꿈같은 해변의 휴식
+Hilton Cartagena Hotel
+    ![Hilton Cartagena Hotel_0_image](https://pix8.agoda.net/hotelImages/6084/0/afcb721047b654e3d2d3755255c04bfc.jpg)
+![Hilton Cartagena Hotel_1_image](https://pix8.agoda.net/property/35259117/781054550/3022347f1f7f4057600e1ee48f723f66.jpeg)
+![Hilton Cartagena Hotel_2_image](https://pix8.agoda.net/hotelImages/6084/0/ba24bf19dbbe9e49d31ce3e9116471af.jpg)
+
+카르타헤나의 매력적인 해변에 위치한 이 호텔은 최고의 휴식과 레저를 제공해요. 모든 객실은 바다가 보이는 멋진 전망을 자랑하며, 현대적인 편의시설이 완비되어 있어요. 따뜻한 햇살 아래서 수영이나 해변 산책을 즐기기에 안성맞춤이에요. 특히 호텔의 수영장은 남녀노소 누구나 즐길 수 있는 완벽한 휴식을 선사할 거예요.
+
+호텔 내 레스토랑에서는 현지 요리와 세계 각국의 다양한 메뉴를 맛볼 수 있어요. 매일 아침 조식 뷔페로 신선한 음식을 즐기며 하루를 시작해 보세요. 또한, 스파와 피트니스 센터도 마련되어 있어, 여행 중 피로를 풀어주는 힐링 타임을 가질 수 있답니다. 가족 단위 여행객이나 커플에게 특히 추천하고 싶은 곳이에요.
+
+[Hilton Cartagena Hotel](https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 최고의 휴양을 즐기고 싶다면 다양한 선택지가 있습니다. *Oz Hotel Cartagena*는 현대적 디자인과 편안한 객실, 멋진 바다 전망으로 완벽한 숙박을 제공합니다. *Oz Hotel Luxury*에서는 모던하고 럭셔리한 분위기뿐만 아니라 편리한 위치와 다양한 편의시설로 편안한 여행을 보장합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 뛰어난 서비스와 멋진 바다 전망을 자랑합니다. *Hyatt Regency Cartagena*는 가족과 커플 모두에게 추천하는 완벽한 휴양지로, 현대적인 시설과 편리함이 돋보입니다. 마지막으로, *Hilton Cartagena Hotel*은 카르타헤나 해변에서 최고의 휴식을 제공합니다. 이 모든 호텔들은 각각의 매력을 가지고 있어 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 지금 바로 예약하세요!
+
+e:T2798,
+    
+
+
+## 낭만적인 커플 여행을 위한 카르타헤나 호텔 추천
+
+안녕하세요. 달마야 여행가자의 달마입니다. 사랑스러운 커플 여러분, 혹시 낭만적인 휴가를 계획하고 계신가요? 여러분을 위한 **완벽한 로맨틱 휴가지**, 콜롬비아 카르타헤나를 소개합니다! 그곳에서 특별한 추억을 쌓을 수 있는 5곳의 멋진 호텔들을 추천드릴게요. 현대적인 시설부터 고풍스러운 분위기까지, 모든 스타일의 커플들이 만족할 만한 호텔들이 기다리고 있어요. 자, 커플 여행을 더욱 특별하게 만들어줄 카르타헤나의 최고의 호텔들을 함께 살펴보아요!
+
+
+## 카르타헤나의 고급 낙원
+Oz Hotel Cartagena
+    ![Oz Hotel Cartagena_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821584.jpg?k=bebc81c0a04985578f67f1ba4a308eeef6b4651e8658c64dabb1147a837e8a31&s=450x450)
+![Oz Hotel Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/29137212.jpg?k=68dd257f833f11b697d17e21c369742112bb6d84952e8f03b9eb5adc084e1b31&s=50x50)
+![Oz Hotel Cartagena_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821575.jpg?k=4983d982d180ef0b13b5a309e7c1e1ccbb1f1af948cdaaefdfa3b9b8583581c2&s=50x50)
+
+카르타헤나의 매력적인 거리와 해변가에 위치한 이 호텔은 마치 작은 낙원 같아요. 모던한 인테리어와 편안한 객실은 방문객들에게 최고의 휴식을 선사해줘요. 특히 객실에서 바라보는 바다 전망은 말로 표현할 수 없을 정도로 멋있답니다. 아침마다 제공되는 조식은 신선하고 다양한 메뉴로 구성되어 있어 숙박의 즐거움을 더해줘요. 여기서 아침을 시작하면 하루가 활기차게 시작될 거예요.
+
+호텔 내에 있는 수영장은 여행의 피로를 풀어주기에 충분해요. 따뜻한 햇살 아래에서 수영을 즐기고 나면 진정한 휴식을 느낄 수 있을 거예요. 또한 인근에 위치한 다양한 관광 명소들도 도보로 쉽게 접근 가능해 여행의 편리함을 더해줘요. 친절한 직원들은 언제나 웃으며 맞이해주고, 필요한 모든 것을 신속하게 해결해준답니다. 카르타헤나에서의 완벽한 휴식과 모험을 동시에 누리고 싶다면 이 호텔이 딱이에요.
+
+[Oz Hotel Cartagena](https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html)
+ 
+
+## 럭셔리한 카르타헤나 여행의 완성
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/278575787.jpg?k=e484b4e2de827b1dca6486b03dde8378aeb773f97b48569b4564b003b44d1ecd&s=50x50)
+
+카르타헤나의 중심지에 위치한 이 호텔은 모든 여행자의 꿈을 실현시킬 수 있는 곳이에요. 호텔 내부는 화려하고 세련된 디자인으로 꾸며져 있어, 첫 발을 디디는 순간부터 럭셔리한 분위기가 물씬 느껴져요. 특히, 이곳의 객실은 모던하면서도 안락한 침대와 넓은 창문을 통해 바라보는 멋진 전망 덕분에 여행의 피로를 한순간에 날려줍니다. 매일 아침 제공되는 다양한 조식 옵션은 신선한 재료로 구성되어 있어 맛과 건강을 동시에 챙길 수 있어요. 또한, 주변에 다양한 명소들이 가까이 있어 이동도 편리해요. 숙소를 선택할 때 주변 환경도 중요한데, 이 호텔은 고급 레스토랑, 쇼핑몰, 관광지와 가까워 이동하는 데 시간과 노력을 절약할 수 있답니다. 카르타헤나의 풍부한 역사와 문화를 탐험하는 동안, 이 호텔은 편안한 휴식처가 되어줄 거예요. 객실 서비스는 꼼꼼하고 친절하며, 필요할 때 언제든 도움을 받을 수 있어요. 여유로운 휴식을 원한다면 이곳의 스파와 수영장을 이용해보세요. 정말로 하루의 피로를 말끔히 씻어내고 재충전할 수 있을 거예요. 여행 중에도 집에 있는 것처럼 편안히 쉴 수 있는 곳을 찾는다면 이곳을 추천해요.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 밤
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645696.jpg?k=6e32d3f5f7a0ca957772984ab5c501fea2555af11ff91722f07314ac3df245e9&s=50x50)
+
+카르타헤나의 매력적인 어느 저녁, 바다 옆에서 펼쳐지는 *마법 같은 풍경*을 만끽해보세요. **Estelar Cartagena De Indias Hotel and Centro De Convenciones**는 그 매력을 더욱 끌어올리는 아름다운 곳이에요. 이 호텔은 넓은 수영장과 멋진 해변 전망을 자랑하며, 특히 해질 녘의 칵테일은 말로 표현할 수 없을 정도로 환상적이에요.
+
+호텔의 서비스 역시 뛰어나서 여행객에게 필요한 모든 것을 갖추고 있어요. 친절한 직원들이 미소로 맞아주고, **깔끔한 객실**과 **최상의 편의시설**로 최고의 고객 만족을 제공합니다. 또한, 호텔 내 레스토랑에서는 지역 특산 요리부터 세계 여러 나라의 요리를 맛볼 수 있어 *미식가*들에게도 천국 같은 곳이죠.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 캐리비안 해변의 럭셔리 휴양지
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/6798489/0/cef8962f63669d8be906001e5203f5f5.jpeg)
+
+카르타헤나의 낭만적인 분위기와 현대적인 시설이 잘 어우러진 이곳은 바로 여러분이 찾던 완벽한 휴양지에요. 해변과 바로 연결된 위치 덕분에 첫눈에 반할 만한 바다 전망을 자랑해요. 고급스러운 스파 시설과 넓은 수영장에서 느긋하게 여유를 즐길 수 있어요. 마음껏 바다를 즐기다 보면 시간 가는 줄 모를 거예요.
+
+이 호텔은 가족 여행자나 커플에게 특히 추천드려요. 아이들을 위한 키즈클럽과 다양한 액티비티가 준비되어 있어 가족 모두가 행복한 시간을 보낼 수 있어요. 커플들을 위한 로맨틱한 식사와 바다가 보이는 멋진 전망의 객실에서 사랑스러운 추억을 쌓을 수 있답니다. 또한, 호텔 내 레스토랑에서는 신선한 현지 해산물 요리를 맛볼 수 있어요. 음식과 경치를 한 번에 즐길 수 있는 완벽한 장소에 오신 것을 환영해요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 꿈같은 해변의 휴식
+Hilton Cartagena Hotel
+    ![Hilton Cartagena Hotel_0_image](https://pix8.agoda.net/hotelImages/6084/0/afcb721047b654e3d2d3755255c04bfc.jpg)
+![Hilton Cartagena Hotel_1_image](https://pix8.agoda.net/property/35259117/781054550/3022347f1f7f4057600e1ee48f723f66.jpeg)
+![Hilton Cartagena Hotel_2_image](https://pix8.agoda.net/hotelImages/6084/0/ba24bf19dbbe9e49d31ce3e9116471af.jpg)
+
+카르타헤나의 매력적인 해변에 위치한 이 호텔은 최고의 휴식과 레저를 제공해요. 모든 객실은 바다가 보이는 멋진 전망을 자랑하며, 현대적인 편의시설이 완비되어 있어요. 따뜻한 햇살 아래서 수영이나 해변 산책을 즐기기에 안성맞춤이에요. 특히 호텔의 수영장은 남녀노소 누구나 즐길 수 있는 완벽한 휴식을 선사할 거예요.
+
+호텔 내 레스토랑에서는 현지 요리와 세계 각국의 다양한 메뉴를 맛볼 수 있어요. 매일 아침 조식 뷔페로 신선한 음식을 즐기며 하루를 시작해 보세요. 또한, 스파와 피트니스 센터도 마련되어 있어, 여행 중 피로를 풀어주는 힐링 타임을 가질 수 있답니다. 가족 단위 여행객이나 커플에게 특히 추천하고 싶은 곳이에요.
+
+[Hilton Cartagena Hotel](https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 최고의 휴양을 즐기고 싶다면 다양한 선택지가 있습니다. *Oz Hotel Cartagena*는 현대적 디자인과 편안한 객실, 멋진 바다 전망으로 완벽한 숙박을 제공합니다. *Oz Hotel Luxury*에서는 모던하고 럭셔리한 분위기뿐만 아니라 편리한 위치와 다양한 편의시설로 편안한 여행을 보장합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 뛰어난 서비스와 멋진 바다 전망을 자랑합니다. *Hyatt Regency Cartagena*는 가족과 커플 모두에게 추천하는 완벽한 휴양지로, 현대적인 시설과 편리함이 돋보입니다. 마지막으로, *Hilton Cartagena Hotel*은 카르타헤나 해변에서 최고의 휴식을 제공합니다. 이 모든 호텔들은 각각의 매력을 가지고 있어 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 지금 바로 예약하세요!
+
+f:T2798,
+    
+
+
+## 낭만적인 커플 여행을 위한 카르타헤나 호텔 추천
+
+안녕하세요. 달마야 여행가자의 달마입니다. 사랑스러운 커플 여러분, 혹시 낭만적인 휴가를 계획하고 계신가요? 여러분을 위한 **완벽한 로맨틱 휴가지**, 콜롬비아 카르타헤나를 소개합니다! 그곳에서 특별한 추억을 쌓을 수 있는 5곳의 멋진 호텔들을 추천드릴게요. 현대적인 시설부터 고풍스러운 분위기까지, 모든 스타일의 커플들이 만족할 만한 호텔들이 기다리고 있어요. 자, 커플 여행을 더욱 특별하게 만들어줄 카르타헤나의 최고의 호텔들을 함께 살펴보아요!
+
+
+## 카르타헤나의 고급 낙원
+Oz Hotel Cartagena
+    ![Oz Hotel Cartagena_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821584.jpg?k=bebc81c0a04985578f67f1ba4a308eeef6b4651e8658c64dabb1147a837e8a31&s=450x450)
+![Oz Hotel Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/29137212.jpg?k=68dd257f833f11b697d17e21c369742112bb6d84952e8f03b9eb5adc084e1b31&s=50x50)
+![Oz Hotel Cartagena_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821575.jpg?k=4983d982d180ef0b13b5a309e7c1e1ccbb1f1af948cdaaefdfa3b9b8583581c2&s=50x50)
+
+카르타헤나의 매력적인 거리와 해변가에 위치한 이 호텔은 마치 작은 낙원 같아요. 모던한 인테리어와 편안한 객실은 방문객들에게 최고의 휴식을 선사해줘요. 특히 객실에서 바라보는 바다 전망은 말로 표현할 수 없을 정도로 멋있답니다. 아침마다 제공되는 조식은 신선하고 다양한 메뉴로 구성되어 있어 숙박의 즐거움을 더해줘요. 여기서 아침을 시작하면 하루가 활기차게 시작될 거예요.
+
+호텔 내에 있는 수영장은 여행의 피로를 풀어주기에 충분해요. 따뜻한 햇살 아래에서 수영을 즐기고 나면 진정한 휴식을 느낄 수 있을 거예요. 또한 인근에 위치한 다양한 관광 명소들도 도보로 쉽게 접근 가능해 여행의 편리함을 더해줘요. 친절한 직원들은 언제나 웃으며 맞이해주고, 필요한 모든 것을 신속하게 해결해준답니다. 카르타헤나에서의 완벽한 휴식과 모험을 동시에 누리고 싶다면 이 호텔이 딱이에요.
+
+[Oz Hotel Cartagena](https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html)
+ 
+
+## 럭셔리한 카르타헤나 여행의 완성
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/278575787.jpg?k=e484b4e2de827b1dca6486b03dde8378aeb773f97b48569b4564b003b44d1ecd&s=50x50)
+
+카르타헤나의 중심지에 위치한 이 호텔은 모든 여행자의 꿈을 실현시킬 수 있는 곳이에요. 호텔 내부는 화려하고 세련된 디자인으로 꾸며져 있어, 첫 발을 디디는 순간부터 럭셔리한 분위기가 물씬 느껴져요. 특히, 이곳의 객실은 모던하면서도 안락한 침대와 넓은 창문을 통해 바라보는 멋진 전망 덕분에 여행의 피로를 한순간에 날려줍니다. 매일 아침 제공되는 다양한 조식 옵션은 신선한 재료로 구성되어 있어 맛과 건강을 동시에 챙길 수 있어요. 또한, 주변에 다양한 명소들이 가까이 있어 이동도 편리해요. 숙소를 선택할 때 주변 환경도 중요한데, 이 호텔은 고급 레스토랑, 쇼핑몰, 관광지와 가까워 이동하는 데 시간과 노력을 절약할 수 있답니다. 카르타헤나의 풍부한 역사와 문화를 탐험하는 동안, 이 호텔은 편안한 휴식처가 되어줄 거예요. 객실 서비스는 꼼꼼하고 친절하며, 필요할 때 언제든 도움을 받을 수 있어요. 여유로운 휴식을 원한다면 이곳의 스파와 수영장을 이용해보세요. 정말로 하루의 피로를 말끔히 씻어내고 재충전할 수 있을 거예요. 여행 중에도 집에 있는 것처럼 편안히 쉴 수 있는 곳을 찾는다면 이곳을 추천해요.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 밤
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645696.jpg?k=6e32d3f5f7a0ca957772984ab5c501fea2555af11ff91722f07314ac3df245e9&s=50x50)
+
+카르타헤나의 매력적인 어느 저녁, 바다 옆에서 펼쳐지는 *마법 같은 풍경*을 만끽해보세요. **Estelar Cartagena De Indias Hotel and Centro De Convenciones**는 그 매력을 더욱 끌어올리는 아름다운 곳이에요. 이 호텔은 넓은 수영장과 멋진 해변 전망을 자랑하며, 특히 해질 녘의 칵테일은 말로 표현할 수 없을 정도로 환상적이에요.
+
+호텔의 서비스 역시 뛰어나서 여행객에게 필요한 모든 것을 갖추고 있어요. 친절한 직원들이 미소로 맞아주고, **깔끔한 객실**과 **최상의 편의시설**로 최고의 고객 만족을 제공합니다. 또한, 호텔 내 레스토랑에서는 지역 특산 요리부터 세계 여러 나라의 요리를 맛볼 수 있어 *미식가*들에게도 천국 같은 곳이죠.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 캐리비안 해변의 럭셔리 휴양지
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/6798489/0/cef8962f63669d8be906001e5203f5f5.jpeg)
+
+카르타헤나의 낭만적인 분위기와 현대적인 시설이 잘 어우러진 이곳은 바로 여러분이 찾던 완벽한 휴양지에요. 해변과 바로 연결된 위치 덕분에 첫눈에 반할 만한 바다 전망을 자랑해요. 고급스러운 스파 시설과 넓은 수영장에서 느긋하게 여유를 즐길 수 있어요. 마음껏 바다를 즐기다 보면 시간 가는 줄 모를 거예요.
+
+이 호텔은 가족 여행자나 커플에게 특히 추천드려요. 아이들을 위한 키즈클럽과 다양한 액티비티가 준비되어 있어 가족 모두가 행복한 시간을 보낼 수 있어요. 커플들을 위한 로맨틱한 식사와 바다가 보이는 멋진 전망의 객실에서 사랑스러운 추억을 쌓을 수 있답니다. 또한, 호텔 내 레스토랑에서는 신선한 현지 해산물 요리를 맛볼 수 있어요. 음식과 경치를 한 번에 즐길 수 있는 완벽한 장소에 오신 것을 환영해요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 꿈같은 해변의 휴식
+Hilton Cartagena Hotel
+    ![Hilton Cartagena Hotel_0_image](https://pix8.agoda.net/hotelImages/6084/0/afcb721047b654e3d2d3755255c04bfc.jpg)
+![Hilton Cartagena Hotel_1_image](https://pix8.agoda.net/property/35259117/781054550/3022347f1f7f4057600e1ee48f723f66.jpeg)
+![Hilton Cartagena Hotel_2_image](https://pix8.agoda.net/hotelImages/6084/0/ba24bf19dbbe9e49d31ce3e9116471af.jpg)
+
+카르타헤나의 매력적인 해변에 위치한 이 호텔은 최고의 휴식과 레저를 제공해요. 모든 객실은 바다가 보이는 멋진 전망을 자랑하며, 현대적인 편의시설이 완비되어 있어요. 따뜻한 햇살 아래서 수영이나 해변 산책을 즐기기에 안성맞춤이에요. 특히 호텔의 수영장은 남녀노소 누구나 즐길 수 있는 완벽한 휴식을 선사할 거예요.
+
+호텔 내 레스토랑에서는 현지 요리와 세계 각국의 다양한 메뉴를 맛볼 수 있어요. 매일 아침 조식 뷔페로 신선한 음식을 즐기며 하루를 시작해 보세요. 또한, 스파와 피트니스 센터도 마련되어 있어, 여행 중 피로를 풀어주는 힐링 타임을 가질 수 있답니다. 가족 단위 여행객이나 커플에게 특히 추천하고 싶은 곳이에요.
+
+[Hilton Cartagena Hotel](https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 최고의 휴양을 즐기고 싶다면 다양한 선택지가 있습니다. *Oz Hotel Cartagena*는 현대적 디자인과 편안한 객실, 멋진 바다 전망으로 완벽한 숙박을 제공합니다. *Oz Hotel Luxury*에서는 모던하고 럭셔리한 분위기뿐만 아니라 편리한 위치와 다양한 편의시설로 편안한 여행을 보장합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 뛰어난 서비스와 멋진 바다 전망을 자랑합니다. *Hyatt Regency Cartagena*는 가족과 커플 모두에게 추천하는 완벽한 휴양지로, 현대적인 시설과 편리함이 돋보입니다. 마지막으로, *Hilton Cartagena Hotel*은 카르타헤나 해변에서 최고의 휴식을 제공합니다. 이 모든 호텔들은 각각의 매력을 가지고 있어 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 지금 바로 예약하세요!
+
+10:T2798,
+    
+
+
+## 낭만적인 커플 여행을 위한 카르타헤나 호텔 추천
+
+안녕하세요. 달마야 여행가자의 달마입니다. 사랑스러운 커플 여러분, 혹시 낭만적인 휴가를 계획하고 계신가요? 여러분을 위한 **완벽한 로맨틱 휴가지**, 콜롬비아 카르타헤나를 소개합니다! 그곳에서 특별한 추억을 쌓을 수 있는 5곳의 멋진 호텔들을 추천드릴게요. 현대적인 시설부터 고풍스러운 분위기까지, 모든 스타일의 커플들이 만족할 만한 호텔들이 기다리고 있어요. 자, 커플 여행을 더욱 특별하게 만들어줄 카르타헤나의 최고의 호텔들을 함께 살펴보아요!
+
+
+## 카르타헤나의 고급 낙원
+Oz Hotel Cartagena
+    ![Oz Hotel Cartagena_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821584.jpg?k=bebc81c0a04985578f67f1ba4a308eeef6b4651e8658c64dabb1147a837e8a31&s=450x450)
+![Oz Hotel Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/29137212.jpg?k=68dd257f833f11b697d17e21c369742112bb6d84952e8f03b9eb5adc084e1b31&s=50x50)
+![Oz Hotel Cartagena_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821575.jpg?k=4983d982d180ef0b13b5a309e7c1e1ccbb1f1af948cdaaefdfa3b9b8583581c2&s=50x50)
+
+카르타헤나의 매력적인 거리와 해변가에 위치한 이 호텔은 마치 작은 낙원 같아요. 모던한 인테리어와 편안한 객실은 방문객들에게 최고의 휴식을 선사해줘요. 특히 객실에서 바라보는 바다 전망은 말로 표현할 수 없을 정도로 멋있답니다. 아침마다 제공되는 조식은 신선하고 다양한 메뉴로 구성되어 있어 숙박의 즐거움을 더해줘요. 여기서 아침을 시작하면 하루가 활기차게 시작될 거예요.
+
+호텔 내에 있는 수영장은 여행의 피로를 풀어주기에 충분해요. 따뜻한 햇살 아래에서 수영을 즐기고 나면 진정한 휴식을 느낄 수 있을 거예요. 또한 인근에 위치한 다양한 관광 명소들도 도보로 쉽게 접근 가능해 여행의 편리함을 더해줘요. 친절한 직원들은 언제나 웃으며 맞이해주고, 필요한 모든 것을 신속하게 해결해준답니다. 카르타헤나에서의 완벽한 휴식과 모험을 동시에 누리고 싶다면 이 호텔이 딱이에요.
+
+[Oz Hotel Cartagena](https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html)
+ 
+
+## 럭셔리한 카르타헤나 여행의 완성
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/278575787.jpg?k=e484b4e2de827b1dca6486b03dde8378aeb773f97b48569b4564b003b44d1ecd&s=50x50)
+
+카르타헤나의 중심지에 위치한 이 호텔은 모든 여행자의 꿈을 실현시킬 수 있는 곳이에요. 호텔 내부는 화려하고 세련된 디자인으로 꾸며져 있어, 첫 발을 디디는 순간부터 럭셔리한 분위기가 물씬 느껴져요. 특히, 이곳의 객실은 모던하면서도 안락한 침대와 넓은 창문을 통해 바라보는 멋진 전망 덕분에 여행의 피로를 한순간에 날려줍니다. 매일 아침 제공되는 다양한 조식 옵션은 신선한 재료로 구성되어 있어 맛과 건강을 동시에 챙길 수 있어요. 또한, 주변에 다양한 명소들이 가까이 있어 이동도 편리해요. 숙소를 선택할 때 주변 환경도 중요한데, 이 호텔은 고급 레스토랑, 쇼핑몰, 관광지와 가까워 이동하는 데 시간과 노력을 절약할 수 있답니다. 카르타헤나의 풍부한 역사와 문화를 탐험하는 동안, 이 호텔은 편안한 휴식처가 되어줄 거예요. 객실 서비스는 꼼꼼하고 친절하며, 필요할 때 언제든 도움을 받을 수 있어요. 여유로운 휴식을 원한다면 이곳의 스파와 수영장을 이용해보세요. 정말로 하루의 피로를 말끔히 씻어내고 재충전할 수 있을 거예요. 여행 중에도 집에 있는 것처럼 편안히 쉴 수 있는 곳을 찾는다면 이곳을 추천해요.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 밤
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645696.jpg?k=6e32d3f5f7a0ca957772984ab5c501fea2555af11ff91722f07314ac3df245e9&s=50x50)
+
+카르타헤나의 매력적인 어느 저녁, 바다 옆에서 펼쳐지는 *마법 같은 풍경*을 만끽해보세요. **Estelar Cartagena De Indias Hotel and Centro De Convenciones**는 그 매력을 더욱 끌어올리는 아름다운 곳이에요. 이 호텔은 넓은 수영장과 멋진 해변 전망을 자랑하며, 특히 해질 녘의 칵테일은 말로 표현할 수 없을 정도로 환상적이에요.
+
+호텔의 서비스 역시 뛰어나서 여행객에게 필요한 모든 것을 갖추고 있어요. 친절한 직원들이 미소로 맞아주고, **깔끔한 객실**과 **최상의 편의시설**로 최고의 고객 만족을 제공합니다. 또한, 호텔 내 레스토랑에서는 지역 특산 요리부터 세계 여러 나라의 요리를 맛볼 수 있어 *미식가*들에게도 천국 같은 곳이죠.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 캐리비안 해변의 럭셔리 휴양지
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/6798489/0/cef8962f63669d8be906001e5203f5f5.jpeg)
+
+카르타헤나의 낭만적인 분위기와 현대적인 시설이 잘 어우러진 이곳은 바로 여러분이 찾던 완벽한 휴양지에요. 해변과 바로 연결된 위치 덕분에 첫눈에 반할 만한 바다 전망을 자랑해요. 고급스러운 스파 시설과 넓은 수영장에서 느긋하게 여유를 즐길 수 있어요. 마음껏 바다를 즐기다 보면 시간 가는 줄 모를 거예요.
+
+이 호텔은 가족 여행자나 커플에게 특히 추천드려요. 아이들을 위한 키즈클럽과 다양한 액티비티가 준비되어 있어 가족 모두가 행복한 시간을 보낼 수 있어요. 커플들을 위한 로맨틱한 식사와 바다가 보이는 멋진 전망의 객실에서 사랑스러운 추억을 쌓을 수 있답니다. 또한, 호텔 내 레스토랑에서는 신선한 현지 해산물 요리를 맛볼 수 있어요. 음식과 경치를 한 번에 즐길 수 있는 완벽한 장소에 오신 것을 환영해요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 꿈같은 해변의 휴식
+Hilton Cartagena Hotel
+    ![Hilton Cartagena Hotel_0_image](https://pix8.agoda.net/hotelImages/6084/0/afcb721047b654e3d2d3755255c04bfc.jpg)
+![Hilton Cartagena Hotel_1_image](https://pix8.agoda.net/property/35259117/781054550/3022347f1f7f4057600e1ee48f723f66.jpeg)
+![Hilton Cartagena Hotel_2_image](https://pix8.agoda.net/hotelImages/6084/0/ba24bf19dbbe9e49d31ce3e9116471af.jpg)
+
+카르타헤나의 매력적인 해변에 위치한 이 호텔은 최고의 휴식과 레저를 제공해요. 모든 객실은 바다가 보이는 멋진 전망을 자랑하며, 현대적인 편의시설이 완비되어 있어요. 따뜻한 햇살 아래서 수영이나 해변 산책을 즐기기에 안성맞춤이에요. 특히 호텔의 수영장은 남녀노소 누구나 즐길 수 있는 완벽한 휴식을 선사할 거예요.
+
+호텔 내 레스토랑에서는 현지 요리와 세계 각국의 다양한 메뉴를 맛볼 수 있어요. 매일 아침 조식 뷔페로 신선한 음식을 즐기며 하루를 시작해 보세요. 또한, 스파와 피트니스 센터도 마련되어 있어, 여행 중 피로를 풀어주는 힐링 타임을 가질 수 있답니다. 가족 단위 여행객이나 커플에게 특히 추천하고 싶은 곳이에요.
+
+[Hilton Cartagena Hotel](https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 최고의 휴양을 즐기고 싶다면 다양한 선택지가 있습니다. *Oz Hotel Cartagena*는 현대적 디자인과 편안한 객실, 멋진 바다 전망으로 완벽한 숙박을 제공합니다. *Oz Hotel Luxury*에서는 모던하고 럭셔리한 분위기뿐만 아니라 편리한 위치와 다양한 편의시설로 편안한 여행을 보장합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 뛰어난 서비스와 멋진 바다 전망을 자랑합니다. *Hyatt Regency Cartagena*는 가족과 커플 모두에게 추천하는 완벽한 휴양지로, 현대적인 시설과 편리함이 돋보입니다. 마지막으로, *Hilton Cartagena Hotel*은 카르타헤나 해변에서 최고의 휴식을 제공합니다. 이 모든 호텔들은 각각의 매력을 가지고 있어 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 지금 바로 예약하세요!
+
+11:T2798,
+    
+
+
+## 낭만적인 커플 여행을 위한 카르타헤나 호텔 추천
+
+안녕하세요. 달마야 여행가자의 달마입니다. 사랑스러운 커플 여러분, 혹시 낭만적인 휴가를 계획하고 계신가요? 여러분을 위한 **완벽한 로맨틱 휴가지**, 콜롬비아 카르타헤나를 소개합니다! 그곳에서 특별한 추억을 쌓을 수 있는 5곳의 멋진 호텔들을 추천드릴게요. 현대적인 시설부터 고풍스러운 분위기까지, 모든 스타일의 커플들이 만족할 만한 호텔들이 기다리고 있어요. 자, 커플 여행을 더욱 특별하게 만들어줄 카르타헤나의 최고의 호텔들을 함께 살펴보아요!
+
+
+## 카르타헤나의 고급 낙원
+Oz Hotel Cartagena
+    ![Oz Hotel Cartagena_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821584.jpg?k=bebc81c0a04985578f67f1ba4a308eeef6b4651e8658c64dabb1147a837e8a31&s=450x450)
+![Oz Hotel Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/29137212.jpg?k=68dd257f833f11b697d17e21c369742112bb6d84952e8f03b9eb5adc084e1b31&s=50x50)
+![Oz Hotel Cartagena_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/538821575.jpg?k=4983d982d180ef0b13b5a309e7c1e1ccbb1f1af948cdaaefdfa3b9b8583581c2&s=50x50)
+
+카르타헤나의 매력적인 거리와 해변가에 위치한 이 호텔은 마치 작은 낙원 같아요. 모던한 인테리어와 편안한 객실은 방문객들에게 최고의 휴식을 선사해줘요. 특히 객실에서 바라보는 바다 전망은 말로 표현할 수 없을 정도로 멋있답니다. 아침마다 제공되는 조식은 신선하고 다양한 메뉴로 구성되어 있어 숙박의 즐거움을 더해줘요. 여기서 아침을 시작하면 하루가 활기차게 시작될 거예요.
+
+호텔 내에 있는 수영장은 여행의 피로를 풀어주기에 충분해요. 따뜻한 햇살 아래에서 수영을 즐기고 나면 진정한 휴식을 느낄 수 있을 거예요. 또한 인근에 위치한 다양한 관광 명소들도 도보로 쉽게 접근 가능해 여행의 편리함을 더해줘요. 친절한 직원들은 언제나 웃으며 맞이해주고, 필요한 모든 것을 신속하게 해결해준답니다. 카르타헤나에서의 완벽한 휴식과 모험을 동시에 누리고 싶다면 이 호텔이 딱이에요.
+
+[Oz Hotel Cartagena](https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html)
+ 
+
+## 럭셔리한 카르타헤나 여행의 완성
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/278575787.jpg?k=e484b4e2de827b1dca6486b03dde8378aeb773f97b48569b4564b003b44d1ecd&s=50x50)
+
+카르타헤나의 중심지에 위치한 이 호텔은 모든 여행자의 꿈을 실현시킬 수 있는 곳이에요. 호텔 내부는 화려하고 세련된 디자인으로 꾸며져 있어, 첫 발을 디디는 순간부터 럭셔리한 분위기가 물씬 느껴져요. 특히, 이곳의 객실은 모던하면서도 안락한 침대와 넓은 창문을 통해 바라보는 멋진 전망 덕분에 여행의 피로를 한순간에 날려줍니다. 매일 아침 제공되는 다양한 조식 옵션은 신선한 재료로 구성되어 있어 맛과 건강을 동시에 챙길 수 있어요. 또한, 주변에 다양한 명소들이 가까이 있어 이동도 편리해요. 숙소를 선택할 때 주변 환경도 중요한데, 이 호텔은 고급 레스토랑, 쇼핑몰, 관광지와 가까워 이동하는 데 시간과 노력을 절약할 수 있답니다. 카르타헤나의 풍부한 역사와 문화를 탐험하는 동안, 이 호텔은 편안한 휴식처가 되어줄 거예요. 객실 서비스는 꼼꼼하고 친절하며, 필요할 때 언제든 도움을 받을 수 있어요. 여유로운 휴식을 원한다면 이곳의 스파와 수영장을 이용해보세요. 정말로 하루의 피로를 말끔히 씻어내고 재충전할 수 있을 거예요. 여행 중에도 집에 있는 것처럼 편안히 쉴 수 있는 곳을 찾는다면 이곳을 추천해요.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 밤
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645696.jpg?k=6e32d3f5f7a0ca957772984ab5c501fea2555af11ff91722f07314ac3df245e9&s=50x50)
+
+카르타헤나의 매력적인 어느 저녁, 바다 옆에서 펼쳐지는 *마법 같은 풍경*을 만끽해보세요. **Estelar Cartagena De Indias Hotel and Centro De Convenciones**는 그 매력을 더욱 끌어올리는 아름다운 곳이에요. 이 호텔은 넓은 수영장과 멋진 해변 전망을 자랑하며, 특히 해질 녘의 칵테일은 말로 표현할 수 없을 정도로 환상적이에요.
+
+호텔의 서비스 역시 뛰어나서 여행객에게 필요한 모든 것을 갖추고 있어요. 친절한 직원들이 미소로 맞아주고, **깔끔한 객실**과 **최상의 편의시설**로 최고의 고객 만족을 제공합니다. 또한, 호텔 내 레스토랑에서는 지역 특산 요리부터 세계 여러 나라의 요리를 맛볼 수 있어 *미식가*들에게도 천국 같은 곳이죠.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 캐리비안 해변의 럭셔리 휴양지
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/6798489/0/cef8962f63669d8be906001e5203f5f5.jpeg)
+
+카르타헤나의 낭만적인 분위기와 현대적인 시설이 잘 어우러진 이곳은 바로 여러분이 찾던 완벽한 휴양지에요. 해변과 바로 연결된 위치 덕분에 첫눈에 반할 만한 바다 전망을 자랑해요. 고급스러운 스파 시설과 넓은 수영장에서 느긋하게 여유를 즐길 수 있어요. 마음껏 바다를 즐기다 보면 시간 가는 줄 모를 거예요.
+
+이 호텔은 가족 여행자나 커플에게 특히 추천드려요. 아이들을 위한 키즈클럽과 다양한 액티비티가 준비되어 있어 가족 모두가 행복한 시간을 보낼 수 있어요. 커플들을 위한 로맨틱한 식사와 바다가 보이는 멋진 전망의 객실에서 사랑스러운 추억을 쌓을 수 있답니다. 또한, 호텔 내 레스토랑에서는 신선한 현지 해산물 요리를 맛볼 수 있어요. 음식과 경치를 한 번에 즐길 수 있는 완벽한 장소에 오신 것을 환영해요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 꿈같은 해변의 휴식
+Hilton Cartagena Hotel
+    ![Hilton Cartagena Hotel_0_image](https://pix8.agoda.net/hotelImages/6084/0/afcb721047b654e3d2d3755255c04bfc.jpg)
+![Hilton Cartagena Hotel_1_image](https://pix8.agoda.net/property/35259117/781054550/3022347f1f7f4057600e1ee48f723f66.jpeg)
+![Hilton Cartagena Hotel_2_image](https://pix8.agoda.net/hotelImages/6084/0/ba24bf19dbbe9e49d31ce3e9116471af.jpg)
+
+카르타헤나의 매력적인 해변에 위치한 이 호텔은 최고의 휴식과 레저를 제공해요. 모든 객실은 바다가 보이는 멋진 전망을 자랑하며, 현대적인 편의시설이 완비되어 있어요. 따뜻한 햇살 아래서 수영이나 해변 산책을 즐기기에 안성맞춤이에요. 특히 호텔의 수영장은 남녀노소 누구나 즐길 수 있는 완벽한 휴식을 선사할 거예요.
+
+호텔 내 레스토랑에서는 현지 요리와 세계 각국의 다양한 메뉴를 맛볼 수 있어요. 매일 아침 조식 뷔페로 신선한 음식을 즐기며 하루를 시작해 보세요. 또한, 스파와 피트니스 센터도 마련되어 있어, 여행 중 피로를 풀어주는 힐링 타임을 가질 수 있답니다. 가족 단위 여행객이나 커플에게 특히 추천하고 싶은 곳이에요.
+
+[Hilton Cartagena Hotel](https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 최고의 휴양을 즐기고 싶다면 다양한 선택지가 있습니다. *Oz Hotel Cartagena*는 현대적 디자인과 편안한 객실, 멋진 바다 전망으로 완벽한 숙박을 제공합니다. *Oz Hotel Luxury*에서는 모던하고 럭셔리한 분위기뿐만 아니라 편리한 위치와 다양한 편의시설로 편안한 여행을 보장합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 뛰어난 서비스와 멋진 바다 전망을 자랑합니다. *Hyatt Regency Cartagena*는 가족과 커플 모두에게 추천하는 완벽한 휴양지로, 현대적인 시설과 편리함이 돋보입니다. 마지막으로, *Hilton Cartagena Hotel*은 카르타헤나 해변에서 최고의 휴식을 제공합니다. 이 모든 호텔들은 각각의 매력을 가지고 있어 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 지금 바로 예약하세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳"}],["$","data",null,{"children":"2024-08-06T08:12:03.032Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"남미"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"카르타헤나"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"모험"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"즐거움"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"모던"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"위치"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"관광"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"바다"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"전망"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"레스토랑"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"커플"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"키즈클럽"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"현대적"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"0368f7f5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"낭만적인 커플 여행을 위한 카르타헤나 호텔 추천"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 사랑스러운 커플 여러분, 혹시 낭만적인 휴가를 계획하고 계신가요? 여러분을 위한 ",["$","strong",null,{"className":"font-black","children":"완벽한 로맨틱 휴가지"}],", 콜롬비아 카르타헤나를 소개합니다! 그곳에서 특별한 추억을 쌓을 수 있는 5곳의 멋진 호텔들을 추천드릴게요. 현대적인 시설부터 고풍스러운 분위기까지, 모든 스타일의 커플들이 만족할 만한 호텔들이 기다리고 있어요. 자, 커플 여행을 더욱 특별하게 만들어줄 카르타헤나의 최고의 호텔들을 함께 살펴보아요!"]}],"\n",["$","h2",null,{"id":"2e60a261","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나의 고급 낙원"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Oz Hotel Cartagena\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/538821584.jpg?k=bebc81c0a04985578f67f1ba4a308eeef6b4651e8658c64dabb1147a837e8a31&s=450x450","alt":"Oz Hotel Cartagena_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/29137212.jpg?k=68dd257f833f11b697d17e21c369742112bb6d84952e8f03b9eb5adc084e1b31&s=50x50","alt":"Oz Hotel Cartagena_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/538821575.jpg?k=4983d982d180ef0b13b5a309e7c1e1ccbb1f1af948cdaaefdfa3b9b8583581c2&s=50x50","alt":"Oz Hotel Cartagena_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"카르타헤나의 매력적인 거리와 해변가에 위치한 이 호텔은 마치 작은 낙원 같아요. 모던한 인테리어와 편안한 객실은 방문객들에게 최고의 휴식을 선사해줘요. 특히 객실에서 바라보는 바다 전망은 말로 표현할 수 없을 정도로 멋있답니다. 아침마다 제공되는 조식은 신선하고 다양한 메뉴로 구성되어 있어 숙박의 즐거움을 더해줘요. 여기서 아침을 시작하면 하루가 활기차게 시작될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔 내에 있는 수영장은 여행의 피로를 풀어주기에 충분해요. 따뜻한 햇살 아래에서 수영을 즐기고 나면 진정한 휴식을 느낄 수 있을 거예요. 또한 인근에 위치한 다양한 관광 명소들도 도보로 쉽게 접근 가능해 여행의 편리함을 더해줘요. 친절한 직원들은 언제나 웃으며 맞이해주고, 필요한 모든 것을 신속하게 해결해준답니다. 카르타헤나에서의 완벽한 휴식과 모험을 동시에 누리고 싶다면 이 호텔이 딱이에요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/oz-hotel-cartagena/hotel/all/cartagena-co.html"},"children":[{"type":"text","value":"Oz Hotel Cartagena","position":{"start":{"line":20,"column":2,"offset":1283},"end":{"line":20,"column":20,"offset":1301}}}],"position":{"start":{"line":20,"column":1,"offset":1282},"end":{"line":20,"column":91,"offset":1372}}},"children":"Oz Hotel Cartagena"},"post":{"id":"544c60f0-afd1-4eda-a213-f9cd49df7b51","title":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳","fileName":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","description":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요.","date":"2024-08-06T08:12:03.032Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"즐거움","path":"$$/kr/tags/즐거움","id":"즐거움"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"키즈클럽","path":"$$/kr/tags/키즈클럽","id":"키즈클럽"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","content":"$d","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"c661a930","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"럭셔리한 카르타헤나 여행의 완성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Oz Hotel Luxury\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450","alt":"Oz Hotel Luxury_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50","alt":"Oz Hotel Luxury_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/278575787.jpg?k=e484b4e2de827b1dca6486b03dde8378aeb773f97b48569b4564b003b44d1ecd&s=50x50","alt":"Oz Hotel Luxury_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"카르타헤나의 중심지에 위치한 이 호텔은 모든 여행자의 꿈을 실현시킬 수 있는 곳이에요. 호텔 내부는 화려하고 세련된 디자인으로 꾸며져 있어, 첫 발을 디디는 순간부터 럭셔리한 분위기가 물씬 느껴져요. 특히, 이곳의 객실은 모던하면서도 안락한 침대와 넓은 창문을 통해 바라보는 멋진 전망 덕분에 여행의 피로를 한순간에 날려줍니다. 매일 아침 제공되는 다양한 조식 옵션은 신선한 재료로 구성되어 있어 맛과 건강을 동시에 챙길 수 있어요. 또한, 주변에 다양한 명소들이 가까이 있어 이동도 편리해요. 숙소를 선택할 때 주변 환경도 중요한데, 이 호텔은 고급 레스토랑, 쇼핑몰, 관광지와 가까워 이동하는 데 시간과 노력을 절약할 수 있답니다. 카르타헤나의 풍부한 역사와 문화를 탐험하는 동안, 이 호텔은 편안한 휴식처가 되어줄 거예요. 객실 서비스는 꼼꼼하고 친절하며, 필요할 때 언제든 도움을 받을 수 있어요. 여유로운 휴식을 원한다면 이곳의 스파와 수영장을 이용해보세요. 정말로 하루의 피로를 말끔히 씻어내고 재충전할 수 있을 거예요. 여행 중에도 집에 있는 것처럼 편안히 쉴 수 있는 곳을 찾는다면 이곳을 추천해요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html"},"children":[{"type":"text","value":"Oz Hotel Luxury","position":{"start":{"line":31,"column":2,"offset":2494},"end":{"line":31,"column":17,"offset":2509}}}],"position":{"start":{"line":31,"column":1,"offset":2493},"end":{"line":31,"column":85,"offset":2577}}},"children":"Oz Hotel Luxury"},"post":{"id":"544c60f0-afd1-4eda-a213-f9cd49df7b51","title":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳","fileName":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","description":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요.","date":"2024-08-06T08:12:03.032Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"즐거움","path":"$$/kr/tags/즐거움","id":"즐거움"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"키즈클럽","path":"$$/kr/tags/키즈클럽","id":"키즈클럽"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","content":"$e","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"0b1220b2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나에서의 황홀한 밤"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Estelar Cartagena de Indias Hotel y Centro de Convenciones\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450","alt":"Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50","alt":"Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/487645696.jpg?k=6e32d3f5f7a0ca957772984ab5c501fea2555af11ff91722f07314ac3df245e9&s=50x50","alt":"Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카르타헤나의 매력적인 어느 저녁, 바다 옆에서 펼쳐지는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"마법 같은 풍경"}],"을 만끽해보세요. ",["$","strong",null,{"className":"font-black","children":"Estelar Cartagena De Indias Hotel and Centro De Convenciones"}],"는 그 매력을 더욱 끌어올리는 아름다운 곳이에요. 이 호텔은 넓은 수영장과 멋진 해변 전망을 자랑하며, 특히 해질 녘의 칵테일은 말로 표현할 수 없을 정도로 환상적이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["호텔의 서비스 역시 뛰어나서 여행객에게 필요한 모든 것을 갖추고 있어요. 친절한 직원들이 미소로 맞아주고, ",["$","strong",null,{"className":"font-black","children":"깔끔한 객실"}],"과 ",["$","strong",null,{"className":"font-black","children":"최상의 편의시설"}],"로 최고의 고객 만족을 제공합니다. 또한, 호텔 내 레스토랑에서는 지역 특산 요리부터 세계 여러 나라의 요리를 맛볼 수 있어 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"미식가"}],"들에게도 천국 같은 곳이죠."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html"},"children":[{"type":"text","value":"Estelar Cartagena de Indias Hotel y Centro de Convenciones","position":{"start":{"line":44,"column":2,"offset":3687},"end":{"line":44,"column":60,"offset":3745}}}],"position":{"start":{"line":44,"column":1,"offset":3686},"end":{"line":44,"column":171,"offset":3856}}},"children":"Estelar Cartagena de Indias Hotel y Centro de Convenciones"},"post":{"id":"544c60f0-afd1-4eda-a213-f9cd49df7b51","title":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳","fileName":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","description":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요.","date":"2024-08-06T08:12:03.032Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"즐거움","path":"$$/kr/tags/즐거움","id":"즐거움"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"키즈클럽","path":"$$/kr/tags/키즈클럽","id":"키즈클럽"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","content":"$f","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"dbdbe566","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"캐리비안 해변의 럭셔리 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hyatt Regency Cartagena\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg","alt":"Hyatt Regency Cartagena_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50","alt":"Hyatt Regency Cartagena_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6798489/0/cef8962f63669d8be906001e5203f5f5.jpeg","alt":"Hyatt Regency Cartagena_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"카르타헤나의 낭만적인 분위기와 현대적인 시설이 잘 어우러진 이곳은 바로 여러분이 찾던 완벽한 휴양지에요. 해변과 바로 연결된 위치 덕분에 첫눈에 반할 만한 바다 전망을 자랑해요. 고급스러운 스파 시설과 넓은 수영장에서 느긋하게 여유를 즐길 수 있어요. 마음껏 바다를 즐기다 보면 시간 가는 줄 모를 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 호텔은 가족 여행자나 커플에게 특히 추천드려요. 아이들을 위한 키즈클럽과 다양한 액티비티가 준비되어 있어 가족 모두가 행복한 시간을 보낼 수 있어요. 커플들을 위한 로맨틱한 식사와 바다가 보이는 멋진 전망의 객실에서 사랑스러운 추억을 쌓을 수 있답니다. 또한, 호텔 내 레스토랑에서는 신선한 현지 해산물 요리를 맛볼 수 있어요. 음식과 경치를 한 번에 즐길 수 있는 완벽한 장소에 오신 것을 환영해요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html"},"children":[{"type":"text","value":"Hyatt Regency Cartagena","position":{"start":{"line":57,"column":2,"offset":4725},"end":{"line":57,"column":25,"offset":4748}}}],"position":{"start":{"line":57,"column":1,"offset":4724},"end":{"line":57,"column":99,"offset":4822}}},"children":"Hyatt Regency Cartagena"},"post":{"id":"544c60f0-afd1-4eda-a213-f9cd49df7b51","title":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳","fileName":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","description":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요.","date":"2024-08-06T08:12:03.032Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"즐거움","path":"$$/kr/tags/즐거움","id":"즐거움"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"키즈클럽","path":"$$/kr/tags/키즈클럽","id":"키즈클럽"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","content":"$10","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"12ee3ec3","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"꿈같은 해변의 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hilton Cartagena Hotel\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6084/0/afcb721047b654e3d2d3755255c04bfc.jpg","alt":"Hilton Cartagena Hotel_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/35259117/781054550/3022347f1f7f4057600e1ee48f723f66.jpeg","alt":"Hilton Cartagena Hotel_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6084/0/ba24bf19dbbe9e49d31ce3e9116471af.jpg","alt":"Hilton Cartagena Hotel_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"카르타헤나의 매력적인 해변에 위치한 이 호텔은 최고의 휴식과 레저를 제공해요. 모든 객실은 바다가 보이는 멋진 전망을 자랑하며, 현대적인 편의시설이 완비되어 있어요. 따뜻한 햇살 아래서 수영이나 해변 산책을 즐기기에 안성맞춤이에요. 특히 호텔의 수영장은 남녀노소 누구나 즐길 수 있는 완벽한 휴식을 선사할 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔 내 레스토랑에서는 현지 요리와 세계 각국의 다양한 메뉴를 맛볼 수 있어요. 매일 아침 조식 뷔페로 신선한 음식을 즐기며 하루를 시작해 보세요. 또한, 스파와 피트니스 센터도 마련되어 있어, 여행 중 피로를 풀어주는 힐링 타임을 가질 수 있답니다. 가족 단위 여행객이나 커플에게 특히 추천하고 싶은 곳이에요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/hilton-cartagena-hotel/hotel/cartagena-co.html"},"children":[{"type":"text","value":"Hilton Cartagena Hotel","position":{"start":{"line":70,"column":2,"offset":5574},"end":{"line":70,"column":24,"offset":5596}}}],"position":{"start":{"line":70,"column":1,"offset":5573},"end":{"line":70,"column":95,"offset":5667}}},"children":"Hilton Cartagena Hotel"},"post":{"id":"544c60f0-afd1-4eda-a213-f9cd49df7b51","title":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳","fileName":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","description":"카르타헤나는 로맨틱한 분위기와 아름다운 해변으로 많은 이들이 찾는 여행지입니다. 이번에 소개할 카르타헤나의 호텔 5곳은 오즈 호텔 카르타헤나, 오즈 호텔 럭셔리, 에스텔라르 카르타헤나 데 인디아스 호텔, 하얏트 리젠시 카르타헤나, 그리고 힐튼 카르타헤나 호텔입니다. 이 호텔들은 위치와 서비스, 그리고 로맨틱한 분위기로 커플 여행에 완벽한 선택입니다. 특히, 하얏트 리젠시는 바다 전망의 객실로 유명하고, 힐튼 카르타헤나는 프라이빗 비치와 다양한 시설을 갖추고 있어 많은 이들이 찾고 있습니다. 마음에 드는 호텔에서 사랑하는 사람과 특별한 추억을 만들어보세요.","date":"2024-08-06T08:12:03.032Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"즐거움","path":"$$/kr/tags/즐거움","id":"즐거움"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"키즈클럽","path":"$$/kr/tags/키즈클럽","id":"키즈클럽"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"커플-여행-추천-낭만적인-카르타헤나-호텔-5곳-544c60f0","content":"$11","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카르타헤나에서 최고의 휴양을 즐기고 싶다면 다양한 선택지가 있습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Oz Hotel Cartagena"}],"는 현대적 디자인과 편안한 객실, 멋진 바다 전망으로 완벽한 숙박을 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Oz Hotel Luxury"}],"에서는 모던하고 럭셔리한 분위기뿐만 아니라 편리한 위치와 다양한 편의시설로 편안한 여행을 보장합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Estelar Cartagena de Indias Hotel y Centro de Convenciones"}],"는 뛰어난 서비스와 멋진 바다 전망을 자랑합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Hyatt Regency Cartagena"}],"는 가족과 커플 모두에게 추천하는 완벽한 휴양지로, 현대적인 시설과 편리함이 돋보입니다. 마지막으로, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Hilton Cartagena Hotel"}],"은 카르타헤나 해변에서 최고의 휴식을 제공합니다. 이 모든 호텔들은 각각의 매력을 가지고 있어 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 지금 바로 예약하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"커플 여행 추천, 낭만적인 카르타헤나 호텔 5곳","toc":[{"tagName":"h2","title":"낭만적인 커플 여행을 위한 카르타헤나 호텔 추천","id":"0368f7f5"},{"tagName":"h2","title":"카르타헤나의 고급 낙원","id":"2e60a261"},{"tagName":"h2","title":"럭셔리한 카르타헤나 여행의 완성","id":"c661a930"},{"tagName":"h2","title":"카르타헤나에서의 황홀한 밤","id":"0b1220b2"},{"tagName":"h2","title":"캐리비안 해변의 럭셔리 휴양지","id":"dbdbe566"},{"tagName":"h2","title":"꿈같은 해변의 휴식","id":"12ee3ec3"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

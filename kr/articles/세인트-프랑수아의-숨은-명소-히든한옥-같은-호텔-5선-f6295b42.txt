@@ -1,0 +1,399 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%84%B8%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%EC%88%A8%EC%9D%80-%EB%AA%85%EC%86%8C-%ED%9E%88%EB%93%A0%ED%95%9C%EC%98%A5-%EA%B0%99%EC%9D%80-%ED%98%B8%ED%85%94-5%EC%84%A0-f6295b42","d"],{"children":["__PAGE__?{\"slug\":\"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%84%B8%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%EC%88%A8%EC%9D%80-%EB%AA%85%EC%86%8C-%ED%9E%88%EB%93%A0%ED%95%9C%EC%98%A5-%EA%B0%99%EC%9D%80-%ED%98%B8%ED%85%94-5%EC%84%A0-f6295b42","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42\"}"},"styles":[]}],"segment":["slug","%EC%84%B8%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%EC%88%A8%EC%9D%80-%EB%AA%85%EC%86%8C-%ED%9E%88%EB%93%A0%ED%95%9C%EC%98%A5-%EA%B0%99%EC%9D%80-%ED%98%B8%ED%85%94-5%EC%84%A0-f6295b42","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다."}],["$","meta","3",{"name":"keywords","content":"중미 및 카리브해,휴식처,깨끗한 객실,친절한 스태프,수영장,관광지 접근성,레스토랑,해변 가까움,낭만적,해변,친절,아늑함,자연,휴식,가족,편의시설,카리브해,친절한 서비스,가족 여행,현대적인 시설,바다,럭셔리,스포츠"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%84%B8%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%EC%88%A8%EC%9D%80-%EB%AA%85%EC%86%8C-%ED%9E%88%EB%93%A0%ED%95%9C%EC%98%A5-%EA%B0%99%EC%9D%80-%ED%98%B8%ED%85%94-5%EC%84%A0-f6295b42"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%84%B8%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%EC%88%A8%EC%9D%80-%EB%AA%85%EC%86%8C-%ED%9E%88%EB%93%A0%ED%95%9C%EC%98%A5-%EA%B0%99%EC%9D%80-%ED%98%B8%ED%85%94-5%EC%84%A0-f6295b42"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/103148-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/103148-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2812,
+    
+
+
+## 세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 세인트 프랑수아에 대한 여행 계획을 세우고 있지만 어디에서 묵을지 망설이시나요? 이번에는 세인트 프랑수아에서 마치 히든한옥처럼 숨겨진 보석 같은 호텔 5곳을 소개해드리려고 해요. 깔끔한 디자인과 고풍스러운 감성을 동시에 경험할 수 있는 이 호텔들은 마치 시간을 거슬러 올라가 한적한 시골집에서 여유로운 시간을 보내는 느낌이 들게 할 거예요. **여행의 질**을 높여줄 호텔을 찾으신다면, 이어지는 정보에 주목해 주세요. 이곳에서 머물며 프랑스의 세련된 매력을 만끽해보세요!
+
+
+## 천국 같은 휴식처
+Hotel Guadeloupe Palm Suites
+    ![Hotel Guadeloupe Palm Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hotel Guadeloupe Palm Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846837.jpg?k=c0db918c4872189ce0fb746188a77e0709545b038ce4679303e92a780820d0c9&s=50x50)
+![Hotel Guadeloupe Palm Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405840495.jpg?k=ca7e809417586effacb3e1d0206d83fba176f29c79daf080c8d4fdaa7aa25f21&s=50x50)
+
+바다를 바라보며 여유롭게 휴가를 보내고 싶으신가요? 세인트 프랑수아의 팜 스위트 호텔은 그야말로 천국 같은 곳이에요. **아름다운 정원**과 **청결한 객실**, 그리고 친절한 스태프들이 기다리고 있어요. 특히 그곳의 *수영장*은 하루 종일 수영하고 싶어질 정도로 매력적이에요. **완벽한 시설**과 **최고의 서비스**는 여러분의 휴가를 더 특별하게 만들어 줄 거예요.
+
+또한, 팜 스위트는 *현지의 매력적인 마을*과 가까워 탐방하기에도 좋아요. 다양한 **레스토랑**과 **해변 접근성**을 갖춘 이 호텔은 진정한 휴식과 즐거움을 동시에 제공합니다. 주변 관광지들도 가깝고 교통이 편리해요. 여행의 즐거움을 느끼고 싶다면 이곳을 선택하시길 강력히 추천드려요!
+
+[Hotel Guadeloupe Palm Suites](https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 열대의 세레나데, 낭만적인 숙소
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 아름다운 해변을 품고 있는 숙소에서, 당신은 꿈같은 휴식을 즐길 수 있어요. 이곳의 객실은 해변을 마주하고 있어, 매일 아침 일출을 감상하며 시작할 수 있는 기회를 제공합니다. 또한, 깨끗하고 아늑한 침대는 하루의 피로를 단번에 풀어줍니다. 수영장에서의 여유로운 시간도 놓치지 마세요. 푸른 바다를 배경으로 시원한 수영을 즐기며 완벽한 휴가를 만끽할 수 있어요. 그리고 무엇보다도 친절한 직원들이 마치 가족처럼 따뜻하게 맞아준답니다.
+
+이곳에서는 연인과 함께라면 로맨틱한 시간을 보내기 딱 좋아요. 호텔의 분위기는 마치 한 편의 영화처럼 낭만적이고 우아합니다. 게다가 주변에는 맛있는 현지 음식을 맛볼 수 있는 레스토랑들도 많아요. 아침식사로 제공되는 신선한 과일과 베이커리 만큼 이곳의 매력을 더하는 요소가 또 있을까요? 여유롭게 해변을 산책하며 자연의 소리를 듣고, 밤에는 별이 가득한 하늘 아래서 사랑하는 사람과 함께하세요. 정말 잊을 수 없는 추억이 될 거예요.
+
+[Hotel Amaudo](https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+## 캐리비안의 낭만적인 안식처
+Hôtel La Christophine
+    ![Hôtel La Christophine_0_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802801.jpg)
+![Hôtel La Christophine_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/250889303.jpg?k=b4a7b7426354aa4d4f882b3623ef13f3f98b9467a1fc309d3e50698ff1bb3575&s=50x50)
+![Hôtel La Christophine_2_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802803.jpg)
+
+프랑스령 기아나의 매력적인 도시 생프랑수아에 자리한 이 호텔은 진정한 캐리비안의 낭만을 경험할 수 있는 완벽한 장소예요. 호텔 라 크리스토핀에서 바라보는 아름다운 바다 전망은 그야말로 압권이고, 주변의 자연 경관과 어우러진 조경은 이곳의 평화로움을 더해줘요. 각 객실은 세심하게 꾸며져 있으며, 넓고 편안한 공간은 여행자의 피로를 말끔히 씻어줄 거예요. 호텔 스태프들은 친절하고 상냥해서 언제나 따뜻한 환영을 받을 수 있어요. 
+
+호텔 라 크리스토핀은 다양한 편의시설과 활동을 제공해요. 아름다운 수영장에서 시원한 물놀이를 즐기거나, 고요한 해변에서 느긋하게 일광욕을 즐길 수 있어요. 인근에 위치한 골프 코스에서 여유로운 라운딩을 즐기거나, 맛있는 현지 음식을 맛보는 것도 추천해요. 어린이 동반 여행자들도 충분히 만족할 만한 프로그램도 준비되어 있답니다. 여행의 즐거움을 더욱 더 풍부하게 만들어 줄 이곳은 휴식과 재미를 동시에 누릴 수 있는 완벽한 선택이에요.
+
+[Hôtel La Christophine](https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html)
+ 
+
+## 카리브해에서의 완벽한 힐링타임
+BUNGALOW DE SAINT JACQUES
+    ![BUNGALOW DE SAINT JACQUES_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281249840.jpg?k=bb4e26730fc39d09990830df0745c80735abe33eb8a919d71c249ff5fca0b70c&s=450x450)
+![BUNGALOW DE SAINT JACQUES_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/279033042.jpg?k=de953e27b7d94549c393db43e21b3544ccbb5ee269261012bd632cdb3470235d&s=50x50)
+![BUNGALOW DE SAINT JACQUES_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/352464504.jpg?k=8405eed230cae3ceae1e4326f374bf42f84d4f06d0b156d9afc3d0e957f2f1d3&s=50x50)
+
+카리브해의 아름다운 섬, 생프랑수아에 위치한 **Bungalow de Saint Jacques**는 바쁜 일상에서 벗어나 자연 속에서의 평온한 시간을 찾는 모든 이들에게 환상적인 선택이라고 할 수 있어요. 이 호텔은 현지의 열대 자연을 만끽할 수 있는 독특한 풍경과 함께 편안한 숙박 환경을 제공합니다. 아침에 일어나 창문을 열면 푸르른 정원이 눈앞에 펼쳐지고, 시원한 바람과 함께 새들의 노래를 들으며 하루를 시작할 수 있어요. 호텔의 수영장은 맑고 깨끗해 물놀이를 즐기기에도 안성맞춤이에요.
+
+Bungalow de Saint Jacques의 진정한 매력은 그들이 제공하는 친절한 서비스와 세심한 배려에 있어요. 직원들은 언제나 친절하게 응대하며, 당신이 필요한 것이 무엇이든 신속하게 해결해줍니다. 가족 단위 여행객이나 친구들과 함께 온 사람들에게 특히 추천하고 싶어요. 주변에는 카리브해의 아름다운 해변과 다양한 레스토랑이 있어 지역의 맛있는 음식을 즐길 수도 있어요. 무엇보다 호텔 자체가 주는 *아늑한 분위기*와 현대적인 시설은 여행의 피로를 싹 잊게 만들어 줄 거예요.
+
+[BUNGALOW DE SAINT JACQUES](https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국 같은 여유를 만나는 곳
+Le Domaine de Jade
+    ![Le Domaine de Jade_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119255.jpg?k=bf203e76f23cf2044b268bbef2aae7c6b52cbbf79a1fd364c181a509da0da535&s=450x450)
+![Le Domaine de Jade_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119395.jpg?k=7eaa697015cc225b6631ea041a4258afbd283dd54962f4b0d3331f9e0b9b24fb&s=50x50)
+![Le Domaine de Jade_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119427.jpg?k=76928cb853bda51f032b2c49aae633eed9cd9d3f1e8392db645e74176bc8a3ff&s=50x50)
+
+프랑스령 생프랑수아의 푸른 바다와 하늘 아래 위치한 이 호텔은 단순한 숙박 시설이 아니라 *휴식과 재충전*을 위한 완벽한 도피처예요. 호텔의 넓고 현대적인 객실은 모두 발코니가 있어 바다 전망을 즐길 수 있고, 인테리어 또한 세련되고 아늑하게 꾸며져 있어요. 수영장에서 수영을 하거나, 호텔 내 레스토랑에서 제공하는 신선한 해산물 요리를 맛보며 하루를 마무리하는 것은 저절로 미소를 짓게 할 거예요. 게다가, 친절하고 전문적인 직원들이 매 순간 따뜻하게 맞아주는 서비스는 이곳을 정말 특별하게 만들어줘요.
+
+[Le Domaine de Jade](https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+이제 여러분은 카리브해의 매력을 만끽할 수 있는 다양한 호텔 옵션을 확인하셨습니다. **Hotel Guadeloupe Palm Suites**에서 바다를 앞에 둔 휴식처와 아름다운 정원을 즐기며 휴가를 보내보세요. **Hotel Amaudo**는 카리브해 해변을 배경으로 아늑하고 로맨틱한 숙소를 제공합니다. **Hôtel La Christophine**에서는 생프랑수아에서 다양한 활동과 서비스를 누리며 완벽한 휴가를 즐길 수 있습니다. **BUNGALOW DE SAINT JACQUES**는 자연 속의 편안함과 친절한 서비스를 제공하여 잊지 못할 체험을 선사합니다. 마지막으로 **Le Domaine de Jade**는 생프랑수아의 바다 전망과 함께 편안함과 고급스러움을 동시에 제공합니다. 다음 휴가는 이 멋진 호텔들 중 하나에서 보내보세요. 지금 바로 예약하세요!
+
+e:T2812,
+    
+
+
+## 세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 세인트 프랑수아에 대한 여행 계획을 세우고 있지만 어디에서 묵을지 망설이시나요? 이번에는 세인트 프랑수아에서 마치 히든한옥처럼 숨겨진 보석 같은 호텔 5곳을 소개해드리려고 해요. 깔끔한 디자인과 고풍스러운 감성을 동시에 경험할 수 있는 이 호텔들은 마치 시간을 거슬러 올라가 한적한 시골집에서 여유로운 시간을 보내는 느낌이 들게 할 거예요. **여행의 질**을 높여줄 호텔을 찾으신다면, 이어지는 정보에 주목해 주세요. 이곳에서 머물며 프랑스의 세련된 매력을 만끽해보세요!
+
+
+## 천국 같은 휴식처
+Hotel Guadeloupe Palm Suites
+    ![Hotel Guadeloupe Palm Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hotel Guadeloupe Palm Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846837.jpg?k=c0db918c4872189ce0fb746188a77e0709545b038ce4679303e92a780820d0c9&s=50x50)
+![Hotel Guadeloupe Palm Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405840495.jpg?k=ca7e809417586effacb3e1d0206d83fba176f29c79daf080c8d4fdaa7aa25f21&s=50x50)
+
+바다를 바라보며 여유롭게 휴가를 보내고 싶으신가요? 세인트 프랑수아의 팜 스위트 호텔은 그야말로 천국 같은 곳이에요. **아름다운 정원**과 **청결한 객실**, 그리고 친절한 스태프들이 기다리고 있어요. 특히 그곳의 *수영장*은 하루 종일 수영하고 싶어질 정도로 매력적이에요. **완벽한 시설**과 **최고의 서비스**는 여러분의 휴가를 더 특별하게 만들어 줄 거예요.
+
+또한, 팜 스위트는 *현지의 매력적인 마을*과 가까워 탐방하기에도 좋아요. 다양한 **레스토랑**과 **해변 접근성**을 갖춘 이 호텔은 진정한 휴식과 즐거움을 동시에 제공합니다. 주변 관광지들도 가깝고 교통이 편리해요. 여행의 즐거움을 느끼고 싶다면 이곳을 선택하시길 강력히 추천드려요!
+
+[Hotel Guadeloupe Palm Suites](https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 열대의 세레나데, 낭만적인 숙소
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 아름다운 해변을 품고 있는 숙소에서, 당신은 꿈같은 휴식을 즐길 수 있어요. 이곳의 객실은 해변을 마주하고 있어, 매일 아침 일출을 감상하며 시작할 수 있는 기회를 제공합니다. 또한, 깨끗하고 아늑한 침대는 하루의 피로를 단번에 풀어줍니다. 수영장에서의 여유로운 시간도 놓치지 마세요. 푸른 바다를 배경으로 시원한 수영을 즐기며 완벽한 휴가를 만끽할 수 있어요. 그리고 무엇보다도 친절한 직원들이 마치 가족처럼 따뜻하게 맞아준답니다.
+
+이곳에서는 연인과 함께라면 로맨틱한 시간을 보내기 딱 좋아요. 호텔의 분위기는 마치 한 편의 영화처럼 낭만적이고 우아합니다. 게다가 주변에는 맛있는 현지 음식을 맛볼 수 있는 레스토랑들도 많아요. 아침식사로 제공되는 신선한 과일과 베이커리 만큼 이곳의 매력을 더하는 요소가 또 있을까요? 여유롭게 해변을 산책하며 자연의 소리를 듣고, 밤에는 별이 가득한 하늘 아래서 사랑하는 사람과 함께하세요. 정말 잊을 수 없는 추억이 될 거예요.
+
+[Hotel Amaudo](https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+## 캐리비안의 낭만적인 안식처
+Hôtel La Christophine
+    ![Hôtel La Christophine_0_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802801.jpg)
+![Hôtel La Christophine_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/250889303.jpg?k=b4a7b7426354aa4d4f882b3623ef13f3f98b9467a1fc309d3e50698ff1bb3575&s=50x50)
+![Hôtel La Christophine_2_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802803.jpg)
+
+프랑스령 기아나의 매력적인 도시 생프랑수아에 자리한 이 호텔은 진정한 캐리비안의 낭만을 경험할 수 있는 완벽한 장소예요. 호텔 라 크리스토핀에서 바라보는 아름다운 바다 전망은 그야말로 압권이고, 주변의 자연 경관과 어우러진 조경은 이곳의 평화로움을 더해줘요. 각 객실은 세심하게 꾸며져 있으며, 넓고 편안한 공간은 여행자의 피로를 말끔히 씻어줄 거예요. 호텔 스태프들은 친절하고 상냥해서 언제나 따뜻한 환영을 받을 수 있어요. 
+
+호텔 라 크리스토핀은 다양한 편의시설과 활동을 제공해요. 아름다운 수영장에서 시원한 물놀이를 즐기거나, 고요한 해변에서 느긋하게 일광욕을 즐길 수 있어요. 인근에 위치한 골프 코스에서 여유로운 라운딩을 즐기거나, 맛있는 현지 음식을 맛보는 것도 추천해요. 어린이 동반 여행자들도 충분히 만족할 만한 프로그램도 준비되어 있답니다. 여행의 즐거움을 더욱 더 풍부하게 만들어 줄 이곳은 휴식과 재미를 동시에 누릴 수 있는 완벽한 선택이에요.
+
+[Hôtel La Christophine](https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html)
+ 
+
+## 카리브해에서의 완벽한 힐링타임
+BUNGALOW DE SAINT JACQUES
+    ![BUNGALOW DE SAINT JACQUES_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281249840.jpg?k=bb4e26730fc39d09990830df0745c80735abe33eb8a919d71c249ff5fca0b70c&s=450x450)
+![BUNGALOW DE SAINT JACQUES_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/279033042.jpg?k=de953e27b7d94549c393db43e21b3544ccbb5ee269261012bd632cdb3470235d&s=50x50)
+![BUNGALOW DE SAINT JACQUES_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/352464504.jpg?k=8405eed230cae3ceae1e4326f374bf42f84d4f06d0b156d9afc3d0e957f2f1d3&s=50x50)
+
+카리브해의 아름다운 섬, 생프랑수아에 위치한 **Bungalow de Saint Jacques**는 바쁜 일상에서 벗어나 자연 속에서의 평온한 시간을 찾는 모든 이들에게 환상적인 선택이라고 할 수 있어요. 이 호텔은 현지의 열대 자연을 만끽할 수 있는 독특한 풍경과 함께 편안한 숙박 환경을 제공합니다. 아침에 일어나 창문을 열면 푸르른 정원이 눈앞에 펼쳐지고, 시원한 바람과 함께 새들의 노래를 들으며 하루를 시작할 수 있어요. 호텔의 수영장은 맑고 깨끗해 물놀이를 즐기기에도 안성맞춤이에요.
+
+Bungalow de Saint Jacques의 진정한 매력은 그들이 제공하는 친절한 서비스와 세심한 배려에 있어요. 직원들은 언제나 친절하게 응대하며, 당신이 필요한 것이 무엇이든 신속하게 해결해줍니다. 가족 단위 여행객이나 친구들과 함께 온 사람들에게 특히 추천하고 싶어요. 주변에는 카리브해의 아름다운 해변과 다양한 레스토랑이 있어 지역의 맛있는 음식을 즐길 수도 있어요. 무엇보다 호텔 자체가 주는 *아늑한 분위기*와 현대적인 시설은 여행의 피로를 싹 잊게 만들어 줄 거예요.
+
+[BUNGALOW DE SAINT JACQUES](https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국 같은 여유를 만나는 곳
+Le Domaine de Jade
+    ![Le Domaine de Jade_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119255.jpg?k=bf203e76f23cf2044b268bbef2aae7c6b52cbbf79a1fd364c181a509da0da535&s=450x450)
+![Le Domaine de Jade_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119395.jpg?k=7eaa697015cc225b6631ea041a4258afbd283dd54962f4b0d3331f9e0b9b24fb&s=50x50)
+![Le Domaine de Jade_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119427.jpg?k=76928cb853bda51f032b2c49aae633eed9cd9d3f1e8392db645e74176bc8a3ff&s=50x50)
+
+프랑스령 생프랑수아의 푸른 바다와 하늘 아래 위치한 이 호텔은 단순한 숙박 시설이 아니라 *휴식과 재충전*을 위한 완벽한 도피처예요. 호텔의 넓고 현대적인 객실은 모두 발코니가 있어 바다 전망을 즐길 수 있고, 인테리어 또한 세련되고 아늑하게 꾸며져 있어요. 수영장에서 수영을 하거나, 호텔 내 레스토랑에서 제공하는 신선한 해산물 요리를 맛보며 하루를 마무리하는 것은 저절로 미소를 짓게 할 거예요. 게다가, 친절하고 전문적인 직원들이 매 순간 따뜻하게 맞아주는 서비스는 이곳을 정말 특별하게 만들어줘요.
+
+[Le Domaine de Jade](https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+이제 여러분은 카리브해의 매력을 만끽할 수 있는 다양한 호텔 옵션을 확인하셨습니다. **Hotel Guadeloupe Palm Suites**에서 바다를 앞에 둔 휴식처와 아름다운 정원을 즐기며 휴가를 보내보세요. **Hotel Amaudo**는 카리브해 해변을 배경으로 아늑하고 로맨틱한 숙소를 제공합니다. **Hôtel La Christophine**에서는 생프랑수아에서 다양한 활동과 서비스를 누리며 완벽한 휴가를 즐길 수 있습니다. **BUNGALOW DE SAINT JACQUES**는 자연 속의 편안함과 친절한 서비스를 제공하여 잊지 못할 체험을 선사합니다. 마지막으로 **Le Domaine de Jade**는 생프랑수아의 바다 전망과 함께 편안함과 고급스러움을 동시에 제공합니다. 다음 휴가는 이 멋진 호텔들 중 하나에서 보내보세요. 지금 바로 예약하세요!
+
+f:T2812,
+    
+
+
+## 세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 세인트 프랑수아에 대한 여행 계획을 세우고 있지만 어디에서 묵을지 망설이시나요? 이번에는 세인트 프랑수아에서 마치 히든한옥처럼 숨겨진 보석 같은 호텔 5곳을 소개해드리려고 해요. 깔끔한 디자인과 고풍스러운 감성을 동시에 경험할 수 있는 이 호텔들은 마치 시간을 거슬러 올라가 한적한 시골집에서 여유로운 시간을 보내는 느낌이 들게 할 거예요. **여행의 질**을 높여줄 호텔을 찾으신다면, 이어지는 정보에 주목해 주세요. 이곳에서 머물며 프랑스의 세련된 매력을 만끽해보세요!
+
+
+## 천국 같은 휴식처
+Hotel Guadeloupe Palm Suites
+    ![Hotel Guadeloupe Palm Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hotel Guadeloupe Palm Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846837.jpg?k=c0db918c4872189ce0fb746188a77e0709545b038ce4679303e92a780820d0c9&s=50x50)
+![Hotel Guadeloupe Palm Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405840495.jpg?k=ca7e809417586effacb3e1d0206d83fba176f29c79daf080c8d4fdaa7aa25f21&s=50x50)
+
+바다를 바라보며 여유롭게 휴가를 보내고 싶으신가요? 세인트 프랑수아의 팜 스위트 호텔은 그야말로 천국 같은 곳이에요. **아름다운 정원**과 **청결한 객실**, 그리고 친절한 스태프들이 기다리고 있어요. 특히 그곳의 *수영장*은 하루 종일 수영하고 싶어질 정도로 매력적이에요. **완벽한 시설**과 **최고의 서비스**는 여러분의 휴가를 더 특별하게 만들어 줄 거예요.
+
+또한, 팜 스위트는 *현지의 매력적인 마을*과 가까워 탐방하기에도 좋아요. 다양한 **레스토랑**과 **해변 접근성**을 갖춘 이 호텔은 진정한 휴식과 즐거움을 동시에 제공합니다. 주변 관광지들도 가깝고 교통이 편리해요. 여행의 즐거움을 느끼고 싶다면 이곳을 선택하시길 강력히 추천드려요!
+
+[Hotel Guadeloupe Palm Suites](https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 열대의 세레나데, 낭만적인 숙소
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 아름다운 해변을 품고 있는 숙소에서, 당신은 꿈같은 휴식을 즐길 수 있어요. 이곳의 객실은 해변을 마주하고 있어, 매일 아침 일출을 감상하며 시작할 수 있는 기회를 제공합니다. 또한, 깨끗하고 아늑한 침대는 하루의 피로를 단번에 풀어줍니다. 수영장에서의 여유로운 시간도 놓치지 마세요. 푸른 바다를 배경으로 시원한 수영을 즐기며 완벽한 휴가를 만끽할 수 있어요. 그리고 무엇보다도 친절한 직원들이 마치 가족처럼 따뜻하게 맞아준답니다.
+
+이곳에서는 연인과 함께라면 로맨틱한 시간을 보내기 딱 좋아요. 호텔의 분위기는 마치 한 편의 영화처럼 낭만적이고 우아합니다. 게다가 주변에는 맛있는 현지 음식을 맛볼 수 있는 레스토랑들도 많아요. 아침식사로 제공되는 신선한 과일과 베이커리 만큼 이곳의 매력을 더하는 요소가 또 있을까요? 여유롭게 해변을 산책하며 자연의 소리를 듣고, 밤에는 별이 가득한 하늘 아래서 사랑하는 사람과 함께하세요. 정말 잊을 수 없는 추억이 될 거예요.
+
+[Hotel Amaudo](https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+## 캐리비안의 낭만적인 안식처
+Hôtel La Christophine
+    ![Hôtel La Christophine_0_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802801.jpg)
+![Hôtel La Christophine_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/250889303.jpg?k=b4a7b7426354aa4d4f882b3623ef13f3f98b9467a1fc309d3e50698ff1bb3575&s=50x50)
+![Hôtel La Christophine_2_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802803.jpg)
+
+프랑스령 기아나의 매력적인 도시 생프랑수아에 자리한 이 호텔은 진정한 캐리비안의 낭만을 경험할 수 있는 완벽한 장소예요. 호텔 라 크리스토핀에서 바라보는 아름다운 바다 전망은 그야말로 압권이고, 주변의 자연 경관과 어우러진 조경은 이곳의 평화로움을 더해줘요. 각 객실은 세심하게 꾸며져 있으며, 넓고 편안한 공간은 여행자의 피로를 말끔히 씻어줄 거예요. 호텔 스태프들은 친절하고 상냥해서 언제나 따뜻한 환영을 받을 수 있어요. 
+
+호텔 라 크리스토핀은 다양한 편의시설과 활동을 제공해요. 아름다운 수영장에서 시원한 물놀이를 즐기거나, 고요한 해변에서 느긋하게 일광욕을 즐길 수 있어요. 인근에 위치한 골프 코스에서 여유로운 라운딩을 즐기거나, 맛있는 현지 음식을 맛보는 것도 추천해요. 어린이 동반 여행자들도 충분히 만족할 만한 프로그램도 준비되어 있답니다. 여행의 즐거움을 더욱 더 풍부하게 만들어 줄 이곳은 휴식과 재미를 동시에 누릴 수 있는 완벽한 선택이에요.
+
+[Hôtel La Christophine](https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html)
+ 
+
+## 카리브해에서의 완벽한 힐링타임
+BUNGALOW DE SAINT JACQUES
+    ![BUNGALOW DE SAINT JACQUES_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281249840.jpg?k=bb4e26730fc39d09990830df0745c80735abe33eb8a919d71c249ff5fca0b70c&s=450x450)
+![BUNGALOW DE SAINT JACQUES_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/279033042.jpg?k=de953e27b7d94549c393db43e21b3544ccbb5ee269261012bd632cdb3470235d&s=50x50)
+![BUNGALOW DE SAINT JACQUES_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/352464504.jpg?k=8405eed230cae3ceae1e4326f374bf42f84d4f06d0b156d9afc3d0e957f2f1d3&s=50x50)
+
+카리브해의 아름다운 섬, 생프랑수아에 위치한 **Bungalow de Saint Jacques**는 바쁜 일상에서 벗어나 자연 속에서의 평온한 시간을 찾는 모든 이들에게 환상적인 선택이라고 할 수 있어요. 이 호텔은 현지의 열대 자연을 만끽할 수 있는 독특한 풍경과 함께 편안한 숙박 환경을 제공합니다. 아침에 일어나 창문을 열면 푸르른 정원이 눈앞에 펼쳐지고, 시원한 바람과 함께 새들의 노래를 들으며 하루를 시작할 수 있어요. 호텔의 수영장은 맑고 깨끗해 물놀이를 즐기기에도 안성맞춤이에요.
+
+Bungalow de Saint Jacques의 진정한 매력은 그들이 제공하는 친절한 서비스와 세심한 배려에 있어요. 직원들은 언제나 친절하게 응대하며, 당신이 필요한 것이 무엇이든 신속하게 해결해줍니다. 가족 단위 여행객이나 친구들과 함께 온 사람들에게 특히 추천하고 싶어요. 주변에는 카리브해의 아름다운 해변과 다양한 레스토랑이 있어 지역의 맛있는 음식을 즐길 수도 있어요. 무엇보다 호텔 자체가 주는 *아늑한 분위기*와 현대적인 시설은 여행의 피로를 싹 잊게 만들어 줄 거예요.
+
+[BUNGALOW DE SAINT JACQUES](https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국 같은 여유를 만나는 곳
+Le Domaine de Jade
+    ![Le Domaine de Jade_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119255.jpg?k=bf203e76f23cf2044b268bbef2aae7c6b52cbbf79a1fd364c181a509da0da535&s=450x450)
+![Le Domaine de Jade_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119395.jpg?k=7eaa697015cc225b6631ea041a4258afbd283dd54962f4b0d3331f9e0b9b24fb&s=50x50)
+![Le Domaine de Jade_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119427.jpg?k=76928cb853bda51f032b2c49aae633eed9cd9d3f1e8392db645e74176bc8a3ff&s=50x50)
+
+프랑스령 생프랑수아의 푸른 바다와 하늘 아래 위치한 이 호텔은 단순한 숙박 시설이 아니라 *휴식과 재충전*을 위한 완벽한 도피처예요. 호텔의 넓고 현대적인 객실은 모두 발코니가 있어 바다 전망을 즐길 수 있고, 인테리어 또한 세련되고 아늑하게 꾸며져 있어요. 수영장에서 수영을 하거나, 호텔 내 레스토랑에서 제공하는 신선한 해산물 요리를 맛보며 하루를 마무리하는 것은 저절로 미소를 짓게 할 거예요. 게다가, 친절하고 전문적인 직원들이 매 순간 따뜻하게 맞아주는 서비스는 이곳을 정말 특별하게 만들어줘요.
+
+[Le Domaine de Jade](https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+이제 여러분은 카리브해의 매력을 만끽할 수 있는 다양한 호텔 옵션을 확인하셨습니다. **Hotel Guadeloupe Palm Suites**에서 바다를 앞에 둔 휴식처와 아름다운 정원을 즐기며 휴가를 보내보세요. **Hotel Amaudo**는 카리브해 해변을 배경으로 아늑하고 로맨틱한 숙소를 제공합니다. **Hôtel La Christophine**에서는 생프랑수아에서 다양한 활동과 서비스를 누리며 완벽한 휴가를 즐길 수 있습니다. **BUNGALOW DE SAINT JACQUES**는 자연 속의 편안함과 친절한 서비스를 제공하여 잊지 못할 체험을 선사합니다. 마지막으로 **Le Domaine de Jade**는 생프랑수아의 바다 전망과 함께 편안함과 고급스러움을 동시에 제공합니다. 다음 휴가는 이 멋진 호텔들 중 하나에서 보내보세요. 지금 바로 예약하세요!
+
+10:T2812,
+    
+
+
+## 세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 세인트 프랑수아에 대한 여행 계획을 세우고 있지만 어디에서 묵을지 망설이시나요? 이번에는 세인트 프랑수아에서 마치 히든한옥처럼 숨겨진 보석 같은 호텔 5곳을 소개해드리려고 해요. 깔끔한 디자인과 고풍스러운 감성을 동시에 경험할 수 있는 이 호텔들은 마치 시간을 거슬러 올라가 한적한 시골집에서 여유로운 시간을 보내는 느낌이 들게 할 거예요. **여행의 질**을 높여줄 호텔을 찾으신다면, 이어지는 정보에 주목해 주세요. 이곳에서 머물며 프랑스의 세련된 매력을 만끽해보세요!
+
+
+## 천국 같은 휴식처
+Hotel Guadeloupe Palm Suites
+    ![Hotel Guadeloupe Palm Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hotel Guadeloupe Palm Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846837.jpg?k=c0db918c4872189ce0fb746188a77e0709545b038ce4679303e92a780820d0c9&s=50x50)
+![Hotel Guadeloupe Palm Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405840495.jpg?k=ca7e809417586effacb3e1d0206d83fba176f29c79daf080c8d4fdaa7aa25f21&s=50x50)
+
+바다를 바라보며 여유롭게 휴가를 보내고 싶으신가요? 세인트 프랑수아의 팜 스위트 호텔은 그야말로 천국 같은 곳이에요. **아름다운 정원**과 **청결한 객실**, 그리고 친절한 스태프들이 기다리고 있어요. 특히 그곳의 *수영장*은 하루 종일 수영하고 싶어질 정도로 매력적이에요. **완벽한 시설**과 **최고의 서비스**는 여러분의 휴가를 더 특별하게 만들어 줄 거예요.
+
+또한, 팜 스위트는 *현지의 매력적인 마을*과 가까워 탐방하기에도 좋아요. 다양한 **레스토랑**과 **해변 접근성**을 갖춘 이 호텔은 진정한 휴식과 즐거움을 동시에 제공합니다. 주변 관광지들도 가깝고 교통이 편리해요. 여행의 즐거움을 느끼고 싶다면 이곳을 선택하시길 강력히 추천드려요!
+
+[Hotel Guadeloupe Palm Suites](https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 열대의 세레나데, 낭만적인 숙소
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 아름다운 해변을 품고 있는 숙소에서, 당신은 꿈같은 휴식을 즐길 수 있어요. 이곳의 객실은 해변을 마주하고 있어, 매일 아침 일출을 감상하며 시작할 수 있는 기회를 제공합니다. 또한, 깨끗하고 아늑한 침대는 하루의 피로를 단번에 풀어줍니다. 수영장에서의 여유로운 시간도 놓치지 마세요. 푸른 바다를 배경으로 시원한 수영을 즐기며 완벽한 휴가를 만끽할 수 있어요. 그리고 무엇보다도 친절한 직원들이 마치 가족처럼 따뜻하게 맞아준답니다.
+
+이곳에서는 연인과 함께라면 로맨틱한 시간을 보내기 딱 좋아요. 호텔의 분위기는 마치 한 편의 영화처럼 낭만적이고 우아합니다. 게다가 주변에는 맛있는 현지 음식을 맛볼 수 있는 레스토랑들도 많아요. 아침식사로 제공되는 신선한 과일과 베이커리 만큼 이곳의 매력을 더하는 요소가 또 있을까요? 여유롭게 해변을 산책하며 자연의 소리를 듣고, 밤에는 별이 가득한 하늘 아래서 사랑하는 사람과 함께하세요. 정말 잊을 수 없는 추억이 될 거예요.
+
+[Hotel Amaudo](https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+## 캐리비안의 낭만적인 안식처
+Hôtel La Christophine
+    ![Hôtel La Christophine_0_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802801.jpg)
+![Hôtel La Christophine_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/250889303.jpg?k=b4a7b7426354aa4d4f882b3623ef13f3f98b9467a1fc309d3e50698ff1bb3575&s=50x50)
+![Hôtel La Christophine_2_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802803.jpg)
+
+프랑스령 기아나의 매력적인 도시 생프랑수아에 자리한 이 호텔은 진정한 캐리비안의 낭만을 경험할 수 있는 완벽한 장소예요. 호텔 라 크리스토핀에서 바라보는 아름다운 바다 전망은 그야말로 압권이고, 주변의 자연 경관과 어우러진 조경은 이곳의 평화로움을 더해줘요. 각 객실은 세심하게 꾸며져 있으며, 넓고 편안한 공간은 여행자의 피로를 말끔히 씻어줄 거예요. 호텔 스태프들은 친절하고 상냥해서 언제나 따뜻한 환영을 받을 수 있어요. 
+
+호텔 라 크리스토핀은 다양한 편의시설과 활동을 제공해요. 아름다운 수영장에서 시원한 물놀이를 즐기거나, 고요한 해변에서 느긋하게 일광욕을 즐길 수 있어요. 인근에 위치한 골프 코스에서 여유로운 라운딩을 즐기거나, 맛있는 현지 음식을 맛보는 것도 추천해요. 어린이 동반 여행자들도 충분히 만족할 만한 프로그램도 준비되어 있답니다. 여행의 즐거움을 더욱 더 풍부하게 만들어 줄 이곳은 휴식과 재미를 동시에 누릴 수 있는 완벽한 선택이에요.
+
+[Hôtel La Christophine](https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html)
+ 
+
+## 카리브해에서의 완벽한 힐링타임
+BUNGALOW DE SAINT JACQUES
+    ![BUNGALOW DE SAINT JACQUES_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281249840.jpg?k=bb4e26730fc39d09990830df0745c80735abe33eb8a919d71c249ff5fca0b70c&s=450x450)
+![BUNGALOW DE SAINT JACQUES_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/279033042.jpg?k=de953e27b7d94549c393db43e21b3544ccbb5ee269261012bd632cdb3470235d&s=50x50)
+![BUNGALOW DE SAINT JACQUES_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/352464504.jpg?k=8405eed230cae3ceae1e4326f374bf42f84d4f06d0b156d9afc3d0e957f2f1d3&s=50x50)
+
+카리브해의 아름다운 섬, 생프랑수아에 위치한 **Bungalow de Saint Jacques**는 바쁜 일상에서 벗어나 자연 속에서의 평온한 시간을 찾는 모든 이들에게 환상적인 선택이라고 할 수 있어요. 이 호텔은 현지의 열대 자연을 만끽할 수 있는 독특한 풍경과 함께 편안한 숙박 환경을 제공합니다. 아침에 일어나 창문을 열면 푸르른 정원이 눈앞에 펼쳐지고, 시원한 바람과 함께 새들의 노래를 들으며 하루를 시작할 수 있어요. 호텔의 수영장은 맑고 깨끗해 물놀이를 즐기기에도 안성맞춤이에요.
+
+Bungalow de Saint Jacques의 진정한 매력은 그들이 제공하는 친절한 서비스와 세심한 배려에 있어요. 직원들은 언제나 친절하게 응대하며, 당신이 필요한 것이 무엇이든 신속하게 해결해줍니다. 가족 단위 여행객이나 친구들과 함께 온 사람들에게 특히 추천하고 싶어요. 주변에는 카리브해의 아름다운 해변과 다양한 레스토랑이 있어 지역의 맛있는 음식을 즐길 수도 있어요. 무엇보다 호텔 자체가 주는 *아늑한 분위기*와 현대적인 시설은 여행의 피로를 싹 잊게 만들어 줄 거예요.
+
+[BUNGALOW DE SAINT JACQUES](https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국 같은 여유를 만나는 곳
+Le Domaine de Jade
+    ![Le Domaine de Jade_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119255.jpg?k=bf203e76f23cf2044b268bbef2aae7c6b52cbbf79a1fd364c181a509da0da535&s=450x450)
+![Le Domaine de Jade_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119395.jpg?k=7eaa697015cc225b6631ea041a4258afbd283dd54962f4b0d3331f9e0b9b24fb&s=50x50)
+![Le Domaine de Jade_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119427.jpg?k=76928cb853bda51f032b2c49aae633eed9cd9d3f1e8392db645e74176bc8a3ff&s=50x50)
+
+프랑스령 생프랑수아의 푸른 바다와 하늘 아래 위치한 이 호텔은 단순한 숙박 시설이 아니라 *휴식과 재충전*을 위한 완벽한 도피처예요. 호텔의 넓고 현대적인 객실은 모두 발코니가 있어 바다 전망을 즐길 수 있고, 인테리어 또한 세련되고 아늑하게 꾸며져 있어요. 수영장에서 수영을 하거나, 호텔 내 레스토랑에서 제공하는 신선한 해산물 요리를 맛보며 하루를 마무리하는 것은 저절로 미소를 짓게 할 거예요. 게다가, 친절하고 전문적인 직원들이 매 순간 따뜻하게 맞아주는 서비스는 이곳을 정말 특별하게 만들어줘요.
+
+[Le Domaine de Jade](https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+이제 여러분은 카리브해의 매력을 만끽할 수 있는 다양한 호텔 옵션을 확인하셨습니다. **Hotel Guadeloupe Palm Suites**에서 바다를 앞에 둔 휴식처와 아름다운 정원을 즐기며 휴가를 보내보세요. **Hotel Amaudo**는 카리브해 해변을 배경으로 아늑하고 로맨틱한 숙소를 제공합니다. **Hôtel La Christophine**에서는 생프랑수아에서 다양한 활동과 서비스를 누리며 완벽한 휴가를 즐길 수 있습니다. **BUNGALOW DE SAINT JACQUES**는 자연 속의 편안함과 친절한 서비스를 제공하여 잊지 못할 체험을 선사합니다. 마지막으로 **Le Domaine de Jade**는 생프랑수아의 바다 전망과 함께 편안함과 고급스러움을 동시에 제공합니다. 다음 휴가는 이 멋진 호텔들 중 하나에서 보내보세요. 지금 바로 예약하세요!
+
+11:T2812,
+    
+
+
+## 세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 세인트 프랑수아에 대한 여행 계획을 세우고 있지만 어디에서 묵을지 망설이시나요? 이번에는 세인트 프랑수아에서 마치 히든한옥처럼 숨겨진 보석 같은 호텔 5곳을 소개해드리려고 해요. 깔끔한 디자인과 고풍스러운 감성을 동시에 경험할 수 있는 이 호텔들은 마치 시간을 거슬러 올라가 한적한 시골집에서 여유로운 시간을 보내는 느낌이 들게 할 거예요. **여행의 질**을 높여줄 호텔을 찾으신다면, 이어지는 정보에 주목해 주세요. 이곳에서 머물며 프랑스의 세련된 매력을 만끽해보세요!
+
+
+## 천국 같은 휴식처
+Hotel Guadeloupe Palm Suites
+    ![Hotel Guadeloupe Palm Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hotel Guadeloupe Palm Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846837.jpg?k=c0db918c4872189ce0fb746188a77e0709545b038ce4679303e92a780820d0c9&s=50x50)
+![Hotel Guadeloupe Palm Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405840495.jpg?k=ca7e809417586effacb3e1d0206d83fba176f29c79daf080c8d4fdaa7aa25f21&s=50x50)
+
+바다를 바라보며 여유롭게 휴가를 보내고 싶으신가요? 세인트 프랑수아의 팜 스위트 호텔은 그야말로 천국 같은 곳이에요. **아름다운 정원**과 **청결한 객실**, 그리고 친절한 스태프들이 기다리고 있어요. 특히 그곳의 *수영장*은 하루 종일 수영하고 싶어질 정도로 매력적이에요. **완벽한 시설**과 **최고의 서비스**는 여러분의 휴가를 더 특별하게 만들어 줄 거예요.
+
+또한, 팜 스위트는 *현지의 매력적인 마을*과 가까워 탐방하기에도 좋아요. 다양한 **레스토랑**과 **해변 접근성**을 갖춘 이 호텔은 진정한 휴식과 즐거움을 동시에 제공합니다. 주변 관광지들도 가깝고 교통이 편리해요. 여행의 즐거움을 느끼고 싶다면 이곳을 선택하시길 강력히 추천드려요!
+
+[Hotel Guadeloupe Palm Suites](https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 열대의 세레나데, 낭만적인 숙소
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 아름다운 해변을 품고 있는 숙소에서, 당신은 꿈같은 휴식을 즐길 수 있어요. 이곳의 객실은 해변을 마주하고 있어, 매일 아침 일출을 감상하며 시작할 수 있는 기회를 제공합니다. 또한, 깨끗하고 아늑한 침대는 하루의 피로를 단번에 풀어줍니다. 수영장에서의 여유로운 시간도 놓치지 마세요. 푸른 바다를 배경으로 시원한 수영을 즐기며 완벽한 휴가를 만끽할 수 있어요. 그리고 무엇보다도 친절한 직원들이 마치 가족처럼 따뜻하게 맞아준답니다.
+
+이곳에서는 연인과 함께라면 로맨틱한 시간을 보내기 딱 좋아요. 호텔의 분위기는 마치 한 편의 영화처럼 낭만적이고 우아합니다. 게다가 주변에는 맛있는 현지 음식을 맛볼 수 있는 레스토랑들도 많아요. 아침식사로 제공되는 신선한 과일과 베이커리 만큼 이곳의 매력을 더하는 요소가 또 있을까요? 여유롭게 해변을 산책하며 자연의 소리를 듣고, 밤에는 별이 가득한 하늘 아래서 사랑하는 사람과 함께하세요. 정말 잊을 수 없는 추억이 될 거예요.
+
+[Hotel Amaudo](https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+## 캐리비안의 낭만적인 안식처
+Hôtel La Christophine
+    ![Hôtel La Christophine_0_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802801.jpg)
+![Hôtel La Christophine_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/250889303.jpg?k=b4a7b7426354aa4d4f882b3623ef13f3f98b9467a1fc309d3e50698ff1bb3575&s=50x50)
+![Hôtel La Christophine_2_image](https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802803.jpg)
+
+프랑스령 기아나의 매력적인 도시 생프랑수아에 자리한 이 호텔은 진정한 캐리비안의 낭만을 경험할 수 있는 완벽한 장소예요. 호텔 라 크리스토핀에서 바라보는 아름다운 바다 전망은 그야말로 압권이고, 주변의 자연 경관과 어우러진 조경은 이곳의 평화로움을 더해줘요. 각 객실은 세심하게 꾸며져 있으며, 넓고 편안한 공간은 여행자의 피로를 말끔히 씻어줄 거예요. 호텔 스태프들은 친절하고 상냥해서 언제나 따뜻한 환영을 받을 수 있어요. 
+
+호텔 라 크리스토핀은 다양한 편의시설과 활동을 제공해요. 아름다운 수영장에서 시원한 물놀이를 즐기거나, 고요한 해변에서 느긋하게 일광욕을 즐길 수 있어요. 인근에 위치한 골프 코스에서 여유로운 라운딩을 즐기거나, 맛있는 현지 음식을 맛보는 것도 추천해요. 어린이 동반 여행자들도 충분히 만족할 만한 프로그램도 준비되어 있답니다. 여행의 즐거움을 더욱 더 풍부하게 만들어 줄 이곳은 휴식과 재미를 동시에 누릴 수 있는 완벽한 선택이에요.
+
+[Hôtel La Christophine](https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html)
+ 
+
+## 카리브해에서의 완벽한 힐링타임
+BUNGALOW DE SAINT JACQUES
+    ![BUNGALOW DE SAINT JACQUES_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281249840.jpg?k=bb4e26730fc39d09990830df0745c80735abe33eb8a919d71c249ff5fca0b70c&s=450x450)
+![BUNGALOW DE SAINT JACQUES_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/279033042.jpg?k=de953e27b7d94549c393db43e21b3544ccbb5ee269261012bd632cdb3470235d&s=50x50)
+![BUNGALOW DE SAINT JACQUES_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/352464504.jpg?k=8405eed230cae3ceae1e4326f374bf42f84d4f06d0b156d9afc3d0e957f2f1d3&s=50x50)
+
+카리브해의 아름다운 섬, 생프랑수아에 위치한 **Bungalow de Saint Jacques**는 바쁜 일상에서 벗어나 자연 속에서의 평온한 시간을 찾는 모든 이들에게 환상적인 선택이라고 할 수 있어요. 이 호텔은 현지의 열대 자연을 만끽할 수 있는 독특한 풍경과 함께 편안한 숙박 환경을 제공합니다. 아침에 일어나 창문을 열면 푸르른 정원이 눈앞에 펼쳐지고, 시원한 바람과 함께 새들의 노래를 들으며 하루를 시작할 수 있어요. 호텔의 수영장은 맑고 깨끗해 물놀이를 즐기기에도 안성맞춤이에요.
+
+Bungalow de Saint Jacques의 진정한 매력은 그들이 제공하는 친절한 서비스와 세심한 배려에 있어요. 직원들은 언제나 친절하게 응대하며, 당신이 필요한 것이 무엇이든 신속하게 해결해줍니다. 가족 단위 여행객이나 친구들과 함께 온 사람들에게 특히 추천하고 싶어요. 주변에는 카리브해의 아름다운 해변과 다양한 레스토랑이 있어 지역의 맛있는 음식을 즐길 수도 있어요. 무엇보다 호텔 자체가 주는 *아늑한 분위기*와 현대적인 시설은 여행의 피로를 싹 잊게 만들어 줄 거예요.
+
+[BUNGALOW DE SAINT JACQUES](https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국 같은 여유를 만나는 곳
+Le Domaine de Jade
+    ![Le Domaine de Jade_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119255.jpg?k=bf203e76f23cf2044b268bbef2aae7c6b52cbbf79a1fd364c181a509da0da535&s=450x450)
+![Le Domaine de Jade_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119395.jpg?k=7eaa697015cc225b6631ea041a4258afbd283dd54962f4b0d3331f9e0b9b24fb&s=50x50)
+![Le Domaine de Jade_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/453119427.jpg?k=76928cb853bda51f032b2c49aae633eed9cd9d3f1e8392db645e74176bc8a3ff&s=50x50)
+
+프랑스령 생프랑수아의 푸른 바다와 하늘 아래 위치한 이 호텔은 단순한 숙박 시설이 아니라 *휴식과 재충전*을 위한 완벽한 도피처예요. 호텔의 넓고 현대적인 객실은 모두 발코니가 있어 바다 전망을 즐길 수 있고, 인테리어 또한 세련되고 아늑하게 꾸며져 있어요. 수영장에서 수영을 하거나, 호텔 내 레스토랑에서 제공하는 신선한 해산물 요리를 맛보며 하루를 마무리하는 것은 저절로 미소를 짓게 할 거예요. 게다가, 친절하고 전문적인 직원들이 매 순간 따뜻하게 맞아주는 서비스는 이곳을 정말 특별하게 만들어줘요.
+
+[Le Domaine de Jade](https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+이제 여러분은 카리브해의 매력을 만끽할 수 있는 다양한 호텔 옵션을 확인하셨습니다. **Hotel Guadeloupe Palm Suites**에서 바다를 앞에 둔 휴식처와 아름다운 정원을 즐기며 휴가를 보내보세요. **Hotel Amaudo**는 카리브해 해변을 배경으로 아늑하고 로맨틱한 숙소를 제공합니다. **Hôtel La Christophine**에서는 생프랑수아에서 다양한 활동과 서비스를 누리며 완벽한 휴가를 즐길 수 있습니다. **BUNGALOW DE SAINT JACQUES**는 자연 속의 편안함과 친절한 서비스를 제공하여 잊지 못할 체험을 선사합니다. 마지막으로 **Le Domaine de Jade**는 생프랑수아의 바다 전망과 함께 편안함과 고급스러움을 동시에 제공합니다. 다음 휴가는 이 멋진 호텔들 중 하나에서 보내보세요. 지금 바로 예약하세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선"}],["$","data",null,{"children":"2024-07-31T08:12:03.157Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"중미 및 카리브해"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"휴식처"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"깨끗한 객실"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"친절한 스태프"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"관광지 접근성"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"레스토랑"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"해변 가까움"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"낭만적"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"아늑함"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"카리브해"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"친절한 서비스"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"가족 여행"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"현대적인 시설"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"바다"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"스포츠"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"3d004fe2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 세인트 프랑수아에 대한 여행 계획을 세우고 있지만 어디에서 묵을지 망설이시나요? 이번에는 세인트 프랑수아에서 마치 히든한옥처럼 숨겨진 보석 같은 호텔 5곳을 소개해드리려고 해요. 깔끔한 디자인과 고풍스러운 감성을 동시에 경험할 수 있는 이 호텔들은 마치 시간을 거슬러 올라가 한적한 시골집에서 여유로운 시간을 보내는 느낌이 들게 할 거예요. ",["$","strong",null,{"className":"font-black","children":"여행의 질"}],"을 높여줄 호텔을 찾으신다면, 이어지는 정보에 주목해 주세요. 이곳에서 머물며 프랑스의 세련된 매력을 만끽해보세요!"]}],"\n",["$","h2",null,{"id":"54070e98","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"천국 같은 휴식처"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Guadeloupe Palm Suites\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450","alt":"Hotel Guadeloupe Palm Suites_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/405846837.jpg?k=c0db918c4872189ce0fb746188a77e0709545b038ce4679303e92a780820d0c9&s=50x50","alt":"Hotel Guadeloupe Palm Suites_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/405840495.jpg?k=ca7e809417586effacb3e1d0206d83fba176f29c79daf080c8d4fdaa7aa25f21&s=50x50","alt":"Hotel Guadeloupe Palm Suites_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["바다를 바라보며 여유롭게 휴가를 보내고 싶으신가요? 세인트 프랑수아의 팜 스위트 호텔은 그야말로 천국 같은 곳이에요. ",["$","strong",null,{"className":"font-black","children":"아름다운 정원"}],"과 ",["$","strong",null,{"className":"font-black","children":"청결한 객실"}],", 그리고 친절한 스태프들이 기다리고 있어요. 특히 그곳의 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"수영장"}],"은 하루 종일 수영하고 싶어질 정도로 매력적이에요. ",["$","strong",null,{"className":"font-black","children":"완벽한 시설"}],"과 ",["$","strong",null,{"className":"font-black","children":"최고의 서비스"}],"는 여러분의 휴가를 더 특별하게 만들어 줄 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["또한, 팜 스위트는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"현지의 매력적인 마을"}],"과 가까워 탐방하기에도 좋아요. 다양한 ",["$","strong",null,{"className":"font-black","children":"레스토랑"}],"과 ",["$","strong",null,{"className":"font-black","children":"해변 접근성"}],"을 갖춘 이 호텔은 진정한 휴식과 즐거움을 동시에 제공합니다. 주변 관광지들도 가깝고 교통이 편리해요. 여행의 즐거움을 느끼고 싶다면 이곳을 선택하시길 강력히 추천드려요!"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Hotel Guadeloupe Palm Suites","position":{"start":{"line":20,"column":2,"offset":1299},"end":{"line":20,"column":30,"offset":1327}}}],"position":{"start":{"line":20,"column":1,"offset":1298},"end":{"line":20,"column":116,"offset":1413}}},"children":"Hotel Guadeloupe Palm Suites"},"post":{"id":"f6295b42-df29-4f48-a6f4-faeb10f1d7fb","title":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","fileName":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","description":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다.","date":"2024-07-31T08:12:03.157Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"휴식처","path":"$$/kr/tags/휴식처","id":"휴식처"},{"name":"깨끗한 객실","path":"$$/kr/tags/깨끗한-객실","id":"깨끗한-객실"},{"name":"친절한 스태프","path":"$$/kr/tags/친절한-스태프","id":"친절한-스태프"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"관광지 접근성","path":"$$/kr/tags/관광지-접근성","id":"관광지-접근성"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"해변 가까움","path":"$$/kr/tags/해변-가까움","id":"해변-가까움"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"가족 여행","path":"$$/kr/tags/가족-여행","id":"가족-여행"},{"name":"현대적인 시설","path":"$$/kr/tags/현대적인-시설","id":"현대적인-시설"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스포츠","path":"$$/kr/tags/스포츠","id":"스포츠"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","content":"$d","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"6042c606","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"열대의 세레나데, 낭만적인 숙소"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Amaudo\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg","alt":"Hotel Amaudo_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50","alt":"Hotel Amaudo_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50","alt":"Hotel Amaudo_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"카리브해의 아름다운 해변을 품고 있는 숙소에서, 당신은 꿈같은 휴식을 즐길 수 있어요. 이곳의 객실은 해변을 마주하고 있어, 매일 아침 일출을 감상하며 시작할 수 있는 기회를 제공합니다. 또한, 깨끗하고 아늑한 침대는 하루의 피로를 단번에 풀어줍니다. 수영장에서의 여유로운 시간도 놓치지 마세요. 푸른 바다를 배경으로 시원한 수영을 즐기며 완벽한 휴가를 만끽할 수 있어요. 그리고 무엇보다도 친절한 직원들이 마치 가족처럼 따뜻하게 맞아준답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이곳에서는 연인과 함께라면 로맨틱한 시간을 보내기 딱 좋아요. 호텔의 분위기는 마치 한 편의 영화처럼 낭만적이고 우아합니다. 게다가 주변에는 맛있는 현지 음식을 맛볼 수 있는 레스토랑들도 많아요. 아침식사로 제공되는 신선한 과일과 베이커리 만큼 이곳의 매력을 더하는 요소가 또 있을까요? 여유롭게 해변을 산책하며 자연의 소리를 듣고, 밤에는 별이 가득한 하늘 아래서 사랑하는 사람과 함께하세요. 정말 잊을 수 없는 추억이 될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/hotel-amaudo/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Hotel Amaudo","position":{"start":{"line":33,"column":2,"offset":2384},"end":{"line":33,"column":14,"offset":2396}}}],"position":{"start":{"line":33,"column":1,"offset":2383},"end":{"line":33,"column":84,"offset":2466}}},"children":"Hotel Amaudo"},"post":{"id":"f6295b42-df29-4f48-a6f4-faeb10f1d7fb","title":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","fileName":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","description":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다.","date":"2024-07-31T08:12:03.157Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"휴식처","path":"$$/kr/tags/휴식처","id":"휴식처"},{"name":"깨끗한 객실","path":"$$/kr/tags/깨끗한-객실","id":"깨끗한-객실"},{"name":"친절한 스태프","path":"$$/kr/tags/친절한-스태프","id":"친절한-스태프"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"관광지 접근성","path":"$$/kr/tags/관광지-접근성","id":"관광지-접근성"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"해변 가까움","path":"$$/kr/tags/해변-가까움","id":"해변-가까움"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"가족 여행","path":"$$/kr/tags/가족-여행","id":"가족-여행"},{"name":"현대적인 시설","path":"$$/kr/tags/현대적인-시설","id":"현대적인-시설"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스포츠","path":"$$/kr/tags/스포츠","id":"스포츠"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","content":"$e","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"2cb4dedd","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"캐리비안의 낭만적인 안식처"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hôtel La Christophine\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802801.jpg","alt":"Hôtel La Christophine_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/250889303.jpg?k=b4a7b7426354aa4d4f882b3623ef13f3f98b9467a1fc309d3e50698ff1bb3575&s=50x50","alt":"Hôtel La Christophine_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/200/20031676/20031676_20122308140093802803.jpg","alt":"Hôtel La Christophine_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"프랑스령 기아나의 매력적인 도시 생프랑수아에 자리한 이 호텔은 진정한 캐리비안의 낭만을 경험할 수 있는 완벽한 장소예요. 호텔 라 크리스토핀에서 바라보는 아름다운 바다 전망은 그야말로 압권이고, 주변의 자연 경관과 어우러진 조경은 이곳의 평화로움을 더해줘요. 각 객실은 세심하게 꾸며져 있으며, 넓고 편안한 공간은 여행자의 피로를 말끔히 씻어줄 거예요. 호텔 스태프들은 친절하고 상냥해서 언제나 따뜻한 환영을 받을 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔 라 크리스토핀은 다양한 편의시설과 활동을 제공해요. 아름다운 수영장에서 시원한 물놀이를 즐기거나, 고요한 해변에서 느긋하게 일광욕을 즐길 수 있어요. 인근에 위치한 골프 코스에서 여유로운 라운딩을 즐기거나, 맛있는 현지 음식을 맛보는 것도 추천해요. 어린이 동반 여행자들도 충분히 만족할 만한 프로그램도 준비되어 있답니다. 여행의 즐거움을 더욱 더 풍부하게 만들어 줄 이곳은 휴식과 재미를 동시에 누릴 수 있는 완벽한 선택이에요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/hotel-la-christophine/hotel/saint-francois-gp.html"},"children":[{"type":"text","value":"Hôtel La Christophine","position":{"start":{"line":46,"column":2,"offset":3408},"end":{"line":46,"column":23,"offset":3429}}}],"position":{"start":{"line":46,"column":1,"offset":3407},"end":{"line":46,"column":98,"offset":3504}}},"children":"Hôtel La Christophine"},"post":{"id":"f6295b42-df29-4f48-a6f4-faeb10f1d7fb","title":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","fileName":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","description":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다.","date":"2024-07-31T08:12:03.157Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"휴식처","path":"$$/kr/tags/휴식처","id":"휴식처"},{"name":"깨끗한 객실","path":"$$/kr/tags/깨끗한-객실","id":"깨끗한-객실"},{"name":"친절한 스태프","path":"$$/kr/tags/친절한-스태프","id":"친절한-스태프"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"관광지 접근성","path":"$$/kr/tags/관광지-접근성","id":"관광지-접근성"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"해변 가까움","path":"$$/kr/tags/해변-가까움","id":"해변-가까움"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"가족 여행","path":"$$/kr/tags/가족-여행","id":"가족-여행"},{"name":"현대적인 시설","path":"$$/kr/tags/현대적인-시설","id":"현대적인-시설"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스포츠","path":"$$/kr/tags/스포츠","id":"스포츠"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","content":"$f","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"c4fd122c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카리브해에서의 완벽한 힐링타임"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["BUNGALOW DE SAINT JACQUES\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/281249840.jpg?k=bb4e26730fc39d09990830df0745c80735abe33eb8a919d71c249ff5fca0b70c&s=450x450","alt":"BUNGALOW DE SAINT JACQUES_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/279033042.jpg?k=de953e27b7d94549c393db43e21b3544ccbb5ee269261012bd632cdb3470235d&s=50x50","alt":"BUNGALOW DE SAINT JACQUES_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/352464504.jpg?k=8405eed230cae3ceae1e4326f374bf42f84d4f06d0b156d9afc3d0e957f2f1d3&s=50x50","alt":"BUNGALOW DE SAINT JACQUES_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카리브해의 아름다운 섬, 생프랑수아에 위치한 ",["$","strong",null,{"className":"font-black","children":"Bungalow de Saint Jacques"}],"는 바쁜 일상에서 벗어나 자연 속에서의 평온한 시간을 찾는 모든 이들에게 환상적인 선택이라고 할 수 있어요. 이 호텔은 현지의 열대 자연을 만끽할 수 있는 독특한 풍경과 함께 편안한 숙박 환경을 제공합니다. 아침에 일어나 창문을 열면 푸르른 정원이 눈앞에 펼쳐지고, 시원한 바람과 함께 새들의 노래를 들으며 하루를 시작할 수 있어요. 호텔의 수영장은 맑고 깨끗해 물놀이를 즐기기에도 안성맞춤이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Bungalow de Saint Jacques의 진정한 매력은 그들이 제공하는 친절한 서비스와 세심한 배려에 있어요. 직원들은 언제나 친절하게 응대하며, 당신이 필요한 것이 무엇이든 신속하게 해결해줍니다. 가족 단위 여행객이나 친구들과 함께 온 사람들에게 특히 추천하고 싶어요. 주변에는 카리브해의 아름다운 해변과 다양한 레스토랑이 있어 지역의 맛있는 음식을 즐길 수도 있어요. 무엇보다 호텔 자체가 주는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"아늑한 분위기"}],"와 현대적인 시설은 여행의 피로를 싹 잊게 만들어 줄 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/bungalow-de-saint-jacques/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"BUNGALOW DE SAINT JACQUES","position":{"start":{"line":59,"column":2,"offset":4646},"end":{"line":59,"column":27,"offset":4671}}}],"position":{"start":{"line":59,"column":1,"offset":4645},"end":{"line":59,"column":110,"offset":4754}}},"children":"BUNGALOW DE SAINT JACQUES"},"post":{"id":"f6295b42-df29-4f48-a6f4-faeb10f1d7fb","title":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","fileName":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","description":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다.","date":"2024-07-31T08:12:03.157Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"휴식처","path":"$$/kr/tags/휴식처","id":"휴식처"},{"name":"깨끗한 객실","path":"$$/kr/tags/깨끗한-객실","id":"깨끗한-객실"},{"name":"친절한 스태프","path":"$$/kr/tags/친절한-스태프","id":"친절한-스태프"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"관광지 접근성","path":"$$/kr/tags/관광지-접근성","id":"관광지-접근성"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"해변 가까움","path":"$$/kr/tags/해변-가까움","id":"해변-가까움"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"가족 여행","path":"$$/kr/tags/가족-여행","id":"가족-여행"},{"name":"현대적인 시설","path":"$$/kr/tags/현대적인-시설","id":"현대적인-시설"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스포츠","path":"$$/kr/tags/스포츠","id":"스포츠"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","content":"$10","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"3e946906","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"천국 같은 여유를 만나는 곳"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Le Domaine de Jade\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/453119255.jpg?k=bf203e76f23cf2044b268bbef2aae7c6b52cbbf79a1fd364c181a509da0da535&s=450x450","alt":"Le Domaine de Jade_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/453119395.jpg?k=7eaa697015cc225b6631ea041a4258afbd283dd54962f4b0d3331f9e0b9b24fb&s=50x50","alt":"Le Domaine de Jade_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/453119427.jpg?k=76928cb853bda51f032b2c49aae633eed9cd9d3f1e8392db645e74176bc8a3ff&s=50x50","alt":"Le Domaine de Jade_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["프랑스령 생프랑수아의 푸른 바다와 하늘 아래 위치한 이 호텔은 단순한 숙박 시설이 아니라 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"휴식과 재충전"}],"을 위한 완벽한 도피처예요. 호텔의 넓고 현대적인 객실은 모두 발코니가 있어 바다 전망을 즐길 수 있고, 인테리어 또한 세련되고 아늑하게 꾸며져 있어요. 수영장에서 수영을 하거나, 호텔 내 레스토랑에서 제공하는 신선한 해산물 요리를 맛보며 하루를 마무리하는 것은 저절로 미소를 짓게 할 거예요. 게다가, 친절하고 전문적인 직원들이 매 순간 따뜻하게 맞아주는 서비스는 이곳을 정말 특별하게 만들어줘요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/le-domaine-de-jade/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Le Domaine de Jade","position":{"start":{"line":70,"column":2,"offset":5601},"end":{"line":70,"column":20,"offset":5619}}}],"position":{"start":{"line":70,"column":1,"offset":5600},"end":{"line":70,"column":96,"offset":5695}}},"children":"Le Domaine de Jade"},"post":{"id":"f6295b42-df29-4f48-a6f4-faeb10f1d7fb","title":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","fileName":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","description":"세인트 프랑수아에서 여행을 계획 중이라면 꼭 알아야 할 히든 명소, 숨은 보석 같은 호텔 5곳을 소개합니다. Hotel Guadeloupe Palm Suites와 Hotel Amaudo는 자연 속에서의 평화를 제공합니다. Hotel La Christophine는 현대적이면서도 전통적인 디자인이 돋보입니다. Bungalow de Saint Jacques는 가족 여행객에게 안성맞춤이고, Le Domaine de Jade는 아름다운 정원과 함께 평온한 휴식을 보장합니다. 각기 다른 매력을 가진 이 호텔들은 세인트 프랑수아의 진정한 매력을 느낄 수 있는 최고의 숙소입니다.","date":"2024-07-31T08:12:03.157Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"휴식처","path":"$$/kr/tags/휴식처","id":"휴식처"},{"name":"깨끗한 객실","path":"$$/kr/tags/깨끗한-객실","id":"깨끗한-객실"},{"name":"친절한 스태프","path":"$$/kr/tags/친절한-스태프","id":"친절한-스태프"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"관광지 접근성","path":"$$/kr/tags/관광지-접근성","id":"관광지-접근성"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"해변 가까움","path":"$$/kr/tags/해변-가까움","id":"해변-가까움"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"가족 여행","path":"$$/kr/tags/가족-여행","id":"가족-여행"},{"name":"현대적인 시설","path":"$$/kr/tags/현대적인-시설","id":"현대적인-시설"},{"name":"바다","path":"$$/kr/tags/바다","id":"바다"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스포츠","path":"$$/kr/tags/스포츠","id":"스포츠"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트-프랑수아의-숨은-명소-히든한옥-같은-호텔-5선-f6295b42","content":"$11","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이제 여러분은 카리브해의 매력을 만끽할 수 있는 다양한 호텔 옵션을 확인하셨습니다. ",["$","strong",null,{"className":"font-black","children":"Hotel Guadeloupe Palm Suites"}],"에서 바다를 앞에 둔 휴식처와 아름다운 정원을 즐기며 휴가를 보내보세요. ",["$","strong",null,{"className":"font-black","children":"Hotel Amaudo"}],"는 카리브해 해변을 배경으로 아늑하고 로맨틱한 숙소를 제공합니다. ",["$","strong",null,{"className":"font-black","children":"Hôtel La Christophine"}],"에서는 생프랑수아에서 다양한 활동과 서비스를 누리며 완벽한 휴가를 즐길 수 있습니다. ",["$","strong",null,{"className":"font-black","children":"BUNGALOW DE SAINT JACQUES"}],"는 자연 속의 편안함과 친절한 서비스를 제공하여 잊지 못할 체험을 선사합니다. 마지막으로 ",["$","strong",null,{"className":"font-black","children":"Le Domaine de Jade"}],"는 생프랑수아의 바다 전망과 함께 편안함과 고급스러움을 동시에 제공합니다. 다음 휴가는 이 멋진 호텔들 중 하나에서 보내보세요. 지금 바로 예약하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","toc":[{"tagName":"h2","title":"세인트 프랑수아의 숨은 명소, 히든한옥 같은 호텔 5선","id":"3d004fe2"},{"tagName":"h2","title":"천국 같은 휴식처","id":"54070e98"},{"tagName":"h2","title":"열대의 세레나데, 낭만적인 숙소","id":"6042c606"},{"tagName":"h2","title":"캐리비안의 낭만적인 안식처","id":"2cb4dedd"},{"tagName":"h2","title":"카리브해에서의 완벽한 힐링타임","id":"c4fd122c"},{"tagName":"h2","title":"천국 같은 여유를 만나는 곳","id":"3e946906"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

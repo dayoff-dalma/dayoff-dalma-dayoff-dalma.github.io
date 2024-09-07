@@ -1,0 +1,399 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%ED%9E%90%EB%A7%81%EA%B3%BC-%ED%9C%B4%EC%8B%9D%EC%9D%B4-%EA%B3%B5%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%98%B8%ED%85%94-5%EA%B3%B3-%EB%82%B4-%EC%B7%A8%ED%96%A5-%EC%A0%80%EA%B2%A9-ad553bcd","d"],{"children":["__PAGE__?{\"slug\":\"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%ED%9E%90%EB%A7%81%EA%B3%BC-%ED%9C%B4%EC%8B%9D%EC%9D%B4-%EA%B3%B5%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%98%B8%ED%85%94-5%EA%B3%B3-%EB%82%B4-%EC%B7%A8%ED%96%A5-%EC%A0%80%EA%B2%A9-ad553bcd","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd\"}"},"styles":[]}],"segment":["slug","%ED%9E%90%EB%A7%81%EA%B3%BC-%ED%9C%B4%EC%8B%9D%EC%9D%B4-%EA%B3%B5%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%98%B8%ED%85%94-5%EA%B3%B3-%EB%82%B4-%EC%B7%A8%ED%96%A5-%EC%A0%80%EA%B2%A9-ad553bcd","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격! | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!"}],["$","meta","3",{"name":"keywords","content":"남미,우바투바,해변,편안함,가족,휴식,자연,수영장,애완동물,조용함,조식,와이파이,활동,자연경관,친절,현대적,청결,아름다움,친절함,아침식사"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%ED%9E%90%EB%A7%81%EA%B3%BC-%ED%9C%B4%EC%8B%9D%EC%9D%B4-%EA%B3%B5%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%98%B8%ED%85%94-5%EA%B3%B3-%EB%82%B4-%EC%B7%A8%ED%96%A5-%EC%A0%80%EA%B2%A9-ad553bcd"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격! | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격! | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%ED%9E%90%EB%A7%81%EA%B3%BC-%ED%9C%B4%EC%8B%9D%EC%9D%B4-%EA%B3%B5%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%98%B8%ED%85%94-5%EA%B3%B3-%EB%82%B4-%EC%B7%A8%ED%96%A5-%EC%A0%80%EA%B2%A9-ad553bcd"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/ubatuba.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격! | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/ubatuba.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2d3c,
+    
+
+
+## 힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!
+
+안녕하세요. 달마야 여행가자의 달마입니다. 바쁜 일상에 지쳐 잠시라도 *휴식*이 필요하신가요? 아니면 새로운 곳에서의 *힐링*을 꿈꾸고 계신가요? 그렇다면 브라질의 아름다운 해변 도시 **우바투바**에서의 휴가는 어떠세요? 오늘은 여러분들께 특별히 추천드리고 싶은 우바투바의 멋진 호텔 다섯 곳을 준비했어요. 이 호텔들은 각기 다른 매력으로 가득 차 있어서 여러분의 다양한 취향을 모두 만족시킬 수 있을 거예요. 마음 편히 쉴 수 있는 조용한 호텔부터 인스타그램 감성 가득한 호텔까지, 다양한 선택지 속에서 나만의 완벽한 휴식을 찾아보세요. 지금부터 소개할 호텔들이 여러분의 바캉스를 더욱 특별하게 만들어 줄 거라고 자신합니다!
+
+
+## 평화로운 해변의 여유로운 휴식
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446797.jpg?k=44bc0dfa411bcef41a1e63025ec2b1ee6b7bef1dfff72d18781289c0c658729b&s=50x50)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464456970.jpg?k=ae8c824226522c15d45307ab26dde19a7ae42caf06805a8b3abc0f1f644fdfe6&s=50x50)
+
+바쁘게 돌아가는 일상을 뒤로하고 잠시나마 **진정한 휴식**을 만끽할 수 있는 해외여행지, 브라질 우바투바에 위치한 장소를 소개합니다. 이곳은 깨끗하고 넓은 해변가와 편안한 객실을 제공해 **열대의 낙원**에서 깊은 휴식을 취할 수 있는 기회를 제공합니다. 아침 햇살을 맞으며 시작하는 하루는 누구보다 여유롭고 상쾌하게 만들어줄 거예요.
+
+호텔 내 다양한 편의 시설들은 **여행의 질**을 더욱 높여줍니다. 멋진 야외 수영장과 바다를 바라보며 즐길 수 있는 고급 레스토랑, 그리고 세심한 서비스를 자랑하는 친절한 직원들까지 모두 만족스럽습니다. 특히 **가족 단위** 여행객들에게는 더할 나위 없는 선택지죠. 자연과 함께하는 여유로운 시간을 선사하는 이곳에서 브라질의 매력을 마음껏 느껴보세요.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 자연과 어우러진 휴양지
+Aldeia Da Lagoinha
+    ![Aldeia Da Lagoinha_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469445.jpg?k=70d327a510236dce49a52ecbcf91f49876fd6b855583474e960cefcd8e0e946c&s=450x450)
+![Aldeia Da Lagoinha_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74470301.jpg?k=4731e5240792439a0a6c37963b290488faf037961f7e21522d7113e327c34ee0&s=50x50)
+![Aldeia Da Lagoinha_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469341.jpg?k=9fbbfa76bd552a00035edb0a019b370ebe99933a311744c3fad8d7a6d08f3279&s=50x50)
+
+숲과 바다 사이에 위치한 Alagoas Pousada는 자연 속 진정한 휴식을 제공하는 곳이에요. 이곳은 파라다이스 라운지처럼 아름다운 풍경을 자랑하며, 매일 아침 맑은 공기와 함께 눈을 뜰 수 있는 멋진 공간이죠. 손님들은 넓고 깨끗한 객실과 정성스럽게 준비된 아침 식사를 특히 좋아하시더라고요. 또한 친절한 직원들이 여행의 즐거움을 한층 더해준답니다. 이런 세심한 서비스 덕분에 많은 손님들이 이곳에서의 시간을 소중하게 여기고 있어요. 조용하고 평화로운 분위기에서 마음껏 쉬다 가실 수 있을 거예요.
+
+알데이아 다라고이냐는 가족과 함께 오기에 최적의 장소예요. 아이들은 물론, 애완동물도 환영받는 이 호텔은 가족 단위 여행객들에게 특히 인기가 많아요. 주변의 아름다운 해변은 물론, 인근 관광지로의 접근성도 좋아 하루 종일 다양한 활동을 즐길 수 있어요. 저녁이 되면 호텔에서 제공하는 바비큐 파티로 하루를 마무리해보세요. 즐거운 추억을 만들 것이 분명하죠. 이곳에서의 편안한 휴식과 함께 자연의 아름다움을 만끽해보세요.
+
+[Aldeia Da Lagoinha](https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html)
+ 
+
+## 아름답고 편안한 해변 휴양지
+Encantos do Lazaro
+    ![Encantos do Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/499009400.jpg?k=dbfcc7866707b2a08a83b410f28480b80e05382c779ef4a99168c580c55f9d04&s=450x450)
+![Encantos do Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356351103.jpg?k=04a50f302104559db527b67efc0b7c6624b8492395d1ac6acc67904e1e61710b&s=50x50)
+![Encantos do Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356492890.jpg?k=65c40393d65b9057ae20a20bedb6af8b02a5f9edc3a976548977ebae1d26f82a&s=50x50)
+
+만약 여러분이 바닷가와 가까운 곳에서 최상의 휴식을 취하고 싶다면, 이곳은 정말 좋은 선택이에요. 호텔은 따뜻한 분위기가 가득하고 아름다운 자연 경관을 자랑해요. 다양한 객실 옵션이 있어 가족, 연인, 친구 누구와 와도 모두에게 어울려요. **조식**은 현지 음식과 다양한 선택의 폭을 자랑해요. 호텔에서 제공하는 **수영장**은 깨끗하고 잘 관리되어 있으며, 온 가족이 즐기기에 안성맞춤이에요. 또한, 근처에는 다양한 관광 명소가 있어 여러모로 즐거운 시간을 보낼 수 있어요. 호텔 직원들은 친절하고, 원하는 모든 요청에 신속하게 대응해줘요. 마치 오래된 친구처럼 다가와 편안하게 대해준답니다. 여러분이 휴가를 재충전하고 싶다면 이 호텔의 선택은 최고의 결정이에요. 잊을 수 없는 경험을 보장합니다. 
+
+이 호텔에는 특히 많은 **활동**들을 즐길 수 있는 장점도 있어요. 해변에서 서핑을 하거나, 물놀이를 즐기곤 하죠. 호텔에서는 **무료 와이파이**를 제공하여 휴가 중에 소중한 순간들을 소셜 미디어에 쉽게 공유할 수 있어요. 또한, 호텔 근처에는 다양한 레스토랑과 카페가 있어 현지 음식을 탐험하기에도 아주 좋아요. 밤은 편안한 침대에서 꿀잠을 자며 하루를 마무리해요. 이 호텔에서의 하루는 진정한 힐링 그 자체에요. 그리고 무엇보다 합리적인 가격과 높은 퀄리티로 더욱 매력적이에요.
+
+[Encantos do Lazaro](https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 우바투바의 낙원 같은 숙소
+Suite Lazaro
+    ![Suite Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/266306116.jpg?k=8f1b55a0553084942f93973606646903cc3944e74f97b52e5619784290fca13c&s=450x450)
+![Suite Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323228377.jpg?k=28f9a6df7431f72b38f2401d8ea3e4502355380ebf27430f574bd3f54a318e6e&s=50x50)
+![Suite Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323231557.jpg?k=f288ccc429bdd46af7b642cb0342290d25c72a793a24e516983a53e570cdf095&s=50x50)
+
+브라질의 아름다운 해안 마을, 우바투바에 위치한 이 호텔은 자연과 조화롭게 어우러진 휴식 공간이에요. 탁 트인 바다 전망과 푸른 숲이 어우러져, 마치 천국 같은 풍경이 펼쳐집니다. 호텔 주변에는 다양한 해양 활동을 즐길 수 있는 기회가 많아요. 서핑을 사랑하는 분들이나 조용히 해변을 거닐고 싶은 분들에게 더없이 좋은 선택이 될 거예요. 객실은 편안함과 현대적인 편의 시설을 모두 갖추고 있어, 여행의 피로를 깔끔히 풀어줄 수 있을 거예요. 아침마다 맛있는 조식이 제공되어 상쾌한 하루를 시작할 수 있는 것도 이 호텔만의 매력 중 하나랍니다.
+
+이 호텔은 높은 청결도와 친절한 서비스를 자랑해요. 하지만 무엇보다 사람들이 가장 좋아하는 점은 바로 호텔의 위치에요. 해변까지 도보로 이동할 수 있는 거리에 위치해 있어 언제든지 바다가 그리울 때 쉽게 접근할 수 있답니다. 또한, 호텔 근처에는 현지 특산물과 해산물을 맛볼 수 있는 맛집들이 즐비해 있어요. 바쁜 일상에서 벗어나 진정한 휴식을 찾고자 하는 당신에게 이 호텔은 완벽한 선택이 될 거예요. 가족, 커플 또는 혼자 여행을 떠나는 모든 분들께 추천하고 싶어요.
+
+[Suite Lazaro](https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 해변의 평화로움 속으로
+Pousada NAAN Lazaro Ubatuba
+    ![Pousada NAAN Lazaro Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387437966.jpg?k=c9dbab849f014a75c40c3c133bd3fe4a31f6095b29a12f2db5f85d1d7c70d291&s=450x450)
+![Pousada NAAN Lazaro Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/386208338.jpg?k=75ff8b0edc7c1942c9beec700f2c85e330ba244c169ef90260655d42bb19400d&s=50x50)
+![Pousada NAAN Lazaro Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387443709.jpg?k=d8268f065fc27b2bb7470788d7676d8a4164bd3991fabc60a325e48238b8e88c&s=50x50)
+
+브라질의 아름다운 Ubatuba에 위치한 이 숙소는 여행자들에게 정말 완벽한 선택이에요. 이곳에서는 자연과 밀착하며 그 편안함을 만끽할 수 있어요. 숙소에서 도보로 몇 분 거리에 있는 해변은 여행자들에게 마치 꿈같은 풍경을 제공합니다. 맑은 바다와 부드러운 모래사장이 기다리고 있어요. 무엇보다도, 이 호텔의 넓은 객실과 아늑한 분위기가 정말 인상적이에요. 입실할 때부터 친절한 직원들이 따뜻하게 맞아주니 정말 집에 온 것 같습니다. 아침 식사는 다양한 메뉴로 준비되어 있어요. *맛있는 아침 식사*는 활기찬 하루를 시작하는 데 딱이에요. 더욱이 주변에는 현지 음식을 맛볼 수 있는 멋진 레스토랑들이 많아서, 미식가들에게도 천국이에요. 여행이 끝날 때까지 이곳에서의 편안함을 잊지 못할 거예요.
+
+[Pousada NAAN Lazaro Ubatuba](https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+브라질 우바투바에서 잊지 못할 휴양을 계획하고 계신다면, 다양한 선택지가 기다리고 있습니다. *Hotel Nacional Inn Ubatuba - Praia das Toninhas*는 자연 속 진정한 휴식을 만끽할 수 있는 편안한 휴양지를 제공합니다. *Aldeia Da Lagoinha*는 가족 여행에 최적화된 아름다운 호텔로, 자연 속에서의 완벽한 휴식을 약속합니다. *Encantos do Lazaro*는 아름다운 자연 경관과 다양한 활동이 가능한 해변 휴양지로, 편안한 객실과 훌륭한 서비스로 잊을 수 없는 경험을 선사합니다. *Suite Lazaro*는 우바투바에서 자연과 어우러진 휴식을 누릴 수 있으며, 탁 트인 바다 전망과 다양한 해양 활동을 즐길 수 있는 완벽한 호텔입니다. 마지막으로 *Pousada NAAN Lazaro Ubatuba*는 아름다운 Ubatuba의 해변에 위치한 편안하고 아늑한 숙소입니다. 지금 바로 예약해서 우바투바의 아름다움을 만끽해보세요!
+
+e:T2d3c,
+    
+
+
+## 힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!
+
+안녕하세요. 달마야 여행가자의 달마입니다. 바쁜 일상에 지쳐 잠시라도 *휴식*이 필요하신가요? 아니면 새로운 곳에서의 *힐링*을 꿈꾸고 계신가요? 그렇다면 브라질의 아름다운 해변 도시 **우바투바**에서의 휴가는 어떠세요? 오늘은 여러분들께 특별히 추천드리고 싶은 우바투바의 멋진 호텔 다섯 곳을 준비했어요. 이 호텔들은 각기 다른 매력으로 가득 차 있어서 여러분의 다양한 취향을 모두 만족시킬 수 있을 거예요. 마음 편히 쉴 수 있는 조용한 호텔부터 인스타그램 감성 가득한 호텔까지, 다양한 선택지 속에서 나만의 완벽한 휴식을 찾아보세요. 지금부터 소개할 호텔들이 여러분의 바캉스를 더욱 특별하게 만들어 줄 거라고 자신합니다!
+
+
+## 평화로운 해변의 여유로운 휴식
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446797.jpg?k=44bc0dfa411bcef41a1e63025ec2b1ee6b7bef1dfff72d18781289c0c658729b&s=50x50)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464456970.jpg?k=ae8c824226522c15d45307ab26dde19a7ae42caf06805a8b3abc0f1f644fdfe6&s=50x50)
+
+바쁘게 돌아가는 일상을 뒤로하고 잠시나마 **진정한 휴식**을 만끽할 수 있는 해외여행지, 브라질 우바투바에 위치한 장소를 소개합니다. 이곳은 깨끗하고 넓은 해변가와 편안한 객실을 제공해 **열대의 낙원**에서 깊은 휴식을 취할 수 있는 기회를 제공합니다. 아침 햇살을 맞으며 시작하는 하루는 누구보다 여유롭고 상쾌하게 만들어줄 거예요.
+
+호텔 내 다양한 편의 시설들은 **여행의 질**을 더욱 높여줍니다. 멋진 야외 수영장과 바다를 바라보며 즐길 수 있는 고급 레스토랑, 그리고 세심한 서비스를 자랑하는 친절한 직원들까지 모두 만족스럽습니다. 특히 **가족 단위** 여행객들에게는 더할 나위 없는 선택지죠. 자연과 함께하는 여유로운 시간을 선사하는 이곳에서 브라질의 매력을 마음껏 느껴보세요.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 자연과 어우러진 휴양지
+Aldeia Da Lagoinha
+    ![Aldeia Da Lagoinha_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469445.jpg?k=70d327a510236dce49a52ecbcf91f49876fd6b855583474e960cefcd8e0e946c&s=450x450)
+![Aldeia Da Lagoinha_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74470301.jpg?k=4731e5240792439a0a6c37963b290488faf037961f7e21522d7113e327c34ee0&s=50x50)
+![Aldeia Da Lagoinha_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469341.jpg?k=9fbbfa76bd552a00035edb0a019b370ebe99933a311744c3fad8d7a6d08f3279&s=50x50)
+
+숲과 바다 사이에 위치한 Alagoas Pousada는 자연 속 진정한 휴식을 제공하는 곳이에요. 이곳은 파라다이스 라운지처럼 아름다운 풍경을 자랑하며, 매일 아침 맑은 공기와 함께 눈을 뜰 수 있는 멋진 공간이죠. 손님들은 넓고 깨끗한 객실과 정성스럽게 준비된 아침 식사를 특히 좋아하시더라고요. 또한 친절한 직원들이 여행의 즐거움을 한층 더해준답니다. 이런 세심한 서비스 덕분에 많은 손님들이 이곳에서의 시간을 소중하게 여기고 있어요. 조용하고 평화로운 분위기에서 마음껏 쉬다 가실 수 있을 거예요.
+
+알데이아 다라고이냐는 가족과 함께 오기에 최적의 장소예요. 아이들은 물론, 애완동물도 환영받는 이 호텔은 가족 단위 여행객들에게 특히 인기가 많아요. 주변의 아름다운 해변은 물론, 인근 관광지로의 접근성도 좋아 하루 종일 다양한 활동을 즐길 수 있어요. 저녁이 되면 호텔에서 제공하는 바비큐 파티로 하루를 마무리해보세요. 즐거운 추억을 만들 것이 분명하죠. 이곳에서의 편안한 휴식과 함께 자연의 아름다움을 만끽해보세요.
+
+[Aldeia Da Lagoinha](https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html)
+ 
+
+## 아름답고 편안한 해변 휴양지
+Encantos do Lazaro
+    ![Encantos do Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/499009400.jpg?k=dbfcc7866707b2a08a83b410f28480b80e05382c779ef4a99168c580c55f9d04&s=450x450)
+![Encantos do Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356351103.jpg?k=04a50f302104559db527b67efc0b7c6624b8492395d1ac6acc67904e1e61710b&s=50x50)
+![Encantos do Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356492890.jpg?k=65c40393d65b9057ae20a20bedb6af8b02a5f9edc3a976548977ebae1d26f82a&s=50x50)
+
+만약 여러분이 바닷가와 가까운 곳에서 최상의 휴식을 취하고 싶다면, 이곳은 정말 좋은 선택이에요. 호텔은 따뜻한 분위기가 가득하고 아름다운 자연 경관을 자랑해요. 다양한 객실 옵션이 있어 가족, 연인, 친구 누구와 와도 모두에게 어울려요. **조식**은 현지 음식과 다양한 선택의 폭을 자랑해요. 호텔에서 제공하는 **수영장**은 깨끗하고 잘 관리되어 있으며, 온 가족이 즐기기에 안성맞춤이에요. 또한, 근처에는 다양한 관광 명소가 있어 여러모로 즐거운 시간을 보낼 수 있어요. 호텔 직원들은 친절하고, 원하는 모든 요청에 신속하게 대응해줘요. 마치 오래된 친구처럼 다가와 편안하게 대해준답니다. 여러분이 휴가를 재충전하고 싶다면 이 호텔의 선택은 최고의 결정이에요. 잊을 수 없는 경험을 보장합니다. 
+
+이 호텔에는 특히 많은 **활동**들을 즐길 수 있는 장점도 있어요. 해변에서 서핑을 하거나, 물놀이를 즐기곤 하죠. 호텔에서는 **무료 와이파이**를 제공하여 휴가 중에 소중한 순간들을 소셜 미디어에 쉽게 공유할 수 있어요. 또한, 호텔 근처에는 다양한 레스토랑과 카페가 있어 현지 음식을 탐험하기에도 아주 좋아요. 밤은 편안한 침대에서 꿀잠을 자며 하루를 마무리해요. 이 호텔에서의 하루는 진정한 힐링 그 자체에요. 그리고 무엇보다 합리적인 가격과 높은 퀄리티로 더욱 매력적이에요.
+
+[Encantos do Lazaro](https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 우바투바의 낙원 같은 숙소
+Suite Lazaro
+    ![Suite Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/266306116.jpg?k=8f1b55a0553084942f93973606646903cc3944e74f97b52e5619784290fca13c&s=450x450)
+![Suite Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323228377.jpg?k=28f9a6df7431f72b38f2401d8ea3e4502355380ebf27430f574bd3f54a318e6e&s=50x50)
+![Suite Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323231557.jpg?k=f288ccc429bdd46af7b642cb0342290d25c72a793a24e516983a53e570cdf095&s=50x50)
+
+브라질의 아름다운 해안 마을, 우바투바에 위치한 이 호텔은 자연과 조화롭게 어우러진 휴식 공간이에요. 탁 트인 바다 전망과 푸른 숲이 어우러져, 마치 천국 같은 풍경이 펼쳐집니다. 호텔 주변에는 다양한 해양 활동을 즐길 수 있는 기회가 많아요. 서핑을 사랑하는 분들이나 조용히 해변을 거닐고 싶은 분들에게 더없이 좋은 선택이 될 거예요. 객실은 편안함과 현대적인 편의 시설을 모두 갖추고 있어, 여행의 피로를 깔끔히 풀어줄 수 있을 거예요. 아침마다 맛있는 조식이 제공되어 상쾌한 하루를 시작할 수 있는 것도 이 호텔만의 매력 중 하나랍니다.
+
+이 호텔은 높은 청결도와 친절한 서비스를 자랑해요. 하지만 무엇보다 사람들이 가장 좋아하는 점은 바로 호텔의 위치에요. 해변까지 도보로 이동할 수 있는 거리에 위치해 있어 언제든지 바다가 그리울 때 쉽게 접근할 수 있답니다. 또한, 호텔 근처에는 현지 특산물과 해산물을 맛볼 수 있는 맛집들이 즐비해 있어요. 바쁜 일상에서 벗어나 진정한 휴식을 찾고자 하는 당신에게 이 호텔은 완벽한 선택이 될 거예요. 가족, 커플 또는 혼자 여행을 떠나는 모든 분들께 추천하고 싶어요.
+
+[Suite Lazaro](https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 해변의 평화로움 속으로
+Pousada NAAN Lazaro Ubatuba
+    ![Pousada NAAN Lazaro Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387437966.jpg?k=c9dbab849f014a75c40c3c133bd3fe4a31f6095b29a12f2db5f85d1d7c70d291&s=450x450)
+![Pousada NAAN Lazaro Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/386208338.jpg?k=75ff8b0edc7c1942c9beec700f2c85e330ba244c169ef90260655d42bb19400d&s=50x50)
+![Pousada NAAN Lazaro Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387443709.jpg?k=d8268f065fc27b2bb7470788d7676d8a4164bd3991fabc60a325e48238b8e88c&s=50x50)
+
+브라질의 아름다운 Ubatuba에 위치한 이 숙소는 여행자들에게 정말 완벽한 선택이에요. 이곳에서는 자연과 밀착하며 그 편안함을 만끽할 수 있어요. 숙소에서 도보로 몇 분 거리에 있는 해변은 여행자들에게 마치 꿈같은 풍경을 제공합니다. 맑은 바다와 부드러운 모래사장이 기다리고 있어요. 무엇보다도, 이 호텔의 넓은 객실과 아늑한 분위기가 정말 인상적이에요. 입실할 때부터 친절한 직원들이 따뜻하게 맞아주니 정말 집에 온 것 같습니다. 아침 식사는 다양한 메뉴로 준비되어 있어요. *맛있는 아침 식사*는 활기찬 하루를 시작하는 데 딱이에요. 더욱이 주변에는 현지 음식을 맛볼 수 있는 멋진 레스토랑들이 많아서, 미식가들에게도 천국이에요. 여행이 끝날 때까지 이곳에서의 편안함을 잊지 못할 거예요.
+
+[Pousada NAAN Lazaro Ubatuba](https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+브라질 우바투바에서 잊지 못할 휴양을 계획하고 계신다면, 다양한 선택지가 기다리고 있습니다. *Hotel Nacional Inn Ubatuba - Praia das Toninhas*는 자연 속 진정한 휴식을 만끽할 수 있는 편안한 휴양지를 제공합니다. *Aldeia Da Lagoinha*는 가족 여행에 최적화된 아름다운 호텔로, 자연 속에서의 완벽한 휴식을 약속합니다. *Encantos do Lazaro*는 아름다운 자연 경관과 다양한 활동이 가능한 해변 휴양지로, 편안한 객실과 훌륭한 서비스로 잊을 수 없는 경험을 선사합니다. *Suite Lazaro*는 우바투바에서 자연과 어우러진 휴식을 누릴 수 있으며, 탁 트인 바다 전망과 다양한 해양 활동을 즐길 수 있는 완벽한 호텔입니다. 마지막으로 *Pousada NAAN Lazaro Ubatuba*는 아름다운 Ubatuba의 해변에 위치한 편안하고 아늑한 숙소입니다. 지금 바로 예약해서 우바투바의 아름다움을 만끽해보세요!
+
+f:T2d3c,
+    
+
+
+## 힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!
+
+안녕하세요. 달마야 여행가자의 달마입니다. 바쁜 일상에 지쳐 잠시라도 *휴식*이 필요하신가요? 아니면 새로운 곳에서의 *힐링*을 꿈꾸고 계신가요? 그렇다면 브라질의 아름다운 해변 도시 **우바투바**에서의 휴가는 어떠세요? 오늘은 여러분들께 특별히 추천드리고 싶은 우바투바의 멋진 호텔 다섯 곳을 준비했어요. 이 호텔들은 각기 다른 매력으로 가득 차 있어서 여러분의 다양한 취향을 모두 만족시킬 수 있을 거예요. 마음 편히 쉴 수 있는 조용한 호텔부터 인스타그램 감성 가득한 호텔까지, 다양한 선택지 속에서 나만의 완벽한 휴식을 찾아보세요. 지금부터 소개할 호텔들이 여러분의 바캉스를 더욱 특별하게 만들어 줄 거라고 자신합니다!
+
+
+## 평화로운 해변의 여유로운 휴식
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446797.jpg?k=44bc0dfa411bcef41a1e63025ec2b1ee6b7bef1dfff72d18781289c0c658729b&s=50x50)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464456970.jpg?k=ae8c824226522c15d45307ab26dde19a7ae42caf06805a8b3abc0f1f644fdfe6&s=50x50)
+
+바쁘게 돌아가는 일상을 뒤로하고 잠시나마 **진정한 휴식**을 만끽할 수 있는 해외여행지, 브라질 우바투바에 위치한 장소를 소개합니다. 이곳은 깨끗하고 넓은 해변가와 편안한 객실을 제공해 **열대의 낙원**에서 깊은 휴식을 취할 수 있는 기회를 제공합니다. 아침 햇살을 맞으며 시작하는 하루는 누구보다 여유롭고 상쾌하게 만들어줄 거예요.
+
+호텔 내 다양한 편의 시설들은 **여행의 질**을 더욱 높여줍니다. 멋진 야외 수영장과 바다를 바라보며 즐길 수 있는 고급 레스토랑, 그리고 세심한 서비스를 자랑하는 친절한 직원들까지 모두 만족스럽습니다. 특히 **가족 단위** 여행객들에게는 더할 나위 없는 선택지죠. 자연과 함께하는 여유로운 시간을 선사하는 이곳에서 브라질의 매력을 마음껏 느껴보세요.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 자연과 어우러진 휴양지
+Aldeia Da Lagoinha
+    ![Aldeia Da Lagoinha_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469445.jpg?k=70d327a510236dce49a52ecbcf91f49876fd6b855583474e960cefcd8e0e946c&s=450x450)
+![Aldeia Da Lagoinha_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74470301.jpg?k=4731e5240792439a0a6c37963b290488faf037961f7e21522d7113e327c34ee0&s=50x50)
+![Aldeia Da Lagoinha_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469341.jpg?k=9fbbfa76bd552a00035edb0a019b370ebe99933a311744c3fad8d7a6d08f3279&s=50x50)
+
+숲과 바다 사이에 위치한 Alagoas Pousada는 자연 속 진정한 휴식을 제공하는 곳이에요. 이곳은 파라다이스 라운지처럼 아름다운 풍경을 자랑하며, 매일 아침 맑은 공기와 함께 눈을 뜰 수 있는 멋진 공간이죠. 손님들은 넓고 깨끗한 객실과 정성스럽게 준비된 아침 식사를 특히 좋아하시더라고요. 또한 친절한 직원들이 여행의 즐거움을 한층 더해준답니다. 이런 세심한 서비스 덕분에 많은 손님들이 이곳에서의 시간을 소중하게 여기고 있어요. 조용하고 평화로운 분위기에서 마음껏 쉬다 가실 수 있을 거예요.
+
+알데이아 다라고이냐는 가족과 함께 오기에 최적의 장소예요. 아이들은 물론, 애완동물도 환영받는 이 호텔은 가족 단위 여행객들에게 특히 인기가 많아요. 주변의 아름다운 해변은 물론, 인근 관광지로의 접근성도 좋아 하루 종일 다양한 활동을 즐길 수 있어요. 저녁이 되면 호텔에서 제공하는 바비큐 파티로 하루를 마무리해보세요. 즐거운 추억을 만들 것이 분명하죠. 이곳에서의 편안한 휴식과 함께 자연의 아름다움을 만끽해보세요.
+
+[Aldeia Da Lagoinha](https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html)
+ 
+
+## 아름답고 편안한 해변 휴양지
+Encantos do Lazaro
+    ![Encantos do Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/499009400.jpg?k=dbfcc7866707b2a08a83b410f28480b80e05382c779ef4a99168c580c55f9d04&s=450x450)
+![Encantos do Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356351103.jpg?k=04a50f302104559db527b67efc0b7c6624b8492395d1ac6acc67904e1e61710b&s=50x50)
+![Encantos do Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356492890.jpg?k=65c40393d65b9057ae20a20bedb6af8b02a5f9edc3a976548977ebae1d26f82a&s=50x50)
+
+만약 여러분이 바닷가와 가까운 곳에서 최상의 휴식을 취하고 싶다면, 이곳은 정말 좋은 선택이에요. 호텔은 따뜻한 분위기가 가득하고 아름다운 자연 경관을 자랑해요. 다양한 객실 옵션이 있어 가족, 연인, 친구 누구와 와도 모두에게 어울려요. **조식**은 현지 음식과 다양한 선택의 폭을 자랑해요. 호텔에서 제공하는 **수영장**은 깨끗하고 잘 관리되어 있으며, 온 가족이 즐기기에 안성맞춤이에요. 또한, 근처에는 다양한 관광 명소가 있어 여러모로 즐거운 시간을 보낼 수 있어요. 호텔 직원들은 친절하고, 원하는 모든 요청에 신속하게 대응해줘요. 마치 오래된 친구처럼 다가와 편안하게 대해준답니다. 여러분이 휴가를 재충전하고 싶다면 이 호텔의 선택은 최고의 결정이에요. 잊을 수 없는 경험을 보장합니다. 
+
+이 호텔에는 특히 많은 **활동**들을 즐길 수 있는 장점도 있어요. 해변에서 서핑을 하거나, 물놀이를 즐기곤 하죠. 호텔에서는 **무료 와이파이**를 제공하여 휴가 중에 소중한 순간들을 소셜 미디어에 쉽게 공유할 수 있어요. 또한, 호텔 근처에는 다양한 레스토랑과 카페가 있어 현지 음식을 탐험하기에도 아주 좋아요. 밤은 편안한 침대에서 꿀잠을 자며 하루를 마무리해요. 이 호텔에서의 하루는 진정한 힐링 그 자체에요. 그리고 무엇보다 합리적인 가격과 높은 퀄리티로 더욱 매력적이에요.
+
+[Encantos do Lazaro](https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 우바투바의 낙원 같은 숙소
+Suite Lazaro
+    ![Suite Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/266306116.jpg?k=8f1b55a0553084942f93973606646903cc3944e74f97b52e5619784290fca13c&s=450x450)
+![Suite Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323228377.jpg?k=28f9a6df7431f72b38f2401d8ea3e4502355380ebf27430f574bd3f54a318e6e&s=50x50)
+![Suite Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323231557.jpg?k=f288ccc429bdd46af7b642cb0342290d25c72a793a24e516983a53e570cdf095&s=50x50)
+
+브라질의 아름다운 해안 마을, 우바투바에 위치한 이 호텔은 자연과 조화롭게 어우러진 휴식 공간이에요. 탁 트인 바다 전망과 푸른 숲이 어우러져, 마치 천국 같은 풍경이 펼쳐집니다. 호텔 주변에는 다양한 해양 활동을 즐길 수 있는 기회가 많아요. 서핑을 사랑하는 분들이나 조용히 해변을 거닐고 싶은 분들에게 더없이 좋은 선택이 될 거예요. 객실은 편안함과 현대적인 편의 시설을 모두 갖추고 있어, 여행의 피로를 깔끔히 풀어줄 수 있을 거예요. 아침마다 맛있는 조식이 제공되어 상쾌한 하루를 시작할 수 있는 것도 이 호텔만의 매력 중 하나랍니다.
+
+이 호텔은 높은 청결도와 친절한 서비스를 자랑해요. 하지만 무엇보다 사람들이 가장 좋아하는 점은 바로 호텔의 위치에요. 해변까지 도보로 이동할 수 있는 거리에 위치해 있어 언제든지 바다가 그리울 때 쉽게 접근할 수 있답니다. 또한, 호텔 근처에는 현지 특산물과 해산물을 맛볼 수 있는 맛집들이 즐비해 있어요. 바쁜 일상에서 벗어나 진정한 휴식을 찾고자 하는 당신에게 이 호텔은 완벽한 선택이 될 거예요. 가족, 커플 또는 혼자 여행을 떠나는 모든 분들께 추천하고 싶어요.
+
+[Suite Lazaro](https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 해변의 평화로움 속으로
+Pousada NAAN Lazaro Ubatuba
+    ![Pousada NAAN Lazaro Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387437966.jpg?k=c9dbab849f014a75c40c3c133bd3fe4a31f6095b29a12f2db5f85d1d7c70d291&s=450x450)
+![Pousada NAAN Lazaro Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/386208338.jpg?k=75ff8b0edc7c1942c9beec700f2c85e330ba244c169ef90260655d42bb19400d&s=50x50)
+![Pousada NAAN Lazaro Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387443709.jpg?k=d8268f065fc27b2bb7470788d7676d8a4164bd3991fabc60a325e48238b8e88c&s=50x50)
+
+브라질의 아름다운 Ubatuba에 위치한 이 숙소는 여행자들에게 정말 완벽한 선택이에요. 이곳에서는 자연과 밀착하며 그 편안함을 만끽할 수 있어요. 숙소에서 도보로 몇 분 거리에 있는 해변은 여행자들에게 마치 꿈같은 풍경을 제공합니다. 맑은 바다와 부드러운 모래사장이 기다리고 있어요. 무엇보다도, 이 호텔의 넓은 객실과 아늑한 분위기가 정말 인상적이에요. 입실할 때부터 친절한 직원들이 따뜻하게 맞아주니 정말 집에 온 것 같습니다. 아침 식사는 다양한 메뉴로 준비되어 있어요. *맛있는 아침 식사*는 활기찬 하루를 시작하는 데 딱이에요. 더욱이 주변에는 현지 음식을 맛볼 수 있는 멋진 레스토랑들이 많아서, 미식가들에게도 천국이에요. 여행이 끝날 때까지 이곳에서의 편안함을 잊지 못할 거예요.
+
+[Pousada NAAN Lazaro Ubatuba](https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+브라질 우바투바에서 잊지 못할 휴양을 계획하고 계신다면, 다양한 선택지가 기다리고 있습니다. *Hotel Nacional Inn Ubatuba - Praia das Toninhas*는 자연 속 진정한 휴식을 만끽할 수 있는 편안한 휴양지를 제공합니다. *Aldeia Da Lagoinha*는 가족 여행에 최적화된 아름다운 호텔로, 자연 속에서의 완벽한 휴식을 약속합니다. *Encantos do Lazaro*는 아름다운 자연 경관과 다양한 활동이 가능한 해변 휴양지로, 편안한 객실과 훌륭한 서비스로 잊을 수 없는 경험을 선사합니다. *Suite Lazaro*는 우바투바에서 자연과 어우러진 휴식을 누릴 수 있으며, 탁 트인 바다 전망과 다양한 해양 활동을 즐길 수 있는 완벽한 호텔입니다. 마지막으로 *Pousada NAAN Lazaro Ubatuba*는 아름다운 Ubatuba의 해변에 위치한 편안하고 아늑한 숙소입니다. 지금 바로 예약해서 우바투바의 아름다움을 만끽해보세요!
+
+10:T2d3c,
+    
+
+
+## 힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!
+
+안녕하세요. 달마야 여행가자의 달마입니다. 바쁜 일상에 지쳐 잠시라도 *휴식*이 필요하신가요? 아니면 새로운 곳에서의 *힐링*을 꿈꾸고 계신가요? 그렇다면 브라질의 아름다운 해변 도시 **우바투바**에서의 휴가는 어떠세요? 오늘은 여러분들께 특별히 추천드리고 싶은 우바투바의 멋진 호텔 다섯 곳을 준비했어요. 이 호텔들은 각기 다른 매력으로 가득 차 있어서 여러분의 다양한 취향을 모두 만족시킬 수 있을 거예요. 마음 편히 쉴 수 있는 조용한 호텔부터 인스타그램 감성 가득한 호텔까지, 다양한 선택지 속에서 나만의 완벽한 휴식을 찾아보세요. 지금부터 소개할 호텔들이 여러분의 바캉스를 더욱 특별하게 만들어 줄 거라고 자신합니다!
+
+
+## 평화로운 해변의 여유로운 휴식
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446797.jpg?k=44bc0dfa411bcef41a1e63025ec2b1ee6b7bef1dfff72d18781289c0c658729b&s=50x50)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464456970.jpg?k=ae8c824226522c15d45307ab26dde19a7ae42caf06805a8b3abc0f1f644fdfe6&s=50x50)
+
+바쁘게 돌아가는 일상을 뒤로하고 잠시나마 **진정한 휴식**을 만끽할 수 있는 해외여행지, 브라질 우바투바에 위치한 장소를 소개합니다. 이곳은 깨끗하고 넓은 해변가와 편안한 객실을 제공해 **열대의 낙원**에서 깊은 휴식을 취할 수 있는 기회를 제공합니다. 아침 햇살을 맞으며 시작하는 하루는 누구보다 여유롭고 상쾌하게 만들어줄 거예요.
+
+호텔 내 다양한 편의 시설들은 **여행의 질**을 더욱 높여줍니다. 멋진 야외 수영장과 바다를 바라보며 즐길 수 있는 고급 레스토랑, 그리고 세심한 서비스를 자랑하는 친절한 직원들까지 모두 만족스럽습니다. 특히 **가족 단위** 여행객들에게는 더할 나위 없는 선택지죠. 자연과 함께하는 여유로운 시간을 선사하는 이곳에서 브라질의 매력을 마음껏 느껴보세요.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 자연과 어우러진 휴양지
+Aldeia Da Lagoinha
+    ![Aldeia Da Lagoinha_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469445.jpg?k=70d327a510236dce49a52ecbcf91f49876fd6b855583474e960cefcd8e0e946c&s=450x450)
+![Aldeia Da Lagoinha_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74470301.jpg?k=4731e5240792439a0a6c37963b290488faf037961f7e21522d7113e327c34ee0&s=50x50)
+![Aldeia Da Lagoinha_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469341.jpg?k=9fbbfa76bd552a00035edb0a019b370ebe99933a311744c3fad8d7a6d08f3279&s=50x50)
+
+숲과 바다 사이에 위치한 Alagoas Pousada는 자연 속 진정한 휴식을 제공하는 곳이에요. 이곳은 파라다이스 라운지처럼 아름다운 풍경을 자랑하며, 매일 아침 맑은 공기와 함께 눈을 뜰 수 있는 멋진 공간이죠. 손님들은 넓고 깨끗한 객실과 정성스럽게 준비된 아침 식사를 특히 좋아하시더라고요. 또한 친절한 직원들이 여행의 즐거움을 한층 더해준답니다. 이런 세심한 서비스 덕분에 많은 손님들이 이곳에서의 시간을 소중하게 여기고 있어요. 조용하고 평화로운 분위기에서 마음껏 쉬다 가실 수 있을 거예요.
+
+알데이아 다라고이냐는 가족과 함께 오기에 최적의 장소예요. 아이들은 물론, 애완동물도 환영받는 이 호텔은 가족 단위 여행객들에게 특히 인기가 많아요. 주변의 아름다운 해변은 물론, 인근 관광지로의 접근성도 좋아 하루 종일 다양한 활동을 즐길 수 있어요. 저녁이 되면 호텔에서 제공하는 바비큐 파티로 하루를 마무리해보세요. 즐거운 추억을 만들 것이 분명하죠. 이곳에서의 편안한 휴식과 함께 자연의 아름다움을 만끽해보세요.
+
+[Aldeia Da Lagoinha](https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html)
+ 
+
+## 아름답고 편안한 해변 휴양지
+Encantos do Lazaro
+    ![Encantos do Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/499009400.jpg?k=dbfcc7866707b2a08a83b410f28480b80e05382c779ef4a99168c580c55f9d04&s=450x450)
+![Encantos do Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356351103.jpg?k=04a50f302104559db527b67efc0b7c6624b8492395d1ac6acc67904e1e61710b&s=50x50)
+![Encantos do Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356492890.jpg?k=65c40393d65b9057ae20a20bedb6af8b02a5f9edc3a976548977ebae1d26f82a&s=50x50)
+
+만약 여러분이 바닷가와 가까운 곳에서 최상의 휴식을 취하고 싶다면, 이곳은 정말 좋은 선택이에요. 호텔은 따뜻한 분위기가 가득하고 아름다운 자연 경관을 자랑해요. 다양한 객실 옵션이 있어 가족, 연인, 친구 누구와 와도 모두에게 어울려요. **조식**은 현지 음식과 다양한 선택의 폭을 자랑해요. 호텔에서 제공하는 **수영장**은 깨끗하고 잘 관리되어 있으며, 온 가족이 즐기기에 안성맞춤이에요. 또한, 근처에는 다양한 관광 명소가 있어 여러모로 즐거운 시간을 보낼 수 있어요. 호텔 직원들은 친절하고, 원하는 모든 요청에 신속하게 대응해줘요. 마치 오래된 친구처럼 다가와 편안하게 대해준답니다. 여러분이 휴가를 재충전하고 싶다면 이 호텔의 선택은 최고의 결정이에요. 잊을 수 없는 경험을 보장합니다. 
+
+이 호텔에는 특히 많은 **활동**들을 즐길 수 있는 장점도 있어요. 해변에서 서핑을 하거나, 물놀이를 즐기곤 하죠. 호텔에서는 **무료 와이파이**를 제공하여 휴가 중에 소중한 순간들을 소셜 미디어에 쉽게 공유할 수 있어요. 또한, 호텔 근처에는 다양한 레스토랑과 카페가 있어 현지 음식을 탐험하기에도 아주 좋아요. 밤은 편안한 침대에서 꿀잠을 자며 하루를 마무리해요. 이 호텔에서의 하루는 진정한 힐링 그 자체에요. 그리고 무엇보다 합리적인 가격과 높은 퀄리티로 더욱 매력적이에요.
+
+[Encantos do Lazaro](https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 우바투바의 낙원 같은 숙소
+Suite Lazaro
+    ![Suite Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/266306116.jpg?k=8f1b55a0553084942f93973606646903cc3944e74f97b52e5619784290fca13c&s=450x450)
+![Suite Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323228377.jpg?k=28f9a6df7431f72b38f2401d8ea3e4502355380ebf27430f574bd3f54a318e6e&s=50x50)
+![Suite Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323231557.jpg?k=f288ccc429bdd46af7b642cb0342290d25c72a793a24e516983a53e570cdf095&s=50x50)
+
+브라질의 아름다운 해안 마을, 우바투바에 위치한 이 호텔은 자연과 조화롭게 어우러진 휴식 공간이에요. 탁 트인 바다 전망과 푸른 숲이 어우러져, 마치 천국 같은 풍경이 펼쳐집니다. 호텔 주변에는 다양한 해양 활동을 즐길 수 있는 기회가 많아요. 서핑을 사랑하는 분들이나 조용히 해변을 거닐고 싶은 분들에게 더없이 좋은 선택이 될 거예요. 객실은 편안함과 현대적인 편의 시설을 모두 갖추고 있어, 여행의 피로를 깔끔히 풀어줄 수 있을 거예요. 아침마다 맛있는 조식이 제공되어 상쾌한 하루를 시작할 수 있는 것도 이 호텔만의 매력 중 하나랍니다.
+
+이 호텔은 높은 청결도와 친절한 서비스를 자랑해요. 하지만 무엇보다 사람들이 가장 좋아하는 점은 바로 호텔의 위치에요. 해변까지 도보로 이동할 수 있는 거리에 위치해 있어 언제든지 바다가 그리울 때 쉽게 접근할 수 있답니다. 또한, 호텔 근처에는 현지 특산물과 해산물을 맛볼 수 있는 맛집들이 즐비해 있어요. 바쁜 일상에서 벗어나 진정한 휴식을 찾고자 하는 당신에게 이 호텔은 완벽한 선택이 될 거예요. 가족, 커플 또는 혼자 여행을 떠나는 모든 분들께 추천하고 싶어요.
+
+[Suite Lazaro](https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 해변의 평화로움 속으로
+Pousada NAAN Lazaro Ubatuba
+    ![Pousada NAAN Lazaro Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387437966.jpg?k=c9dbab849f014a75c40c3c133bd3fe4a31f6095b29a12f2db5f85d1d7c70d291&s=450x450)
+![Pousada NAAN Lazaro Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/386208338.jpg?k=75ff8b0edc7c1942c9beec700f2c85e330ba244c169ef90260655d42bb19400d&s=50x50)
+![Pousada NAAN Lazaro Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387443709.jpg?k=d8268f065fc27b2bb7470788d7676d8a4164bd3991fabc60a325e48238b8e88c&s=50x50)
+
+브라질의 아름다운 Ubatuba에 위치한 이 숙소는 여행자들에게 정말 완벽한 선택이에요. 이곳에서는 자연과 밀착하며 그 편안함을 만끽할 수 있어요. 숙소에서 도보로 몇 분 거리에 있는 해변은 여행자들에게 마치 꿈같은 풍경을 제공합니다. 맑은 바다와 부드러운 모래사장이 기다리고 있어요. 무엇보다도, 이 호텔의 넓은 객실과 아늑한 분위기가 정말 인상적이에요. 입실할 때부터 친절한 직원들이 따뜻하게 맞아주니 정말 집에 온 것 같습니다. 아침 식사는 다양한 메뉴로 준비되어 있어요. *맛있는 아침 식사*는 활기찬 하루를 시작하는 데 딱이에요. 더욱이 주변에는 현지 음식을 맛볼 수 있는 멋진 레스토랑들이 많아서, 미식가들에게도 천국이에요. 여행이 끝날 때까지 이곳에서의 편안함을 잊지 못할 거예요.
+
+[Pousada NAAN Lazaro Ubatuba](https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+브라질 우바투바에서 잊지 못할 휴양을 계획하고 계신다면, 다양한 선택지가 기다리고 있습니다. *Hotel Nacional Inn Ubatuba - Praia das Toninhas*는 자연 속 진정한 휴식을 만끽할 수 있는 편안한 휴양지를 제공합니다. *Aldeia Da Lagoinha*는 가족 여행에 최적화된 아름다운 호텔로, 자연 속에서의 완벽한 휴식을 약속합니다. *Encantos do Lazaro*는 아름다운 자연 경관과 다양한 활동이 가능한 해변 휴양지로, 편안한 객실과 훌륭한 서비스로 잊을 수 없는 경험을 선사합니다. *Suite Lazaro*는 우바투바에서 자연과 어우러진 휴식을 누릴 수 있으며, 탁 트인 바다 전망과 다양한 해양 활동을 즐길 수 있는 완벽한 호텔입니다. 마지막으로 *Pousada NAAN Lazaro Ubatuba*는 아름다운 Ubatuba의 해변에 위치한 편안하고 아늑한 숙소입니다. 지금 바로 예약해서 우바투바의 아름다움을 만끽해보세요!
+
+11:T2d3c,
+    
+
+
+## 힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!
+
+안녕하세요. 달마야 여행가자의 달마입니다. 바쁜 일상에 지쳐 잠시라도 *휴식*이 필요하신가요? 아니면 새로운 곳에서의 *힐링*을 꿈꾸고 계신가요? 그렇다면 브라질의 아름다운 해변 도시 **우바투바**에서의 휴가는 어떠세요? 오늘은 여러분들께 특별히 추천드리고 싶은 우바투바의 멋진 호텔 다섯 곳을 준비했어요. 이 호텔들은 각기 다른 매력으로 가득 차 있어서 여러분의 다양한 취향을 모두 만족시킬 수 있을 거예요. 마음 편히 쉴 수 있는 조용한 호텔부터 인스타그램 감성 가득한 호텔까지, 다양한 선택지 속에서 나만의 완벽한 휴식을 찾아보세요. 지금부터 소개할 호텔들이 여러분의 바캉스를 더욱 특별하게 만들어 줄 거라고 자신합니다!
+
+
+## 평화로운 해변의 여유로운 휴식
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446797.jpg?k=44bc0dfa411bcef41a1e63025ec2b1ee6b7bef1dfff72d18781289c0c658729b&s=50x50)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464456970.jpg?k=ae8c824226522c15d45307ab26dde19a7ae42caf06805a8b3abc0f1f644fdfe6&s=50x50)
+
+바쁘게 돌아가는 일상을 뒤로하고 잠시나마 **진정한 휴식**을 만끽할 수 있는 해외여행지, 브라질 우바투바에 위치한 장소를 소개합니다. 이곳은 깨끗하고 넓은 해변가와 편안한 객실을 제공해 **열대의 낙원**에서 깊은 휴식을 취할 수 있는 기회를 제공합니다. 아침 햇살을 맞으며 시작하는 하루는 누구보다 여유롭고 상쾌하게 만들어줄 거예요.
+
+호텔 내 다양한 편의 시설들은 **여행의 질**을 더욱 높여줍니다. 멋진 야외 수영장과 바다를 바라보며 즐길 수 있는 고급 레스토랑, 그리고 세심한 서비스를 자랑하는 친절한 직원들까지 모두 만족스럽습니다. 특히 **가족 단위** 여행객들에게는 더할 나위 없는 선택지죠. 자연과 함께하는 여유로운 시간을 선사하는 이곳에서 브라질의 매력을 마음껏 느껴보세요.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 자연과 어우러진 휴양지
+Aldeia Da Lagoinha
+    ![Aldeia Da Lagoinha_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469445.jpg?k=70d327a510236dce49a52ecbcf91f49876fd6b855583474e960cefcd8e0e946c&s=450x450)
+![Aldeia Da Lagoinha_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74470301.jpg?k=4731e5240792439a0a6c37963b290488faf037961f7e21522d7113e327c34ee0&s=50x50)
+![Aldeia Da Lagoinha_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/74469341.jpg?k=9fbbfa76bd552a00035edb0a019b370ebe99933a311744c3fad8d7a6d08f3279&s=50x50)
+
+숲과 바다 사이에 위치한 Alagoas Pousada는 자연 속 진정한 휴식을 제공하는 곳이에요. 이곳은 파라다이스 라운지처럼 아름다운 풍경을 자랑하며, 매일 아침 맑은 공기와 함께 눈을 뜰 수 있는 멋진 공간이죠. 손님들은 넓고 깨끗한 객실과 정성스럽게 준비된 아침 식사를 특히 좋아하시더라고요. 또한 친절한 직원들이 여행의 즐거움을 한층 더해준답니다. 이런 세심한 서비스 덕분에 많은 손님들이 이곳에서의 시간을 소중하게 여기고 있어요. 조용하고 평화로운 분위기에서 마음껏 쉬다 가실 수 있을 거예요.
+
+알데이아 다라고이냐는 가족과 함께 오기에 최적의 장소예요. 아이들은 물론, 애완동물도 환영받는 이 호텔은 가족 단위 여행객들에게 특히 인기가 많아요. 주변의 아름다운 해변은 물론, 인근 관광지로의 접근성도 좋아 하루 종일 다양한 활동을 즐길 수 있어요. 저녁이 되면 호텔에서 제공하는 바비큐 파티로 하루를 마무리해보세요. 즐거운 추억을 만들 것이 분명하죠. 이곳에서의 편안한 휴식과 함께 자연의 아름다움을 만끽해보세요.
+
+[Aldeia Da Lagoinha](https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html)
+ 
+
+## 아름답고 편안한 해변 휴양지
+Encantos do Lazaro
+    ![Encantos do Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/499009400.jpg?k=dbfcc7866707b2a08a83b410f28480b80e05382c779ef4a99168c580c55f9d04&s=450x450)
+![Encantos do Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356351103.jpg?k=04a50f302104559db527b67efc0b7c6624b8492395d1ac6acc67904e1e61710b&s=50x50)
+![Encantos do Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/356492890.jpg?k=65c40393d65b9057ae20a20bedb6af8b02a5f9edc3a976548977ebae1d26f82a&s=50x50)
+
+만약 여러분이 바닷가와 가까운 곳에서 최상의 휴식을 취하고 싶다면, 이곳은 정말 좋은 선택이에요. 호텔은 따뜻한 분위기가 가득하고 아름다운 자연 경관을 자랑해요. 다양한 객실 옵션이 있어 가족, 연인, 친구 누구와 와도 모두에게 어울려요. **조식**은 현지 음식과 다양한 선택의 폭을 자랑해요. 호텔에서 제공하는 **수영장**은 깨끗하고 잘 관리되어 있으며, 온 가족이 즐기기에 안성맞춤이에요. 또한, 근처에는 다양한 관광 명소가 있어 여러모로 즐거운 시간을 보낼 수 있어요. 호텔 직원들은 친절하고, 원하는 모든 요청에 신속하게 대응해줘요. 마치 오래된 친구처럼 다가와 편안하게 대해준답니다. 여러분이 휴가를 재충전하고 싶다면 이 호텔의 선택은 최고의 결정이에요. 잊을 수 없는 경험을 보장합니다. 
+
+이 호텔에는 특히 많은 **활동**들을 즐길 수 있는 장점도 있어요. 해변에서 서핑을 하거나, 물놀이를 즐기곤 하죠. 호텔에서는 **무료 와이파이**를 제공하여 휴가 중에 소중한 순간들을 소셜 미디어에 쉽게 공유할 수 있어요. 또한, 호텔 근처에는 다양한 레스토랑과 카페가 있어 현지 음식을 탐험하기에도 아주 좋아요. 밤은 편안한 침대에서 꿀잠을 자며 하루를 마무리해요. 이 호텔에서의 하루는 진정한 힐링 그 자체에요. 그리고 무엇보다 합리적인 가격과 높은 퀄리티로 더욱 매력적이에요.
+
+[Encantos do Lazaro](https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 우바투바의 낙원 같은 숙소
+Suite Lazaro
+    ![Suite Lazaro_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/266306116.jpg?k=8f1b55a0553084942f93973606646903cc3944e74f97b52e5619784290fca13c&s=450x450)
+![Suite Lazaro_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323228377.jpg?k=28f9a6df7431f72b38f2401d8ea3e4502355380ebf27430f574bd3f54a318e6e&s=50x50)
+![Suite Lazaro_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323231557.jpg?k=f288ccc429bdd46af7b642cb0342290d25c72a793a24e516983a53e570cdf095&s=50x50)
+
+브라질의 아름다운 해안 마을, 우바투바에 위치한 이 호텔은 자연과 조화롭게 어우러진 휴식 공간이에요. 탁 트인 바다 전망과 푸른 숲이 어우러져, 마치 천국 같은 풍경이 펼쳐집니다. 호텔 주변에는 다양한 해양 활동을 즐길 수 있는 기회가 많아요. 서핑을 사랑하는 분들이나 조용히 해변을 거닐고 싶은 분들에게 더없이 좋은 선택이 될 거예요. 객실은 편안함과 현대적인 편의 시설을 모두 갖추고 있어, 여행의 피로를 깔끔히 풀어줄 수 있을 거예요. 아침마다 맛있는 조식이 제공되어 상쾌한 하루를 시작할 수 있는 것도 이 호텔만의 매력 중 하나랍니다.
+
+이 호텔은 높은 청결도와 친절한 서비스를 자랑해요. 하지만 무엇보다 사람들이 가장 좋아하는 점은 바로 호텔의 위치에요. 해변까지 도보로 이동할 수 있는 거리에 위치해 있어 언제든지 바다가 그리울 때 쉽게 접근할 수 있답니다. 또한, 호텔 근처에는 현지 특산물과 해산물을 맛볼 수 있는 맛집들이 즐비해 있어요. 바쁜 일상에서 벗어나 진정한 휴식을 찾고자 하는 당신에게 이 호텔은 완벽한 선택이 될 거예요. 가족, 커플 또는 혼자 여행을 떠나는 모든 분들께 추천하고 싶어요.
+
+[Suite Lazaro](https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html)
+ 
+
+## 해변의 평화로움 속으로
+Pousada NAAN Lazaro Ubatuba
+    ![Pousada NAAN Lazaro Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387437966.jpg?k=c9dbab849f014a75c40c3c133bd3fe4a31f6095b29a12f2db5f85d1d7c70d291&s=450x450)
+![Pousada NAAN Lazaro Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/386208338.jpg?k=75ff8b0edc7c1942c9beec700f2c85e330ba244c169ef90260655d42bb19400d&s=50x50)
+![Pousada NAAN Lazaro Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/387443709.jpg?k=d8268f065fc27b2bb7470788d7676d8a4164bd3991fabc60a325e48238b8e88c&s=50x50)
+
+브라질의 아름다운 Ubatuba에 위치한 이 숙소는 여행자들에게 정말 완벽한 선택이에요. 이곳에서는 자연과 밀착하며 그 편안함을 만끽할 수 있어요. 숙소에서 도보로 몇 분 거리에 있는 해변은 여행자들에게 마치 꿈같은 풍경을 제공합니다. 맑은 바다와 부드러운 모래사장이 기다리고 있어요. 무엇보다도, 이 호텔의 넓은 객실과 아늑한 분위기가 정말 인상적이에요. 입실할 때부터 친절한 직원들이 따뜻하게 맞아주니 정말 집에 온 것 같습니다. 아침 식사는 다양한 메뉴로 준비되어 있어요. *맛있는 아침 식사*는 활기찬 하루를 시작하는 데 딱이에요. 더욱이 주변에는 현지 음식을 맛볼 수 있는 멋진 레스토랑들이 많아서, 미식가들에게도 천국이에요. 여행이 끝날 때까지 이곳에서의 편안함을 잊지 못할 거예요.
+
+[Pousada NAAN Lazaro Ubatuba](https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+브라질 우바투바에서 잊지 못할 휴양을 계획하고 계신다면, 다양한 선택지가 기다리고 있습니다. *Hotel Nacional Inn Ubatuba - Praia das Toninhas*는 자연 속 진정한 휴식을 만끽할 수 있는 편안한 휴양지를 제공합니다. *Aldeia Da Lagoinha*는 가족 여행에 최적화된 아름다운 호텔로, 자연 속에서의 완벽한 휴식을 약속합니다. *Encantos do Lazaro*는 아름다운 자연 경관과 다양한 활동이 가능한 해변 휴양지로, 편안한 객실과 훌륭한 서비스로 잊을 수 없는 경험을 선사합니다. *Suite Lazaro*는 우바투바에서 자연과 어우러진 휴식을 누릴 수 있으며, 탁 트인 바다 전망과 다양한 해양 활동을 즐길 수 있는 완벽한 호텔입니다. 마지막으로 *Pousada NAAN Lazaro Ubatuba*는 아름다운 Ubatuba의 해변에 위치한 편안하고 아늑한 숙소입니다. 지금 바로 예약해서 우바투바의 아름다움을 만끽해보세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!"}],["$","data",null,{"children":"2024-08-29T08:13:38.730Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"남미"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"우바투바"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"애완동물"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"조용함"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"와이파이"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"활동"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"자연경관"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"청결"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"아름다움"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"친절함"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"아침식사"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"50e2ef7f","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 바쁜 일상에 지쳐 잠시라도 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"휴식"}],"이 필요하신가요? 아니면 새로운 곳에서의 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"힐링"}],"을 꿈꾸고 계신가요? 그렇다면 브라질의 아름다운 해변 도시 ",["$","strong",null,{"className":"font-black","children":"우바투바"}],"에서의 휴가는 어떠세요? 오늘은 여러분들께 특별히 추천드리고 싶은 우바투바의 멋진 호텔 다섯 곳을 준비했어요. 이 호텔들은 각기 다른 매력으로 가득 차 있어서 여러분의 다양한 취향을 모두 만족시킬 수 있을 거예요. 마음 편히 쉴 수 있는 조용한 호텔부터 인스타그램 감성 가득한 호텔까지, 다양한 선택지 속에서 나만의 완벽한 휴식을 찾아보세요. 지금부터 소개할 호텔들이 여러분의 바캉스를 더욱 특별하게 만들어 줄 거라고 자신합니다!"]}],"\n",["$","h2",null,{"id":"385c3e6a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"평화로운 해변의 여유로운 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Nacional Inn Ubatuba - Praia das Toninhas\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg","alt":"Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/464446797.jpg?k=44bc0dfa411bcef41a1e63025ec2b1ee6b7bef1dfff72d18781289c0c658729b&s=50x50","alt":"Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/464456970.jpg?k=ae8c824226522c15d45307ab26dde19a7ae42caf06805a8b3abc0f1f644fdfe6&s=50x50","alt":"Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["바쁘게 돌아가는 일상을 뒤로하고 잠시나마 ",["$","strong",null,{"className":"font-black","children":"진정한 휴식"}],"을 만끽할 수 있는 해외여행지, 브라질 우바투바에 위치한 장소를 소개합니다. 이곳은 깨끗하고 넓은 해변가와 편안한 객실을 제공해 ",["$","strong",null,{"className":"font-black","children":"열대의 낙원"}],"에서 깊은 휴식을 취할 수 있는 기회를 제공합니다. 아침 햇살을 맞으며 시작하는 하루는 누구보다 여유롭고 상쾌하게 만들어줄 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["호텔 내 다양한 편의 시설들은 ",["$","strong",null,{"className":"font-black","children":"여행의 질"}],"을 더욱 높여줍니다. 멋진 야외 수영장과 바다를 바라보며 즐길 수 있는 고급 레스토랑, 그리고 세심한 서비스를 자랑하는 친절한 직원들까지 모두 만족스럽습니다. 특히 ",["$","strong",null,{"className":"font-black","children":"가족 단위"}]," 여행객들에게는 더할 나위 없는 선택지죠. 자연과 함께하는 여유로운 시간을 선사하는 이곳에서 브라질의 매력을 마음껏 느껴보세요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Hotel Nacional Inn Ubatuba - Praia das Toninhas","position":{"start":{"line":20,"column":2,"offset":1406},"end":{"line":20,"column":49,"offset":1453}}}],"position":{"start":{"line":20,"column":1,"offset":1405},"end":{"line":20,"column":139,"offset":1543}}},"children":"Hotel Nacional Inn Ubatuba - Praia das Toninhas"},"post":{"id":"ad553bcd-89a3-4483-a795-830e718d5b7c","title":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","fileName":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","description":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!","date":"2024-08-29T08:13:38.730Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"우바투바","path":"$$/kr/tags/우바투바","id":"우바투바"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"애완동물","path":"$$/kr/tags/애완동물","id":"애완동물"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"와이파이","path":"$$/kr/tags/와이파이","id":"와이파이"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"아름다움","path":"$$/kr/tags/아름다움","id":"아름다움"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","content":"$d","category":"articles","readMin":"8.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"66edfdf8","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"자연과 어우러진 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Aldeia Da Lagoinha\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/74469445.jpg?k=70d327a510236dce49a52ecbcf91f49876fd6b855583474e960cefcd8e0e946c&s=450x450","alt":"Aldeia Da Lagoinha_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/74470301.jpg?k=4731e5240792439a0a6c37963b290488faf037961f7e21522d7113e327c34ee0&s=50x50","alt":"Aldeia Da Lagoinha_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/74469341.jpg?k=9fbbfa76bd552a00035edb0a019b370ebe99933a311744c3fad8d7a6d08f3279&s=50x50","alt":"Aldeia Da Lagoinha_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"숲과 바다 사이에 위치한 Alagoas Pousada는 자연 속 진정한 휴식을 제공하는 곳이에요. 이곳은 파라다이스 라운지처럼 아름다운 풍경을 자랑하며, 매일 아침 맑은 공기와 함께 눈을 뜰 수 있는 멋진 공간이죠. 손님들은 넓고 깨끗한 객실과 정성스럽게 준비된 아침 식사를 특히 좋아하시더라고요. 또한 친절한 직원들이 여행의 즐거움을 한층 더해준답니다. 이런 세심한 서비스 덕분에 많은 손님들이 이곳에서의 시간을 소중하게 여기고 있어요. 조용하고 평화로운 분위기에서 마음껏 쉬다 가실 수 있을 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"알데이아 다라고이냐는 가족과 함께 오기에 최적의 장소예요. 아이들은 물론, 애완동물도 환영받는 이 호텔은 가족 단위 여행객들에게 특히 인기가 많아요. 주변의 아름다운 해변은 물론, 인근 관광지로의 접근성도 좋아 하루 종일 다양한 활동을 즐길 수 있어요. 저녁이 되면 호텔에서 제공하는 바비큐 파티로 하루를 마무리해보세요. 즐거운 추억을 만들 것이 분명하죠. 이곳에서의 편안한 휴식과 함께 자연의 아름다움을 만끽해보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/aldeia-da-lagoinha/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Aldeia Da Lagoinha","position":{"start":{"line":33,"column":2,"offset":2619},"end":{"line":33,"column":20,"offset":2637}}}],"position":{"start":{"line":33,"column":1,"offset":2618},"end":{"line":33,"column":89,"offset":2706}}},"children":"Aldeia Da Lagoinha"},"post":{"id":"ad553bcd-89a3-4483-a795-830e718d5b7c","title":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","fileName":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","description":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!","date":"2024-08-29T08:13:38.730Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"우바투바","path":"$$/kr/tags/우바투바","id":"우바투바"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"애완동물","path":"$$/kr/tags/애완동물","id":"애완동물"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"와이파이","path":"$$/kr/tags/와이파이","id":"와이파이"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"아름다움","path":"$$/kr/tags/아름다움","id":"아름다움"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","content":"$e","category":"articles","readMin":"8.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"6ca89c92","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"아름답고 편안한 해변 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Encantos do Lazaro\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/499009400.jpg?k=dbfcc7866707b2a08a83b410f28480b80e05382c779ef4a99168c580c55f9d04&s=450x450","alt":"Encantos do Lazaro_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/356351103.jpg?k=04a50f302104559db527b67efc0b7c6624b8492395d1ac6acc67904e1e61710b&s=50x50","alt":"Encantos do Lazaro_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/356492890.jpg?k=65c40393d65b9057ae20a20bedb6af8b02a5f9edc3a976548977ebae1d26f82a&s=50x50","alt":"Encantos do Lazaro_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["만약 여러분이 바닷가와 가까운 곳에서 최상의 휴식을 취하고 싶다면, 이곳은 정말 좋은 선택이에요. 호텔은 따뜻한 분위기가 가득하고 아름다운 자연 경관을 자랑해요. 다양한 객실 옵션이 있어 가족, 연인, 친구 누구와 와도 모두에게 어울려요. ",["$","strong",null,{"className":"font-black","children":"조식"}],"은 현지 음식과 다양한 선택의 폭을 자랑해요. 호텔에서 제공하는 ",["$","strong",null,{"className":"font-black","children":"수영장"}],"은 깨끗하고 잘 관리되어 있으며, 온 가족이 즐기기에 안성맞춤이에요. 또한, 근처에는 다양한 관광 명소가 있어 여러모로 즐거운 시간을 보낼 수 있어요. 호텔 직원들은 친절하고, 원하는 모든 요청에 신속하게 대응해줘요. 마치 오래된 친구처럼 다가와 편안하게 대해준답니다. 여러분이 휴가를 재충전하고 싶다면 이 호텔의 선택은 최고의 결정이에요. 잊을 수 없는 경험을 보장합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 호텔에는 특히 많은 ",["$","strong",null,{"className":"font-black","children":"활동"}],"들을 즐길 수 있는 장점도 있어요. 해변에서 서핑을 하거나, 물놀이를 즐기곤 하죠. 호텔에서는 ",["$","strong",null,{"className":"font-black","children":"무료 와이파이"}],"를 제공하여 휴가 중에 소중한 순간들을 소셜 미디어에 쉽게 공유할 수 있어요. 또한, 호텔 근처에는 다양한 레스토랑과 카페가 있어 현지 음식을 탐험하기에도 아주 좋아요. 밤은 편안한 침대에서 꿀잠을 자며 하루를 마무리해요. 이 호텔에서의 하루는 진정한 힐링 그 자체에요. 그리고 무엇보다 합리적인 가격과 높은 퀄리티로 더욱 매력적이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/encantos-do-lazaro/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Encantos do Lazaro","position":{"start":{"line":46,"column":2,"offset":3937},"end":{"line":46,"column":20,"offset":3955}}}],"position":{"start":{"line":46,"column":1,"offset":3936},"end":{"line":46,"column":89,"offset":4024}}},"children":"Encantos do Lazaro"},"post":{"id":"ad553bcd-89a3-4483-a795-830e718d5b7c","title":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","fileName":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","description":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!","date":"2024-08-29T08:13:38.730Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"우바투바","path":"$$/kr/tags/우바투바","id":"우바투바"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"애완동물","path":"$$/kr/tags/애완동물","id":"애완동물"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"와이파이","path":"$$/kr/tags/와이파이","id":"와이파이"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"아름다움","path":"$$/kr/tags/아름다움","id":"아름다움"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","content":"$f","category":"articles","readMin":"8.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"d8559e1a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"우바투바의 낙원 같은 숙소"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Suite Lazaro\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/266306116.jpg?k=8f1b55a0553084942f93973606646903cc3944e74f97b52e5619784290fca13c&s=450x450","alt":"Suite Lazaro_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/323228377.jpg?k=28f9a6df7431f72b38f2401d8ea3e4502355380ebf27430f574bd3f54a318e6e&s=50x50","alt":"Suite Lazaro_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/323231557.jpg?k=f288ccc429bdd46af7b642cb0342290d25c72a793a24e516983a53e570cdf095&s=50x50","alt":"Suite Lazaro_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브라질의 아름다운 해안 마을, 우바투바에 위치한 이 호텔은 자연과 조화롭게 어우러진 휴식 공간이에요. 탁 트인 바다 전망과 푸른 숲이 어우러져, 마치 천국 같은 풍경이 펼쳐집니다. 호텔 주변에는 다양한 해양 활동을 즐길 수 있는 기회가 많아요. 서핑을 사랑하는 분들이나 조용히 해변을 거닐고 싶은 분들에게 더없이 좋은 선택이 될 거예요. 객실은 편안함과 현대적인 편의 시설을 모두 갖추고 있어, 여행의 피로를 깔끔히 풀어줄 수 있을 거예요. 아침마다 맛있는 조식이 제공되어 상쾌한 하루를 시작할 수 있는 것도 이 호텔만의 매력 중 하나랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 호텔은 높은 청결도와 친절한 서비스를 자랑해요. 하지만 무엇보다 사람들이 가장 좋아하는 점은 바로 호텔의 위치에요. 해변까지 도보로 이동할 수 있는 거리에 위치해 있어 언제든지 바다가 그리울 때 쉽게 접근할 수 있답니다. 또한, 호텔 근처에는 현지 특산물과 해산물을 맛볼 수 있는 맛집들이 즐비해 있어요. 바쁜 일상에서 벗어나 진정한 휴식을 찾고자 하는 당신에게 이 호텔은 완벽한 선택이 될 거예요. 가족, 커플 또는 혼자 여행을 떠나는 모든 분들께 추천하고 싶어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/suite-lazaro/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Suite Lazaro","position":{"start":{"line":59,"column":2,"offset":5132},"end":{"line":59,"column":14,"offset":5144}}}],"position":{"start":{"line":59,"column":1,"offset":5131},"end":{"line":59,"column":77,"offset":5207}}},"children":"Suite Lazaro"},"post":{"id":"ad553bcd-89a3-4483-a795-830e718d5b7c","title":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","fileName":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","description":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!","date":"2024-08-29T08:13:38.730Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"우바투바","path":"$$/kr/tags/우바투바","id":"우바투바"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"애완동물","path":"$$/kr/tags/애완동물","id":"애완동물"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"와이파이","path":"$$/kr/tags/와이파이","id":"와이파이"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"아름다움","path":"$$/kr/tags/아름다움","id":"아름다움"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","content":"$10","category":"articles","readMin":"8.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"6aca86c5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변의 평화로움 속으로"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Pousada NAAN Lazaro Ubatuba\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/387437966.jpg?k=c9dbab849f014a75c40c3c133bd3fe4a31f6095b29a12f2db5f85d1d7c70d291&s=450x450","alt":"Pousada NAAN Lazaro Ubatuba_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/386208338.jpg?k=75ff8b0edc7c1942c9beec700f2c85e330ba244c169ef90260655d42bb19400d&s=50x50","alt":"Pousada NAAN Lazaro Ubatuba_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/387443709.jpg?k=d8268f065fc27b2bb7470788d7676d8a4164bd3991fabc60a325e48238b8e88c&s=50x50","alt":"Pousada NAAN Lazaro Ubatuba_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브라질의 아름다운 Ubatuba에 위치한 이 숙소는 여행자들에게 정말 완벽한 선택이에요. 이곳에서는 자연과 밀착하며 그 편안함을 만끽할 수 있어요. 숙소에서 도보로 몇 분 거리에 있는 해변은 여행자들에게 마치 꿈같은 풍경을 제공합니다. 맑은 바다와 부드러운 모래사장이 기다리고 있어요. 무엇보다도, 이 호텔의 넓은 객실과 아늑한 분위기가 정말 인상적이에요. 입실할 때부터 친절한 직원들이 따뜻하게 맞아주니 정말 집에 온 것 같습니다. 아침 식사는 다양한 메뉴로 준비되어 있어요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"맛있는 아침 식사"}],"는 활기찬 하루를 시작하는 데 딱이에요. 더욱이 주변에는 현지 음식을 맛볼 수 있는 멋진 레스토랑들이 많아서, 미식가들에게도 천국이에요. 여행이 끝날 때까지 이곳에서의 편안함을 잊지 못할 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/pousada-naan-lazaro-ubatuba/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Pousada NAAN Lazaro Ubatuba","position":{"start":{"line":70,"column":2,"offset":6193},"end":{"line":70,"column":29,"offset":6220}}}],"position":{"start":{"line":70,"column":1,"offset":6192},"end":{"line":70,"column":107,"offset":6298}}},"children":"Pousada NAAN Lazaro Ubatuba"},"post":{"id":"ad553bcd-89a3-4483-a795-830e718d5b7c","title":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","fileName":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","description":"열대의 낙원, 우바투바에서 힐링과 휴식을 경험해보세요. Nacional Inn Ubatuba Praia Das Toninhas는 아름다운 해변과 가까운 위치로 자연과 하나되는 시간을 제공합니다. 가족 여행에 적합한 Aldeia Da Lagoinha는 아이들과의 즐거운 시간을 선사하며, Encantos Do Lazaro는 럭셔리한 휴식을 원하는 분들에게 추천합니다. Suite Lazaro는 커플들에게 완벽한 로맨틱한 공간을 제공하며, Pousada Naan Lazaro Ubatuba는 조용하고 평화로운 휴식을 원하는 여행자들에게 안성맞춤입니다. 지금 바로 우바투바 호텔을 예약하고 꿈 같은 휴가를 즐겨보세요!","date":"2024-08-29T08:13:38.730Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"우바투바","path":"$$/kr/tags/우바투바","id":"우바투바"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"애완동물","path":"$$/kr/tags/애완동물","id":"애완동물"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"와이파이","path":"$$/kr/tags/와이파이","id":"와이파이"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"아름다움","path":"$$/kr/tags/아름다움","id":"아름다움"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"힐링과-휴식이-공존하는-우바투바-호텔-5곳-내-취향-저격-ad553bcd","content":"$11","category":"articles","readMin":"8.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브라질 우바투바에서 잊지 못할 휴양을 계획하고 계신다면, 다양한 선택지가 기다리고 있습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Hotel Nacional Inn Ubatuba - Praia das Toninhas"}],"는 자연 속 진정한 휴식을 만끽할 수 있는 편안한 휴양지를 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Aldeia Da Lagoinha"}],"는 가족 여행에 최적화된 아름다운 호텔로, 자연 속에서의 완벽한 휴식을 약속합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Encantos do Lazaro"}],"는 아름다운 자연 경관과 다양한 활동이 가능한 해변 휴양지로, 편안한 객실과 훌륭한 서비스로 잊을 수 없는 경험을 선사합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Suite Lazaro"}],"는 우바투바에서 자연과 어우러진 휴식을 누릴 수 있으며, 탁 트인 바다 전망과 다양한 해양 활동을 즐길 수 있는 완벽한 호텔입니다. 마지막으로 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Pousada NAAN Lazaro Ubatuba"}],"는 아름다운 Ubatuba의 해변에 위치한 편안하고 아늑한 숙소입니다. 지금 바로 예약해서 우바투바의 아름다움을 만끽해보세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","toc":[{"tagName":"h2","title":"힐링과 휴식이 공존하는 우바투바 호텔 5곳, 내 취향 저격!","id":"50e2ef7f"},{"tagName":"h2","title":"평화로운 해변의 여유로운 휴식","id":"385c3e6a"},{"tagName":"h2","title":"자연과 어우러진 휴양지","id":"66edfdf8"},{"tagName":"h2","title":"아름답고 편안한 해변 휴양지","id":"6ca89c92"},{"tagName":"h2","title":"우바투바의 낙원 같은 숙소","id":"d8559e1a"},{"tagName":"h2","title":"해변의 평화로움 속으로","id":"6aca86c5"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

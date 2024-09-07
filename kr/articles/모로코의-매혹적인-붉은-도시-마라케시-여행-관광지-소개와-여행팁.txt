@@ -1,0 +1,166 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EB%AA%A8%EB%A1%9C%EC%BD%94%EC%9D%98-%EB%A7%A4%ED%98%B9%EC%A0%81%EC%9D%B8-%EB%B6%89%EC%9D%80-%EB%8F%84%EC%8B%9C-%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EC%97%AC%ED%96%89-%EA%B4%80%EA%B4%91%EC%A7%80-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%97%AC%ED%96%89%ED%8C%81","d"],{"children":["__PAGE__?{\"slug\":\"모로코의-매혹적인-붉은-도시-마라케시-여행-관광지-소개와-여행팁\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EB%AA%A8%EB%A1%9C%EC%BD%94%EC%9D%98-%EB%A7%A4%ED%98%B9%EC%A0%81%EC%9D%B8-%EB%B6%89%EC%9D%80-%EB%8F%84%EC%8B%9C-%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EC%97%AC%ED%96%89-%EA%B4%80%EA%B4%91%EC%A7%80-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%97%AC%ED%96%89%ED%8C%81","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"모로코의-매혹적인-붉은-도시-마라케시-여행-관광지-소개와-여행팁\"}"},"styles":[]}],"segment":["slug","%EB%AA%A8%EB%A1%9C%EC%BD%94%EC%9D%98-%EB%A7%A4%ED%98%B9%EC%A0%81%EC%9D%B8-%EB%B6%89%EC%9D%80-%EB%8F%84%EC%8B%9C-%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EC%97%AC%ED%96%89-%EA%B4%80%EA%B4%91%EC%A7%80-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%97%AC%ED%96%89%ED%8C%81","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"마라케시 여행 가이드, 제마 엘 프나 광장, 쿠투비아 모스크, 바히아 궁전, 메나라 정원, 마조렐 정원, 마라케시 수크, 사디안 무덤 등 주요 명소와 여행 팁을 소개합니다."}],["$","meta","3",{"name":"keywords","content":"마라케시,관광지,제마 엘 프나,쿠투비아 모스크,모로코,바히아 궁전,메나라 정원"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EB%AA%A8%EB%A1%9C%EC%BD%94%EC%9D%98-%EB%A7%A4%ED%98%B9%EC%A0%81%EC%9D%B8-%EB%B6%89%EC%9D%80-%EB%8F%84%EC%8B%9C-%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EC%97%AC%ED%96%89-%EA%B4%80%EA%B4%91%EC%A7%80-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%97%AC%ED%96%89%ED%8C%81"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"마라케시 여행 가이드, 제마 엘 프나 광장, 쿠투비아 모스크, 바히아 궁전, 메나라 정원, 마조렐 정원, 마라케시 수크, 사디안 무덤 등 주요 명소와 여행 팁을 소개합니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EB%AA%A8%EB%A1%9C%EC%BD%94%EC%9D%98-%EB%A7%A4%ED%98%B9%EC%A0%81%EC%9D%B8-%EB%B6%89%EC%9D%80-%EB%8F%84%EC%8B%9C-%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EC%97%AC%ED%96%89-%EA%B4%80%EA%B4%91%EC%A7%80-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%97%AC%ED%96%89%ED%8C%81"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"마라케시 여행 가이드, 제마 엘 프나 광장, 쿠투비아 모스크, 바히아 궁전, 메나라 정원, 마조렐 정원, 마라케시 수크, 사디안 무덤 등 주요 명소와 여행 팁을 소개합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+f:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T20df,
+## 마라케시 여행: 모로코의 매혹적인 붉은 도시
+
+마라케시는 모로코의 대표적인 여행지 중 하나로, 붉은 벽돌과 전통적인 건축 양식이 어우러진 아름다운 도시입니다. ‘붉은 도시’라는 별명으로 불리는 마라케시는 풍부한 역사와 문화, 그리고 다양한 관광 명소로 여행자들의 마음을 사로잡습니다. 이 글에서는 마라케시의 주요 관광지와 여행 팁을 소개합니다.
+
+### 1. 제마 엘 프나 광장 (Jemaa el-Fnaa)
+
+![제마 엘 프나 광장](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Djemaa_el_Fna.jpg/2880px-Djemaa_el_Fna.jpg)
+
+마라케시의 심장부에 위치한 제마 엘 프나 광장은 낮과 밤이 서로 다른 매력을 지니고 있습니다. 낮에는 다양한 상인들이 모여들어 각종 수공예품, 향신료, 전통 의상 등을 판매하며 활기찬 시장이 열립니다. 특히, 마라케시의 특산물인 아르간 오일과 카펫을 구경하고 구입할 수 있는 좋은 기회입니다.
+
+밤이 되면 광장은 더욱 활기를 띱니다. 거리 공연자들이 등장하여 음악, 춤, 곡예 등을 선보이고, 노점상에서는 전통 음식과 음료를 맛볼 수 있습니다. 꼭 맛봐야 할 음식으로는 모로코식 꼬치구이인 ‘타진(Tajine)’과 전통 찻집에서 마실 수 있는 ‘모로칸 민트 티’가 있습니다. 제마 엘 프나 광장은 마라케시의 진정한 매력을 느낄 수 있는 곳으로, 여행자들에게 강력히 추천합니다.
+
+### 2. 쿠투비아 모스크 (Koutoubia Mosque)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/4/49/Marokko0112_%28retouched%29.jpg)
+
+쿠투비아 모스크는 마라케시의 랜드마크 중 하나로, 12세기에 지어진 아름다운 모스크입니다. 모스크의 높은 미나렛(탑)은 도심 어디서든 쉽게 볼 수 있으며, 특히 야경이 아름답습니다. 쿠투비아 모스크는 비무슬림에게는 내부 출입이 제한되지만, 외부에서 보는 것만으로도 그 웅장함을 느낄 수 있습니다.
+
+### 3. 바히아 궁전 (Palais de la Bahia)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahia_Palace_large_court.jpg/500px-Bahia_Palace_large_court.jpg)
+
+바히아 궁전은 19세기에 지어진 궁전으로, 마라케시의 아름다운 전통 건축 양식을 감상할 수 있는 곳입니다. 넓은 정원과 화려한 장식이 돋보이며, 각 방마다 독특한 모자이크와 조각이 있습니다. 궁전 내부를 돌아보며 마라케시의 역사와 문화를 느낄 수 있습니다.
+
+### 4. 메나라 정원 (Menara Gardens)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg)
+
+도심에서 약간 떨어진 곳에 위치한 메나라 정원은 아름다운 올리브 나무와 인공 연못으로 유명합니다. 이곳은 한적하게 산책을 즐기거나 피크닉을 하기 좋은 장소입니다. 메나라 정원의 연못은 아틀라스 산맥을 배경으로 한 사진 촬영 명소로도 인기가 많습니다.
+
+### 5. 마조렐 정원 (Jardin Majorelle)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Le_jardin_des_majorelle_40.JPG/500px-Le_jardin_des_majorelle_40.JPG)
+
+프랑스 화가 자크 마조렐이 만든 마조렐 정원은 다채로운 색감과 이국적인 식물들로 가득합니다. 이곳은 이브 생 로랑이 사랑한 정원으로도 알려져 있으며, 방문객들은 다양한 선인장과 아름다운 분수를 감상할 수 있습니다. 마조렐 정원 내에는 베르베르 박물관이 있어, 베르베르 문화와 예술에 대해 배울 수 있습니다.
+
+### 6. 마라케시 수크 (Souk)
+
+![[마라케시시장.jpg]]
+
+마라케시의 수크는 전통 시장으로, 좁은 골목길을 따라 다양한 상점들이 늘어서 있습니다. 이곳에서는 전통 수공예품, 향신료, 가죽 제품, 카펫 등을 구입할 수 있으며, 흥정을 통해 저렴한 가격에 물건을 살 수 있습니다. 수크를 돌아다니며 현지인들과 교류하고, 마라케시의 독특한 분위기를 만끽해보세요.
+
+### 7. 사디안 무덤 (Saadian Tombs)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saadian_Tombs_1044-HDR.jpg/500px-Saadian_Tombs_1044-HDR.jpg)
+
+사디안 무덤은 16세기 사디안 왕조의 무덤으로, 아름다운 장식과 정교한 건축 양식이 돋보입니다. 이곳은 오랜 시간 동안 잊혀져 있다가 20세기에 재발견되어 많은 사람들에게 공개되었습니다. 사디안 무덤을 방문하면, 마라케시의 역사와 왕조의 영광을 엿볼 수 있습니다.
+
+## 호텔 예약시 주의사항
+
+마라케시에서 호텔을 예약할 때는 몇 가지 중요한 사항을 고려하면 좋습니다. 먼저 주요 관광지와의 거리와 교통 편의성을 확인해보세요. 전통적인 리아드와 현대식 호텔 중 취향에 맞는 숙소를 선택하시고, 호텔의 보안 시스템과 주변 환경의 안전성도 리뷰를 통해 확인해보세요. 예산에 맞는 호텔을 선택하고, 추가 요금이 있는지 미리 체크하는 것이 좋습니다. 에어컨, Wi-Fi 등의 기본 편의 시설이 잘 갖춰져 있는지 확인하시고, 필요한 부대 시설이 있는지도 고려해보세요. 마지막으로 취소 정책과 체크인/체크아웃 시간을 미리 확인하여 여행 일정에 차질이 없도록 하세요. 이러한 주의사항을 잘 고려하면, 편안하고 즐거운 마라케시 여행을 할 수 있습니다. 제가 이전에 소개했던 마라케시 글을 참고하시면 좋습니다.
+
+[마라케시 고급 럭셔리 호텔 소개](https://dalmapping./com/articles/마라케시-꿈같은-휴식-럭셔리-호텔-5선)
+
+[마라케시 오래 머무르기 편한 호텔 소개](https://dalmapping./com/articles/마라케시-호텔-추천-5곳)
+
+## 여행 팁
+
+### 교통
+
+마라케시에서는 택시를 이용하는 것이 가장 편리합니다. 택시를 이용할 때는 미터기를 사용하지 않는 경우가 많으므로, 목적지에 도착하기 전에 가격을 미리 협상하는 것이 좋습니다. 또한, 택시를 탈 때는 작은 동전이나 지폐를 준비해 두는 것이 편리합니다. 도심 내에서는 도보로 이동하기에도 적합하므로, 편한 신발을 준비해 두면 좋습니다. 도보로 도시를 돌아다니며 다양한 골목길과 숨겨진 명소들을 발견하는 재미가 있습니다.
+
+### 언어
+
+마라케시에서는 주로 아랍어와 베르베르어가 사용되지만, 관광지에서는 프랑스어와 영어도 널리 통용됩니다. 주요 관광지나 호텔에서는 영어로 의사소통이 가능하므로 큰 어려움 없이 여행할 수 있습니다. 하지만 현지인들과 소통할 때 기본적인 프랑스어나 아랍어 인사말을 배우면 더욱 친근한 분위기를 만들 수 있습니다.
+
+### 안전
+
+마라케시는 비교적 안전한 도시이지만, 여행 중에는 소지품을 주의하는 것이 중요합니다. 특히 혼잡한 시장이나 관광지에서는 소매치기를 조심해야 합니다. 귀중품은 호텔 금고에 보관하고, 필요한 최소한의 물건만 가지고 다니는 것이 좋습니다. 또한, 낯선 사람과의 과도한 교류는 피하고, 가급적이면 단체로 이동하는 것이 안전합니다. 밤에는 혼자 다니지 않는 것이 좋습니다.
+
+### 기후
+
+마라케시는 사막 기후로 여름에는 매우 덥고 건조합니다. 따라서 여행을 계획할 때는 봄과 가을이 가장 적합한 시기입니다. 이때는 날씨가 온화하고 쾌적하여 관광하기 좋습니다. 겨울에도 비교적 온화한 날씨를 즐길 수 있지만, 저녁에는 기온이 떨어질 수 있으므로 얇은 겉옷을 준비하는 것이 좋습니다. 여름에 방문할 경우, 모자와 선크림, 충분한 물을 챙겨야 합니다.
+
+마라케시는 그 독특한 매력과 다채로운 문화로 여행자들에게 잊을 수 없는 경험을 선사합니다. 붉은 도시의 아름다움과 따뜻한 사람들의 환대를 느끼며, 마라케시에서 특별한 추억을 만들어보세요.
+e:T20df,
+## 마라케시 여행: 모로코의 매혹적인 붉은 도시
+
+마라케시는 모로코의 대표적인 여행지 중 하나로, 붉은 벽돌과 전통적인 건축 양식이 어우러진 아름다운 도시입니다. ‘붉은 도시’라는 별명으로 불리는 마라케시는 풍부한 역사와 문화, 그리고 다양한 관광 명소로 여행자들의 마음을 사로잡습니다. 이 글에서는 마라케시의 주요 관광지와 여행 팁을 소개합니다.
+
+### 1. 제마 엘 프나 광장 (Jemaa el-Fnaa)
+
+![제마 엘 프나 광장](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Djemaa_el_Fna.jpg/2880px-Djemaa_el_Fna.jpg)
+
+마라케시의 심장부에 위치한 제마 엘 프나 광장은 낮과 밤이 서로 다른 매력을 지니고 있습니다. 낮에는 다양한 상인들이 모여들어 각종 수공예품, 향신료, 전통 의상 등을 판매하며 활기찬 시장이 열립니다. 특히, 마라케시의 특산물인 아르간 오일과 카펫을 구경하고 구입할 수 있는 좋은 기회입니다.
+
+밤이 되면 광장은 더욱 활기를 띱니다. 거리 공연자들이 등장하여 음악, 춤, 곡예 등을 선보이고, 노점상에서는 전통 음식과 음료를 맛볼 수 있습니다. 꼭 맛봐야 할 음식으로는 모로코식 꼬치구이인 ‘타진(Tajine)’과 전통 찻집에서 마실 수 있는 ‘모로칸 민트 티’가 있습니다. 제마 엘 프나 광장은 마라케시의 진정한 매력을 느낄 수 있는 곳으로, 여행자들에게 강력히 추천합니다.
+
+### 2. 쿠투비아 모스크 (Koutoubia Mosque)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/4/49/Marokko0112_%28retouched%29.jpg)
+
+쿠투비아 모스크는 마라케시의 랜드마크 중 하나로, 12세기에 지어진 아름다운 모스크입니다. 모스크의 높은 미나렛(탑)은 도심 어디서든 쉽게 볼 수 있으며, 특히 야경이 아름답습니다. 쿠투비아 모스크는 비무슬림에게는 내부 출입이 제한되지만, 외부에서 보는 것만으로도 그 웅장함을 느낄 수 있습니다.
+
+### 3. 바히아 궁전 (Palais de la Bahia)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahia_Palace_large_court.jpg/500px-Bahia_Palace_large_court.jpg)
+
+바히아 궁전은 19세기에 지어진 궁전으로, 마라케시의 아름다운 전통 건축 양식을 감상할 수 있는 곳입니다. 넓은 정원과 화려한 장식이 돋보이며, 각 방마다 독특한 모자이크와 조각이 있습니다. 궁전 내부를 돌아보며 마라케시의 역사와 문화를 느낄 수 있습니다.
+
+### 4. 메나라 정원 (Menara Gardens)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg)
+
+도심에서 약간 떨어진 곳에 위치한 메나라 정원은 아름다운 올리브 나무와 인공 연못으로 유명합니다. 이곳은 한적하게 산책을 즐기거나 피크닉을 하기 좋은 장소입니다. 메나라 정원의 연못은 아틀라스 산맥을 배경으로 한 사진 촬영 명소로도 인기가 많습니다.
+
+### 5. 마조렐 정원 (Jardin Majorelle)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Le_jardin_des_majorelle_40.JPG/500px-Le_jardin_des_majorelle_40.JPG)
+
+프랑스 화가 자크 마조렐이 만든 마조렐 정원은 다채로운 색감과 이국적인 식물들로 가득합니다. 이곳은 이브 생 로랑이 사랑한 정원으로도 알려져 있으며, 방문객들은 다양한 선인장과 아름다운 분수를 감상할 수 있습니다. 마조렐 정원 내에는 베르베르 박물관이 있어, 베르베르 문화와 예술에 대해 배울 수 있습니다.
+
+### 6. 마라케시 수크 (Souk)
+
+![[마라케시시장.jpg]]
+
+마라케시의 수크는 전통 시장으로, 좁은 골목길을 따라 다양한 상점들이 늘어서 있습니다. 이곳에서는 전통 수공예품, 향신료, 가죽 제품, 카펫 등을 구입할 수 있으며, 흥정을 통해 저렴한 가격에 물건을 살 수 있습니다. 수크를 돌아다니며 현지인들과 교류하고, 마라케시의 독특한 분위기를 만끽해보세요.
+
+### 7. 사디안 무덤 (Saadian Tombs)
+
+![쿠투비아 모스크](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saadian_Tombs_1044-HDR.jpg/500px-Saadian_Tombs_1044-HDR.jpg)
+
+사디안 무덤은 16세기 사디안 왕조의 무덤으로, 아름다운 장식과 정교한 건축 양식이 돋보입니다. 이곳은 오랜 시간 동안 잊혀져 있다가 20세기에 재발견되어 많은 사람들에게 공개되었습니다. 사디안 무덤을 방문하면, 마라케시의 역사와 왕조의 영광을 엿볼 수 있습니다.
+
+## 호텔 예약시 주의사항
+
+마라케시에서 호텔을 예약할 때는 몇 가지 중요한 사항을 고려하면 좋습니다. 먼저 주요 관광지와의 거리와 교통 편의성을 확인해보세요. 전통적인 리아드와 현대식 호텔 중 취향에 맞는 숙소를 선택하시고, 호텔의 보안 시스템과 주변 환경의 안전성도 리뷰를 통해 확인해보세요. 예산에 맞는 호텔을 선택하고, 추가 요금이 있는지 미리 체크하는 것이 좋습니다. 에어컨, Wi-Fi 등의 기본 편의 시설이 잘 갖춰져 있는지 확인하시고, 필요한 부대 시설이 있는지도 고려해보세요. 마지막으로 취소 정책과 체크인/체크아웃 시간을 미리 확인하여 여행 일정에 차질이 없도록 하세요. 이러한 주의사항을 잘 고려하면, 편안하고 즐거운 마라케시 여행을 할 수 있습니다. 제가 이전에 소개했던 마라케시 글을 참고하시면 좋습니다.
+
+[마라케시 고급 럭셔리 호텔 소개](https://dalmapping./com/articles/마라케시-꿈같은-휴식-럭셔리-호텔-5선)
+
+[마라케시 오래 머무르기 편한 호텔 소개](https://dalmapping./com/articles/마라케시-호텔-추천-5곳)
+
+## 여행 팁
+
+### 교통
+
+마라케시에서는 택시를 이용하는 것이 가장 편리합니다. 택시를 이용할 때는 미터기를 사용하지 않는 경우가 많으므로, 목적지에 도착하기 전에 가격을 미리 협상하는 것이 좋습니다. 또한, 택시를 탈 때는 작은 동전이나 지폐를 준비해 두는 것이 편리합니다. 도심 내에서는 도보로 이동하기에도 적합하므로, 편한 신발을 준비해 두면 좋습니다. 도보로 도시를 돌아다니며 다양한 골목길과 숨겨진 명소들을 발견하는 재미가 있습니다.
+
+### 언어
+
+마라케시에서는 주로 아랍어와 베르베르어가 사용되지만, 관광지에서는 프랑스어와 영어도 널리 통용됩니다. 주요 관광지나 호텔에서는 영어로 의사소통이 가능하므로 큰 어려움 없이 여행할 수 있습니다. 하지만 현지인들과 소통할 때 기본적인 프랑스어나 아랍어 인사말을 배우면 더욱 친근한 분위기를 만들 수 있습니다.
+
+### 안전
+
+마라케시는 비교적 안전한 도시이지만, 여행 중에는 소지품을 주의하는 것이 중요합니다. 특히 혼잡한 시장이나 관광지에서는 소매치기를 조심해야 합니다. 귀중품은 호텔 금고에 보관하고, 필요한 최소한의 물건만 가지고 다니는 것이 좋습니다. 또한, 낯선 사람과의 과도한 교류는 피하고, 가급적이면 단체로 이동하는 것이 안전합니다. 밤에는 혼자 다니지 않는 것이 좋습니다.
+
+### 기후
+
+마라케시는 사막 기후로 여름에는 매우 덥고 건조합니다. 따라서 여행을 계획할 때는 봄과 가을이 가장 적합한 시기입니다. 이때는 날씨가 온화하고 쾌적하여 관광하기 좋습니다. 겨울에도 비교적 온화한 날씨를 즐길 수 있지만, 저녁에는 기온이 떨어질 수 있으므로 얇은 겉옷을 준비하는 것이 좋습니다. 여름에 방문할 경우, 모자와 선크림, 충분한 물을 챙겨야 합니다.
+
+마라케시는 그 독특한 매력과 다채로운 문화로 여행자들에게 잊을 수 없는 경험을 선사합니다. 붉은 도시의 아름다움과 따뜻한 사람들의 환대를 느끼며, 마라케시에서 특별한 추억을 만들어보세요.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁"}],["$","data",null,{"children":"2024-05-29T23:23:47.709Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"마라케시"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"관광지"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"제마 엘 프나"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"쿠투비아 모스크"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"모로코"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"바히아 궁전"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"메나라 정원"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"9b5a3644","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"마라케시 여행: 모로코의 매혹적인 붉은 도시"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시는 모로코의 대표적인 여행지 중 하나로, 붉은 벽돌과 전통적인 건축 양식이 어우러진 아름다운 도시입니다. ‘붉은 도시’라는 별명으로 불리는 마라케시는 풍부한 역사와 문화, 그리고 다양한 관광 명소로 여행자들의 마음을 사로잡습니다. 이 글에서는 마라케시의 주요 관광지와 여행 팁을 소개합니다."}],"\n",["$","h3",null,{"id":"a0476570","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"1. 제마 엘 프나 광장 (Jemaa el-Fnaa)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Djemaa_el_Fna.jpg/2880px-Djemaa_el_Fna.jpg","alt":"제마 엘 프나 광장"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시의 심장부에 위치한 제마 엘 프나 광장은 낮과 밤이 서로 다른 매력을 지니고 있습니다. 낮에는 다양한 상인들이 모여들어 각종 수공예품, 향신료, 전통 의상 등을 판매하며 활기찬 시장이 열립니다. 특히, 마라케시의 특산물인 아르간 오일과 카펫을 구경하고 구입할 수 있는 좋은 기회입니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"밤이 되면 광장은 더욱 활기를 띱니다. 거리 공연자들이 등장하여 음악, 춤, 곡예 등을 선보이고, 노점상에서는 전통 음식과 음료를 맛볼 수 있습니다. 꼭 맛봐야 할 음식으로는 모로코식 꼬치구이인 ‘타진(Tajine)’과 전통 찻집에서 마실 수 있는 ‘모로칸 민트 티’가 있습니다. 제마 엘 프나 광장은 마라케시의 진정한 매력을 느낄 수 있는 곳으로, 여행자들에게 강력히 추천합니다."}],"\n",["$","h3",null,{"id":"96ff5804","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"2. 쿠투비아 모스크 (Koutoubia Mosque)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://upload.wikimedia.org/wikipedia/commons/4/49/Marokko0112_%28retouched%29.jpg","alt":"쿠투비아 모스크"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"쿠투비아 모스크는 마라케시의 랜드마크 중 하나로, 12세기에 지어진 아름다운 모스크입니다. 모스크의 높은 미나렛(탑)은 도심 어디서든 쉽게 볼 수 있으며, 특히 야경이 아름답습니다. 쿠투비아 모스크는 비무슬림에게는 내부 출입이 제한되지만, 외부에서 보는 것만으로도 그 웅장함을 느낄 수 있습니다."}],"\n",["$","h3",null,{"id":"669693fc","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"3. 바히아 궁전 (Palais de la Bahia)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahia_Palace_large_court.jpg/500px-Bahia_Palace_large_court.jpg","alt":"쿠투비아 모스크"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"바히아 궁전은 19세기에 지어진 궁전으로, 마라케시의 아름다운 전통 건축 양식을 감상할 수 있는 곳입니다. 넓은 정원과 화려한 장식이 돋보이며, 각 방마다 독특한 모자이크와 조각이 있습니다. 궁전 내부를 돌아보며 마라케시의 역사와 문화를 느낄 수 있습니다."}],"\n",["$","h3",null,{"id":"329d2424","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"4. 메나라 정원 (Menara Gardens)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg","alt":"쿠투비아 모스크"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"도심에서 약간 떨어진 곳에 위치한 메나라 정원은 아름다운 올리브 나무와 인공 연못으로 유명합니다. 이곳은 한적하게 산책을 즐기거나 피크닉을 하기 좋은 장소입니다. 메나라 정원의 연못은 아틀라스 산맥을 배경으로 한 사진 촬영 명소로도 인기가 많습니다."}],"\n",["$","h3",null,{"id":"f4299ee4","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"5. 마조렐 정원 (Jardin Majorelle)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Le_jardin_des_majorelle_40.JPG/500px-Le_jardin_des_majorelle_40.JPG","alt":"쿠투비아 모스크"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"프랑스 화가 자크 마조렐이 만든 마조렐 정원은 다채로운 색감과 이국적인 식물들로 가득합니다. 이곳은 이브 생 로랑이 사랑한 정원으로도 알려져 있으며, 방문객들은 다양한 선인장과 아름다운 분수를 감상할 수 있습니다. 마조렐 정원 내에는 베르베르 박물관이 있어, 베르베르 문화와 예술에 대해 배울 수 있습니다."}],"\n",["$","h3",null,{"id":"c0f3d3fa","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"6. 마라케시 수크 (Souk)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":200,"height":200,"src":"/images/마라케시시장.jpg","alt":"이미지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시의 수크는 전통 시장으로, 좁은 골목길을 따라 다양한 상점들이 늘어서 있습니다. 이곳에서는 전통 수공예품, 향신료, 가죽 제품, 카펫 등을 구입할 수 있으며, 흥정을 통해 저렴한 가격에 물건을 살 수 있습니다. 수크를 돌아다니며 현지인들과 교류하고, 마라케시의 독특한 분위기를 만끽해보세요."}],"\n",["$","h3",null,{"id":"e8705fde","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"7. 사디안 무덤 (Saadian Tombs)"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saadian_Tombs_1044-HDR.jpg/500px-Saadian_Tombs_1044-HDR.jpg","alt":"쿠투비아 모스크"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"사디안 무덤은 16세기 사디안 왕조의 무덤으로, 아름다운 장식과 정교한 건축 양식이 돋보입니다. 이곳은 오랜 시간 동안 잊혀져 있다가 20세기에 재발견되어 많은 사람들에게 공개되었습니다. 사디안 무덤을 방문하면, 마라케시의 역사와 왕조의 영광을 엿볼 수 있습니다."}],"\n",["$","h2",null,{"id":"a7de7e09","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"호텔 예약시 주의사항"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시에서 호텔을 예약할 때는 몇 가지 중요한 사항을 고려하면 좋습니다. 먼저 주요 관광지와의 거리와 교통 편의성을 확인해보세요. 전통적인 리아드와 현대식 호텔 중 취향에 맞는 숙소를 선택하시고, 호텔의 보안 시스템과 주변 환경의 안전성도 리뷰를 통해 확인해보세요. 예산에 맞는 호텔을 선택하고, 추가 요금이 있는지 미리 체크하는 것이 좋습니다. 에어컨, Wi-Fi 등의 기본 편의 시설이 잘 갖춰져 있는지 확인하시고, 필요한 부대 시설이 있는지도 고려해보세요. 마지막으로 취소 정책과 체크인/체크아웃 시간을 미리 확인하여 여행 일정에 차질이 없도록 하세요. 이러한 주의사항을 잘 고려하면, 편안하고 즐거운 마라케시 여행을 할 수 있습니다. 제가 이전에 소개했던 마라케시 글을 참고하시면 좋습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://dalmapping./com/articles/%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EA%BF%88%EA%B0%99%EC%9D%80-%ED%9C%B4%EC%8B%9D-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0","node":{"type":"element","tagName":"a","properties":{"href":"https://dalmapping./com/articles/%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%EA%BF%88%EA%B0%99%EC%9D%80-%ED%9C%B4%EC%8B%9D-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0"},"children":[{"type":"text","value":"마라케시 고급 럭셔리 호텔 소개","position":{"start":{"line":54,"column":2,"offset":2895},"end":{"line":54,"column":19,"offset":2912}}}],"position":{"start":{"line":54,"column":1,"offset":2894},"end":{"line":54,"column":76,"offset":2969}}},"children":"마라케시 고급 럭셔리 호텔 소개"},"post":{"id":"1f2633d90-f7ae-4d93-b12d-1a23532796e8","title":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁","fileName":"모로코의-매혹적인-붉은-도시-마라케시-여행-관광지-소개와-여행팁","description":"마라케시 여행 가이드, 제마 엘 프나 광장, 쿠투비아 모스크, 바히아 궁전, 메나라 정원, 마조렐 정원, 마라케시 수크, 사디안 무덤 등 주요 명소와 여행 팁을 소개합니다.","date":"2024-05-29T23:23:47.709Z","tags":[{"name":"마라케시","path":"$$/kr/tags/마라케시","id":"마라케시"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"제마 엘 프나","path":"$$/kr/tags/제마-엘-프나","id":"제마-엘-프나"},{"name":"쿠투비아 모스크","path":"$$/kr/tags/쿠투비아-모스크","id":"쿠투비아-모스크"},{"name":"모로코","path":"$$/kr/tags/모로코","id":"모로코"},{"name":"바히아 궁전","path":"$$/kr/tags/바히아-궁전","id":"바히아-궁전"},{"name":"메나라 정원","path":"$$/kr/tags/메나라-정원","id":"메나라-정원"}],"banner":"/images/마라케시.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"모로코의-매혹적인-붉은-도시-마라케시-여행-관광지-소개와-여행팁","content":"$d","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://dalmapping./com/articles/%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EA%B3%B3","node":{"type":"element","tagName":"a","properties":{"href":"https://dalmapping./com/articles/%EB%A7%88%EB%9D%BC%EC%BC%80%EC%8B%9C-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EA%B3%B3"},"children":[{"type":"text","value":"마라케시 오래 머무르기 편한 호텔 소개","position":{"start":{"line":56,"column":2,"offset":2972},"end":{"line":56,"column":23,"offset":2993}}}],"position":{"start":{"line":56,"column":1,"offset":2971},"end":{"line":56,"column":72,"offset":3042}}},"children":"마라케시 오래 머무르기 편한 호텔 소개"},"post":{"id":"1f2633d90-f7ae-4d93-b12d-1a23532796e8","title":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁","fileName":"모로코의-매혹적인-붉은-도시-마라케시-여행-관광지-소개와-여행팁","description":"마라케시 여행 가이드, 제마 엘 프나 광장, 쿠투비아 모스크, 바히아 궁전, 메나라 정원, 마조렐 정원, 마라케시 수크, 사디안 무덤 등 주요 명소와 여행 팁을 소개합니다.","date":"2024-05-29T23:23:47.709Z","tags":[{"name":"마라케시","path":"$$/kr/tags/마라케시","id":"마라케시"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"제마 엘 프나","path":"$$/kr/tags/제마-엘-프나","id":"제마-엘-프나"},{"name":"쿠투비아 모스크","path":"$$/kr/tags/쿠투비아-모스크","id":"쿠투비아-모스크"},{"name":"모로코","path":"$$/kr/tags/모로코","id":"모로코"},{"name":"바히아 궁전","path":"$$/kr/tags/바히아-궁전","id":"바히아-궁전"},{"name":"메나라 정원","path":"$$/kr/tags/메나라-정원","id":"메나라-정원"}],"banner":"/images/마라케시.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"모로코의-매혹적인-붉은-도시-마라케시-여행-관광지-소개와-여행팁","content":"$e","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"9486934b","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"여행 팁"}],"\n",["$","h3",null,{"id":"0929ec2a","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"교통"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시에서는 택시를 이용하는 것이 가장 편리합니다. 택시를 이용할 때는 미터기를 사용하지 않는 경우가 많으므로, 목적지에 도착하기 전에 가격을 미리 협상하는 것이 좋습니다. 또한, 택시를 탈 때는 작은 동전이나 지폐를 준비해 두는 것이 편리합니다. 도심 내에서는 도보로 이동하기에도 적합하므로, 편한 신발을 준비해 두면 좋습니다. 도보로 도시를 돌아다니며 다양한 골목길과 숨겨진 명소들을 발견하는 재미가 있습니다."}],"\n",["$","h3",null,{"id":"1a723e1d","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"언어"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시에서는 주로 아랍어와 베르베르어가 사용되지만, 관광지에서는 프랑스어와 영어도 널리 통용됩니다. 주요 관광지나 호텔에서는 영어로 의사소통이 가능하므로 큰 어려움 없이 여행할 수 있습니다. 하지만 현지인들과 소통할 때 기본적인 프랑스어나 아랍어 인사말을 배우면 더욱 친근한 분위기를 만들 수 있습니다."}],"\n",["$","h3",null,{"id":"8be3d7dd","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"안전"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시는 비교적 안전한 도시이지만, 여행 중에는 소지품을 주의하는 것이 중요합니다. 특히 혼잡한 시장이나 관광지에서는 소매치기를 조심해야 합니다. 귀중품은 호텔 금고에 보관하고, 필요한 최소한의 물건만 가지고 다니는 것이 좋습니다. 또한, 낯선 사람과의 과도한 교류는 피하고, 가급적이면 단체로 이동하는 것이 안전합니다. 밤에는 혼자 다니지 않는 것이 좋습니다."}],"\n",["$","h3",null,{"id":"711c81b7","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"기후"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시는 사막 기후로 여름에는 매우 덥고 건조합니다. 따라서 여행을 계획할 때는 봄과 가을이 가장 적합한 시기입니다. 이때는 날씨가 온화하고 쾌적하여 관광하기 좋습니다. 겨울에도 비교적 온화한 날씨를 즐길 수 있지만, 저녁에는 기온이 떨어질 수 있으므로 얇은 겉옷을 준비하는 것이 좋습니다. 여름에 방문할 경우, 모자와 선크림, 충분한 물을 챙겨야 합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마라케시는 그 독특한 매력과 다채로운 문화로 여행자들에게 잊을 수 없는 경험을 선사합니다. 붉은 도시의 아름다움과 따뜻한 사람들의 환대를 느끼며, 마라케시에서 특별한 추억을 만들어보세요."}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$Lf",null,{"articleTitle":"모로코의 매혹적인 붉은 도시 마라케시 여행. 관광지 소개와 여행팁","toc":[{"tagName":"h2","title":"마라케시 여행: 모로코의 매혹적인 붉은 도시","id":"9b5a3644"},{"tagName":"h3","title":"1. 제마 엘 프나 광장 (Jemaa el-Fnaa)","id":"a0476570"},{"tagName":"h3","title":"2. 쿠투비아 모스크 (Koutoubia Mosque)","id":"96ff5804"},{"tagName":"h3","title":"3. 바히아 궁전 (Palais de la Bahia)","id":"669693fc"},{"tagName":"h3","title":"4. 메나라 정원 (Menara Gardens)","id":"329d2424"},{"tagName":"h3","title":"5. 마조렐 정원 (Jardin Majorelle)","id":"f4299ee4"},{"tagName":"h3","title":"6. 마라케시 수크 (Souk)","id":"c0f3d3fa"},{"tagName":"h3","title":"7. 사디안 무덤 (Saadian Tombs)","id":"e8705fde"},{"tagName":"h2","title":"호텔 예약시 주의사항","id":"a7de7e09"},{"tagName":"h2","title":"여행 팁","id":"9486934b"},{"tagName":"h3","title":"교통","id":"0929ec2a"},{"tagName":"h3","title":"언어","id":"1a723e1d"},{"tagName":"h3","title":"안전","id":"8be3d7dd"},{"tagName":"h3","title":"기후","id":"711c81b7"}],"language":"kr"}]}]]}]]
+8:null

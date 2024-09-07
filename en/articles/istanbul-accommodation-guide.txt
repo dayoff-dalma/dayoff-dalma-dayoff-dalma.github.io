@@ -1,0 +1,464 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["en",{"children":["articles",{"children":[["slug","istanbul-accommodation-guide","d"],{"children":["__PAGE__?{\"slug\":\"istanbul-accommodation-guide\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","en","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","articles","children",["slug","istanbul-accommodation-guide","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"istanbul-accommodation-guide\"}"},"styles":[]}],"segment":["slug","istanbul-accommodation-guide","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"en"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City | Dalma, Let's Travel"}],["$","meta","2",{"name":"description","content":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks."}],["$","meta","3",{"name":"keywords","content":"Central Istanbul,Cultural Travel,Local Experience,Comfortable Stay,Friendly Service,Istanbul,Luxury Hotel,Bosphorus View,Full Amenities,Rest and Recharge,Istanbul Hotels,Premium Accommodation,Culinary Experience,Traditional Cuisine,Breakfast,Luxury Stay,Cultural Exploration,Scenic View,Central Location,Elegance,Top Service,Friendly Staff"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/istanbul-accommodation-guide"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City | Dalma, Let's Travel"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City | Dalma, Let's Travel"}],["$","meta","10",{"property":"og:description","content":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/istanbul-accommodation-guide"}],["$","meta","12",{"property":"og:site_name","content":"Dalma, Let's Travel"}],["$","meta","13",{"property":"og:locale","content":"en"}],["$","meta","14",{"property":"og:image","content":"https://pix5.agoda.net/city/14932/14932-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"Dalma, Let's Travel"}],["$","meta","18",{"name":"twitter:title","content":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City | Dalma, Let's Travel"}],["$","meta","19",{"name":"twitter:description","content":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks."}],["$","meta","20",{"name":"twitter:image","content":"https://pix5.agoda.net/city/14932/14932-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","988:static/chunks/app/en/articles/[slug]/page-79353d507dc714e6.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","988:static/chunks/app/en/articles/[slug]/page-79353d507dc714e6.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","988:static/chunks/app/en/articles/[slug]/page-79353d507dc714e6.js"],"name":"","async":false}
+13:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","988:static/chunks/app/en/articles/[slug]/page-79353d507dc714e6.js"],"name":"","async":false}
+d:T1d1c,
+## Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City
+
+Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. **The Magnaura Palace Hotel** is located in the heart of history, offering a unique experience. **Erboy Hotel** in the Sirkeci area is a hidden gem in the bustling city. **CVK Park Bosphorus Hotel** boasts stunning views of the Bosphorus. **Hotel Sapphire** is known for its proximity to fascinating attractions. **Radisson Hotel President Old Town Istanbul** offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable.
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Erboy Hotel - Sirkeci Group
+![Erboy Hotel - Sirkeci Group_0_image](https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg)
+![Erboy Hotel - Sirkeci Group_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50)
+![Erboy Hotel - Sirkeci Group_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50)
+
+Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip.
+
+Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!
+
+[Erboy Hotel - Sirkeci Group](https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html)
+
+## Dreaming of the Bosphorus: A Luxurious Stay
+
+CVK Park Bosphorus Hotel Istanbul
+![CVK Park Bosphorus Hotel Istanbul_0_image](https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg)
+![CVK Park Bosphorus Hotel Istanbul_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50)
+![CVK Park Bosphorus Hotel Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50)
+
+Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home.
+
+The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again.
+
+[CVK Park Bosphorus Hotel Istanbul](https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+Hotel Sapphire
+![Hotel Sapphire_0_image](https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg)
+![Hotel Sapphire_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50)
+![Hotel Sapphire_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50)
+
+Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'
+
+The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special.
+
+[Hotel Sapphire](https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+The Magnaura Palace Hotel
+![The Magnaura Palace Hotel_0_image](https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg)
+![The Magnaura Palace Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50)
+![The Magnaura Palace Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50)
+
+Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort.
+
+The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory.
+
+[The Magnaura Palace Hotel](https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Radisson Hotel President Old Town Istanbul
+![Radisson Hotel President Old Town Istanbul_0_image](https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg)
+![Radisson Hotel President Old Town Istanbul_1_image](https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg)
+![Radisson Hotel President Old Town Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8
+
+bb5c3c1443bc0b5&s=50x50)
+
+Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare.
+
+The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special.
+
+[Radisson Hotel President Old Town Istanbul](https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html)
+
+## Conclusion
+
+These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!
+e:T1d1c,
+## Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City
+
+Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. **The Magnaura Palace Hotel** is located in the heart of history, offering a unique experience. **Erboy Hotel** in the Sirkeci area is a hidden gem in the bustling city. **CVK Park Bosphorus Hotel** boasts stunning views of the Bosphorus. **Hotel Sapphire** is known for its proximity to fascinating attractions. **Radisson Hotel President Old Town Istanbul** offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable.
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Erboy Hotel - Sirkeci Group
+![Erboy Hotel - Sirkeci Group_0_image](https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg)
+![Erboy Hotel - Sirkeci Group_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50)
+![Erboy Hotel - Sirkeci Group_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50)
+
+Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip.
+
+Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!
+
+[Erboy Hotel - Sirkeci Group](https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html)
+
+## Dreaming of the Bosphorus: A Luxurious Stay
+
+CVK Park Bosphorus Hotel Istanbul
+![CVK Park Bosphorus Hotel Istanbul_0_image](https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg)
+![CVK Park Bosphorus Hotel Istanbul_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50)
+![CVK Park Bosphorus Hotel Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50)
+
+Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home.
+
+The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again.
+
+[CVK Park Bosphorus Hotel Istanbul](https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+Hotel Sapphire
+![Hotel Sapphire_0_image](https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg)
+![Hotel Sapphire_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50)
+![Hotel Sapphire_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50)
+
+Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'
+
+The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special.
+
+[Hotel Sapphire](https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+The Magnaura Palace Hotel
+![The Magnaura Palace Hotel_0_image](https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg)
+![The Magnaura Palace Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50)
+![The Magnaura Palace Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50)
+
+Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort.
+
+The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory.
+
+[The Magnaura Palace Hotel](https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Radisson Hotel President Old Town Istanbul
+![Radisson Hotel President Old Town Istanbul_0_image](https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg)
+![Radisson Hotel President Old Town Istanbul_1_image](https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg)
+![Radisson Hotel President Old Town Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8
+
+bb5c3c1443bc0b5&s=50x50)
+
+Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare.
+
+The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special.
+
+[Radisson Hotel President Old Town Istanbul](https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html)
+
+## Conclusion
+
+These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!
+f:T1d1c,
+## Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City
+
+Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. **The Magnaura Palace Hotel** is located in the heart of history, offering a unique experience. **Erboy Hotel** in the Sirkeci area is a hidden gem in the bustling city. **CVK Park Bosphorus Hotel** boasts stunning views of the Bosphorus. **Hotel Sapphire** is known for its proximity to fascinating attractions. **Radisson Hotel President Old Town Istanbul** offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable.
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Erboy Hotel - Sirkeci Group
+![Erboy Hotel - Sirkeci Group_0_image](https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg)
+![Erboy Hotel - Sirkeci Group_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50)
+![Erboy Hotel - Sirkeci Group_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50)
+
+Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip.
+
+Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!
+
+[Erboy Hotel - Sirkeci Group](https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html)
+
+## Dreaming of the Bosphorus: A Luxurious Stay
+
+CVK Park Bosphorus Hotel Istanbul
+![CVK Park Bosphorus Hotel Istanbul_0_image](https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg)
+![CVK Park Bosphorus Hotel Istanbul_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50)
+![CVK Park Bosphorus Hotel Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50)
+
+Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home.
+
+The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again.
+
+[CVK Park Bosphorus Hotel Istanbul](https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+Hotel Sapphire
+![Hotel Sapphire_0_image](https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg)
+![Hotel Sapphire_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50)
+![Hotel Sapphire_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50)
+
+Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'
+
+The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special.
+
+[Hotel Sapphire](https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+The Magnaura Palace Hotel
+![The Magnaura Palace Hotel_0_image](https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg)
+![The Magnaura Palace Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50)
+![The Magnaura Palace Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50)
+
+Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort.
+
+The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory.
+
+[The Magnaura Palace Hotel](https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Radisson Hotel President Old Town Istanbul
+![Radisson Hotel President Old Town Istanbul_0_image](https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg)
+![Radisson Hotel President Old Town Istanbul_1_image](https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg)
+![Radisson Hotel President Old Town Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8
+
+bb5c3c1443bc0b5&s=50x50)
+
+Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare.
+
+The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special.
+
+[Radisson Hotel President Old Town Istanbul](https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html)
+
+## Conclusion
+
+These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!
+10:T1d1c,
+## Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City
+
+Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. **The Magnaura Palace Hotel** is located in the heart of history, offering a unique experience. **Erboy Hotel** in the Sirkeci area is a hidden gem in the bustling city. **CVK Park Bosphorus Hotel** boasts stunning views of the Bosphorus. **Hotel Sapphire** is known for its proximity to fascinating attractions. **Radisson Hotel President Old Town Istanbul** offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable.
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Erboy Hotel - Sirkeci Group
+![Erboy Hotel - Sirkeci Group_0_image](https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg)
+![Erboy Hotel - Sirkeci Group_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50)
+![Erboy Hotel - Sirkeci Group_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50)
+
+Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip.
+
+Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!
+
+[Erboy Hotel - Sirkeci Group](https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html)
+
+## Dreaming of the Bosphorus: A Luxurious Stay
+
+CVK Park Bosphorus Hotel Istanbul
+![CVK Park Bosphorus Hotel Istanbul_0_image](https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg)
+![CVK Park Bosphorus Hotel Istanbul_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50)
+![CVK Park Bosphorus Hotel Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50)
+
+Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home.
+
+The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again.
+
+[CVK Park Bosphorus Hotel Istanbul](https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+Hotel Sapphire
+![Hotel Sapphire_0_image](https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg)
+![Hotel Sapphire_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50)
+![Hotel Sapphire_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50)
+
+Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'
+
+The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special.
+
+[Hotel Sapphire](https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+The Magnaura Palace Hotel
+![The Magnaura Palace Hotel_0_image](https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg)
+![The Magnaura Palace Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50)
+![The Magnaura Palace Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50)
+
+Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort.
+
+The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory.
+
+[The Magnaura Palace Hotel](https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Radisson Hotel President Old Town Istanbul
+![Radisson Hotel President Old Town Istanbul_0_image](https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg)
+![Radisson Hotel President Old Town Istanbul_1_image](https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg)
+![Radisson Hotel President Old Town Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8
+
+bb5c3c1443bc0b5&s=50x50)
+
+Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare.
+
+The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special.
+
+[Radisson Hotel President Old Town Istanbul](https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html)
+
+## Conclusion
+
+These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!
+11:T1d1c,
+## Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City
+
+Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. **The Magnaura Palace Hotel** is located in the heart of history, offering a unique experience. **Erboy Hotel** in the Sirkeci area is a hidden gem in the bustling city. **CVK Park Bosphorus Hotel** boasts stunning views of the Bosphorus. **Hotel Sapphire** is known for its proximity to fascinating attractions. **Radisson Hotel President Old Town Istanbul** offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable.
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Erboy Hotel - Sirkeci Group
+![Erboy Hotel - Sirkeci Group_0_image](https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg)
+![Erboy Hotel - Sirkeci Group_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50)
+![Erboy Hotel - Sirkeci Group_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50)
+
+Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip.
+
+Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!
+
+[Erboy Hotel - Sirkeci Group](https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html)
+
+## Dreaming of the Bosphorus: A Luxurious Stay
+
+CVK Park Bosphorus Hotel Istanbul
+![CVK Park Bosphorus Hotel Istanbul_0_image](https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg)
+![CVK Park Bosphorus Hotel Istanbul_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50)
+![CVK Park Bosphorus Hotel Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50)
+
+Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home.
+
+The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again.
+
+[CVK Park Bosphorus Hotel Istanbul](https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+Hotel Sapphire
+![Hotel Sapphire_0_image](https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg)
+![Hotel Sapphire_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50)
+![Hotel Sapphire_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50)
+
+Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'
+
+The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special.
+
+[Hotel Sapphire](https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+The Magnaura Palace Hotel
+![The Magnaura Palace Hotel_0_image](https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg)
+![The Magnaura Palace Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50)
+![The Magnaura Palace Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50)
+
+Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort.
+
+The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory.
+
+[The Magnaura Palace Hotel](https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Radisson Hotel President Old Town Istanbul
+![Radisson Hotel President Old Town Istanbul_0_image](https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg)
+![Radisson Hotel President Old Town Istanbul_1_image](https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg)
+![Radisson Hotel President Old Town Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8
+
+bb5c3c1443bc0b5&s=50x50)
+
+Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare.
+
+The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special.
+
+[Radisson Hotel President Old Town Istanbul](https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html)
+
+## Conclusion
+
+These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!
+12:T1d1c,
+## Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City
+
+Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. **The Magnaura Palace Hotel** is located in the heart of history, offering a unique experience. **Erboy Hotel** in the Sirkeci area is a hidden gem in the bustling city. **CVK Park Bosphorus Hotel** boasts stunning views of the Bosphorus. **Hotel Sapphire** is known for its proximity to fascinating attractions. **Radisson Hotel President Old Town Istanbul** offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable.
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Erboy Hotel - Sirkeci Group
+![Erboy Hotel - Sirkeci Group_0_image](https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg)
+![Erboy Hotel - Sirkeci Group_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50)
+![Erboy Hotel - Sirkeci Group_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50)
+
+Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip.
+
+Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!
+
+[Erboy Hotel - Sirkeci Group](https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html)
+
+## Dreaming of the Bosphorus: A Luxurious Stay
+
+CVK Park Bosphorus Hotel Istanbul
+![CVK Park Bosphorus Hotel Istanbul_0_image](https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg)
+![CVK Park Bosphorus Hotel Istanbul_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50)
+![CVK Park Bosphorus Hotel Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50)
+
+Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home.
+
+The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again.
+
+[CVK Park Bosphorus Hotel Istanbul](https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+Hotel Sapphire
+![Hotel Sapphire_0_image](https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg)
+![Hotel Sapphire_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50)
+![Hotel Sapphire_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50)
+
+Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'
+
+The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special.
+
+[Hotel Sapphire](https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: A Haven of Rest
+
+The Magnaura Palace Hotel
+![The Magnaura Palace Hotel_0_image](https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg)
+![The Magnaura Palace Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50)
+![The Magnaura Palace Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50)
+
+Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort.
+
+The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory.
+
+[The Magnaura Palace Hotel](https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html)
+
+## Hidden Gem of Istanbul: Comfortable Retreat
+
+Radisson Hotel President Old Town Istanbul
+![Radisson Hotel President Old Town Istanbul_0_image](https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg)
+![Radisson Hotel President Old Town Istanbul_1_image](https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg)
+![Radisson Hotel President Old Town Istanbul_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8
+
+bb5c3c1443bc0b5&s=50x50)
+
+Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare.
+
+The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special.
+
+[Radisson Hotel President Old Town Istanbul](https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html)
+
+## Conclusion
+
+These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!
+9:[["$","$La",null,{"language":"en","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City"}],["$","data",null,{"children":"2022-05-07T03:03:16.005Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"Central Istanbul"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"Cultural Travel"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"Local Experience"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"Comfortable Stay"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"Friendly Service"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"Istanbul"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"Luxury Hotel"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"Bosphorus View"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"Full Amenities"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"Rest and Recharge"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"Istanbul Hotels"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"Premium Accommodation"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"Culinary Experience"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"Traditional Cuisine"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"Breakfast"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"Luxury Stay"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"Cultural Exploration"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"Scenic View"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"Central Location"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"Elegance"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"Top Service"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"Friendly Staff"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"f4e32684","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hello, I'm Dalma from Travel Writer Dalma. Istanbul, a captivating city where East meets West, beautifully blends the modern and the ancient. Nestled in this urban tapestry are some truly special hotels. ",["$","strong",null,{"className":"font-black","children":"The Magnaura Palace Hotel"}]," is located in the heart of history, offering a unique experience. ",["$","strong",null,{"className":"font-black","children":"Erboy Hotel"}]," in the Sirkeci area is a hidden gem in the bustling city. ",["$","strong",null,{"className":"font-black","children":"CVK Park Bosphorus Hotel"}]," boasts stunning views of the Bosphorus. ",["$","strong",null,{"className":"font-black","children":"Hotel Sapphire"}]," is known for its proximity to fascinating attractions. ",["$","strong",null,{"className":"font-black","children":"Radisson Hotel President Old Town Istanbul"}]," offers convenience and luxury. These five hotels are the perfect choices to make your Istanbul trip unforgettable."]}],"\n",["$","h2",null,{"id":"2ff90fe3","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Hidden Gem of Istanbul: Comfortable Retreat"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Erboy Hotel - Sirkeci Group\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/25538759/-1/b8c67f5ac0f47c1c1b15953e3d4e30b7.jpg","alt":"Erboy Hotel - Sirkeci Group_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/337870417.jpg?k=2760cff23c25069e2487ef4037017671e874c3df0788e2ffc39d4933cf288884&s=50x50","alt":"Erboy Hotel - Sirkeci Group_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/337874214.jpg?k=95443048e33d32633179cc60117c52ad38cd6210e5069774864986a46ddadf3f&s=50x50","alt":"Erboy Hotel - Sirkeci Group_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Located in the historic heart of Istanbul, this hotel offers travelers a perfect blend of relaxation and culture. Strolling through the charming streets surrounding the hotel, you'll find local shops and cafes where you can observe the daily lives of the residents. Every moment in this culturally rich area becomes a highlight of your trip."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Inside, the hotel prioritizes your comfort with meticulous attention to detail. Comfortable bedding and clean facilities will ease your travel fatigue. The friendly staff will make you feel right at home. For creating wonderful memories in Istanbul, this hotel is an excellent choice!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/en-us/erboy-hotel-sirkeci-group/hotel/istanbul-tr.html"},"children":[{"type":"text","value":"Erboy Hotel - Sirkeci Group","position":{"start":{"line":17,"column":2,"offset":1952},"end":{"line":17,"column":29,"offset":1979}}}],"position":{"start":{"line":17,"column":1,"offset":1951},"end":{"line":17,"column":108,"offset":2058}}},"children":"Erboy Hotel - Sirkeci Group"},"post":{"id":"8943e681-512b-44ed-99e7-48ae319509e9","title":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","fileName":"istanbul-accommodation-guide","description":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks.","date":"2022-05-07T03:03:16.005Z","tags":[{"name":"Central Istanbul","path":"$$/en/tags/central-istanbul","id":"central-istanbul"},{"name":"Cultural Travel","path":"$$/en/tags/cultural-travel","id":"cultural-travel"},{"name":"Local Experience","path":"$$/en/tags/local-experience","id":"local-experience"},{"name":"Comfortable Stay","path":"$$/en/tags/comfortable-stay","id":"comfortable-stay"},{"name":"Friendly Service","path":"$$/en/tags/friendly-service","id":"friendly-service"},{"name":"Istanbul","path":"$$/en/tags/istanbul","id":"istanbul"},{"name":"Luxury Hotel","path":"$$/en/tags/luxury-hotel","id":"luxury-hotel"},{"name":"Bosphorus View","path":"$$/en/tags/bosphorus-view","id":"bosphorus-view"},{"name":"Full Amenities","path":"$$/en/tags/full-amenities","id":"full-amenities"},{"name":"Rest and Recharge","path":"$$/en/tags/rest-and-recharge","id":"rest-and-recharge"},{"name":"Istanbul Hotels","path":"$$/en/tags/istanbul-hotels","id":"istanbul-hotels"},{"name":"Premium Accommodation","path":"$$/en/tags/premium-accommodation","id":"premium-accommodation"},{"name":"Culinary Experience","path":"$$/en/tags/culinary-experience","id":"culinary-experience"},{"name":"Traditional Cuisine","path":"$$/en/tags/traditional-cuisine","id":"traditional-cuisine"},{"name":"Breakfast","path":"$$/en/tags/breakfast","id":"breakfast"},{"name":"Luxury Stay","path":"$$/en/tags/luxury-stay","id":"luxury-stay"},{"name":"Cultural Exploration","path":"$$/en/tags/cultural-exploration","id":"cultural-exploration"},{"name":"Scenic View","path":"$$/en/tags/scenic-view","id":"scenic-view"},{"name":"Central Location","path":"$$/en/tags/central-location","id":"central-location"},{"name":"Elegance","path":"$$/en/tags/elegance","id":"elegance"},{"name":"Top Service","path":"$$/en/tags/top-service","id":"top-service"},{"name":"Friendly Staff","path":"$$/en/tags/friendly-staff","id":"friendly-staff"}],"banner":"https://pix5.agoda.net/city/14932/14932-1x1.jpg","author":"Dalma","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"istanbul-accommodation-guide","content":"$d","category":"articles","readMin":"7.1"},"language":"en"}]}],"\n",["$","h2",null,{"id":"2e48b640","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Dreaming of the Bosphorus: A Luxurious Stay"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["CVK Park Bosphorus Hotel Istanbul\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/502363/-1/6074addfaf0fd2ccdf7c60dfe191cf3e.jpg","alt":"CVK Park Bosphorus Hotel Istanbul_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/52208060.jpg?k=d41af64d1750e1702d5003ac14ab58b4e4e962e46af366e91377d7e5ab2f82de&s=50x50","alt":"CVK Park Bosphorus Hotel Istanbul_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/52208899.jpg?k=5100014bcd12473b7a211d9d21fee69b069b038c8cd7da38ec827ab6dd28a226&s=50x50","alt":"CVK Park Bosphorus Hotel Istanbul_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Nestled in the luxurious landscape of Istanbul, this hotel features cozy beds and elegant interiors that instantly dissolve your travel fatigue. The breathtaking views of the Bosphorus from the windows are as beautiful as a scene from a fairy tale. Additionally, the professional service and warm smiles of the staff will make you feel right at home."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"The hotel offers amenities like a health club, spa, and indoor pool, giving you a chance to escape daily stress and achieve complete relaxation. A session in the spa will rejuvenate your body and mind. By the end of your stay, you'll feel recharged and ready to tackle everyday life again."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/en-us/cvk-park-bosphorus-hotel-istanbul/hotel/istanbul-tr.html"},"children":[{"type":"text","value":"CVK Park Bosphorus Hotel Istanbul","position":{"start":{"line":30,"column":2,"offset":3285},"end":{"line":30,"column":35,"offset":3318}}}],"position":{"start":{"line":30,"column":1,"offset":3284},"end":{"line":30,"column":122,"offset":3405}}},"children":"CVK Park Bosphorus Hotel Istanbul"},"post":{"id":"8943e681-512b-44ed-99e7-48ae319509e9","title":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","fileName":"istanbul-accommodation-guide","description":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks.","date":"2022-05-07T03:03:16.005Z","tags":[{"name":"Central Istanbul","path":"$$/en/tags/central-istanbul","id":"central-istanbul"},{"name":"Cultural Travel","path":"$$/en/tags/cultural-travel","id":"cultural-travel"},{"name":"Local Experience","path":"$$/en/tags/local-experience","id":"local-experience"},{"name":"Comfortable Stay","path":"$$/en/tags/comfortable-stay","id":"comfortable-stay"},{"name":"Friendly Service","path":"$$/en/tags/friendly-service","id":"friendly-service"},{"name":"Istanbul","path":"$$/en/tags/istanbul","id":"istanbul"},{"name":"Luxury Hotel","path":"$$/en/tags/luxury-hotel","id":"luxury-hotel"},{"name":"Bosphorus View","path":"$$/en/tags/bosphorus-view","id":"bosphorus-view"},{"name":"Full Amenities","path":"$$/en/tags/full-amenities","id":"full-amenities"},{"name":"Rest and Recharge","path":"$$/en/tags/rest-and-recharge","id":"rest-and-recharge"},{"name":"Istanbul Hotels","path":"$$/en/tags/istanbul-hotels","id":"istanbul-hotels"},{"name":"Premium Accommodation","path":"$$/en/tags/premium-accommodation","id":"premium-accommodation"},{"name":"Culinary Experience","path":"$$/en/tags/culinary-experience","id":"culinary-experience"},{"name":"Traditional Cuisine","path":"$$/en/tags/traditional-cuisine","id":"traditional-cuisine"},{"name":"Breakfast","path":"$$/en/tags/breakfast","id":"breakfast"},{"name":"Luxury Stay","path":"$$/en/tags/luxury-stay","id":"luxury-stay"},{"name":"Cultural Exploration","path":"$$/en/tags/cultural-exploration","id":"cultural-exploration"},{"name":"Scenic View","path":"$$/en/tags/scenic-view","id":"scenic-view"},{"name":"Central Location","path":"$$/en/tags/central-location","id":"central-location"},{"name":"Elegance","path":"$$/en/tags/elegance","id":"elegance"},{"name":"Top Service","path":"$$/en/tags/top-service","id":"top-service"},{"name":"Friendly Staff","path":"$$/en/tags/friendly-staff","id":"friendly-staff"}],"banner":"https://pix5.agoda.net/city/14932/14932-1x1.jpg","author":"Dalma","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"istanbul-accommodation-guide","content":"$e","category":"articles","readMin":"7.1"},"language":"en"}]}],"\n",["$","h2",null,{"id":"a09d04af","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Hidden Gem of Istanbul: A Haven of Rest"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Sapphire\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/10257463/0/39d609ef957e9cd69c893ac75ce9638a.jpeg","alt":"Hotel Sapphire_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/18328983.jpg?k=12c826514559b1d358c380e508282d9079194afd9a565aa64deea17ccfd4f60d&s=50x50","alt":"Hotel Sapphire_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/18329560.jpg?k=8948560643a7cf898e723178f19cccd903970105cb276754bc03b923a61d4d46&s=50x50","alt":"Hotel Sapphire_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Looking for the perfect place to rest quietly in the heart of Istanbul? This hotel exceeds expectations, offering a blend of tradition and modernity. Known for its luxurious rooms and attentive service, it provides the ultimate comfort, earning praise from guests who describe it as 'very comfortable and clean.'"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"The hotel's restaurant offers a global culinary experience, including local traditional dishes. Guests rave about the breakfast, calling it 'rich, delicious, and varied.' Enjoying a leisurely morning with a view of Istanbul's beautiful scenery will make your day special."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/en-us/hotel-sapphire/hotel/istanbul-tr.html"},"children":[{"type":"text","value":"Hotel Sapphire","position":{"start":{"line":43,"column":2,"offset":4498},"end":{"line":43,"column":16,"offset":4512}}}],"position":{"start":{"line":43,"column":1,"offset":4497},"end":{"line":43,"column":84,"offset":4580}}},"children":"Hotel Sapphire"},"post":{"id":"8943e681-512b-44ed-99e7-48ae319509e9","title":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","fileName":"istanbul-accommodation-guide","description":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks.","date":"2022-05-07T03:03:16.005Z","tags":[{"name":"Central Istanbul","path":"$$/en/tags/central-istanbul","id":"central-istanbul"},{"name":"Cultural Travel","path":"$$/en/tags/cultural-travel","id":"cultural-travel"},{"name":"Local Experience","path":"$$/en/tags/local-experience","id":"local-experience"},{"name":"Comfortable Stay","path":"$$/en/tags/comfortable-stay","id":"comfortable-stay"},{"name":"Friendly Service","path":"$$/en/tags/friendly-service","id":"friendly-service"},{"name":"Istanbul","path":"$$/en/tags/istanbul","id":"istanbul"},{"name":"Luxury Hotel","path":"$$/en/tags/luxury-hotel","id":"luxury-hotel"},{"name":"Bosphorus View","path":"$$/en/tags/bosphorus-view","id":"bosphorus-view"},{"name":"Full Amenities","path":"$$/en/tags/full-amenities","id":"full-amenities"},{"name":"Rest and Recharge","path":"$$/en/tags/rest-and-recharge","id":"rest-and-recharge"},{"name":"Istanbul Hotels","path":"$$/en/tags/istanbul-hotels","id":"istanbul-hotels"},{"name":"Premium Accommodation","path":"$$/en/tags/premium-accommodation","id":"premium-accommodation"},{"name":"Culinary Experience","path":"$$/en/tags/culinary-experience","id":"culinary-experience"},{"name":"Traditional Cuisine","path":"$$/en/tags/traditional-cuisine","id":"traditional-cuisine"},{"name":"Breakfast","path":"$$/en/tags/breakfast","id":"breakfast"},{"name":"Luxury Stay","path":"$$/en/tags/luxury-stay","id":"luxury-stay"},{"name":"Cultural Exploration","path":"$$/en/tags/cultural-exploration","id":"cultural-exploration"},{"name":"Scenic View","path":"$$/en/tags/scenic-view","id":"scenic-view"},{"name":"Central Location","path":"$$/en/tags/central-location","id":"central-location"},{"name":"Elegance","path":"$$/en/tags/elegance","id":"elegance"},{"name":"Top Service","path":"$$/en/tags/top-service","id":"top-service"},{"name":"Friendly Staff","path":"$$/en/tags/friendly-staff","id":"friendly-staff"}],"banner":"https://pix5.agoda.net/city/14932/14932-1x1.jpg","author":"Dalma","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"istanbul-accommodation-guide","content":"$f","category":"articles","readMin":"7.1"},"language":"en"}]}],"\n",["$","h2",null,{"id":"a09d04af","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Hidden Gem of Istanbul: A Haven of Rest"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["The Magnaura Palace Hotel\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/302/302809/302809_15072210440032755778.jpg","alt":"The Magnaura Palace Hotel_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/384520590.jpg?k=ac7d7696b0469e282b69dfe31e1298b95cd259f84c8b8386a48bca3f3e0e8cc3&s=50x50","alt":"The Magnaura Palace Hotel_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/384516138.jpg?k=f307ed44975a63422b28e66cb71bb3d32bf6bf7f79d207794166864ea6ee408a&s=50x50","alt":"The Magnaura Palace Hotel_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Dreaming of a special holiday in a place where Istanbul's historical charm and modern luxury blend seamlessly? The Magnaura Palace Hotel can make that dream a reality. Offering stunning sea views and luxurious rooms, this hotel enhances your vacation experience. Each room is elegantly decorated and prepared with meticulous attention to detail for ultimate comfort."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"The hotel is surrounded by Istanbul's major attractions, perfect for cultural exploration. Within minutes, you can walk to famous landmarks like the Sultanahmet Mosque and Hagia Sophia. If you need to unwind, enjoy a cup of tea on the hotel's terrace overlooking the sea. Every moment here will become a cherished memory."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/en-us/the-magnaura-palace-hotel/hotel/istanbul-tr.html"},"children":[{"type":"text","value":"The Magnaura Palace Hotel","position":{"start":{"line":56,"column":2,"offset":5817},"end":{"line":56,"column":27,"offset":5842}}}],"position":{"start":{"line":56,"column":1,"offset":5816},"end":{"line":56,"column":106,"offset":5921}}},"children":"The Magnaura Palace Hotel"},"post":{"id":"8943e681-512b-44ed-99e7-48ae319509e9","title":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","fileName":"istanbul-accommodation-guide","description":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks.","date":"2022-05-07T03:03:16.005Z","tags":[{"name":"Central Istanbul","path":"$$/en/tags/central-istanbul","id":"central-istanbul"},{"name":"Cultural Travel","path":"$$/en/tags/cultural-travel","id":"cultural-travel"},{"name":"Local Experience","path":"$$/en/tags/local-experience","id":"local-experience"},{"name":"Comfortable Stay","path":"$$/en/tags/comfortable-stay","id":"comfortable-stay"},{"name":"Friendly Service","path":"$$/en/tags/friendly-service","id":"friendly-service"},{"name":"Istanbul","path":"$$/en/tags/istanbul","id":"istanbul"},{"name":"Luxury Hotel","path":"$$/en/tags/luxury-hotel","id":"luxury-hotel"},{"name":"Bosphorus View","path":"$$/en/tags/bosphorus-view","id":"bosphorus-view"},{"name":"Full Amenities","path":"$$/en/tags/full-amenities","id":"full-amenities"},{"name":"Rest and Recharge","path":"$$/en/tags/rest-and-recharge","id":"rest-and-recharge"},{"name":"Istanbul Hotels","path":"$$/en/tags/istanbul-hotels","id":"istanbul-hotels"},{"name":"Premium Accommodation","path":"$$/en/tags/premium-accommodation","id":"premium-accommodation"},{"name":"Culinary Experience","path":"$$/en/tags/culinary-experience","id":"culinary-experience"},{"name":"Traditional Cuisine","path":"$$/en/tags/traditional-cuisine","id":"traditional-cuisine"},{"name":"Breakfast","path":"$$/en/tags/breakfast","id":"breakfast"},{"name":"Luxury Stay","path":"$$/en/tags/luxury-stay","id":"luxury-stay"},{"name":"Cultural Exploration","path":"$$/en/tags/cultural-exploration","id":"cultural-exploration"},{"name":"Scenic View","path":"$$/en/tags/scenic-view","id":"scenic-view"},{"name":"Central Location","path":"$$/en/tags/central-location","id":"central-location"},{"name":"Elegance","path":"$$/en/tags/elegance","id":"elegance"},{"name":"Top Service","path":"$$/en/tags/top-service","id":"top-service"},{"name":"Friendly Staff","path":"$$/en/tags/friendly-staff","id":"friendly-staff"}],"banner":"https://pix5.agoda.net/city/14932/14932-1x1.jpg","author":"Dalma","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"istanbul-accommodation-guide","content":"$10","category":"articles","readMin":"7.1"},"language":"en"}]}],"\n",["$","h2",null,{"id":"2ff90fe3","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Hidden Gem of Istanbul: Comfortable Retreat"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Radisson Hotel President Old Town Istanbul\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/13485364/0/90e1518cd3eaea6a3dfe8380b0f20693.jpg","alt":"Radisson Hotel President Old Town Istanbul_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/13485364/355859866/3ccdf713890d0e949d1a9c4e9d52ff81.jpg","alt":"Radisson Hotel President Old Town Istanbul_1_image"}],"\n![Radisson Hotel President Old Town Istanbul_2_image](",["$","$Lc",null,{"props":{"href":"https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8","node":{"type":"element","tagName":"a","properties":{"href":"https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8"},"children":[{"type":"text","value":"https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8","position":{"start":{"line":63,"column":55,"offset":6352},"end":{"line":63,"column":171,"offset":6468}}}],"position":{"start":{"line":63,"column":55,"offset":6352},"end":{"line":63,"column":171,"offset":6468}}},"children":"https://q-xx.bstatic.com/xdata/images/hotel/max500/271562514.jpg?k=87e0713f7f65f099a53906b1bdcc60ec008d1fa60198425f8"},"post":{"id":"8943e681-512b-44ed-99e7-48ae319509e9","title":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","fileName":"istanbul-accommodation-guide","description":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks.","date":"2022-05-07T03:03:16.005Z","tags":[{"name":"Central Istanbul","path":"$$/en/tags/central-istanbul","id":"central-istanbul"},{"name":"Cultural Travel","path":"$$/en/tags/cultural-travel","id":"cultural-travel"},{"name":"Local Experience","path":"$$/en/tags/local-experience","id":"local-experience"},{"name":"Comfortable Stay","path":"$$/en/tags/comfortable-stay","id":"comfortable-stay"},{"name":"Friendly Service","path":"$$/en/tags/friendly-service","id":"friendly-service"},{"name":"Istanbul","path":"$$/en/tags/istanbul","id":"istanbul"},{"name":"Luxury Hotel","path":"$$/en/tags/luxury-hotel","id":"luxury-hotel"},{"name":"Bosphorus View","path":"$$/en/tags/bosphorus-view","id":"bosphorus-view"},{"name":"Full Amenities","path":"$$/en/tags/full-amenities","id":"full-amenities"},{"name":"Rest and Recharge","path":"$$/en/tags/rest-and-recharge","id":"rest-and-recharge"},{"name":"Istanbul Hotels","path":"$$/en/tags/istanbul-hotels","id":"istanbul-hotels"},{"name":"Premium Accommodation","path":"$$/en/tags/premium-accommodation","id":"premium-accommodation"},{"name":"Culinary Experience","path":"$$/en/tags/culinary-experience","id":"culinary-experience"},{"name":"Traditional Cuisine","path":"$$/en/tags/traditional-cuisine","id":"traditional-cuisine"},{"name":"Breakfast","path":"$$/en/tags/breakfast","id":"breakfast"},{"name":"Luxury Stay","path":"$$/en/tags/luxury-stay","id":"luxury-stay"},{"name":"Cultural Exploration","path":"$$/en/tags/cultural-exploration","id":"cultural-exploration"},{"name":"Scenic View","path":"$$/en/tags/scenic-view","id":"scenic-view"},{"name":"Central Location","path":"$$/en/tags/central-location","id":"central-location"},{"name":"Elegance","path":"$$/en/tags/elegance","id":"elegance"},{"name":"Top Service","path":"$$/en/tags/top-service","id":"top-service"},{"name":"Friendly Staff","path":"$$/en/tags/friendly-staff","id":"friendly-staff"}],"banner":"https://pix5.agoda.net/city/14932/14932-1x1.jpg","author":"Dalma","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"istanbul-accommodation-guide","content":"$11","category":"articles","readMin":"7.1"},"language":"en"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"bb5c3c1443bc0b5&s=50x50)"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Just a short walk from the heart of Istanbul, this hotel offers a unique blend of comfort and luxury. It provides a perfect escape for those looking to step away from the city's hustle and bustle. A night here offers more than just a place to stay; it promises a value beyond compare."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"The hotel's charm extends beyond its comfortable accommodation. According to guest reviews, it offers top-notch service, comprehensive amenities, and friendly staff. Prioritizing guests' needs, every moment here feels special."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/en-us/best-western-plus-the-president-hotel/hotel/istanbul-tr.html"},"children":[{"type":"text","value":"Radisson Hotel President Old Town Istanbul","position":{"start":{"line":71,"column":2,"offset":7011},"end":{"line":71,"column":44,"offset":7053}}}],"position":{"start":{"line":71,"column":1,"offset":7010},"end":{"line":71,"column":135,"offset":7144}}},"children":"Radisson Hotel President Old Town Istanbul"},"post":{"id":"8943e681-512b-44ed-99e7-48ae319509e9","title":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","fileName":"istanbul-accommodation-guide","description":"Looking for a place to stay in the captivating city of Istanbul? This guide recommends five hidden gem hotels. 'Erboy Hotel - Sirkeci Group,' 'CVK Park Bosphorus Hotel,' 'Hotel Sapphire,' 'The Magnaura Palace Hotel,' and 'Radisson Hotel President Old Town Istanbul.' Experience unforgettable stays in Istanbul with these top picks.","date":"2022-05-07T03:03:16.005Z","tags":[{"name":"Central Istanbul","path":"$$/en/tags/central-istanbul","id":"central-istanbul"},{"name":"Cultural Travel","path":"$$/en/tags/cultural-travel","id":"cultural-travel"},{"name":"Local Experience","path":"$$/en/tags/local-experience","id":"local-experience"},{"name":"Comfortable Stay","path":"$$/en/tags/comfortable-stay","id":"comfortable-stay"},{"name":"Friendly Service","path":"$$/en/tags/friendly-service","id":"friendly-service"},{"name":"Istanbul","path":"$$/en/tags/istanbul","id":"istanbul"},{"name":"Luxury Hotel","path":"$$/en/tags/luxury-hotel","id":"luxury-hotel"},{"name":"Bosphorus View","path":"$$/en/tags/bosphorus-view","id":"bosphorus-view"},{"name":"Full Amenities","path":"$$/en/tags/full-amenities","id":"full-amenities"},{"name":"Rest and Recharge","path":"$$/en/tags/rest-and-recharge","id":"rest-and-recharge"},{"name":"Istanbul Hotels","path":"$$/en/tags/istanbul-hotels","id":"istanbul-hotels"},{"name":"Premium Accommodation","path":"$$/en/tags/premium-accommodation","id":"premium-accommodation"},{"name":"Culinary Experience","path":"$$/en/tags/culinary-experience","id":"culinary-experience"},{"name":"Traditional Cuisine","path":"$$/en/tags/traditional-cuisine","id":"traditional-cuisine"},{"name":"Breakfast","path":"$$/en/tags/breakfast","id":"breakfast"},{"name":"Luxury Stay","path":"$$/en/tags/luxury-stay","id":"luxury-stay"},{"name":"Cultural Exploration","path":"$$/en/tags/cultural-exploration","id":"cultural-exploration"},{"name":"Scenic View","path":"$$/en/tags/scenic-view","id":"scenic-view"},{"name":"Central Location","path":"$$/en/tags/central-location","id":"central-location"},{"name":"Elegance","path":"$$/en/tags/elegance","id":"elegance"},{"name":"Top Service","path":"$$/en/tags/top-service","id":"top-service"},{"name":"Friendly Staff","path":"$$/en/tags/friendly-staff","id":"friendly-staff"}],"banner":"https://pix5.agoda.net/city/14932/14932-1x1.jpg","author":"Dalma","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"istanbul-accommodation-guide","content":"$12","category":"articles","readMin":"7.1"},"language":"en"}]}],"\n",["$","h2",null,{"id":"e39262de","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Conclusion"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"These hotels offer unique charm and modern amenities, providing guests with a comfortable and enjoyable stay. From natural relaxation to urban convenience, each hotel offers a variety of experiences. If you want to create special memories, choose one of these hotels and plan a unique trip!"}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"Istanbul Accommodation Guide. 5 Hidden Gem Hotels in the Heart of the City","toc":[{"tagName":"h2","title":"Istanbul Accommodation Guide - 5 Hidden Gem Hotels in the Heart of the City","id":"f4e32684"},{"tagName":"h2","title":"Hidden Gem of Istanbul: Comfortable Retreat","id":"2ff90fe3"},{"tagName":"h2","title":"Dreaming of the Bosphorus: A Luxurious Stay","id":"2e48b640"},{"tagName":"h2","title":"Hidden Gem of Istanbul: A Haven of Rest","id":"a09d04af"},{"tagName":"h2","title":"Hidden Gem of Istanbul: A Haven of Rest","id":"a09d04af"},{"tagName":"h2","title":"Hidden Gem of Istanbul: Comfortable Retreat","id":"2ff90fe3"},{"tagName":"h2","title":"Conclusion","id":"e39262de"}],"language":"en"}]}]]}]]
+8:null

@@ -1,0 +1,359 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%ED%8D%BC%EC%8A%A4-%EC%88%99%EC%86%8C-%EC%B6%94%EC%B2%9C-%EC%9C%84%EC%B9%98%EC%99%80-%EC%A0%84%EB%A7%9D%EC%9D%B4-%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%98%B8%ED%85%94-5%EA%B3%B3","d"],{"children":["__PAGE__?{\"slug\":\"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%ED%8D%BC%EC%8A%A4-%EC%88%99%EC%86%8C-%EC%B6%94%EC%B2%9C-%EC%9C%84%EC%B9%98%EC%99%80-%EC%A0%84%EB%A7%9D%EC%9D%B4-%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%98%B8%ED%85%94-5%EA%B3%B3","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳\"}"},"styles":[]}],"segment":["slug","%ED%8D%BC%EC%8A%A4-%EC%88%99%EC%86%8C-%EC%B6%94%EC%B2%9C-%EC%9C%84%EC%B9%98%EC%99%80-%EC%A0%84%EB%A7%9D%EC%9D%B4-%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%98%B8%ED%85%94-5%EA%B3%B3","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요."}],["$","meta","3",{"name":"keywords","content":"태평양 지역 및 호주,도심,강변,편안함,최신 시설,친절 서비스,미식,수영장,피트니스,편리한 위치,퍼스,고풍스러운,오아시스,엘리자베스 키,킹스 파크,안락한,뷔페식,고급,교통,서비스,레스토랑,바,친근함,현대적,도시뷰,관광지,가족,커플,편리함,럭셔리,세련됨,편의시설"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%ED%8D%BC%EC%8A%A4-%EC%88%99%EC%86%8C-%EC%B6%94%EC%B2%9C-%EC%9C%84%EC%B9%98%EC%99%80-%EC%A0%84%EB%A7%9D%EC%9D%B4-%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%98%B8%ED%85%94-5%EA%B3%B3"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%ED%8D%BC%EC%8A%A4-%EC%88%99%EC%86%8C-%EC%B6%94%EC%B2%9C-%EC%9C%84%EC%B9%98%EC%99%80-%EC%A0%84%EB%A7%9D%EC%9D%B4-%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%98%B8%ED%85%94-5%EA%B3%B3"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/11980-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/11980-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2ac7,
+## 퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 언제나 여러분의 여행을 더 특별하게 만들어 드리기 위해 노력하고 있어요. 이번에는 호주의 아름다운 도시 **퍼스**에서 위치와 전망이 훌륭한 호텔 5곳을 추천해 드리려고 해요. 여름철 해변의 매력과 도시의 활기를 동시에 즐길 수 있는 퍼스는 여행자들에게 많은 사랑을 받고 있죠. 위치가 좋고 전망이 훌륭한 호텔에서의 숙박은 휴식과 힐링을 극대화할 수 있어요. 그래서 오늘 여러분께 소개해 드릴 호텔들은 퍼스의 아름다운 해변과 도심의 멋진 풍경을 모두 즐길 수 있는 최적의 장소에 위치해 있답니다. 준비되셨나요? 함께 보러 가요!
+
+## 완벽한 도시 속 휴식 공간
+
+더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_0_image](https://pix8.agoda.net/hotelImages/18468248/-1/8f118200461c1caad2ce6a7401f0586c.png)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_1_image](https://pix8.agoda.net/hotelImages/18468248/-1/be45fd1cdc39c36c3083cb402a9f4d3d.jpg)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_2_image](https://pix8.agoda.net/hotelImages/18468248/-1/c0aa6c512d5327c4d13be5381d121fc0.jpg)
+
+퍼스 도심의 아름다운 스완 강을 바라보는 이 호텔은 세련된 디자인과 편안함을 자랑해요. 넓은 객실과 최신 시설, 그리고 친절한 서비스는 머무는 동안 진정한 여유를 느낄 수 있게 해줘요. 특히 강이 보이는 객실을 선택하면 아름다운 일출과 일몰을 감상할 수 있답니다. 또한 호텔 내 레스토랑은 맛있는 식사를 제공하여 멀리 나가지 않고도 미식 여행을 할 수 있어요.
+
+수영장과 피트니스 센터를 갖춘 이 호텔은 하루 종일 관광을 즐긴 후에도 몸과 마음을 재충전하기에 좋은 장소에요. 비즈니스 여행객을 위한 회의실도 마련되어 있어요. 인근 명소까지 도보로 이동할 수 있는 위치라 편리함까지 겸비했답니다. 편리한 위치와 다양한 편의시설 덕분에 가족 여행, 커플 여행, 비즈니스 출장 모두에게 추천하는 곳이에요.
+
+[더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)](https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html)
+
+## 퍼스의 숨겨진 보석, 오아시스
+
+덕스턴 호텔 (Duxton Hotel)
+![덕스턴 호텔 (Duxton Hotel)_0_image](https://pix8.agoda.net/hotelImages/3082/-1/cadc7a9a7e4f28d88ee05f377a721477.jpg)
+![덕스턴 호텔 (Duxton Hotel)_1_image](https://pix8.agoda.net/hotelImages/3082/-1/fc1fc1d96c88d74e965c435c3e85bf93.jpg)
+![덕스턴 호텔 (Duxton Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/63838168.jpg?k=c58a7bc9a9e8cdefc3945b380f6bb6f138b57a8dd7c61fb6cb1cefc0415289d1&s=50x50)
+
+서호주의 활기찬 도시 퍼스에서 마음의 여유를 찾으실 수 있는 곳, 바로 이 호텔입니다. 이 호텔은 고풍스러운 외관과 현대적인 시설이 절묘하게 어우러져 있어, 도심 속 작은 오아시스처럼 느껴질 거예요. 호텔 주변에는 유명한 **킹스 파크**와 **엘리자베스 키**도 있어 여행객에게 다양한 즐길 거리를 제공합니다. 도심 한가운데 위치해 있지만 객실은 매우 조용하고 아늑해서 긴 하루를 보낸 후 편히 쉴 수 있는 안락한 환경을 제공해요.
+
+친절한 직원들의 서비스는 이 호텔의 큰 자랑거리 중 하나입니다. 예를 들어, 투숙객이 도착하자마자 따뜻한 환영 인사를 건네며 필요한 모든 정보를 세세하게 안내해주었어요. 또한, 룸서비스는 매우 신속하고 음식의 퀄리티도 훌륭해요. 아침에는 신선한 재료로 준비된 **뷔페식 아침 식사**를 즐기실 수 있어요. 호텔 내부에는 다양한 시설이 구비되어 있어, 수영장과 피트니스 센터에서 하루의 피로를 풀고 재충전할 수 있답니다. 이 호텔에서라면 편안함과 즐거움을 동시에 누릴 수 있을 거예요.
+
+[덕스턴 호텔 (Duxton Hotel)](https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html)
+
+## 퍼스의 매력을 담은 도심 속 휴식
+
+QT 퍼스 (QT Perth)
+![QT 퍼스 (QT Perth)_0_image](https://pix8.agoda.net/hotelImages/4916037/-1/a5b70491420c3c763cc70f7326ad792d.jpg)
+![QT 퍼스 (QT Perth)_1_image](https://pix8.agoda.net/hotelImages/4916037/-1/dd0f4810de153831e453838d420b05cb.jpg)
+![QT 퍼스 (QT Perth)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/380261821.jpg?k=05799b21aa1cac7b4f59e5c6adf0ca1985a9ce770f75d7bad7f44d9bdec0e339&s=50x50)
+
+퍼스 도심 한가운데 위치한 이 호텔은 세련된 현대적 디자인과 편리한 교통 접근성을 자랑해요. 각 객실은 고급스러운 침구와 넉넉한 공간으로 편안함을 제공합니다. 또한, 호텔 내에는 다양한 식사 옵션을 즐길 수 있는 레스토랑과 바가 준비되어 있어요. 객실에서 창밖을 내다보면 퍼스 시내의 풍경이 아름답게 펼쳐집니다. 오전에는 근처 카페에서 커피를 마시며 여유로운 시간을 보낼 수 있고, 저녁에는 호텔 옥상에 있는 바에서 일몰을 감상할 수 있어요. _친절한 직원들_ 덕분에 투숙객들은 항상 따뜻한 환영을 받는다고 합니다. **편안한 침대**와 깨끗한 객실 관리도 많은 이들이 높이 평가해요. 이 호텔은 여행객들에게 완벽한 도심 속 오아시스 같은 장소입니다. 퍼스에서의 특별한 경험을 원한다면, 이곳에서 머무는 것이 좋은 선택이 될 거예요. 가족 단위 여행객이나 커플에게 특히 추천드려요!
+
+[QT 퍼스 (QT Perth)](https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html)
+
+## 럭셔리한 퍼스의 도시 뷰 경험
+
+크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_0_image](https://pix8.agoda.net/hotelImages/4113/0/fec6053af55c2fa8d5bb5ca5e4859959.jpg)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/11127484.jpg?k=c734f2be021ba8619b42df0f9550ee19c00e6eec2540dc4dd041ec1591897172&s=50x50)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_2_image](https://pix8.agoda.net/hotelImages/4656966/0/5ba83bc09f2df7dce5bef4d522542a66.jpg)
+
+서호주의 심장, 퍼스에서의 여정을 더욱 특별하게 만들어 줄 호텔을 찾고 계신가요? 여유롭고도 현대적인 분위기를 자랑하는 퍼스의 이 호텔은 도심 속에 위치하면서도 마치 부티크 리조트 같은 느낌을 주는 곳이에요. 호텔에 발을 들이는 순간부터 세련된 디자인과 따뜻한 환영을 받을 수 있어요. 객실은 넓고 깨끗하며, 아름다운 도시 전망을 자랑해요. 특히 큰 창문으로 들어오는 자연광 덕분에 매일 아침 상쾌한 기분으로 하루를 시작할 수 있답니다. 나무랄 데 없는 서비스는 덤이고요. 퍼스의 주요 명소들도 도보로 이동 가능한 거리에 있어 편리해요. 가족, 커플, 친구들과 함께 즐길 수 있는 다양한 부대시설도 마련되어 있어 누구와 함께 오더라도 지루할 틈이 없어요. 상쾌한 수영장, 현대적인 피트니스 센터, 그리고 몽환적인 스파까지 갖추고 있어 몸과 마음을 모두 달래줄 수 있답니다. 긴 하루를 보낸 후 호텔 내 레스토랑에서 즐기는 맛있는 저녁식사는 만족스러움을 더할 거예요.
+
+[크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)](https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html)
+
+## 편안한 휴식과 모던한 럭셔리
+
+파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_0_image](https://pix8.agoda.net/hotelImages/5670/-1/24032ddebe93828c8be5d0644f62ded8.jpg)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/516313796.jpg?k=30645c23cb2665bb1a24b1db622b1b9cdd6ba2bf9ddb46d9840c89e3adfd1191&s=50x50)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_2_image](https://pix8.agoda.net/hotelImages/5670/-1/6841873bcbe1d3beff47ae6c3eb86db7.jpg)
+
+파멜리아 힐튼 퍼스에서의 숙박은 정말 잊을 수 없을 거예요. 퍼스 도심에 위치해 있어 도시의 주요 명소들을 편리하게 둘러볼 수 있고, 세련된 인테리어와 편안한 침대가 당신을 기다리고 있답니다. 특히 객실마다 철저히 관리된 청결 상태는 투숙객들 사이에서 큰 호평을 받고 있어요. 또한 호텔 내 레스토랑은 다양한 메뉴와 고급스러운 분위기로 미각을 자극하며 기억에 남을 만한 맛있는 식사를 제공해줘요. 그리고 저녁 무렵에는 호텔 바에서 제공되는 다양한 칵테일과 음료를 통해 하루의 피로를 달래보시는 것도 좋을 것 같아요.
+
+이외에도 파멜리아 힐튼 퍼스는 다양한 즐길 거리와 편의 시설이 마련되어 있어요. 24시간 운영되는 피트니스 센터에서 운동을 하거나, 실내 수영장에서 수영을 즐길 수 있답니다. 또한 고객 서비스를 중요시하는 호텔답게, 친절하고 전문적인 직원들이 언제나 당신의 필요를 신속하게 해결해주어요. 휴식을 위한 모든 것, 파멜리아 힐튼 퍼스는 당신의 기대를 충족시킬 준비가 되어 있습니다.
+
+[파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)](https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html)
+
+## 결론
+
+퍼스 여행을 계획하고 계신다면 다음의 호텔들을 참고해보세요. *더블트리 바이 힐튼 퍼스 워터프론트*는 스완 강 뷰를 자랑하며, 다양한 편의시설과 편리한 위치로 여행객들에게 인기를 끌고 있습니다. *덕스턴 호텔*은 퍼스 도심 속 오아시스 같은 호텔로서 편안함과 즐거움을 동시에 제공합니다. *QT 퍼스*는 세련된 디자인과 고급 객실, 뛰어난 서비스로 특히 주목받는 호텔입니다. 좀 더 여유로운 분위기를 찾고 있다면 *크라운 메트로폴 퍼스 호텔*을 추천드리며, 가족과 커플 모두를 위한 서비스를 제공합니다. 마지막으로, *파멜리아 힐튼 퍼스*는 모던한 럭셔리와 편안한 휴식을 동시에 즐길 수 있는 최적의 장소입니다. 지금 바로 예약하고 잊지 못할 퍼스 여행을 경험해보세요!
+e:T2ac7,
+## 퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 언제나 여러분의 여행을 더 특별하게 만들어 드리기 위해 노력하고 있어요. 이번에는 호주의 아름다운 도시 **퍼스**에서 위치와 전망이 훌륭한 호텔 5곳을 추천해 드리려고 해요. 여름철 해변의 매력과 도시의 활기를 동시에 즐길 수 있는 퍼스는 여행자들에게 많은 사랑을 받고 있죠. 위치가 좋고 전망이 훌륭한 호텔에서의 숙박은 휴식과 힐링을 극대화할 수 있어요. 그래서 오늘 여러분께 소개해 드릴 호텔들은 퍼스의 아름다운 해변과 도심의 멋진 풍경을 모두 즐길 수 있는 최적의 장소에 위치해 있답니다. 준비되셨나요? 함께 보러 가요!
+
+## 완벽한 도시 속 휴식 공간
+
+더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_0_image](https://pix8.agoda.net/hotelImages/18468248/-1/8f118200461c1caad2ce6a7401f0586c.png)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_1_image](https://pix8.agoda.net/hotelImages/18468248/-1/be45fd1cdc39c36c3083cb402a9f4d3d.jpg)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_2_image](https://pix8.agoda.net/hotelImages/18468248/-1/c0aa6c512d5327c4d13be5381d121fc0.jpg)
+
+퍼스 도심의 아름다운 스완 강을 바라보는 이 호텔은 세련된 디자인과 편안함을 자랑해요. 넓은 객실과 최신 시설, 그리고 친절한 서비스는 머무는 동안 진정한 여유를 느낄 수 있게 해줘요. 특히 강이 보이는 객실을 선택하면 아름다운 일출과 일몰을 감상할 수 있답니다. 또한 호텔 내 레스토랑은 맛있는 식사를 제공하여 멀리 나가지 않고도 미식 여행을 할 수 있어요.
+
+수영장과 피트니스 센터를 갖춘 이 호텔은 하루 종일 관광을 즐긴 후에도 몸과 마음을 재충전하기에 좋은 장소에요. 비즈니스 여행객을 위한 회의실도 마련되어 있어요. 인근 명소까지 도보로 이동할 수 있는 위치라 편리함까지 겸비했답니다. 편리한 위치와 다양한 편의시설 덕분에 가족 여행, 커플 여행, 비즈니스 출장 모두에게 추천하는 곳이에요.
+
+[더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)](https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html)
+
+## 퍼스의 숨겨진 보석, 오아시스
+
+덕스턴 호텔 (Duxton Hotel)
+![덕스턴 호텔 (Duxton Hotel)_0_image](https://pix8.agoda.net/hotelImages/3082/-1/cadc7a9a7e4f28d88ee05f377a721477.jpg)
+![덕스턴 호텔 (Duxton Hotel)_1_image](https://pix8.agoda.net/hotelImages/3082/-1/fc1fc1d96c88d74e965c435c3e85bf93.jpg)
+![덕스턴 호텔 (Duxton Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/63838168.jpg?k=c58a7bc9a9e8cdefc3945b380f6bb6f138b57a8dd7c61fb6cb1cefc0415289d1&s=50x50)
+
+서호주의 활기찬 도시 퍼스에서 마음의 여유를 찾으실 수 있는 곳, 바로 이 호텔입니다. 이 호텔은 고풍스러운 외관과 현대적인 시설이 절묘하게 어우러져 있어, 도심 속 작은 오아시스처럼 느껴질 거예요. 호텔 주변에는 유명한 **킹스 파크**와 **엘리자베스 키**도 있어 여행객에게 다양한 즐길 거리를 제공합니다. 도심 한가운데 위치해 있지만 객실은 매우 조용하고 아늑해서 긴 하루를 보낸 후 편히 쉴 수 있는 안락한 환경을 제공해요.
+
+친절한 직원들의 서비스는 이 호텔의 큰 자랑거리 중 하나입니다. 예를 들어, 투숙객이 도착하자마자 따뜻한 환영 인사를 건네며 필요한 모든 정보를 세세하게 안내해주었어요. 또한, 룸서비스는 매우 신속하고 음식의 퀄리티도 훌륭해요. 아침에는 신선한 재료로 준비된 **뷔페식 아침 식사**를 즐기실 수 있어요. 호텔 내부에는 다양한 시설이 구비되어 있어, 수영장과 피트니스 센터에서 하루의 피로를 풀고 재충전할 수 있답니다. 이 호텔에서라면 편안함과 즐거움을 동시에 누릴 수 있을 거예요.
+
+[덕스턴 호텔 (Duxton Hotel)](https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html)
+
+## 퍼스의 매력을 담은 도심 속 휴식
+
+QT 퍼스 (QT Perth)
+![QT 퍼스 (QT Perth)_0_image](https://pix8.agoda.net/hotelImages/4916037/-1/a5b70491420c3c763cc70f7326ad792d.jpg)
+![QT 퍼스 (QT Perth)_1_image](https://pix8.agoda.net/hotelImages/4916037/-1/dd0f4810de153831e453838d420b05cb.jpg)
+![QT 퍼스 (QT Perth)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/380261821.jpg?k=05799b21aa1cac7b4f59e5c6adf0ca1985a9ce770f75d7bad7f44d9bdec0e339&s=50x50)
+
+퍼스 도심 한가운데 위치한 이 호텔은 세련된 현대적 디자인과 편리한 교통 접근성을 자랑해요. 각 객실은 고급스러운 침구와 넉넉한 공간으로 편안함을 제공합니다. 또한, 호텔 내에는 다양한 식사 옵션을 즐길 수 있는 레스토랑과 바가 준비되어 있어요. 객실에서 창밖을 내다보면 퍼스 시내의 풍경이 아름답게 펼쳐집니다. 오전에는 근처 카페에서 커피를 마시며 여유로운 시간을 보낼 수 있고, 저녁에는 호텔 옥상에 있는 바에서 일몰을 감상할 수 있어요. _친절한 직원들_ 덕분에 투숙객들은 항상 따뜻한 환영을 받는다고 합니다. **편안한 침대**와 깨끗한 객실 관리도 많은 이들이 높이 평가해요. 이 호텔은 여행객들에게 완벽한 도심 속 오아시스 같은 장소입니다. 퍼스에서의 특별한 경험을 원한다면, 이곳에서 머무는 것이 좋은 선택이 될 거예요. 가족 단위 여행객이나 커플에게 특히 추천드려요!
+
+[QT 퍼스 (QT Perth)](https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html)
+
+## 럭셔리한 퍼스의 도시 뷰 경험
+
+크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_0_image](https://pix8.agoda.net/hotelImages/4113/0/fec6053af55c2fa8d5bb5ca5e4859959.jpg)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/11127484.jpg?k=c734f2be021ba8619b42df0f9550ee19c00e6eec2540dc4dd041ec1591897172&s=50x50)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_2_image](https://pix8.agoda.net/hotelImages/4656966/0/5ba83bc09f2df7dce5bef4d522542a66.jpg)
+
+서호주의 심장, 퍼스에서의 여정을 더욱 특별하게 만들어 줄 호텔을 찾고 계신가요? 여유롭고도 현대적인 분위기를 자랑하는 퍼스의 이 호텔은 도심 속에 위치하면서도 마치 부티크 리조트 같은 느낌을 주는 곳이에요. 호텔에 발을 들이는 순간부터 세련된 디자인과 따뜻한 환영을 받을 수 있어요. 객실은 넓고 깨끗하며, 아름다운 도시 전망을 자랑해요. 특히 큰 창문으로 들어오는 자연광 덕분에 매일 아침 상쾌한 기분으로 하루를 시작할 수 있답니다. 나무랄 데 없는 서비스는 덤이고요. 퍼스의 주요 명소들도 도보로 이동 가능한 거리에 있어 편리해요. 가족, 커플, 친구들과 함께 즐길 수 있는 다양한 부대시설도 마련되어 있어 누구와 함께 오더라도 지루할 틈이 없어요. 상쾌한 수영장, 현대적인 피트니스 센터, 그리고 몽환적인 스파까지 갖추고 있어 몸과 마음을 모두 달래줄 수 있답니다. 긴 하루를 보낸 후 호텔 내 레스토랑에서 즐기는 맛있는 저녁식사는 만족스러움을 더할 거예요.
+
+[크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)](https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html)
+
+## 편안한 휴식과 모던한 럭셔리
+
+파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_0_image](https://pix8.agoda.net/hotelImages/5670/-1/24032ddebe93828c8be5d0644f62ded8.jpg)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/516313796.jpg?k=30645c23cb2665bb1a24b1db622b1b9cdd6ba2bf9ddb46d9840c89e3adfd1191&s=50x50)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_2_image](https://pix8.agoda.net/hotelImages/5670/-1/6841873bcbe1d3beff47ae6c3eb86db7.jpg)
+
+파멜리아 힐튼 퍼스에서의 숙박은 정말 잊을 수 없을 거예요. 퍼스 도심에 위치해 있어 도시의 주요 명소들을 편리하게 둘러볼 수 있고, 세련된 인테리어와 편안한 침대가 당신을 기다리고 있답니다. 특히 객실마다 철저히 관리된 청결 상태는 투숙객들 사이에서 큰 호평을 받고 있어요. 또한 호텔 내 레스토랑은 다양한 메뉴와 고급스러운 분위기로 미각을 자극하며 기억에 남을 만한 맛있는 식사를 제공해줘요. 그리고 저녁 무렵에는 호텔 바에서 제공되는 다양한 칵테일과 음료를 통해 하루의 피로를 달래보시는 것도 좋을 것 같아요.
+
+이외에도 파멜리아 힐튼 퍼스는 다양한 즐길 거리와 편의 시설이 마련되어 있어요. 24시간 운영되는 피트니스 센터에서 운동을 하거나, 실내 수영장에서 수영을 즐길 수 있답니다. 또한 고객 서비스를 중요시하는 호텔답게, 친절하고 전문적인 직원들이 언제나 당신의 필요를 신속하게 해결해주어요. 휴식을 위한 모든 것, 파멜리아 힐튼 퍼스는 당신의 기대를 충족시킬 준비가 되어 있습니다.
+
+[파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)](https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html)
+
+## 결론
+
+퍼스 여행을 계획하고 계신다면 다음의 호텔들을 참고해보세요. *더블트리 바이 힐튼 퍼스 워터프론트*는 스완 강 뷰를 자랑하며, 다양한 편의시설과 편리한 위치로 여행객들에게 인기를 끌고 있습니다. *덕스턴 호텔*은 퍼스 도심 속 오아시스 같은 호텔로서 편안함과 즐거움을 동시에 제공합니다. *QT 퍼스*는 세련된 디자인과 고급 객실, 뛰어난 서비스로 특히 주목받는 호텔입니다. 좀 더 여유로운 분위기를 찾고 있다면 *크라운 메트로폴 퍼스 호텔*을 추천드리며, 가족과 커플 모두를 위한 서비스를 제공합니다. 마지막으로, *파멜리아 힐튼 퍼스*는 모던한 럭셔리와 편안한 휴식을 동시에 즐길 수 있는 최적의 장소입니다. 지금 바로 예약하고 잊지 못할 퍼스 여행을 경험해보세요!
+f:T2ac7,
+## 퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 언제나 여러분의 여행을 더 특별하게 만들어 드리기 위해 노력하고 있어요. 이번에는 호주의 아름다운 도시 **퍼스**에서 위치와 전망이 훌륭한 호텔 5곳을 추천해 드리려고 해요. 여름철 해변의 매력과 도시의 활기를 동시에 즐길 수 있는 퍼스는 여행자들에게 많은 사랑을 받고 있죠. 위치가 좋고 전망이 훌륭한 호텔에서의 숙박은 휴식과 힐링을 극대화할 수 있어요. 그래서 오늘 여러분께 소개해 드릴 호텔들은 퍼스의 아름다운 해변과 도심의 멋진 풍경을 모두 즐길 수 있는 최적의 장소에 위치해 있답니다. 준비되셨나요? 함께 보러 가요!
+
+## 완벽한 도시 속 휴식 공간
+
+더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_0_image](https://pix8.agoda.net/hotelImages/18468248/-1/8f118200461c1caad2ce6a7401f0586c.png)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_1_image](https://pix8.agoda.net/hotelImages/18468248/-1/be45fd1cdc39c36c3083cb402a9f4d3d.jpg)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_2_image](https://pix8.agoda.net/hotelImages/18468248/-1/c0aa6c512d5327c4d13be5381d121fc0.jpg)
+
+퍼스 도심의 아름다운 스완 강을 바라보는 이 호텔은 세련된 디자인과 편안함을 자랑해요. 넓은 객실과 최신 시설, 그리고 친절한 서비스는 머무는 동안 진정한 여유를 느낄 수 있게 해줘요. 특히 강이 보이는 객실을 선택하면 아름다운 일출과 일몰을 감상할 수 있답니다. 또한 호텔 내 레스토랑은 맛있는 식사를 제공하여 멀리 나가지 않고도 미식 여행을 할 수 있어요.
+
+수영장과 피트니스 센터를 갖춘 이 호텔은 하루 종일 관광을 즐긴 후에도 몸과 마음을 재충전하기에 좋은 장소에요. 비즈니스 여행객을 위한 회의실도 마련되어 있어요. 인근 명소까지 도보로 이동할 수 있는 위치라 편리함까지 겸비했답니다. 편리한 위치와 다양한 편의시설 덕분에 가족 여행, 커플 여행, 비즈니스 출장 모두에게 추천하는 곳이에요.
+
+[더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)](https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html)
+
+## 퍼스의 숨겨진 보석, 오아시스
+
+덕스턴 호텔 (Duxton Hotel)
+![덕스턴 호텔 (Duxton Hotel)_0_image](https://pix8.agoda.net/hotelImages/3082/-1/cadc7a9a7e4f28d88ee05f377a721477.jpg)
+![덕스턴 호텔 (Duxton Hotel)_1_image](https://pix8.agoda.net/hotelImages/3082/-1/fc1fc1d96c88d74e965c435c3e85bf93.jpg)
+![덕스턴 호텔 (Duxton Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/63838168.jpg?k=c58a7bc9a9e8cdefc3945b380f6bb6f138b57a8dd7c61fb6cb1cefc0415289d1&s=50x50)
+
+서호주의 활기찬 도시 퍼스에서 마음의 여유를 찾으실 수 있는 곳, 바로 이 호텔입니다. 이 호텔은 고풍스러운 외관과 현대적인 시설이 절묘하게 어우러져 있어, 도심 속 작은 오아시스처럼 느껴질 거예요. 호텔 주변에는 유명한 **킹스 파크**와 **엘리자베스 키**도 있어 여행객에게 다양한 즐길 거리를 제공합니다. 도심 한가운데 위치해 있지만 객실은 매우 조용하고 아늑해서 긴 하루를 보낸 후 편히 쉴 수 있는 안락한 환경을 제공해요.
+
+친절한 직원들의 서비스는 이 호텔의 큰 자랑거리 중 하나입니다. 예를 들어, 투숙객이 도착하자마자 따뜻한 환영 인사를 건네며 필요한 모든 정보를 세세하게 안내해주었어요. 또한, 룸서비스는 매우 신속하고 음식의 퀄리티도 훌륭해요. 아침에는 신선한 재료로 준비된 **뷔페식 아침 식사**를 즐기실 수 있어요. 호텔 내부에는 다양한 시설이 구비되어 있어, 수영장과 피트니스 센터에서 하루의 피로를 풀고 재충전할 수 있답니다. 이 호텔에서라면 편안함과 즐거움을 동시에 누릴 수 있을 거예요.
+
+[덕스턴 호텔 (Duxton Hotel)](https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html)
+
+## 퍼스의 매력을 담은 도심 속 휴식
+
+QT 퍼스 (QT Perth)
+![QT 퍼스 (QT Perth)_0_image](https://pix8.agoda.net/hotelImages/4916037/-1/a5b70491420c3c763cc70f7326ad792d.jpg)
+![QT 퍼스 (QT Perth)_1_image](https://pix8.agoda.net/hotelImages/4916037/-1/dd0f4810de153831e453838d420b05cb.jpg)
+![QT 퍼스 (QT Perth)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/380261821.jpg?k=05799b21aa1cac7b4f59e5c6adf0ca1985a9ce770f75d7bad7f44d9bdec0e339&s=50x50)
+
+퍼스 도심 한가운데 위치한 이 호텔은 세련된 현대적 디자인과 편리한 교통 접근성을 자랑해요. 각 객실은 고급스러운 침구와 넉넉한 공간으로 편안함을 제공합니다. 또한, 호텔 내에는 다양한 식사 옵션을 즐길 수 있는 레스토랑과 바가 준비되어 있어요. 객실에서 창밖을 내다보면 퍼스 시내의 풍경이 아름답게 펼쳐집니다. 오전에는 근처 카페에서 커피를 마시며 여유로운 시간을 보낼 수 있고, 저녁에는 호텔 옥상에 있는 바에서 일몰을 감상할 수 있어요. _친절한 직원들_ 덕분에 투숙객들은 항상 따뜻한 환영을 받는다고 합니다. **편안한 침대**와 깨끗한 객실 관리도 많은 이들이 높이 평가해요. 이 호텔은 여행객들에게 완벽한 도심 속 오아시스 같은 장소입니다. 퍼스에서의 특별한 경험을 원한다면, 이곳에서 머무는 것이 좋은 선택이 될 거예요. 가족 단위 여행객이나 커플에게 특히 추천드려요!
+
+[QT 퍼스 (QT Perth)](https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html)
+
+## 럭셔리한 퍼스의 도시 뷰 경험
+
+크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_0_image](https://pix8.agoda.net/hotelImages/4113/0/fec6053af55c2fa8d5bb5ca5e4859959.jpg)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/11127484.jpg?k=c734f2be021ba8619b42df0f9550ee19c00e6eec2540dc4dd041ec1591897172&s=50x50)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_2_image](https://pix8.agoda.net/hotelImages/4656966/0/5ba83bc09f2df7dce5bef4d522542a66.jpg)
+
+서호주의 심장, 퍼스에서의 여정을 더욱 특별하게 만들어 줄 호텔을 찾고 계신가요? 여유롭고도 현대적인 분위기를 자랑하는 퍼스의 이 호텔은 도심 속에 위치하면서도 마치 부티크 리조트 같은 느낌을 주는 곳이에요. 호텔에 발을 들이는 순간부터 세련된 디자인과 따뜻한 환영을 받을 수 있어요. 객실은 넓고 깨끗하며, 아름다운 도시 전망을 자랑해요. 특히 큰 창문으로 들어오는 자연광 덕분에 매일 아침 상쾌한 기분으로 하루를 시작할 수 있답니다. 나무랄 데 없는 서비스는 덤이고요. 퍼스의 주요 명소들도 도보로 이동 가능한 거리에 있어 편리해요. 가족, 커플, 친구들과 함께 즐길 수 있는 다양한 부대시설도 마련되어 있어 누구와 함께 오더라도 지루할 틈이 없어요. 상쾌한 수영장, 현대적인 피트니스 센터, 그리고 몽환적인 스파까지 갖추고 있어 몸과 마음을 모두 달래줄 수 있답니다. 긴 하루를 보낸 후 호텔 내 레스토랑에서 즐기는 맛있는 저녁식사는 만족스러움을 더할 거예요.
+
+[크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)](https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html)
+
+## 편안한 휴식과 모던한 럭셔리
+
+파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_0_image](https://pix8.agoda.net/hotelImages/5670/-1/24032ddebe93828c8be5d0644f62ded8.jpg)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/516313796.jpg?k=30645c23cb2665bb1a24b1db622b1b9cdd6ba2bf9ddb46d9840c89e3adfd1191&s=50x50)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_2_image](https://pix8.agoda.net/hotelImages/5670/-1/6841873bcbe1d3beff47ae6c3eb86db7.jpg)
+
+파멜리아 힐튼 퍼스에서의 숙박은 정말 잊을 수 없을 거예요. 퍼스 도심에 위치해 있어 도시의 주요 명소들을 편리하게 둘러볼 수 있고, 세련된 인테리어와 편안한 침대가 당신을 기다리고 있답니다. 특히 객실마다 철저히 관리된 청결 상태는 투숙객들 사이에서 큰 호평을 받고 있어요. 또한 호텔 내 레스토랑은 다양한 메뉴와 고급스러운 분위기로 미각을 자극하며 기억에 남을 만한 맛있는 식사를 제공해줘요. 그리고 저녁 무렵에는 호텔 바에서 제공되는 다양한 칵테일과 음료를 통해 하루의 피로를 달래보시는 것도 좋을 것 같아요.
+
+이외에도 파멜리아 힐튼 퍼스는 다양한 즐길 거리와 편의 시설이 마련되어 있어요. 24시간 운영되는 피트니스 센터에서 운동을 하거나, 실내 수영장에서 수영을 즐길 수 있답니다. 또한 고객 서비스를 중요시하는 호텔답게, 친절하고 전문적인 직원들이 언제나 당신의 필요를 신속하게 해결해주어요. 휴식을 위한 모든 것, 파멜리아 힐튼 퍼스는 당신의 기대를 충족시킬 준비가 되어 있습니다.
+
+[파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)](https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html)
+
+## 결론
+
+퍼스 여행을 계획하고 계신다면 다음의 호텔들을 참고해보세요. *더블트리 바이 힐튼 퍼스 워터프론트*는 스완 강 뷰를 자랑하며, 다양한 편의시설과 편리한 위치로 여행객들에게 인기를 끌고 있습니다. *덕스턴 호텔*은 퍼스 도심 속 오아시스 같은 호텔로서 편안함과 즐거움을 동시에 제공합니다. *QT 퍼스*는 세련된 디자인과 고급 객실, 뛰어난 서비스로 특히 주목받는 호텔입니다. 좀 더 여유로운 분위기를 찾고 있다면 *크라운 메트로폴 퍼스 호텔*을 추천드리며, 가족과 커플 모두를 위한 서비스를 제공합니다. 마지막으로, *파멜리아 힐튼 퍼스*는 모던한 럭셔리와 편안한 휴식을 동시에 즐길 수 있는 최적의 장소입니다. 지금 바로 예약하고 잊지 못할 퍼스 여행을 경험해보세요!
+10:T2ac7,
+## 퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 언제나 여러분의 여행을 더 특별하게 만들어 드리기 위해 노력하고 있어요. 이번에는 호주의 아름다운 도시 **퍼스**에서 위치와 전망이 훌륭한 호텔 5곳을 추천해 드리려고 해요. 여름철 해변의 매력과 도시의 활기를 동시에 즐길 수 있는 퍼스는 여행자들에게 많은 사랑을 받고 있죠. 위치가 좋고 전망이 훌륭한 호텔에서의 숙박은 휴식과 힐링을 극대화할 수 있어요. 그래서 오늘 여러분께 소개해 드릴 호텔들은 퍼스의 아름다운 해변과 도심의 멋진 풍경을 모두 즐길 수 있는 최적의 장소에 위치해 있답니다. 준비되셨나요? 함께 보러 가요!
+
+## 완벽한 도시 속 휴식 공간
+
+더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_0_image](https://pix8.agoda.net/hotelImages/18468248/-1/8f118200461c1caad2ce6a7401f0586c.png)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_1_image](https://pix8.agoda.net/hotelImages/18468248/-1/be45fd1cdc39c36c3083cb402a9f4d3d.jpg)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_2_image](https://pix8.agoda.net/hotelImages/18468248/-1/c0aa6c512d5327c4d13be5381d121fc0.jpg)
+
+퍼스 도심의 아름다운 스완 강을 바라보는 이 호텔은 세련된 디자인과 편안함을 자랑해요. 넓은 객실과 최신 시설, 그리고 친절한 서비스는 머무는 동안 진정한 여유를 느낄 수 있게 해줘요. 특히 강이 보이는 객실을 선택하면 아름다운 일출과 일몰을 감상할 수 있답니다. 또한 호텔 내 레스토랑은 맛있는 식사를 제공하여 멀리 나가지 않고도 미식 여행을 할 수 있어요.
+
+수영장과 피트니스 센터를 갖춘 이 호텔은 하루 종일 관광을 즐긴 후에도 몸과 마음을 재충전하기에 좋은 장소에요. 비즈니스 여행객을 위한 회의실도 마련되어 있어요. 인근 명소까지 도보로 이동할 수 있는 위치라 편리함까지 겸비했답니다. 편리한 위치와 다양한 편의시설 덕분에 가족 여행, 커플 여행, 비즈니스 출장 모두에게 추천하는 곳이에요.
+
+[더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)](https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html)
+
+## 퍼스의 숨겨진 보석, 오아시스
+
+덕스턴 호텔 (Duxton Hotel)
+![덕스턴 호텔 (Duxton Hotel)_0_image](https://pix8.agoda.net/hotelImages/3082/-1/cadc7a9a7e4f28d88ee05f377a721477.jpg)
+![덕스턴 호텔 (Duxton Hotel)_1_image](https://pix8.agoda.net/hotelImages/3082/-1/fc1fc1d96c88d74e965c435c3e85bf93.jpg)
+![덕스턴 호텔 (Duxton Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/63838168.jpg?k=c58a7bc9a9e8cdefc3945b380f6bb6f138b57a8dd7c61fb6cb1cefc0415289d1&s=50x50)
+
+서호주의 활기찬 도시 퍼스에서 마음의 여유를 찾으실 수 있는 곳, 바로 이 호텔입니다. 이 호텔은 고풍스러운 외관과 현대적인 시설이 절묘하게 어우러져 있어, 도심 속 작은 오아시스처럼 느껴질 거예요. 호텔 주변에는 유명한 **킹스 파크**와 **엘리자베스 키**도 있어 여행객에게 다양한 즐길 거리를 제공합니다. 도심 한가운데 위치해 있지만 객실은 매우 조용하고 아늑해서 긴 하루를 보낸 후 편히 쉴 수 있는 안락한 환경을 제공해요.
+
+친절한 직원들의 서비스는 이 호텔의 큰 자랑거리 중 하나입니다. 예를 들어, 투숙객이 도착하자마자 따뜻한 환영 인사를 건네며 필요한 모든 정보를 세세하게 안내해주었어요. 또한, 룸서비스는 매우 신속하고 음식의 퀄리티도 훌륭해요. 아침에는 신선한 재료로 준비된 **뷔페식 아침 식사**를 즐기실 수 있어요. 호텔 내부에는 다양한 시설이 구비되어 있어, 수영장과 피트니스 센터에서 하루의 피로를 풀고 재충전할 수 있답니다. 이 호텔에서라면 편안함과 즐거움을 동시에 누릴 수 있을 거예요.
+
+[덕스턴 호텔 (Duxton Hotel)](https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html)
+
+## 퍼스의 매력을 담은 도심 속 휴식
+
+QT 퍼스 (QT Perth)
+![QT 퍼스 (QT Perth)_0_image](https://pix8.agoda.net/hotelImages/4916037/-1/a5b70491420c3c763cc70f7326ad792d.jpg)
+![QT 퍼스 (QT Perth)_1_image](https://pix8.agoda.net/hotelImages/4916037/-1/dd0f4810de153831e453838d420b05cb.jpg)
+![QT 퍼스 (QT Perth)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/380261821.jpg?k=05799b21aa1cac7b4f59e5c6adf0ca1985a9ce770f75d7bad7f44d9bdec0e339&s=50x50)
+
+퍼스 도심 한가운데 위치한 이 호텔은 세련된 현대적 디자인과 편리한 교통 접근성을 자랑해요. 각 객실은 고급스러운 침구와 넉넉한 공간으로 편안함을 제공합니다. 또한, 호텔 내에는 다양한 식사 옵션을 즐길 수 있는 레스토랑과 바가 준비되어 있어요. 객실에서 창밖을 내다보면 퍼스 시내의 풍경이 아름답게 펼쳐집니다. 오전에는 근처 카페에서 커피를 마시며 여유로운 시간을 보낼 수 있고, 저녁에는 호텔 옥상에 있는 바에서 일몰을 감상할 수 있어요. _친절한 직원들_ 덕분에 투숙객들은 항상 따뜻한 환영을 받는다고 합니다. **편안한 침대**와 깨끗한 객실 관리도 많은 이들이 높이 평가해요. 이 호텔은 여행객들에게 완벽한 도심 속 오아시스 같은 장소입니다. 퍼스에서의 특별한 경험을 원한다면, 이곳에서 머무는 것이 좋은 선택이 될 거예요. 가족 단위 여행객이나 커플에게 특히 추천드려요!
+
+[QT 퍼스 (QT Perth)](https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html)
+
+## 럭셔리한 퍼스의 도시 뷰 경험
+
+크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_0_image](https://pix8.agoda.net/hotelImages/4113/0/fec6053af55c2fa8d5bb5ca5e4859959.jpg)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/11127484.jpg?k=c734f2be021ba8619b42df0f9550ee19c00e6eec2540dc4dd041ec1591897172&s=50x50)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_2_image](https://pix8.agoda.net/hotelImages/4656966/0/5ba83bc09f2df7dce5bef4d522542a66.jpg)
+
+서호주의 심장, 퍼스에서의 여정을 더욱 특별하게 만들어 줄 호텔을 찾고 계신가요? 여유롭고도 현대적인 분위기를 자랑하는 퍼스의 이 호텔은 도심 속에 위치하면서도 마치 부티크 리조트 같은 느낌을 주는 곳이에요. 호텔에 발을 들이는 순간부터 세련된 디자인과 따뜻한 환영을 받을 수 있어요. 객실은 넓고 깨끗하며, 아름다운 도시 전망을 자랑해요. 특히 큰 창문으로 들어오는 자연광 덕분에 매일 아침 상쾌한 기분으로 하루를 시작할 수 있답니다. 나무랄 데 없는 서비스는 덤이고요. 퍼스의 주요 명소들도 도보로 이동 가능한 거리에 있어 편리해요. 가족, 커플, 친구들과 함께 즐길 수 있는 다양한 부대시설도 마련되어 있어 누구와 함께 오더라도 지루할 틈이 없어요. 상쾌한 수영장, 현대적인 피트니스 센터, 그리고 몽환적인 스파까지 갖추고 있어 몸과 마음을 모두 달래줄 수 있답니다. 긴 하루를 보낸 후 호텔 내 레스토랑에서 즐기는 맛있는 저녁식사는 만족스러움을 더할 거예요.
+
+[크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)](https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html)
+
+## 편안한 휴식과 모던한 럭셔리
+
+파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_0_image](https://pix8.agoda.net/hotelImages/5670/-1/24032ddebe93828c8be5d0644f62ded8.jpg)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/516313796.jpg?k=30645c23cb2665bb1a24b1db622b1b9cdd6ba2bf9ddb46d9840c89e3adfd1191&s=50x50)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_2_image](https://pix8.agoda.net/hotelImages/5670/-1/6841873bcbe1d3beff47ae6c3eb86db7.jpg)
+
+파멜리아 힐튼 퍼스에서의 숙박은 정말 잊을 수 없을 거예요. 퍼스 도심에 위치해 있어 도시의 주요 명소들을 편리하게 둘러볼 수 있고, 세련된 인테리어와 편안한 침대가 당신을 기다리고 있답니다. 특히 객실마다 철저히 관리된 청결 상태는 투숙객들 사이에서 큰 호평을 받고 있어요. 또한 호텔 내 레스토랑은 다양한 메뉴와 고급스러운 분위기로 미각을 자극하며 기억에 남을 만한 맛있는 식사를 제공해줘요. 그리고 저녁 무렵에는 호텔 바에서 제공되는 다양한 칵테일과 음료를 통해 하루의 피로를 달래보시는 것도 좋을 것 같아요.
+
+이외에도 파멜리아 힐튼 퍼스는 다양한 즐길 거리와 편의 시설이 마련되어 있어요. 24시간 운영되는 피트니스 센터에서 운동을 하거나, 실내 수영장에서 수영을 즐길 수 있답니다. 또한 고객 서비스를 중요시하는 호텔답게, 친절하고 전문적인 직원들이 언제나 당신의 필요를 신속하게 해결해주어요. 휴식을 위한 모든 것, 파멜리아 힐튼 퍼스는 당신의 기대를 충족시킬 준비가 되어 있습니다.
+
+[파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)](https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html)
+
+## 결론
+
+퍼스 여행을 계획하고 계신다면 다음의 호텔들을 참고해보세요. *더블트리 바이 힐튼 퍼스 워터프론트*는 스완 강 뷰를 자랑하며, 다양한 편의시설과 편리한 위치로 여행객들에게 인기를 끌고 있습니다. *덕스턴 호텔*은 퍼스 도심 속 오아시스 같은 호텔로서 편안함과 즐거움을 동시에 제공합니다. *QT 퍼스*는 세련된 디자인과 고급 객실, 뛰어난 서비스로 특히 주목받는 호텔입니다. 좀 더 여유로운 분위기를 찾고 있다면 *크라운 메트로폴 퍼스 호텔*을 추천드리며, 가족과 커플 모두를 위한 서비스를 제공합니다. 마지막으로, *파멜리아 힐튼 퍼스*는 모던한 럭셔리와 편안한 휴식을 동시에 즐길 수 있는 최적의 장소입니다. 지금 바로 예약하고 잊지 못할 퍼스 여행을 경험해보세요!
+11:T2ac7,
+## 퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 언제나 여러분의 여행을 더 특별하게 만들어 드리기 위해 노력하고 있어요. 이번에는 호주의 아름다운 도시 **퍼스**에서 위치와 전망이 훌륭한 호텔 5곳을 추천해 드리려고 해요. 여름철 해변의 매력과 도시의 활기를 동시에 즐길 수 있는 퍼스는 여행자들에게 많은 사랑을 받고 있죠. 위치가 좋고 전망이 훌륭한 호텔에서의 숙박은 휴식과 힐링을 극대화할 수 있어요. 그래서 오늘 여러분께 소개해 드릴 호텔들은 퍼스의 아름다운 해변과 도심의 멋진 풍경을 모두 즐길 수 있는 최적의 장소에 위치해 있답니다. 준비되셨나요? 함께 보러 가요!
+
+## 완벽한 도시 속 휴식 공간
+
+더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_0_image](https://pix8.agoda.net/hotelImages/18468248/-1/8f118200461c1caad2ce6a7401f0586c.png)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_1_image](https://pix8.agoda.net/hotelImages/18468248/-1/be45fd1cdc39c36c3083cb402a9f4d3d.jpg)
+![더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_2_image](https://pix8.agoda.net/hotelImages/18468248/-1/c0aa6c512d5327c4d13be5381d121fc0.jpg)
+
+퍼스 도심의 아름다운 스완 강을 바라보는 이 호텔은 세련된 디자인과 편안함을 자랑해요. 넓은 객실과 최신 시설, 그리고 친절한 서비스는 머무는 동안 진정한 여유를 느낄 수 있게 해줘요. 특히 강이 보이는 객실을 선택하면 아름다운 일출과 일몰을 감상할 수 있답니다. 또한 호텔 내 레스토랑은 맛있는 식사를 제공하여 멀리 나가지 않고도 미식 여행을 할 수 있어요.
+
+수영장과 피트니스 센터를 갖춘 이 호텔은 하루 종일 관광을 즐긴 후에도 몸과 마음을 재충전하기에 좋은 장소에요. 비즈니스 여행객을 위한 회의실도 마련되어 있어요. 인근 명소까지 도보로 이동할 수 있는 위치라 편리함까지 겸비했답니다. 편리한 위치와 다양한 편의시설 덕분에 가족 여행, 커플 여행, 비즈니스 출장 모두에게 추천하는 곳이에요.
+
+[더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)](https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html)
+
+## 퍼스의 숨겨진 보석, 오아시스
+
+덕스턴 호텔 (Duxton Hotel)
+![덕스턴 호텔 (Duxton Hotel)_0_image](https://pix8.agoda.net/hotelImages/3082/-1/cadc7a9a7e4f28d88ee05f377a721477.jpg)
+![덕스턴 호텔 (Duxton Hotel)_1_image](https://pix8.agoda.net/hotelImages/3082/-1/fc1fc1d96c88d74e965c435c3e85bf93.jpg)
+![덕스턴 호텔 (Duxton Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/63838168.jpg?k=c58a7bc9a9e8cdefc3945b380f6bb6f138b57a8dd7c61fb6cb1cefc0415289d1&s=50x50)
+
+서호주의 활기찬 도시 퍼스에서 마음의 여유를 찾으실 수 있는 곳, 바로 이 호텔입니다. 이 호텔은 고풍스러운 외관과 현대적인 시설이 절묘하게 어우러져 있어, 도심 속 작은 오아시스처럼 느껴질 거예요. 호텔 주변에는 유명한 **킹스 파크**와 **엘리자베스 키**도 있어 여행객에게 다양한 즐길 거리를 제공합니다. 도심 한가운데 위치해 있지만 객실은 매우 조용하고 아늑해서 긴 하루를 보낸 후 편히 쉴 수 있는 안락한 환경을 제공해요.
+
+친절한 직원들의 서비스는 이 호텔의 큰 자랑거리 중 하나입니다. 예를 들어, 투숙객이 도착하자마자 따뜻한 환영 인사를 건네며 필요한 모든 정보를 세세하게 안내해주었어요. 또한, 룸서비스는 매우 신속하고 음식의 퀄리티도 훌륭해요. 아침에는 신선한 재료로 준비된 **뷔페식 아침 식사**를 즐기실 수 있어요. 호텔 내부에는 다양한 시설이 구비되어 있어, 수영장과 피트니스 센터에서 하루의 피로를 풀고 재충전할 수 있답니다. 이 호텔에서라면 편안함과 즐거움을 동시에 누릴 수 있을 거예요.
+
+[덕스턴 호텔 (Duxton Hotel)](https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html)
+
+## 퍼스의 매력을 담은 도심 속 휴식
+
+QT 퍼스 (QT Perth)
+![QT 퍼스 (QT Perth)_0_image](https://pix8.agoda.net/hotelImages/4916037/-1/a5b70491420c3c763cc70f7326ad792d.jpg)
+![QT 퍼스 (QT Perth)_1_image](https://pix8.agoda.net/hotelImages/4916037/-1/dd0f4810de153831e453838d420b05cb.jpg)
+![QT 퍼스 (QT Perth)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/380261821.jpg?k=05799b21aa1cac7b4f59e5c6adf0ca1985a9ce770f75d7bad7f44d9bdec0e339&s=50x50)
+
+퍼스 도심 한가운데 위치한 이 호텔은 세련된 현대적 디자인과 편리한 교통 접근성을 자랑해요. 각 객실은 고급스러운 침구와 넉넉한 공간으로 편안함을 제공합니다. 또한, 호텔 내에는 다양한 식사 옵션을 즐길 수 있는 레스토랑과 바가 준비되어 있어요. 객실에서 창밖을 내다보면 퍼스 시내의 풍경이 아름답게 펼쳐집니다. 오전에는 근처 카페에서 커피를 마시며 여유로운 시간을 보낼 수 있고, 저녁에는 호텔 옥상에 있는 바에서 일몰을 감상할 수 있어요. _친절한 직원들_ 덕분에 투숙객들은 항상 따뜻한 환영을 받는다고 합니다. **편안한 침대**와 깨끗한 객실 관리도 많은 이들이 높이 평가해요. 이 호텔은 여행객들에게 완벽한 도심 속 오아시스 같은 장소입니다. 퍼스에서의 특별한 경험을 원한다면, 이곳에서 머무는 것이 좋은 선택이 될 거예요. 가족 단위 여행객이나 커플에게 특히 추천드려요!
+
+[QT 퍼스 (QT Perth)](https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html)
+
+## 럭셔리한 퍼스의 도시 뷰 경험
+
+크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_0_image](https://pix8.agoda.net/hotelImages/4113/0/fec6053af55c2fa8d5bb5ca5e4859959.jpg)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/11127484.jpg?k=c734f2be021ba8619b42df0f9550ee19c00e6eec2540dc4dd041ec1591897172&s=50x50)
+![크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_2_image](https://pix8.agoda.net/hotelImages/4656966/0/5ba83bc09f2df7dce5bef4d522542a66.jpg)
+
+서호주의 심장, 퍼스에서의 여정을 더욱 특별하게 만들어 줄 호텔을 찾고 계신가요? 여유롭고도 현대적인 분위기를 자랑하는 퍼스의 이 호텔은 도심 속에 위치하면서도 마치 부티크 리조트 같은 느낌을 주는 곳이에요. 호텔에 발을 들이는 순간부터 세련된 디자인과 따뜻한 환영을 받을 수 있어요. 객실은 넓고 깨끗하며, 아름다운 도시 전망을 자랑해요. 특히 큰 창문으로 들어오는 자연광 덕분에 매일 아침 상쾌한 기분으로 하루를 시작할 수 있답니다. 나무랄 데 없는 서비스는 덤이고요. 퍼스의 주요 명소들도 도보로 이동 가능한 거리에 있어 편리해요. 가족, 커플, 친구들과 함께 즐길 수 있는 다양한 부대시설도 마련되어 있어 누구와 함께 오더라도 지루할 틈이 없어요. 상쾌한 수영장, 현대적인 피트니스 센터, 그리고 몽환적인 스파까지 갖추고 있어 몸과 마음을 모두 달래줄 수 있답니다. 긴 하루를 보낸 후 호텔 내 레스토랑에서 즐기는 맛있는 저녁식사는 만족스러움을 더할 거예요.
+
+[크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)](https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html)
+
+## 편안한 휴식과 모던한 럭셔리
+
+파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_0_image](https://pix8.agoda.net/hotelImages/5670/-1/24032ddebe93828c8be5d0644f62ded8.jpg)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/516313796.jpg?k=30645c23cb2665bb1a24b1db622b1b9cdd6ba2bf9ddb46d9840c89e3adfd1191&s=50x50)
+![파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_2_image](https://pix8.agoda.net/hotelImages/5670/-1/6841873bcbe1d3beff47ae6c3eb86db7.jpg)
+
+파멜리아 힐튼 퍼스에서의 숙박은 정말 잊을 수 없을 거예요. 퍼스 도심에 위치해 있어 도시의 주요 명소들을 편리하게 둘러볼 수 있고, 세련된 인테리어와 편안한 침대가 당신을 기다리고 있답니다. 특히 객실마다 철저히 관리된 청결 상태는 투숙객들 사이에서 큰 호평을 받고 있어요. 또한 호텔 내 레스토랑은 다양한 메뉴와 고급스러운 분위기로 미각을 자극하며 기억에 남을 만한 맛있는 식사를 제공해줘요. 그리고 저녁 무렵에는 호텔 바에서 제공되는 다양한 칵테일과 음료를 통해 하루의 피로를 달래보시는 것도 좋을 것 같아요.
+
+이외에도 파멜리아 힐튼 퍼스는 다양한 즐길 거리와 편의 시설이 마련되어 있어요. 24시간 운영되는 피트니스 센터에서 운동을 하거나, 실내 수영장에서 수영을 즐길 수 있답니다. 또한 고객 서비스를 중요시하는 호텔답게, 친절하고 전문적인 직원들이 언제나 당신의 필요를 신속하게 해결해주어요. 휴식을 위한 모든 것, 파멜리아 힐튼 퍼스는 당신의 기대를 충족시킬 준비가 되어 있습니다.
+
+[파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)](https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html)
+
+## 결론
+
+퍼스 여행을 계획하고 계신다면 다음의 호텔들을 참고해보세요. *더블트리 바이 힐튼 퍼스 워터프론트*는 스완 강 뷰를 자랑하며, 다양한 편의시설과 편리한 위치로 여행객들에게 인기를 끌고 있습니다. *덕스턴 호텔*은 퍼스 도심 속 오아시스 같은 호텔로서 편안함과 즐거움을 동시에 제공합니다. *QT 퍼스*는 세련된 디자인과 고급 객실, 뛰어난 서비스로 특히 주목받는 호텔입니다. 좀 더 여유로운 분위기를 찾고 있다면 *크라운 메트로폴 퍼스 호텔*을 추천드리며, 가족과 커플 모두를 위한 서비스를 제공합니다. 마지막으로, *파멜리아 힐튼 퍼스*는 모던한 럭셔리와 편안한 휴식을 동시에 즐길 수 있는 최적의 장소입니다. 지금 바로 예약하고 잊지 못할 퍼스 여행을 경험해보세요!
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳"}],["$","data",null,{"children":"2024-05-14T05:30:23.598Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"태평양 지역 및 호주"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"도심"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"강변"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"최신 시설"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"친절 서비스"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"미식"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"피트니스"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"편리한 위치"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"퍼스"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"고풍스러운"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"오아시스"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"엘리자베스 키"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"킹스 파크"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"안락한"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"뷔페식"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"고급"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"교통"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"레스토랑"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"바"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"친근함"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_24",{"children":["$","span",null,{"children":"도시뷰"}]}],["$","li","[object Object]_25",{"children":["$","span",null,{"children":"관광지"}]}],["$","li","[object Object]_26",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_27",{"children":["$","span",null,{"children":"커플"}]}],["$","li","[object Object]_28",{"children":["$","span",null,{"children":"편리함"}]}],["$","li","[object Object]_29",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_30",{"children":["$","span",null,{"children":"세련됨"}]}],["$","li","[object Object]_31",{"children":["$","span",null,{"children":"편의시설"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"c898c1a1","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 언제나 여러분의 여행을 더 특별하게 만들어 드리기 위해 노력하고 있어요. 이번에는 호주의 아름다운 도시 ",["$","strong",null,{"className":"font-black","children":"퍼스"}],"에서 위치와 전망이 훌륭한 호텔 5곳을 추천해 드리려고 해요. 여름철 해변의 매력과 도시의 활기를 동시에 즐길 수 있는 퍼스는 여행자들에게 많은 사랑을 받고 있죠. 위치가 좋고 전망이 훌륭한 호텔에서의 숙박은 휴식과 힐링을 극대화할 수 있어요. 그래서 오늘 여러분께 소개해 드릴 호텔들은 퍼스의 아름다운 해변과 도심의 멋진 풍경을 모두 즐길 수 있는 최적의 장소에 위치해 있답니다. 준비되셨나요? 함께 보러 가요!"]}],"\n",["$","h2",null,{"id":"02976a46","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"완벽한 도시 속 휴식 공간"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/18468248/-1/8f118200461c1caad2ce6a7401f0586c.png","alt":"더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/18468248/-1/be45fd1cdc39c36c3083cb402a9f4d3d.jpg","alt":"더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/18468248/-1/c0aa6c512d5327c4d13be5381d121fc0.jpg","alt":"더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"퍼스 도심의 아름다운 스완 강을 바라보는 이 호텔은 세련된 디자인과 편안함을 자랑해요. 넓은 객실과 최신 시설, 그리고 친절한 서비스는 머무는 동안 진정한 여유를 느낄 수 있게 해줘요. 특히 강이 보이는 객실을 선택하면 아름다운 일출과 일몰을 감상할 수 있답니다. 또한 호텔 내 레스토랑은 맛있는 식사를 제공하여 멀리 나가지 않고도 미식 여행을 할 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"수영장과 피트니스 센터를 갖춘 이 호텔은 하루 종일 관광을 즐긴 후에도 몸과 마음을 재충전하기에 좋은 장소에요. 비즈니스 여행객을 위한 회의실도 마련되어 있어요. 인근 명소까지 도보로 이동할 수 있는 위치라 편리함까지 겸비했답니다. 편리한 위치와 다양한 편의시설 덕분에 가족 여행, 커플 여행, 비즈니스 출장 모두에게 추천하는 곳이에요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/doubletree-by-hilton-perth-waterfront/hotel/perth-au.html"},"children":[{"type":"text","value":"더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)","position":{"start":{"line":17,"column":2,"offset":1296},"end":{"line":17,"column":61,"offset":1355}}}],"position":{"start":{"line":17,"column":1,"offset":1295},"end":{"line":17,"column":149,"offset":1443}}},"children":"더블트리 바이 힐튼 퍼스 워터프론트 (DoubleTree by Hilton Perth Waterfront)"},"post":{"id":"661ab3c3-688c-48b9-94a6-951520b3d251","title":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","fileName":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","description":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요.","date":"2024-05-14T05:30:23.598Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"최신 시설","path":"$$/kr/tags/최신-시설","id":"최신-시설"},{"name":"친절 서비스","path":"$$/kr/tags/친절-서비스","id":"친절-서비스"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"편리한 위치","path":"$$/kr/tags/편리한-위치","id":"편리한-위치"},{"name":"퍼스","path":"$$/kr/tags/퍼스","id":"퍼스"},{"name":"고풍스러운","path":"$$/kr/tags/고풍스러운","id":"고풍스러운"},{"name":"오아시스","path":"$$/kr/tags/오아시스","id":"오아시스"},{"name":"엘리자베스 키","path":"$$/kr/tags/엘리자베스-키","id":"엘리자베스-키"},{"name":"킹스 파크","path":"$$/kr/tags/킹스-파크","id":"킹스-파크"},{"name":"안락한","path":"$$/kr/tags/안락한","id":"안락한"},{"name":"뷔페식","path":"$$/kr/tags/뷔페식","id":"뷔페식"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"교통","path":"$$/kr/tags/교통","id":"교통"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"바","path":"$$/kr/tags/바","id":"바"},{"name":"친근함","path":"$$/kr/tags/친근함","id":"친근함"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"도시뷰","path":"$$/kr/tags/도시뷰","id":"도시뷰"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"/images/11980-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","content":"$d","category":"articles","readMin":"7.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"77cb0a9e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"퍼스의 숨겨진 보석, 오아시스"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["덕스턴 호텔 (Duxton Hotel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/3082/-1/cadc7a9a7e4f28d88ee05f377a721477.jpg","alt":"덕스턴 호텔 (Duxton Hotel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/3082/-1/fc1fc1d96c88d74e965c435c3e85bf93.jpg","alt":"덕스턴 호텔 (Duxton Hotel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/63838168.jpg?k=c58a7bc9a9e8cdefc3945b380f6bb6f138b57a8dd7c61fb6cb1cefc0415289d1&s=50x50","alt":"덕스턴 호텔 (Duxton Hotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["서호주의 활기찬 도시 퍼스에서 마음의 여유를 찾으실 수 있는 곳, 바로 이 호텔입니다. 이 호텔은 고풍스러운 외관과 현대적인 시설이 절묘하게 어우러져 있어, 도심 속 작은 오아시스처럼 느껴질 거예요. 호텔 주변에는 유명한 ",["$","strong",null,{"className":"font-black","children":"킹스 파크"}],"와 ",["$","strong",null,{"className":"font-black","children":"엘리자베스 키"}],"도 있어 여행객에게 다양한 즐길 거리를 제공합니다. 도심 한가운데 위치해 있지만 객실은 매우 조용하고 아늑해서 긴 하루를 보낸 후 편히 쉴 수 있는 안락한 환경을 제공해요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["친절한 직원들의 서비스는 이 호텔의 큰 자랑거리 중 하나입니다. 예를 들어, 투숙객이 도착하자마자 따뜻한 환영 인사를 건네며 필요한 모든 정보를 세세하게 안내해주었어요. 또한, 룸서비스는 매우 신속하고 음식의 퀄리티도 훌륭해요. 아침에는 신선한 재료로 준비된 ",["$","strong",null,{"className":"font-black","children":"뷔페식 아침 식사"}],"를 즐기실 수 있어요. 호텔 내부에는 다양한 시설이 구비되어 있어, 수영장과 피트니스 센터에서 하루의 피로를 풀고 재충전할 수 있답니다. 이 호텔에서라면 편안함과 즐거움을 동시에 누릴 수 있을 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/duxton-hotel/hotel/perth-au.html"},"children":[{"type":"text","value":"덕스턴 호텔 (Duxton Hotel)","position":{"start":{"line":30,"column":2,"offset":2407},"end":{"line":30,"column":23,"offset":2428}}}],"position":{"start":{"line":30,"column":1,"offset":2406},"end":{"line":30,"column":86,"offset":2491}}},"children":"덕스턴 호텔 (Duxton Hotel)"},"post":{"id":"661ab3c3-688c-48b9-94a6-951520b3d251","title":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","fileName":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","description":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요.","date":"2024-05-14T05:30:23.598Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"최신 시설","path":"$$/kr/tags/최신-시설","id":"최신-시설"},{"name":"친절 서비스","path":"$$/kr/tags/친절-서비스","id":"친절-서비스"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"편리한 위치","path":"$$/kr/tags/편리한-위치","id":"편리한-위치"},{"name":"퍼스","path":"$$/kr/tags/퍼스","id":"퍼스"},{"name":"고풍스러운","path":"$$/kr/tags/고풍스러운","id":"고풍스러운"},{"name":"오아시스","path":"$$/kr/tags/오아시스","id":"오아시스"},{"name":"엘리자베스 키","path":"$$/kr/tags/엘리자베스-키","id":"엘리자베스-키"},{"name":"킹스 파크","path":"$$/kr/tags/킹스-파크","id":"킹스-파크"},{"name":"안락한","path":"$$/kr/tags/안락한","id":"안락한"},{"name":"뷔페식","path":"$$/kr/tags/뷔페식","id":"뷔페식"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"교통","path":"$$/kr/tags/교통","id":"교통"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"바","path":"$$/kr/tags/바","id":"바"},{"name":"친근함","path":"$$/kr/tags/친근함","id":"친근함"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"도시뷰","path":"$$/kr/tags/도시뷰","id":"도시뷰"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"/images/11980-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","content":"$e","category":"articles","readMin":"7.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"390fc3f2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"퍼스의 매력을 담은 도심 속 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["QT 퍼스 (QT Perth)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4916037/-1/a5b70491420c3c763cc70f7326ad792d.jpg","alt":"QT 퍼스 (QT Perth)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4916037/-1/dd0f4810de153831e453838d420b05cb.jpg","alt":"QT 퍼스 (QT Perth)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/380261821.jpg?k=05799b21aa1cac7b4f59e5c6adf0ca1985a9ce770f75d7bad7f44d9bdec0e339&s=50x50","alt":"QT 퍼스 (QT Perth)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["퍼스 도심 한가운데 위치한 이 호텔은 세련된 현대적 디자인과 편리한 교통 접근성을 자랑해요. 각 객실은 고급스러운 침구와 넉넉한 공간으로 편안함을 제공합니다. 또한, 호텔 내에는 다양한 식사 옵션을 즐길 수 있는 레스토랑과 바가 준비되어 있어요. 객실에서 창밖을 내다보면 퍼스 시내의 풍경이 아름답게 펼쳐집니다. 오전에는 근처 카페에서 커피를 마시며 여유로운 시간을 보낼 수 있고, 저녁에는 호텔 옥상에 있는 바에서 일몰을 감상할 수 있어요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"친절한 직원들"}]," 덕분에 투숙객들은 항상 따뜻한 환영을 받는다고 합니다. ",["$","strong",null,{"className":"font-black","children":"편안한 침대"}],"와 깨끗한 객실 관리도 많은 이들이 높이 평가해요. 이 호텔은 여행객들에게 완벽한 도심 속 오아시스 같은 장소입니다. 퍼스에서의 특별한 경험을 원한다면, 이곳에서 머무는 것이 좋은 선택이 될 거예요. 가족 단위 여행객이나 커플에게 특히 추천드려요!"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/qt-perth/hotel/perth-au.html"},"children":[{"type":"text","value":"QT 퍼스 (QT Perth)","position":{"start":{"line":41,"column":2,"offset":3367},"end":{"line":41,"column":18,"offset":3383}}}],"position":{"start":{"line":41,"column":1,"offset":3366},"end":{"line":41,"column":77,"offset":3442}}},"children":"QT 퍼스 (QT Perth)"},"post":{"id":"661ab3c3-688c-48b9-94a6-951520b3d251","title":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","fileName":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","description":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요.","date":"2024-05-14T05:30:23.598Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"최신 시설","path":"$$/kr/tags/최신-시설","id":"최신-시설"},{"name":"친절 서비스","path":"$$/kr/tags/친절-서비스","id":"친절-서비스"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"편리한 위치","path":"$$/kr/tags/편리한-위치","id":"편리한-위치"},{"name":"퍼스","path":"$$/kr/tags/퍼스","id":"퍼스"},{"name":"고풍스러운","path":"$$/kr/tags/고풍스러운","id":"고풍스러운"},{"name":"오아시스","path":"$$/kr/tags/오아시스","id":"오아시스"},{"name":"엘리자베스 키","path":"$$/kr/tags/엘리자베스-키","id":"엘리자베스-키"},{"name":"킹스 파크","path":"$$/kr/tags/킹스-파크","id":"킹스-파크"},{"name":"안락한","path":"$$/kr/tags/안락한","id":"안락한"},{"name":"뷔페식","path":"$$/kr/tags/뷔페식","id":"뷔페식"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"교통","path":"$$/kr/tags/교통","id":"교통"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"바","path":"$$/kr/tags/바","id":"바"},{"name":"친근함","path":"$$/kr/tags/친근함","id":"친근함"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"도시뷰","path":"$$/kr/tags/도시뷰","id":"도시뷰"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"/images/11980-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","content":"$f","category":"articles","readMin":"7.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"765706a5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"럭셔리한 퍼스의 도시 뷰 경험"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4113/0/fec6053af55c2fa8d5bb5ca5e4859959.jpg","alt":"크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/11127484.jpg?k=c734f2be021ba8619b42df0f9550ee19c00e6eec2540dc4dd041ec1591897172&s=50x50","alt":"크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4656966/0/5ba83bc09f2df7dce5bef4d522542a66.jpg","alt":"크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"서호주의 심장, 퍼스에서의 여정을 더욱 특별하게 만들어 줄 호텔을 찾고 계신가요? 여유롭고도 현대적인 분위기를 자랑하는 퍼스의 이 호텔은 도심 속에 위치하면서도 마치 부티크 리조트 같은 느낌을 주는 곳이에요. 호텔에 발을 들이는 순간부터 세련된 디자인과 따뜻한 환영을 받을 수 있어요. 객실은 넓고 깨끗하며, 아름다운 도시 전망을 자랑해요. 특히 큰 창문으로 들어오는 자연광 덕분에 매일 아침 상쾌한 기분으로 하루를 시작할 수 있답니다. 나무랄 데 없는 서비스는 덤이고요. 퍼스의 주요 명소들도 도보로 이동 가능한 거리에 있어 편리해요. 가족, 커플, 친구들과 함께 즐길 수 있는 다양한 부대시설도 마련되어 있어 누구와 함께 오더라도 지루할 틈이 없어요. 상쾌한 수영장, 현대적인 피트니스 센터, 그리고 몽환적인 스파까지 갖추고 있어 몸과 마음을 모두 달래줄 수 있답니다. 긴 하루를 보낸 후 호텔 내 레스토랑에서 즐기는 맛있는 저녁식사는 만족스러움을 더할 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/crown-metropol-perth-hotel/hotel/perth-au.html"},"children":[{"type":"text","value":"크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)","position":{"start":{"line":52,"column":2,"offset":4453},"end":{"line":52,"column":42,"offset":4493}}}],"position":{"start":{"line":52,"column":1,"offset":4452},"end":{"line":52,"column":119,"offset":4570}}},"children":"크라운 메트로폴 퍼스 (Crown Metropol Perth Hotel)"},"post":{"id":"661ab3c3-688c-48b9-94a6-951520b3d251","title":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","fileName":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","description":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요.","date":"2024-05-14T05:30:23.598Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"최신 시설","path":"$$/kr/tags/최신-시설","id":"최신-시설"},{"name":"친절 서비스","path":"$$/kr/tags/친절-서비스","id":"친절-서비스"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"편리한 위치","path":"$$/kr/tags/편리한-위치","id":"편리한-위치"},{"name":"퍼스","path":"$$/kr/tags/퍼스","id":"퍼스"},{"name":"고풍스러운","path":"$$/kr/tags/고풍스러운","id":"고풍스러운"},{"name":"오아시스","path":"$$/kr/tags/오아시스","id":"오아시스"},{"name":"엘리자베스 키","path":"$$/kr/tags/엘리자베스-키","id":"엘리자베스-키"},{"name":"킹스 파크","path":"$$/kr/tags/킹스-파크","id":"킹스-파크"},{"name":"안락한","path":"$$/kr/tags/안락한","id":"안락한"},{"name":"뷔페식","path":"$$/kr/tags/뷔페식","id":"뷔페식"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"교통","path":"$$/kr/tags/교통","id":"교통"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"바","path":"$$/kr/tags/바","id":"바"},{"name":"친근함","path":"$$/kr/tags/친근함","id":"친근함"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"도시뷰","path":"$$/kr/tags/도시뷰","id":"도시뷰"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"/images/11980-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","content":"$10","category":"articles","readMin":"7.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"f12daf4a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"편안한 휴식과 모던한 럭셔리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/5670/-1/24032ddebe93828c8be5d0644f62ded8.jpg","alt":"파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/516313796.jpg?k=30645c23cb2665bb1a24b1db622b1b9cdd6ba2bf9ddb46d9840c89e3adfd1191&s=50x50","alt":"파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/5670/-1/6841873bcbe1d3beff47ae6c3eb86db7.jpg","alt":"파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"파멜리아 힐튼 퍼스에서의 숙박은 정말 잊을 수 없을 거예요. 퍼스 도심에 위치해 있어 도시의 주요 명소들을 편리하게 둘러볼 수 있고, 세련된 인테리어와 편안한 침대가 당신을 기다리고 있답니다. 특히 객실마다 철저히 관리된 청결 상태는 투숙객들 사이에서 큰 호평을 받고 있어요. 또한 호텔 내 레스토랑은 다양한 메뉴와 고급스러운 분위기로 미각을 자극하며 기억에 남을 만한 맛있는 식사를 제공해줘요. 그리고 저녁 무렵에는 호텔 바에서 제공되는 다양한 칵테일과 음료를 통해 하루의 피로를 달래보시는 것도 좋을 것 같아요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이외에도 파멜리아 힐튼 퍼스는 다양한 즐길 거리와 편의 시설이 마련되어 있어요. 24시간 운영되는 피트니스 센터에서 운동을 하거나, 실내 수영장에서 수영을 즐길 수 있답니다. 또한 고객 서비스를 중요시하는 호텔답게, 친절하고 전문적인 직원들이 언제나 당신의 필요를 신속하게 해결해주어요. 휴식을 위한 모든 것, 파멜리아 힐튼 퍼스는 당신의 기대를 충족시킬 준비가 되어 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/parmelia-hilton-perth_2/hotel/perth-au.html"},"children":[{"type":"text","value":"파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)","position":{"start":{"line":65,"column":2,"offset":5573},"end":{"line":65,"column":36,"offset":5607}}}],"position":{"start":{"line":65,"column":1,"offset":5572},"end":{"line":65,"column":110,"offset":5681}}},"children":"파멜리아 힐튼 퍼스 (Parmelia Hilton Perth)"},"post":{"id":"661ab3c3-688c-48b9-94a6-951520b3d251","title":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","fileName":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","description":"호주 퍼스에서 머무르기 좋은 호텔을 찾고 계신가요? 이 글에서는 Doubletree by Hilton Perth Waterfront, Duxton Hotel, QT Perth, Crown Metropol Perth Hotel, Parmelia Hilton Perth 등 퍼스의 다양한 호텔을 소개합니다. 퍼스의 아름다운 해변과 시티 뷰를 감상할 수 있는 이 핫한 숙소들은 편리한 위치와 쾌적한 시설을 자랑합니다. 퍼스 여행을 계획 중이라면 이 호텔들에서 편안한 휴식을 즐겨보세요.","date":"2024-05-14T05:30:23.598Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"최신 시설","path":"$$/kr/tags/최신-시설","id":"최신-시설"},{"name":"친절 서비스","path":"$$/kr/tags/친절-서비스","id":"친절-서비스"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"편리한 위치","path":"$$/kr/tags/편리한-위치","id":"편리한-위치"},{"name":"퍼스","path":"$$/kr/tags/퍼스","id":"퍼스"},{"name":"고풍스러운","path":"$$/kr/tags/고풍스러운","id":"고풍스러운"},{"name":"오아시스","path":"$$/kr/tags/오아시스","id":"오아시스"},{"name":"엘리자베스 키","path":"$$/kr/tags/엘리자베스-키","id":"엘리자베스-키"},{"name":"킹스 파크","path":"$$/kr/tags/킹스-파크","id":"킹스-파크"},{"name":"안락한","path":"$$/kr/tags/안락한","id":"안락한"},{"name":"뷔페식","path":"$$/kr/tags/뷔페식","id":"뷔페식"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"교통","path":"$$/kr/tags/교통","id":"교통"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"바","path":"$$/kr/tags/바","id":"바"},{"name":"친근함","path":"$$/kr/tags/친근함","id":"친근함"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"도시뷰","path":"$$/kr/tags/도시뷰","id":"도시뷰"},{"name":"관광지","path":"$$/kr/tags/관광지","id":"관광지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"/images/11980-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"퍼스-숙소-추천-위치와-전망이-훌륭한-호텔-5곳","content":"$11","category":"articles","readMin":"7.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["퍼스 여행을 계획하고 계신다면 다음의 호텔들을 참고해보세요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"더블트리 바이 힐튼 퍼스 워터프론트"}],"는 스완 강 뷰를 자랑하며, 다양한 편의시설과 편리한 위치로 여행객들에게 인기를 끌고 있습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"덕스턴 호텔"}],"은 퍼스 도심 속 오아시스 같은 호텔로서 편안함과 즐거움을 동시에 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"QT 퍼스"}],"는 세련된 디자인과 고급 객실, 뛰어난 서비스로 특히 주목받는 호텔입니다. 좀 더 여유로운 분위기를 찾고 있다면 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"크라운 메트로폴 퍼스 호텔"}],"을 추천드리며, 가족과 커플 모두를 위한 서비스를 제공합니다. 마지막으로, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"파멜리아 힐튼 퍼스"}],"는 모던한 럭셔리와 편안한 휴식을 동시에 즐길 수 있는 최적의 장소입니다. 지금 바로 예약하고 잊지 못할 퍼스 여행을 경험해보세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","toc":[{"tagName":"h2","title":"퍼스 숙소 추천, 위치와 전망이 훌륭한 호텔 5곳","id":"c898c1a1"},{"tagName":"h2","title":"완벽한 도시 속 휴식 공간","id":"02976a46"},{"tagName":"h2","title":"퍼스의 숨겨진 보석, 오아시스","id":"77cb0a9e"},{"tagName":"h2","title":"퍼스의 매력을 담은 도심 속 휴식","id":"390fc3f2"},{"tagName":"h2","title":"럭셔리한 퍼스의 도시 뷰 경험","id":"765706a5"},{"tagName":"h2","title":"편안한 휴식과 모던한 럭셔리","id":"f12daf4a"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

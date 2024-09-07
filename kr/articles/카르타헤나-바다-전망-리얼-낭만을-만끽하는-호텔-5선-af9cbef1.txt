@@ -1,0 +1,399 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%EB%B0%94%EB%8B%A4-%EC%A0%84%EB%A7%9D-%EB%A6%AC%EC%96%BC-%EB%82%AD%EB%A7%8C%EC%9D%84-%EB%A7%8C%EB%81%BD%ED%95%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0-af9cbef1","d"],{"children":["__PAGE__?{\"slug\":\"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%EB%B0%94%EB%8B%A4-%EC%A0%84%EB%A7%9D-%EB%A6%AC%EC%96%BC-%EB%82%AD%EB%A7%8C%EC%9D%84-%EB%A7%8C%EB%81%BD%ED%95%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0-af9cbef1","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1\"}"},"styles":[]}],"segment":["slug","%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%EB%B0%94%EB%8B%A4-%EC%A0%84%EB%A7%9D-%EB%A6%AC%EC%96%BC-%EB%82%AD%EB%A7%8C%EC%9D%84-%EB%A7%8C%EB%81%BD%ED%95%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0-af9cbef1","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"undefined"}],["$","meta","3",{"name":"keywords","content":"남미,편안함,루프탑 수영장,해변,관광,식사,현대적,서비스,럭셔리,도심,비즈니스,바다 전망,카르타헤나,편안한,조식,무료 와이파이,레스토랑,수영장,휴양지,가족,활동"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%EB%B0%94%EB%8B%A4-%EC%A0%84%EB%A7%9D-%EB%A6%AC%EC%96%BC-%EB%82%AD%EB%A7%8C%EC%9D%84-%EB%A7%8C%EB%81%BD%ED%95%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0-af9cbef1"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"undefined"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%B9%B4%EB%A5%B4%ED%83%80%ED%97%A4%EB%82%98-%EB%B0%94%EB%8B%A4-%EC%A0%84%EB%A7%9D-%EB%A6%AC%EC%96%BC-%EB%82%AD%EB%A7%8C%EC%9D%84-%EB%A7%8C%EB%81%BD%ED%95%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0-af9cbef1"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/10838-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"undefined"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/10838-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2f28,
+    
+
+
+## 카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 이번 여행에서 스페인의 낭만을 온몸으로 느끼고 싶다면 카르타헤나만 한 곳도 없어요. *청명한 바다*와 아름다운 건축물이 어우러진 이 도시는 그야말로 예술과 휴양의 천국이랍니다. 그런데 여기서 중요한 것은 어디에 머물 것이냐겠죠? 바로 그 고민을 해결해드리기 위해 제가 여러분을 위해 특별히 준비한 **카르타헤나 바다 전망 호텔 5선**을 소개하려고 합니다. 이번 글에서 소개할 호텔들은 모두 *탁 트인 바다 전망*을 자랑하며, 최고의 서비스와 편안한 휴식을 보장하는 곳이에요. 준비되셨나요? 그럼 카르타헤나의 진정한 낭만을 만끽할 수 있는 호텔들을 함께 알아보아요!
+
+
+## 카르타 헤나의 아늑한 휴양지
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704856.jpg?k=f8aa59892a0294d9c53387aa5fe1765354179578b64eaccd0080fc4d9e9a0b77&s=50x50)
+
+카르타헤나의 매력적인 해변과 도시가 조화를 이루는 곳, 바로 이 호텔이에요. 현대적인 인테리어와 함께 높은 천장과 넓은 공간이 여행의 설렘을 더해주죠. 객실의 편안함은 물론이고, 최상의 서비스를 제공하는 친절한 호텔 직원들이 있어 머무는 동안 내 집처럼 편안히 쉴 수 있어요. 이곳의 다양한 시설은 모든 연령대의 여행객에게 만족감을 줍니다. 루프탑 수영장에서 바라보는 석양은 정말 *환상적*이에요. 향긋한 커피를 즐기며 일상의 스트레스를 날려보세요. **완벽한 휴양지**를 찾는다면 더 이상 고민할 필요 없습니다.
+
+이 호텔의 또 다른 매력은 간편하게 접근할 수 있는 관광 명소들이라는 점이에요. 호텔에서 몇 분만 걸어 나가면 카르타헤나의 아름다운 문화를 체험할 수 있어요. 다양한 맛집과 쇼핑 장소도 가까워 여행의 즐거움을 배가시켜주죠. 저녁에는 로맨틱한 분위기의 레스토랑에서 맛있는 저녁 식사를 즐겨보세요. 아침부터 저녁까지 여행의 모든 순간이 특별해질 거예요. 이곳에서 보내는 모든 순간이 잊지 못할 추억으로 남을 거예요. 언제든지 다시 찾고 싶어질 그런 곳이랍니다.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 휴식
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/83785284.jpg?k=f974f4ca8b8a2cfb61c4051fccd80fb5ce315b1d8ccc7a7c0cc2ee9c76e01b42&s=50x50)
+
+카르타헤나의 매력적인 풍경을 배경으로 *Estelar Cartagena de Indias Hotel*은 유럽의 고전적인 아름다움과 현대적 편안함을 완벽히 조화시켰어요. 이 호텔은 도시의 중심부에 위치해 있어, 현지 명소들을 탐험하기에도 정말 편리해요. 객실은 넓고 아늑하며, 대부분의 객실에서는 아름다운 바다 전망을 즐길 수 있어요. *현대적이고 세련된 인테리어*는 머무는 동안 휴식을 더욱 즐겁게 만들어줍니다. 특히 호텔 내 레스토랑에서는 현지 및 국제 요리를 맛볼 수 있어, 식사 시간이 기다려질 거예요.
+
+호텔의 스파와 피트니스 센터는 여행의 피로를 풀기에 더할 나위 없이 좋습니다. 야외 수영장에서는 *탁 트인 바다 전망*을 즐기며 여유롭게 시간을 보낼 수 있어요. 컨벤션 센터와 여러 비즈니스 시설도 잘 갖추어져 있어, 비즈니스와 휴식을 동시에 누릴 수 있는 최적의 장소라고 할 수 있겠네요. *친절하고 전문적인 직원들*은 여러분의 모든 요청을 세심하게 돌봐줄 거예요. 연인, 가족, 비즈니스 여행객 모두에게 이상적인 이 호텔에서 잊지 못할 추억을 만들어보세요.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나의 럭셔리 해변 휴식
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/4454064/0/d3c4d1a94eb323337a264db035ea2d5e.jpeg)
+
+콜롬비아의 보석인 *카르타헤나*에 위치한 이곳은 탁 트인 바다 전망과 함께 고급스러움을 더해주는 완벽한 휴양지예요. 호텔 내부는 현대적 감각을 살린 인테리어로 디자인되어 있어 도착하는 순간부터 특별함을 느끼게 해주죠. 여러 레스토랑에서 다양한 요리를 즐길 수 있고, 특히 호텔의 이탈리안 레스토랑은 별미 중의 별미예요. 뿐만 아니라 숙소 내부의 스파와 야외 수영장도 여행의 피로를 풀어주는 데 큰 도움이 될 거예요. 바닷가 바로 앞에 위치하고 있어 문을 열면 선사되는 아름다운 해변은 보너스랍니다.
+
+특히 이 호텔의 객실은 매우 깔끔하고 안락함을 자랑해요. 침대는 푹신하고 편안해서 하루의 피로를 가뿐히 잊게 해줄 거예요. 직원들은 항상 친절하고, 빠르고 효율적으로 서비스를 제공해줘요. 조식 또한 다양한 메뉴로 구성되어 있어 아침부터 든든하게 하루를 시작할 수 있어요. 주변에는 쇼핑 센터와 편리한 이동 수단이 있어 관광을 하기도 아주 편리해요. *카르타헤나*에서의 시간을 더욱 특별하게 만들어 줄 거예요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 완벽한 힐링 여행
+Holiday Inn Express Cartagena Bocagrande
+    ![Holiday Inn Express Cartagena Bocagrande_0_image](https://pix8.agoda.net/hotelImages/703/703610/703610_14081909290021296746.jpg)
+![Holiday Inn Express Cartagena Bocagrande_1_image](https://pix8.agoda.net/property/33979335/604339788/da29a2a57c133879be2292463ad51aff.jpg)
+![Holiday Inn Express Cartagena Bocagrande_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/481640957.jpg?k=7c2fcce5af76b659968ea8210359e757f98460b88e3ecf600e0a45d695ebb136&s=50x50)
+
+카르타헤나에 오신 것을 환영해요! 이곳은 무한한 매력을 지닌 도시이며, *휴식을 취하는데 완벽한 장소*랍니다. 바쁜 일상 속에서 벗어나 고요한 해변과 멋진 도시 풍경을 감상해보세요. 특히 호텔은 현대적인 시설과 편안한 객실을 제공하며, 무엇보다도 고객 서비스가 우수해요. 게다가 공항과 주요 관광지와의 접근성이 좋아 더욱 편리하지요. **무료 조식**과 함께 하루를 시작하면서 맛있는 커피 한 잔은 어떠세요? 여기에, 호텔 내 레스토랑의 음식이 정말 맛있어서 고객들 사이에서 극찬을 받고 있어요. 라운지에서 음료를 마시며 저녁 해지는 풍경을 감상하는 것도 추천드려요. 피트니스 센터에서 운동을 하거나 수영장에서 여유로운 시간을 보내는 것도 잊지 말고 즐겨보세요.
+
+이 호텔은 특히 비즈니스 여행객들에게도 좋은 선택이랍니다. 무료 와이파이와 비즈니스 센터를 통해 원활한 업무 처리를 할 수 있어요. 주변의 다양한 레스토랑과 쇼핑몰이 있어서 일정이 끝난 뒤에도 즐길 거리가 많아요. 자, 이제 카르타헤나의 매력을 만끽하며 잊을 수 없는 추억을 만들어보세요. 매력적인 도시와 더불어 이 호텔이 당신의 여행을 더욱 특별하게 만들어 줄 거예요!
+
+[Holiday Inn Express Cartagena Bocagrande](https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나의 평화로운 안식처
+Holiday Inn Cartagena Morros
+    ![Holiday Inn Cartagena Morros_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795603.jpg?k=663de6cba2f24a26eeda81f1c4db1812a1b74ecd8258827d32ea2ca0c6ca132a&s=450x450)
+![Holiday Inn Cartagena Morros_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795532.jpg?k=86c13feecd6305e40de53a50b89ddc6c95b916b394c7063e7485d6d29c742bdd&s=50x50)
+![Holiday Inn Cartagena Morros_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/265611431.jpg?k=95d89e57acc4c6cce56d7e66164b937c38efc73d1e0db773f939313cfe46f4e1&s=50x50)
+
+카르타헤나 해변 근처에 위치한 이 호텔은 휴양지로서의 매력을 한껏 뽐내고 있어요. 바다 전망을 바라보며 조용한 아침 시간을 보내거나, 호텔 외곽의 울창한 자연을 산책하며 휴식을 취할 수 있습니다. 기분 전환을 원하신다면 시내 중심가로 이동하여 역사적인 건축물과 다양한 상점들을 구경하실 수 있습니다. 호텔 내 시설들도 정말 다양해요. 수영장은 물론, 현대적이고 넓은 피트니스 센터도 갖추고 있어 즐거운 시간을 보낼 수 있습니다. 특히, 레스토랑에서는 현지 요리뿐만 아니라 국제적인 메뉴도 제공하여 모든 입맛을 만족시켜줍니다. 가족 단위 여행객들에게는 이곳의 키즈 클럽이 큰 인기랍니다. 편안한 휴식을 원하시거나 다양한 활동을 즐기고 싶다면, 이 호텔이 완벽한 선택일 거예요. 여러 숙박객들이 친절하고 효율적인 서비스에 대해 매우 만족해요. 친근하고 전문적인 직원들이 언제나 돕기 위해 대기 중이며, 청소와 관리가 철저해서 쾌적하게 머무를 수 있어요. 단순한 숙박을 넘어 카르타헤나에서의 멋진 경험을 만들어줄 이 호텔, 꼭 한번 방문해보세요.
+
+[Holiday Inn Cartagena Morros](https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 머물기에 완벽한 호텔들을 소개해드렸습니다. *Oz Hotel Luxury*는 편리한 접근성과 고급 서비스를 통해 완벽한 휴양지를 제공합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 세련된 분위기의 호텔로 카르타헤나의 중심에서 고급스러운 휴식을 취할 수 있습니다. *Hyatt Regency Cartagena*는 현대적이고 고급스러운 호텔로, 바다 전망과 다양한 시설을 자랑합니다. *Holiday Inn Express Cartagena Bocagrande*는 현대적인 시설과 편안한 객실에서 카르타헤나의 매력을 만끽할 수 있는 곳입니다. 마지막으로, *Holiday Inn Cartagena Morros*는 평화로운 휴식과 다양한 활동을 동시에 즐길 수 있는 호텔입니다. 이처럼 풍부한 매력을 지닌 호텔들에서 잊지 못할 여행을 즐기세요. 지금 바로 예약하고 꿈꾸던 여행을 현실로 만들어보세요.
+
+e:T2f28,
+    
+
+
+## 카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 이번 여행에서 스페인의 낭만을 온몸으로 느끼고 싶다면 카르타헤나만 한 곳도 없어요. *청명한 바다*와 아름다운 건축물이 어우러진 이 도시는 그야말로 예술과 휴양의 천국이랍니다. 그런데 여기서 중요한 것은 어디에 머물 것이냐겠죠? 바로 그 고민을 해결해드리기 위해 제가 여러분을 위해 특별히 준비한 **카르타헤나 바다 전망 호텔 5선**을 소개하려고 합니다. 이번 글에서 소개할 호텔들은 모두 *탁 트인 바다 전망*을 자랑하며, 최고의 서비스와 편안한 휴식을 보장하는 곳이에요. 준비되셨나요? 그럼 카르타헤나의 진정한 낭만을 만끽할 수 있는 호텔들을 함께 알아보아요!
+
+
+## 카르타 헤나의 아늑한 휴양지
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704856.jpg?k=f8aa59892a0294d9c53387aa5fe1765354179578b64eaccd0080fc4d9e9a0b77&s=50x50)
+
+카르타헤나의 매력적인 해변과 도시가 조화를 이루는 곳, 바로 이 호텔이에요. 현대적인 인테리어와 함께 높은 천장과 넓은 공간이 여행의 설렘을 더해주죠. 객실의 편안함은 물론이고, 최상의 서비스를 제공하는 친절한 호텔 직원들이 있어 머무는 동안 내 집처럼 편안히 쉴 수 있어요. 이곳의 다양한 시설은 모든 연령대의 여행객에게 만족감을 줍니다. 루프탑 수영장에서 바라보는 석양은 정말 *환상적*이에요. 향긋한 커피를 즐기며 일상의 스트레스를 날려보세요. **완벽한 휴양지**를 찾는다면 더 이상 고민할 필요 없습니다.
+
+이 호텔의 또 다른 매력은 간편하게 접근할 수 있는 관광 명소들이라는 점이에요. 호텔에서 몇 분만 걸어 나가면 카르타헤나의 아름다운 문화를 체험할 수 있어요. 다양한 맛집과 쇼핑 장소도 가까워 여행의 즐거움을 배가시켜주죠. 저녁에는 로맨틱한 분위기의 레스토랑에서 맛있는 저녁 식사를 즐겨보세요. 아침부터 저녁까지 여행의 모든 순간이 특별해질 거예요. 이곳에서 보내는 모든 순간이 잊지 못할 추억으로 남을 거예요. 언제든지 다시 찾고 싶어질 그런 곳이랍니다.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 휴식
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/83785284.jpg?k=f974f4ca8b8a2cfb61c4051fccd80fb5ce315b1d8ccc7a7c0cc2ee9c76e01b42&s=50x50)
+
+카르타헤나의 매력적인 풍경을 배경으로 *Estelar Cartagena de Indias Hotel*은 유럽의 고전적인 아름다움과 현대적 편안함을 완벽히 조화시켰어요. 이 호텔은 도시의 중심부에 위치해 있어, 현지 명소들을 탐험하기에도 정말 편리해요. 객실은 넓고 아늑하며, 대부분의 객실에서는 아름다운 바다 전망을 즐길 수 있어요. *현대적이고 세련된 인테리어*는 머무는 동안 휴식을 더욱 즐겁게 만들어줍니다. 특히 호텔 내 레스토랑에서는 현지 및 국제 요리를 맛볼 수 있어, 식사 시간이 기다려질 거예요.
+
+호텔의 스파와 피트니스 센터는 여행의 피로를 풀기에 더할 나위 없이 좋습니다. 야외 수영장에서는 *탁 트인 바다 전망*을 즐기며 여유롭게 시간을 보낼 수 있어요. 컨벤션 센터와 여러 비즈니스 시설도 잘 갖추어져 있어, 비즈니스와 휴식을 동시에 누릴 수 있는 최적의 장소라고 할 수 있겠네요. *친절하고 전문적인 직원들*은 여러분의 모든 요청을 세심하게 돌봐줄 거예요. 연인, 가족, 비즈니스 여행객 모두에게 이상적인 이 호텔에서 잊지 못할 추억을 만들어보세요.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나의 럭셔리 해변 휴식
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/4454064/0/d3c4d1a94eb323337a264db035ea2d5e.jpeg)
+
+콜롬비아의 보석인 *카르타헤나*에 위치한 이곳은 탁 트인 바다 전망과 함께 고급스러움을 더해주는 완벽한 휴양지예요. 호텔 내부는 현대적 감각을 살린 인테리어로 디자인되어 있어 도착하는 순간부터 특별함을 느끼게 해주죠. 여러 레스토랑에서 다양한 요리를 즐길 수 있고, 특히 호텔의 이탈리안 레스토랑은 별미 중의 별미예요. 뿐만 아니라 숙소 내부의 스파와 야외 수영장도 여행의 피로를 풀어주는 데 큰 도움이 될 거예요. 바닷가 바로 앞에 위치하고 있어 문을 열면 선사되는 아름다운 해변은 보너스랍니다.
+
+특히 이 호텔의 객실은 매우 깔끔하고 안락함을 자랑해요. 침대는 푹신하고 편안해서 하루의 피로를 가뿐히 잊게 해줄 거예요. 직원들은 항상 친절하고, 빠르고 효율적으로 서비스를 제공해줘요. 조식 또한 다양한 메뉴로 구성되어 있어 아침부터 든든하게 하루를 시작할 수 있어요. 주변에는 쇼핑 센터와 편리한 이동 수단이 있어 관광을 하기도 아주 편리해요. *카르타헤나*에서의 시간을 더욱 특별하게 만들어 줄 거예요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 완벽한 힐링 여행
+Holiday Inn Express Cartagena Bocagrande
+    ![Holiday Inn Express Cartagena Bocagrande_0_image](https://pix8.agoda.net/hotelImages/703/703610/703610_14081909290021296746.jpg)
+![Holiday Inn Express Cartagena Bocagrande_1_image](https://pix8.agoda.net/property/33979335/604339788/da29a2a57c133879be2292463ad51aff.jpg)
+![Holiday Inn Express Cartagena Bocagrande_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/481640957.jpg?k=7c2fcce5af76b659968ea8210359e757f98460b88e3ecf600e0a45d695ebb136&s=50x50)
+
+카르타헤나에 오신 것을 환영해요! 이곳은 무한한 매력을 지닌 도시이며, *휴식을 취하는데 완벽한 장소*랍니다. 바쁜 일상 속에서 벗어나 고요한 해변과 멋진 도시 풍경을 감상해보세요. 특히 호텔은 현대적인 시설과 편안한 객실을 제공하며, 무엇보다도 고객 서비스가 우수해요. 게다가 공항과 주요 관광지와의 접근성이 좋아 더욱 편리하지요. **무료 조식**과 함께 하루를 시작하면서 맛있는 커피 한 잔은 어떠세요? 여기에, 호텔 내 레스토랑의 음식이 정말 맛있어서 고객들 사이에서 극찬을 받고 있어요. 라운지에서 음료를 마시며 저녁 해지는 풍경을 감상하는 것도 추천드려요. 피트니스 센터에서 운동을 하거나 수영장에서 여유로운 시간을 보내는 것도 잊지 말고 즐겨보세요.
+
+이 호텔은 특히 비즈니스 여행객들에게도 좋은 선택이랍니다. 무료 와이파이와 비즈니스 센터를 통해 원활한 업무 처리를 할 수 있어요. 주변의 다양한 레스토랑과 쇼핑몰이 있어서 일정이 끝난 뒤에도 즐길 거리가 많아요. 자, 이제 카르타헤나의 매력을 만끽하며 잊을 수 없는 추억을 만들어보세요. 매력적인 도시와 더불어 이 호텔이 당신의 여행을 더욱 특별하게 만들어 줄 거예요!
+
+[Holiday Inn Express Cartagena Bocagrande](https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나의 평화로운 안식처
+Holiday Inn Cartagena Morros
+    ![Holiday Inn Cartagena Morros_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795603.jpg?k=663de6cba2f24a26eeda81f1c4db1812a1b74ecd8258827d32ea2ca0c6ca132a&s=450x450)
+![Holiday Inn Cartagena Morros_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795532.jpg?k=86c13feecd6305e40de53a50b89ddc6c95b916b394c7063e7485d6d29c742bdd&s=50x50)
+![Holiday Inn Cartagena Morros_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/265611431.jpg?k=95d89e57acc4c6cce56d7e66164b937c38efc73d1e0db773f939313cfe46f4e1&s=50x50)
+
+카르타헤나 해변 근처에 위치한 이 호텔은 휴양지로서의 매력을 한껏 뽐내고 있어요. 바다 전망을 바라보며 조용한 아침 시간을 보내거나, 호텔 외곽의 울창한 자연을 산책하며 휴식을 취할 수 있습니다. 기분 전환을 원하신다면 시내 중심가로 이동하여 역사적인 건축물과 다양한 상점들을 구경하실 수 있습니다. 호텔 내 시설들도 정말 다양해요. 수영장은 물론, 현대적이고 넓은 피트니스 센터도 갖추고 있어 즐거운 시간을 보낼 수 있습니다. 특히, 레스토랑에서는 현지 요리뿐만 아니라 국제적인 메뉴도 제공하여 모든 입맛을 만족시켜줍니다. 가족 단위 여행객들에게는 이곳의 키즈 클럽이 큰 인기랍니다. 편안한 휴식을 원하시거나 다양한 활동을 즐기고 싶다면, 이 호텔이 완벽한 선택일 거예요. 여러 숙박객들이 친절하고 효율적인 서비스에 대해 매우 만족해요. 친근하고 전문적인 직원들이 언제나 돕기 위해 대기 중이며, 청소와 관리가 철저해서 쾌적하게 머무를 수 있어요. 단순한 숙박을 넘어 카르타헤나에서의 멋진 경험을 만들어줄 이 호텔, 꼭 한번 방문해보세요.
+
+[Holiday Inn Cartagena Morros](https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 머물기에 완벽한 호텔들을 소개해드렸습니다. *Oz Hotel Luxury*는 편리한 접근성과 고급 서비스를 통해 완벽한 휴양지를 제공합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 세련된 분위기의 호텔로 카르타헤나의 중심에서 고급스러운 휴식을 취할 수 있습니다. *Hyatt Regency Cartagena*는 현대적이고 고급스러운 호텔로, 바다 전망과 다양한 시설을 자랑합니다. *Holiday Inn Express Cartagena Bocagrande*는 현대적인 시설과 편안한 객실에서 카르타헤나의 매력을 만끽할 수 있는 곳입니다. 마지막으로, *Holiday Inn Cartagena Morros*는 평화로운 휴식과 다양한 활동을 동시에 즐길 수 있는 호텔입니다. 이처럼 풍부한 매력을 지닌 호텔들에서 잊지 못할 여행을 즐기세요. 지금 바로 예약하고 꿈꾸던 여행을 현실로 만들어보세요.
+
+f:T2f28,
+    
+
+
+## 카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 이번 여행에서 스페인의 낭만을 온몸으로 느끼고 싶다면 카르타헤나만 한 곳도 없어요. *청명한 바다*와 아름다운 건축물이 어우러진 이 도시는 그야말로 예술과 휴양의 천국이랍니다. 그런데 여기서 중요한 것은 어디에 머물 것이냐겠죠? 바로 그 고민을 해결해드리기 위해 제가 여러분을 위해 특별히 준비한 **카르타헤나 바다 전망 호텔 5선**을 소개하려고 합니다. 이번 글에서 소개할 호텔들은 모두 *탁 트인 바다 전망*을 자랑하며, 최고의 서비스와 편안한 휴식을 보장하는 곳이에요. 준비되셨나요? 그럼 카르타헤나의 진정한 낭만을 만끽할 수 있는 호텔들을 함께 알아보아요!
+
+
+## 카르타 헤나의 아늑한 휴양지
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704856.jpg?k=f8aa59892a0294d9c53387aa5fe1765354179578b64eaccd0080fc4d9e9a0b77&s=50x50)
+
+카르타헤나의 매력적인 해변과 도시가 조화를 이루는 곳, 바로 이 호텔이에요. 현대적인 인테리어와 함께 높은 천장과 넓은 공간이 여행의 설렘을 더해주죠. 객실의 편안함은 물론이고, 최상의 서비스를 제공하는 친절한 호텔 직원들이 있어 머무는 동안 내 집처럼 편안히 쉴 수 있어요. 이곳의 다양한 시설은 모든 연령대의 여행객에게 만족감을 줍니다. 루프탑 수영장에서 바라보는 석양은 정말 *환상적*이에요. 향긋한 커피를 즐기며 일상의 스트레스를 날려보세요. **완벽한 휴양지**를 찾는다면 더 이상 고민할 필요 없습니다.
+
+이 호텔의 또 다른 매력은 간편하게 접근할 수 있는 관광 명소들이라는 점이에요. 호텔에서 몇 분만 걸어 나가면 카르타헤나의 아름다운 문화를 체험할 수 있어요. 다양한 맛집과 쇼핑 장소도 가까워 여행의 즐거움을 배가시켜주죠. 저녁에는 로맨틱한 분위기의 레스토랑에서 맛있는 저녁 식사를 즐겨보세요. 아침부터 저녁까지 여행의 모든 순간이 특별해질 거예요. 이곳에서 보내는 모든 순간이 잊지 못할 추억으로 남을 거예요. 언제든지 다시 찾고 싶어질 그런 곳이랍니다.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 휴식
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/83785284.jpg?k=f974f4ca8b8a2cfb61c4051fccd80fb5ce315b1d8ccc7a7c0cc2ee9c76e01b42&s=50x50)
+
+카르타헤나의 매력적인 풍경을 배경으로 *Estelar Cartagena de Indias Hotel*은 유럽의 고전적인 아름다움과 현대적 편안함을 완벽히 조화시켰어요. 이 호텔은 도시의 중심부에 위치해 있어, 현지 명소들을 탐험하기에도 정말 편리해요. 객실은 넓고 아늑하며, 대부분의 객실에서는 아름다운 바다 전망을 즐길 수 있어요. *현대적이고 세련된 인테리어*는 머무는 동안 휴식을 더욱 즐겁게 만들어줍니다. 특히 호텔 내 레스토랑에서는 현지 및 국제 요리를 맛볼 수 있어, 식사 시간이 기다려질 거예요.
+
+호텔의 스파와 피트니스 센터는 여행의 피로를 풀기에 더할 나위 없이 좋습니다. 야외 수영장에서는 *탁 트인 바다 전망*을 즐기며 여유롭게 시간을 보낼 수 있어요. 컨벤션 센터와 여러 비즈니스 시설도 잘 갖추어져 있어, 비즈니스와 휴식을 동시에 누릴 수 있는 최적의 장소라고 할 수 있겠네요. *친절하고 전문적인 직원들*은 여러분의 모든 요청을 세심하게 돌봐줄 거예요. 연인, 가족, 비즈니스 여행객 모두에게 이상적인 이 호텔에서 잊지 못할 추억을 만들어보세요.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나의 럭셔리 해변 휴식
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/4454064/0/d3c4d1a94eb323337a264db035ea2d5e.jpeg)
+
+콜롬비아의 보석인 *카르타헤나*에 위치한 이곳은 탁 트인 바다 전망과 함께 고급스러움을 더해주는 완벽한 휴양지예요. 호텔 내부는 현대적 감각을 살린 인테리어로 디자인되어 있어 도착하는 순간부터 특별함을 느끼게 해주죠. 여러 레스토랑에서 다양한 요리를 즐길 수 있고, 특히 호텔의 이탈리안 레스토랑은 별미 중의 별미예요. 뿐만 아니라 숙소 내부의 스파와 야외 수영장도 여행의 피로를 풀어주는 데 큰 도움이 될 거예요. 바닷가 바로 앞에 위치하고 있어 문을 열면 선사되는 아름다운 해변은 보너스랍니다.
+
+특히 이 호텔의 객실은 매우 깔끔하고 안락함을 자랑해요. 침대는 푹신하고 편안해서 하루의 피로를 가뿐히 잊게 해줄 거예요. 직원들은 항상 친절하고, 빠르고 효율적으로 서비스를 제공해줘요. 조식 또한 다양한 메뉴로 구성되어 있어 아침부터 든든하게 하루를 시작할 수 있어요. 주변에는 쇼핑 센터와 편리한 이동 수단이 있어 관광을 하기도 아주 편리해요. *카르타헤나*에서의 시간을 더욱 특별하게 만들어 줄 거예요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 완벽한 힐링 여행
+Holiday Inn Express Cartagena Bocagrande
+    ![Holiday Inn Express Cartagena Bocagrande_0_image](https://pix8.agoda.net/hotelImages/703/703610/703610_14081909290021296746.jpg)
+![Holiday Inn Express Cartagena Bocagrande_1_image](https://pix8.agoda.net/property/33979335/604339788/da29a2a57c133879be2292463ad51aff.jpg)
+![Holiday Inn Express Cartagena Bocagrande_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/481640957.jpg?k=7c2fcce5af76b659968ea8210359e757f98460b88e3ecf600e0a45d695ebb136&s=50x50)
+
+카르타헤나에 오신 것을 환영해요! 이곳은 무한한 매력을 지닌 도시이며, *휴식을 취하는데 완벽한 장소*랍니다. 바쁜 일상 속에서 벗어나 고요한 해변과 멋진 도시 풍경을 감상해보세요. 특히 호텔은 현대적인 시설과 편안한 객실을 제공하며, 무엇보다도 고객 서비스가 우수해요. 게다가 공항과 주요 관광지와의 접근성이 좋아 더욱 편리하지요. **무료 조식**과 함께 하루를 시작하면서 맛있는 커피 한 잔은 어떠세요? 여기에, 호텔 내 레스토랑의 음식이 정말 맛있어서 고객들 사이에서 극찬을 받고 있어요. 라운지에서 음료를 마시며 저녁 해지는 풍경을 감상하는 것도 추천드려요. 피트니스 센터에서 운동을 하거나 수영장에서 여유로운 시간을 보내는 것도 잊지 말고 즐겨보세요.
+
+이 호텔은 특히 비즈니스 여행객들에게도 좋은 선택이랍니다. 무료 와이파이와 비즈니스 센터를 통해 원활한 업무 처리를 할 수 있어요. 주변의 다양한 레스토랑과 쇼핑몰이 있어서 일정이 끝난 뒤에도 즐길 거리가 많아요. 자, 이제 카르타헤나의 매력을 만끽하며 잊을 수 없는 추억을 만들어보세요. 매력적인 도시와 더불어 이 호텔이 당신의 여행을 더욱 특별하게 만들어 줄 거예요!
+
+[Holiday Inn Express Cartagena Bocagrande](https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나의 평화로운 안식처
+Holiday Inn Cartagena Morros
+    ![Holiday Inn Cartagena Morros_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795603.jpg?k=663de6cba2f24a26eeda81f1c4db1812a1b74ecd8258827d32ea2ca0c6ca132a&s=450x450)
+![Holiday Inn Cartagena Morros_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795532.jpg?k=86c13feecd6305e40de53a50b89ddc6c95b916b394c7063e7485d6d29c742bdd&s=50x50)
+![Holiday Inn Cartagena Morros_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/265611431.jpg?k=95d89e57acc4c6cce56d7e66164b937c38efc73d1e0db773f939313cfe46f4e1&s=50x50)
+
+카르타헤나 해변 근처에 위치한 이 호텔은 휴양지로서의 매력을 한껏 뽐내고 있어요. 바다 전망을 바라보며 조용한 아침 시간을 보내거나, 호텔 외곽의 울창한 자연을 산책하며 휴식을 취할 수 있습니다. 기분 전환을 원하신다면 시내 중심가로 이동하여 역사적인 건축물과 다양한 상점들을 구경하실 수 있습니다. 호텔 내 시설들도 정말 다양해요. 수영장은 물론, 현대적이고 넓은 피트니스 센터도 갖추고 있어 즐거운 시간을 보낼 수 있습니다. 특히, 레스토랑에서는 현지 요리뿐만 아니라 국제적인 메뉴도 제공하여 모든 입맛을 만족시켜줍니다. 가족 단위 여행객들에게는 이곳의 키즈 클럽이 큰 인기랍니다. 편안한 휴식을 원하시거나 다양한 활동을 즐기고 싶다면, 이 호텔이 완벽한 선택일 거예요. 여러 숙박객들이 친절하고 효율적인 서비스에 대해 매우 만족해요. 친근하고 전문적인 직원들이 언제나 돕기 위해 대기 중이며, 청소와 관리가 철저해서 쾌적하게 머무를 수 있어요. 단순한 숙박을 넘어 카르타헤나에서의 멋진 경험을 만들어줄 이 호텔, 꼭 한번 방문해보세요.
+
+[Holiday Inn Cartagena Morros](https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 머물기에 완벽한 호텔들을 소개해드렸습니다. *Oz Hotel Luxury*는 편리한 접근성과 고급 서비스를 통해 완벽한 휴양지를 제공합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 세련된 분위기의 호텔로 카르타헤나의 중심에서 고급스러운 휴식을 취할 수 있습니다. *Hyatt Regency Cartagena*는 현대적이고 고급스러운 호텔로, 바다 전망과 다양한 시설을 자랑합니다. *Holiday Inn Express Cartagena Bocagrande*는 현대적인 시설과 편안한 객실에서 카르타헤나의 매력을 만끽할 수 있는 곳입니다. 마지막으로, *Holiday Inn Cartagena Morros*는 평화로운 휴식과 다양한 활동을 동시에 즐길 수 있는 호텔입니다. 이처럼 풍부한 매력을 지닌 호텔들에서 잊지 못할 여행을 즐기세요. 지금 바로 예약하고 꿈꾸던 여행을 현실로 만들어보세요.
+
+10:T2f28,
+    
+
+
+## 카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 이번 여행에서 스페인의 낭만을 온몸으로 느끼고 싶다면 카르타헤나만 한 곳도 없어요. *청명한 바다*와 아름다운 건축물이 어우러진 이 도시는 그야말로 예술과 휴양의 천국이랍니다. 그런데 여기서 중요한 것은 어디에 머물 것이냐겠죠? 바로 그 고민을 해결해드리기 위해 제가 여러분을 위해 특별히 준비한 **카르타헤나 바다 전망 호텔 5선**을 소개하려고 합니다. 이번 글에서 소개할 호텔들은 모두 *탁 트인 바다 전망*을 자랑하며, 최고의 서비스와 편안한 휴식을 보장하는 곳이에요. 준비되셨나요? 그럼 카르타헤나의 진정한 낭만을 만끽할 수 있는 호텔들을 함께 알아보아요!
+
+
+## 카르타 헤나의 아늑한 휴양지
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704856.jpg?k=f8aa59892a0294d9c53387aa5fe1765354179578b64eaccd0080fc4d9e9a0b77&s=50x50)
+
+카르타헤나의 매력적인 해변과 도시가 조화를 이루는 곳, 바로 이 호텔이에요. 현대적인 인테리어와 함께 높은 천장과 넓은 공간이 여행의 설렘을 더해주죠. 객실의 편안함은 물론이고, 최상의 서비스를 제공하는 친절한 호텔 직원들이 있어 머무는 동안 내 집처럼 편안히 쉴 수 있어요. 이곳의 다양한 시설은 모든 연령대의 여행객에게 만족감을 줍니다. 루프탑 수영장에서 바라보는 석양은 정말 *환상적*이에요. 향긋한 커피를 즐기며 일상의 스트레스를 날려보세요. **완벽한 휴양지**를 찾는다면 더 이상 고민할 필요 없습니다.
+
+이 호텔의 또 다른 매력은 간편하게 접근할 수 있는 관광 명소들이라는 점이에요. 호텔에서 몇 분만 걸어 나가면 카르타헤나의 아름다운 문화를 체험할 수 있어요. 다양한 맛집과 쇼핑 장소도 가까워 여행의 즐거움을 배가시켜주죠. 저녁에는 로맨틱한 분위기의 레스토랑에서 맛있는 저녁 식사를 즐겨보세요. 아침부터 저녁까지 여행의 모든 순간이 특별해질 거예요. 이곳에서 보내는 모든 순간이 잊지 못할 추억으로 남을 거예요. 언제든지 다시 찾고 싶어질 그런 곳이랍니다.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 휴식
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/83785284.jpg?k=f974f4ca8b8a2cfb61c4051fccd80fb5ce315b1d8ccc7a7c0cc2ee9c76e01b42&s=50x50)
+
+카르타헤나의 매력적인 풍경을 배경으로 *Estelar Cartagena de Indias Hotel*은 유럽의 고전적인 아름다움과 현대적 편안함을 완벽히 조화시켰어요. 이 호텔은 도시의 중심부에 위치해 있어, 현지 명소들을 탐험하기에도 정말 편리해요. 객실은 넓고 아늑하며, 대부분의 객실에서는 아름다운 바다 전망을 즐길 수 있어요. *현대적이고 세련된 인테리어*는 머무는 동안 휴식을 더욱 즐겁게 만들어줍니다. 특히 호텔 내 레스토랑에서는 현지 및 국제 요리를 맛볼 수 있어, 식사 시간이 기다려질 거예요.
+
+호텔의 스파와 피트니스 센터는 여행의 피로를 풀기에 더할 나위 없이 좋습니다. 야외 수영장에서는 *탁 트인 바다 전망*을 즐기며 여유롭게 시간을 보낼 수 있어요. 컨벤션 센터와 여러 비즈니스 시설도 잘 갖추어져 있어, 비즈니스와 휴식을 동시에 누릴 수 있는 최적의 장소라고 할 수 있겠네요. *친절하고 전문적인 직원들*은 여러분의 모든 요청을 세심하게 돌봐줄 거예요. 연인, 가족, 비즈니스 여행객 모두에게 이상적인 이 호텔에서 잊지 못할 추억을 만들어보세요.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나의 럭셔리 해변 휴식
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/4454064/0/d3c4d1a94eb323337a264db035ea2d5e.jpeg)
+
+콜롬비아의 보석인 *카르타헤나*에 위치한 이곳은 탁 트인 바다 전망과 함께 고급스러움을 더해주는 완벽한 휴양지예요. 호텔 내부는 현대적 감각을 살린 인테리어로 디자인되어 있어 도착하는 순간부터 특별함을 느끼게 해주죠. 여러 레스토랑에서 다양한 요리를 즐길 수 있고, 특히 호텔의 이탈리안 레스토랑은 별미 중의 별미예요. 뿐만 아니라 숙소 내부의 스파와 야외 수영장도 여행의 피로를 풀어주는 데 큰 도움이 될 거예요. 바닷가 바로 앞에 위치하고 있어 문을 열면 선사되는 아름다운 해변은 보너스랍니다.
+
+특히 이 호텔의 객실은 매우 깔끔하고 안락함을 자랑해요. 침대는 푹신하고 편안해서 하루의 피로를 가뿐히 잊게 해줄 거예요. 직원들은 항상 친절하고, 빠르고 효율적으로 서비스를 제공해줘요. 조식 또한 다양한 메뉴로 구성되어 있어 아침부터 든든하게 하루를 시작할 수 있어요. 주변에는 쇼핑 센터와 편리한 이동 수단이 있어 관광을 하기도 아주 편리해요. *카르타헤나*에서의 시간을 더욱 특별하게 만들어 줄 거예요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 완벽한 힐링 여행
+Holiday Inn Express Cartagena Bocagrande
+    ![Holiday Inn Express Cartagena Bocagrande_0_image](https://pix8.agoda.net/hotelImages/703/703610/703610_14081909290021296746.jpg)
+![Holiday Inn Express Cartagena Bocagrande_1_image](https://pix8.agoda.net/property/33979335/604339788/da29a2a57c133879be2292463ad51aff.jpg)
+![Holiday Inn Express Cartagena Bocagrande_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/481640957.jpg?k=7c2fcce5af76b659968ea8210359e757f98460b88e3ecf600e0a45d695ebb136&s=50x50)
+
+카르타헤나에 오신 것을 환영해요! 이곳은 무한한 매력을 지닌 도시이며, *휴식을 취하는데 완벽한 장소*랍니다. 바쁜 일상 속에서 벗어나 고요한 해변과 멋진 도시 풍경을 감상해보세요. 특히 호텔은 현대적인 시설과 편안한 객실을 제공하며, 무엇보다도 고객 서비스가 우수해요. 게다가 공항과 주요 관광지와의 접근성이 좋아 더욱 편리하지요. **무료 조식**과 함께 하루를 시작하면서 맛있는 커피 한 잔은 어떠세요? 여기에, 호텔 내 레스토랑의 음식이 정말 맛있어서 고객들 사이에서 극찬을 받고 있어요. 라운지에서 음료를 마시며 저녁 해지는 풍경을 감상하는 것도 추천드려요. 피트니스 센터에서 운동을 하거나 수영장에서 여유로운 시간을 보내는 것도 잊지 말고 즐겨보세요.
+
+이 호텔은 특히 비즈니스 여행객들에게도 좋은 선택이랍니다. 무료 와이파이와 비즈니스 센터를 통해 원활한 업무 처리를 할 수 있어요. 주변의 다양한 레스토랑과 쇼핑몰이 있어서 일정이 끝난 뒤에도 즐길 거리가 많아요. 자, 이제 카르타헤나의 매력을 만끽하며 잊을 수 없는 추억을 만들어보세요. 매력적인 도시와 더불어 이 호텔이 당신의 여행을 더욱 특별하게 만들어 줄 거예요!
+
+[Holiday Inn Express Cartagena Bocagrande](https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나의 평화로운 안식처
+Holiday Inn Cartagena Morros
+    ![Holiday Inn Cartagena Morros_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795603.jpg?k=663de6cba2f24a26eeda81f1c4db1812a1b74ecd8258827d32ea2ca0c6ca132a&s=450x450)
+![Holiday Inn Cartagena Morros_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795532.jpg?k=86c13feecd6305e40de53a50b89ddc6c95b916b394c7063e7485d6d29c742bdd&s=50x50)
+![Holiday Inn Cartagena Morros_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/265611431.jpg?k=95d89e57acc4c6cce56d7e66164b937c38efc73d1e0db773f939313cfe46f4e1&s=50x50)
+
+카르타헤나 해변 근처에 위치한 이 호텔은 휴양지로서의 매력을 한껏 뽐내고 있어요. 바다 전망을 바라보며 조용한 아침 시간을 보내거나, 호텔 외곽의 울창한 자연을 산책하며 휴식을 취할 수 있습니다. 기분 전환을 원하신다면 시내 중심가로 이동하여 역사적인 건축물과 다양한 상점들을 구경하실 수 있습니다. 호텔 내 시설들도 정말 다양해요. 수영장은 물론, 현대적이고 넓은 피트니스 센터도 갖추고 있어 즐거운 시간을 보낼 수 있습니다. 특히, 레스토랑에서는 현지 요리뿐만 아니라 국제적인 메뉴도 제공하여 모든 입맛을 만족시켜줍니다. 가족 단위 여행객들에게는 이곳의 키즈 클럽이 큰 인기랍니다. 편안한 휴식을 원하시거나 다양한 활동을 즐기고 싶다면, 이 호텔이 완벽한 선택일 거예요. 여러 숙박객들이 친절하고 효율적인 서비스에 대해 매우 만족해요. 친근하고 전문적인 직원들이 언제나 돕기 위해 대기 중이며, 청소와 관리가 철저해서 쾌적하게 머무를 수 있어요. 단순한 숙박을 넘어 카르타헤나에서의 멋진 경험을 만들어줄 이 호텔, 꼭 한번 방문해보세요.
+
+[Holiday Inn Cartagena Morros](https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 머물기에 완벽한 호텔들을 소개해드렸습니다. *Oz Hotel Luxury*는 편리한 접근성과 고급 서비스를 통해 완벽한 휴양지를 제공합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 세련된 분위기의 호텔로 카르타헤나의 중심에서 고급스러운 휴식을 취할 수 있습니다. *Hyatt Regency Cartagena*는 현대적이고 고급스러운 호텔로, 바다 전망과 다양한 시설을 자랑합니다. *Holiday Inn Express Cartagena Bocagrande*는 현대적인 시설과 편안한 객실에서 카르타헤나의 매력을 만끽할 수 있는 곳입니다. 마지막으로, *Holiday Inn Cartagena Morros*는 평화로운 휴식과 다양한 활동을 동시에 즐길 수 있는 호텔입니다. 이처럼 풍부한 매력을 지닌 호텔들에서 잊지 못할 여행을 즐기세요. 지금 바로 예약하고 꿈꾸던 여행을 현실로 만들어보세요.
+
+11:T2f28,
+    
+
+
+## 카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 이번 여행에서 스페인의 낭만을 온몸으로 느끼고 싶다면 카르타헤나만 한 곳도 없어요. *청명한 바다*와 아름다운 건축물이 어우러진 이 도시는 그야말로 예술과 휴양의 천국이랍니다. 그런데 여기서 중요한 것은 어디에 머물 것이냐겠죠? 바로 그 고민을 해결해드리기 위해 제가 여러분을 위해 특별히 준비한 **카르타헤나 바다 전망 호텔 5선**을 소개하려고 합니다. 이번 글에서 소개할 호텔들은 모두 *탁 트인 바다 전망*을 자랑하며, 최고의 서비스와 편안한 휴식을 보장하는 곳이에요. 준비되셨나요? 그럼 카르타헤나의 진정한 낭만을 만끽할 수 있는 호텔들을 함께 알아보아요!
+
+
+## 카르타 헤나의 아늑한 휴양지
+Oz Hotel Luxury
+    ![Oz Hotel Luxury_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450)
+![Oz Hotel Luxury_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50)
+![Oz Hotel Luxury_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/280704856.jpg?k=f8aa59892a0294d9c53387aa5fe1765354179578b64eaccd0080fc4d9e9a0b77&s=50x50)
+
+카르타헤나의 매력적인 해변과 도시가 조화를 이루는 곳, 바로 이 호텔이에요. 현대적인 인테리어와 함께 높은 천장과 넓은 공간이 여행의 설렘을 더해주죠. 객실의 편안함은 물론이고, 최상의 서비스를 제공하는 친절한 호텔 직원들이 있어 머무는 동안 내 집처럼 편안히 쉴 수 있어요. 이곳의 다양한 시설은 모든 연령대의 여행객에게 만족감을 줍니다. 루프탑 수영장에서 바라보는 석양은 정말 *환상적*이에요. 향긋한 커피를 즐기며 일상의 스트레스를 날려보세요. **완벽한 휴양지**를 찾는다면 더 이상 고민할 필요 없습니다.
+
+이 호텔의 또 다른 매력은 간편하게 접근할 수 있는 관광 명소들이라는 점이에요. 호텔에서 몇 분만 걸어 나가면 카르타헤나의 아름다운 문화를 체험할 수 있어요. 다양한 맛집과 쇼핑 장소도 가까워 여행의 즐거움을 배가시켜주죠. 저녁에는 로맨틱한 분위기의 레스토랑에서 맛있는 저녁 식사를 즐겨보세요. 아침부터 저녁까지 여행의 모든 순간이 특별해질 거예요. 이곳에서 보내는 모든 순간이 잊지 못할 추억으로 남을 거예요. 언제든지 다시 찾고 싶어질 그런 곳이랍니다.
+
+[Oz Hotel Luxury](https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 황홀한 휴식
+Estelar Cartagena de Indias Hotel y Centro de Convenciones
+    ![Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50)
+![Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/83785284.jpg?k=f974f4ca8b8a2cfb61c4051fccd80fb5ce315b1d8ccc7a7c0cc2ee9c76e01b42&s=50x50)
+
+카르타헤나의 매력적인 풍경을 배경으로 *Estelar Cartagena de Indias Hotel*은 유럽의 고전적인 아름다움과 현대적 편안함을 완벽히 조화시켰어요. 이 호텔은 도시의 중심부에 위치해 있어, 현지 명소들을 탐험하기에도 정말 편리해요. 객실은 넓고 아늑하며, 대부분의 객실에서는 아름다운 바다 전망을 즐길 수 있어요. *현대적이고 세련된 인테리어*는 머무는 동안 휴식을 더욱 즐겁게 만들어줍니다. 특히 호텔 내 레스토랑에서는 현지 및 국제 요리를 맛볼 수 있어, 식사 시간이 기다려질 거예요.
+
+호텔의 스파와 피트니스 센터는 여행의 피로를 풀기에 더할 나위 없이 좋습니다. 야외 수영장에서는 *탁 트인 바다 전망*을 즐기며 여유롭게 시간을 보낼 수 있어요. 컨벤션 센터와 여러 비즈니스 시설도 잘 갖추어져 있어, 비즈니스와 휴식을 동시에 누릴 수 있는 최적의 장소라고 할 수 있겠네요. *친절하고 전문적인 직원들*은 여러분의 모든 요청을 세심하게 돌봐줄 거예요. 연인, 가족, 비즈니스 여행객 모두에게 이상적인 이 호텔에서 잊지 못할 추억을 만들어보세요.
+
+[Estelar Cartagena de Indias Hotel y Centro de Convenciones](https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html)
+ 
+
+## 카르타헤나의 럭셔리 해변 휴식
+Hyatt Regency Cartagena
+    ![Hyatt Regency Cartagena_0_image](https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg)
+![Hyatt Regency Cartagena_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50)
+![Hyatt Regency Cartagena_2_image](https://pix8.agoda.net/hotelImages/4454064/0/d3c4d1a94eb323337a264db035ea2d5e.jpeg)
+
+콜롬비아의 보석인 *카르타헤나*에 위치한 이곳은 탁 트인 바다 전망과 함께 고급스러움을 더해주는 완벽한 휴양지예요. 호텔 내부는 현대적 감각을 살린 인테리어로 디자인되어 있어 도착하는 순간부터 특별함을 느끼게 해주죠. 여러 레스토랑에서 다양한 요리를 즐길 수 있고, 특히 호텔의 이탈리안 레스토랑은 별미 중의 별미예요. 뿐만 아니라 숙소 내부의 스파와 야외 수영장도 여행의 피로를 풀어주는 데 큰 도움이 될 거예요. 바닷가 바로 앞에 위치하고 있어 문을 열면 선사되는 아름다운 해변은 보너스랍니다.
+
+특히 이 호텔의 객실은 매우 깔끔하고 안락함을 자랑해요. 침대는 푹신하고 편안해서 하루의 피로를 가뿐히 잊게 해줄 거예요. 직원들은 항상 친절하고, 빠르고 효율적으로 서비스를 제공해줘요. 조식 또한 다양한 메뉴로 구성되어 있어 아침부터 든든하게 하루를 시작할 수 있어요. 주변에는 쇼핑 센터와 편리한 이동 수단이 있어 관광을 하기도 아주 편리해요. *카르타헤나*에서의 시간을 더욱 특별하게 만들어 줄 거예요.
+
+[Hyatt Regency Cartagena](https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나에서의 완벽한 힐링 여행
+Holiday Inn Express Cartagena Bocagrande
+    ![Holiday Inn Express Cartagena Bocagrande_0_image](https://pix8.agoda.net/hotelImages/703/703610/703610_14081909290021296746.jpg)
+![Holiday Inn Express Cartagena Bocagrande_1_image](https://pix8.agoda.net/property/33979335/604339788/da29a2a57c133879be2292463ad51aff.jpg)
+![Holiday Inn Express Cartagena Bocagrande_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/481640957.jpg?k=7c2fcce5af76b659968ea8210359e757f98460b88e3ecf600e0a45d695ebb136&s=50x50)
+
+카르타헤나에 오신 것을 환영해요! 이곳은 무한한 매력을 지닌 도시이며, *휴식을 취하는데 완벽한 장소*랍니다. 바쁜 일상 속에서 벗어나 고요한 해변과 멋진 도시 풍경을 감상해보세요. 특히 호텔은 현대적인 시설과 편안한 객실을 제공하며, 무엇보다도 고객 서비스가 우수해요. 게다가 공항과 주요 관광지와의 접근성이 좋아 더욱 편리하지요. **무료 조식**과 함께 하루를 시작하면서 맛있는 커피 한 잔은 어떠세요? 여기에, 호텔 내 레스토랑의 음식이 정말 맛있어서 고객들 사이에서 극찬을 받고 있어요. 라운지에서 음료를 마시며 저녁 해지는 풍경을 감상하는 것도 추천드려요. 피트니스 센터에서 운동을 하거나 수영장에서 여유로운 시간을 보내는 것도 잊지 말고 즐겨보세요.
+
+이 호텔은 특히 비즈니스 여행객들에게도 좋은 선택이랍니다. 무료 와이파이와 비즈니스 센터를 통해 원활한 업무 처리를 할 수 있어요. 주변의 다양한 레스토랑과 쇼핑몰이 있어서 일정이 끝난 뒤에도 즐길 거리가 많아요. 자, 이제 카르타헤나의 매력을 만끽하며 잊을 수 없는 추억을 만들어보세요. 매력적인 도시와 더불어 이 호텔이 당신의 여행을 더욱 특별하게 만들어 줄 거예요!
+
+[Holiday Inn Express Cartagena Bocagrande](https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html)
+ 
+
+## 카르타헤나의 평화로운 안식처
+Holiday Inn Cartagena Morros
+    ![Holiday Inn Cartagena Morros_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795603.jpg?k=663de6cba2f24a26eeda81f1c4db1812a1b74ecd8258827d32ea2ca0c6ca132a&s=450x450)
+![Holiday Inn Cartagena Morros_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/238795532.jpg?k=86c13feecd6305e40de53a50b89ddc6c95b916b394c7063e7485d6d29c742bdd&s=50x50)
+![Holiday Inn Cartagena Morros_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/265611431.jpg?k=95d89e57acc4c6cce56d7e66164b937c38efc73d1e0db773f939313cfe46f4e1&s=50x50)
+
+카르타헤나 해변 근처에 위치한 이 호텔은 휴양지로서의 매력을 한껏 뽐내고 있어요. 바다 전망을 바라보며 조용한 아침 시간을 보내거나, 호텔 외곽의 울창한 자연을 산책하며 휴식을 취할 수 있습니다. 기분 전환을 원하신다면 시내 중심가로 이동하여 역사적인 건축물과 다양한 상점들을 구경하실 수 있습니다. 호텔 내 시설들도 정말 다양해요. 수영장은 물론, 현대적이고 넓은 피트니스 센터도 갖추고 있어 즐거운 시간을 보낼 수 있습니다. 특히, 레스토랑에서는 현지 요리뿐만 아니라 국제적인 메뉴도 제공하여 모든 입맛을 만족시켜줍니다. 가족 단위 여행객들에게는 이곳의 키즈 클럽이 큰 인기랍니다. 편안한 휴식을 원하시거나 다양한 활동을 즐기고 싶다면, 이 호텔이 완벽한 선택일 거예요. 여러 숙박객들이 친절하고 효율적인 서비스에 대해 매우 만족해요. 친근하고 전문적인 직원들이 언제나 돕기 위해 대기 중이며, 청소와 관리가 철저해서 쾌적하게 머무를 수 있어요. 단순한 숙박을 넘어 카르타헤나에서의 멋진 경험을 만들어줄 이 호텔, 꼭 한번 방문해보세요.
+
+[Holiday Inn Cartagena Morros](https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html)
+ 
+
+
+## 결론
+
+카르타헤나에서 머물기에 완벽한 호텔들을 소개해드렸습니다. *Oz Hotel Luxury*는 편리한 접근성과 고급 서비스를 통해 완벽한 휴양지를 제공합니다. *Estelar Cartagena de Indias Hotel y Centro de Convenciones*는 세련된 분위기의 호텔로 카르타헤나의 중심에서 고급스러운 휴식을 취할 수 있습니다. *Hyatt Regency Cartagena*는 현대적이고 고급스러운 호텔로, 바다 전망과 다양한 시설을 자랑합니다. *Holiday Inn Express Cartagena Bocagrande*는 현대적인 시설과 편안한 객실에서 카르타헤나의 매력을 만끽할 수 있는 곳입니다. 마지막으로, *Holiday Inn Cartagena Morros*는 평화로운 휴식과 다양한 활동을 동시에 즐길 수 있는 호텔입니다. 이처럼 풍부한 매력을 지닌 호텔들에서 잊지 못할 여행을 즐기세요. 지금 바로 예약하고 꿈꾸던 여행을 현실로 만들어보세요.
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선"}],["$","data",null,{"children":"2024-06-15T08:02:21.470Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"남미"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"루프탑 수영장"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"관광"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"식사"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"도심"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"비즈니스"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"바다 전망"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"카르타헤나"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"편안한"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"무료 와이파이"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"레스토랑"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"활동"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"c6cf831c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 이번 여행에서 스페인의 낭만을 온몸으로 느끼고 싶다면 카르타헤나만 한 곳도 없어요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"청명한 바다"}],"와 아름다운 건축물이 어우러진 이 도시는 그야말로 예술과 휴양의 천국이랍니다. 그런데 여기서 중요한 것은 어디에 머물 것이냐겠죠? 바로 그 고민을 해결해드리기 위해 제가 여러분을 위해 특별히 준비한 ",["$","strong",null,{"className":"font-black","children":"카르타헤나 바다 전망 호텔 5선"}],"을 소개하려고 합니다. 이번 글에서 소개할 호텔들은 모두 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"탁 트인 바다 전망"}],"을 자랑하며, 최고의 서비스와 편안한 휴식을 보장하는 곳이에요. 준비되셨나요? 그럼 카르타헤나의 진정한 낭만을 만끽할 수 있는 호텔들을 함께 알아보아요!"]}],"\n",["$","h2",null,{"id":"fd47c78a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타 헤나의 아늑한 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Oz Hotel Luxury\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/280704851.jpg?k=498673b1a69514a66bd395ab2b62e96fe36e775a213075eca9ec21bd4cd653eb&s=450x450","alt":"Oz Hotel Luxury_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/348561636.jpg?k=87897c5e5515bd4fc0c3327b22444ab517d154d5844e235bf4ac539f0b41b355&s=50x50","alt":"Oz Hotel Luxury_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/280704856.jpg?k=f8aa59892a0294d9c53387aa5fe1765354179578b64eaccd0080fc4d9e9a0b77&s=50x50","alt":"Oz Hotel Luxury_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카르타헤나의 매력적인 해변과 도시가 조화를 이루는 곳, 바로 이 호텔이에요. 현대적인 인테리어와 함께 높은 천장과 넓은 공간이 여행의 설렘을 더해주죠. 객실의 편안함은 물론이고, 최상의 서비스를 제공하는 친절한 호텔 직원들이 있어 머무는 동안 내 집처럼 편안히 쉴 수 있어요. 이곳의 다양한 시설은 모든 연령대의 여행객에게 만족감을 줍니다. 루프탑 수영장에서 바라보는 석양은 정말 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"환상적"}],"이에요. 향긋한 커피를 즐기며 일상의 스트레스를 날려보세요. ",["$","strong",null,{"className":"font-black","children":"완벽한 휴양지"}],"를 찾는다면 더 이상 고민할 필요 없습니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 호텔의 또 다른 매력은 간편하게 접근할 수 있는 관광 명소들이라는 점이에요. 호텔에서 몇 분만 걸어 나가면 카르타헤나의 아름다운 문화를 체험할 수 있어요. 다양한 맛집과 쇼핑 장소도 가까워 여행의 즐거움을 배가시켜주죠. 저녁에는 로맨틱한 분위기의 레스토랑에서 맛있는 저녁 식사를 즐겨보세요. 아침부터 저녁까지 여행의 모든 순간이 특별해질 거예요. 이곳에서 보내는 모든 순간이 잊지 못할 추억으로 남을 거예요. 언제든지 다시 찾고 싶어질 그런 곳이랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/oz-hotel-luxury/hotel/all/cartagena-co.html"},"children":[{"type":"text","value":"Oz Hotel Luxury","position":{"start":{"line":20,"column":2,"offset":1479},"end":{"line":20,"column":17,"offset":1494}}}],"position":{"start":{"line":20,"column":1,"offset":1478},"end":{"line":20,"column":85,"offset":1562}}},"children":"Oz Hotel Luxury"},"post":{"id":"af9cbef1-f913-4240-91ca-e83c64a03afc","title":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","fileName":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","description":"undefined","date":"2024-06-15T08:02:21.470Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"루프탑 수영장","path":"$$/kr/tags/루프탑-수영장","id":"루프탑-수영장"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"무료 와이파이","path":"$$/kr/tags/무료-와이파이","id":"무료-와이파이"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","content":"$d","category":"articles","readMin":"8.5"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"cc653633","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나에서의 황홀한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Estelar Cartagena de Indias Hotel y Centro de Convenciones\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/487645706.jpg?k=69a39b609727122eeedf82711f3de9b1a29fe5cd627a76bdd71cfb7009f744c8&s=450x450","alt":"Estelar Cartagena de Indias Hotel y Centro de Convenciones_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/260327261.jpg?k=83554de622d51d98c036f6d72fbfba409e1aa234437ce323156d5e16de5b4c10&s=50x50","alt":"Estelar Cartagena de Indias Hotel y Centro de Convenciones_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/83785284.jpg?k=f974f4ca8b8a2cfb61c4051fccd80fb5ce315b1d8ccc7a7c0cc2ee9c76e01b42&s=50x50","alt":"Estelar Cartagena de Indias Hotel y Centro de Convenciones_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카르타헤나의 매력적인 풍경을 배경으로 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Estelar Cartagena de Indias Hotel"}],"은 유럽의 고전적인 아름다움과 현대적 편안함을 완벽히 조화시켰어요. 이 호텔은 도시의 중심부에 위치해 있어, 현지 명소들을 탐험하기에도 정말 편리해요. 객실은 넓고 아늑하며, 대부분의 객실에서는 아름다운 바다 전망을 즐길 수 있어요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"현대적이고 세련된 인테리어"}],"는 머무는 동안 휴식을 더욱 즐겁게 만들어줍니다. 특히 호텔 내 레스토랑에서는 현지 및 국제 요리를 맛볼 수 있어, 식사 시간이 기다려질 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["호텔의 스파와 피트니스 센터는 여행의 피로를 풀기에 더할 나위 없이 좋습니다. 야외 수영장에서는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"탁 트인 바다 전망"}],"을 즐기며 여유롭게 시간을 보낼 수 있어요. 컨벤션 센터와 여러 비즈니스 시설도 잘 갖추어져 있어, 비즈니스와 휴식을 동시에 누릴 수 있는 최적의 장소라고 할 수 있겠네요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"친절하고 전문적인 직원들"}],"은 여러분의 모든 요청을 세심하게 돌봐줄 거예요. 연인, 가족, 비즈니스 여행객 모두에게 이상적인 이 호텔에서 잊지 못할 추억을 만들어보세요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones/hotel/all/cartagena-co.html"},"children":[{"type":"text","value":"Estelar Cartagena de Indias Hotel y Centro de Convenciones","position":{"start":{"line":33,"column":2,"offset":2829},"end":{"line":33,"column":60,"offset":2887}}}],"position":{"start":{"line":33,"column":1,"offset":2828},"end":{"line":33,"column":171,"offset":2998}}},"children":"Estelar Cartagena de Indias Hotel y Centro de Convenciones"},"post":{"id":"af9cbef1-f913-4240-91ca-e83c64a03afc","title":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","fileName":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","description":"undefined","date":"2024-06-15T08:02:21.470Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"루프탑 수영장","path":"$$/kr/tags/루프탑-수영장","id":"루프탑-수영장"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"무료 와이파이","path":"$$/kr/tags/무료-와이파이","id":"무료-와이파이"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","content":"$e","category":"articles","readMin":"8.5"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"be25100a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나의 럭셔리 해변 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hyatt Regency Cartagena\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4454064/0/e6058aee195dd134144f91d31bb8f8ef.jpeg","alt":"Hyatt Regency Cartagena_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/188141847.jpg?k=2f4570aa0dd0555a7bc0c0f63b6eda004872c6909d5a86831dab7be6e26221d9&s=50x50","alt":"Hyatt Regency Cartagena_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4454064/0/d3c4d1a94eb323337a264db035ea2d5e.jpeg","alt":"Hyatt Regency Cartagena_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["콜롬비아의 보석인 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"카르타헤나"}],"에 위치한 이곳은 탁 트인 바다 전망과 함께 고급스러움을 더해주는 완벽한 휴양지예요. 호텔 내부는 현대적 감각을 살린 인테리어로 디자인되어 있어 도착하는 순간부터 특별함을 느끼게 해주죠. 여러 레스토랑에서 다양한 요리를 즐길 수 있고, 특히 호텔의 이탈리안 레스토랑은 별미 중의 별미예요. 뿐만 아니라 숙소 내부의 스파와 야외 수영장도 여행의 피로를 풀어주는 데 큰 도움이 될 거예요. 바닷가 바로 앞에 위치하고 있어 문을 열면 선사되는 아름다운 해변은 보너스랍니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["특히 이 호텔의 객실은 매우 깔끔하고 안락함을 자랑해요. 침대는 푹신하고 편안해서 하루의 피로를 가뿐히 잊게 해줄 거예요. 직원들은 항상 친절하고, 빠르고 효율적으로 서비스를 제공해줘요. 조식 또한 다양한 메뉴로 구성되어 있어 아침부터 든든하게 하루를 시작할 수 있어요. 주변에는 쇼핑 센터와 편리한 이동 수단이 있어 관광을 하기도 아주 편리해요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"카르타헤나"}],"에서의 시간을 더욱 특별하게 만들어 줄 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/hyatt-regency-cartagena_9/hotel/cartagena-co.html"},"children":[{"type":"text","value":"Hyatt Regency Cartagena","position":{"start":{"line":46,"column":2,"offset":3976},"end":{"line":46,"column":25,"offset":3999}}}],"position":{"start":{"line":46,"column":1,"offset":3975},"end":{"line":46,"column":99,"offset":4073}}},"children":"Hyatt Regency Cartagena"},"post":{"id":"af9cbef1-f913-4240-91ca-e83c64a03afc","title":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","fileName":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","description":"undefined","date":"2024-06-15T08:02:21.470Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"루프탑 수영장","path":"$$/kr/tags/루프탑-수영장","id":"루프탑-수영장"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"무료 와이파이","path":"$$/kr/tags/무료-와이파이","id":"무료-와이파이"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","content":"$f","category":"articles","readMin":"8.5"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"4eaf2ecb","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나에서의 완벽한 힐링 여행"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Holiday Inn Express Cartagena Bocagrande\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/703/703610/703610_14081909290021296746.jpg","alt":"Holiday Inn Express Cartagena Bocagrande_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/33979335/604339788/da29a2a57c133879be2292463ad51aff.jpg","alt":"Holiday Inn Express Cartagena Bocagrande_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/481640957.jpg?k=7c2fcce5af76b659968ea8210359e757f98460b88e3ecf600e0a45d695ebb136&s=50x50","alt":"Holiday Inn Express Cartagena Bocagrande_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카르타헤나에 오신 것을 환영해요! 이곳은 무한한 매력을 지닌 도시이며, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"휴식을 취하는데 완벽한 장소"}],"랍니다. 바쁜 일상 속에서 벗어나 고요한 해변과 멋진 도시 풍경을 감상해보세요. 특히 호텔은 현대적인 시설과 편안한 객실을 제공하며, 무엇보다도 고객 서비스가 우수해요. 게다가 공항과 주요 관광지와의 접근성이 좋아 더욱 편리하지요. ",["$","strong",null,{"className":"font-black","children":"무료 조식"}],"과 함께 하루를 시작하면서 맛있는 커피 한 잔은 어떠세요? 여기에, 호텔 내 레스토랑의 음식이 정말 맛있어서 고객들 사이에서 극찬을 받고 있어요. 라운지에서 음료를 마시며 저녁 해지는 풍경을 감상하는 것도 추천드려요. 피트니스 센터에서 운동을 하거나 수영장에서 여유로운 시간을 보내는 것도 잊지 말고 즐겨보세요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 호텔은 특히 비즈니스 여행객들에게도 좋은 선택이랍니다. 무료 와이파이와 비즈니스 센터를 통해 원활한 업무 처리를 할 수 있어요. 주변의 다양한 레스토랑과 쇼핑몰이 있어서 일정이 끝난 뒤에도 즐길 거리가 많아요. 자, 이제 카르타헤나의 매력을 만끽하며 잊을 수 없는 추억을 만들어보세요. 매력적인 도시와 더불어 이 호텔이 당신의 여행을 더욱 특별하게 만들어 줄 거예요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/holiday-inn-express-cartagena-bocagrande/hotel/cartagena-co.html"},"children":[{"type":"text","value":"Holiday Inn Express Cartagena Bocagrande","position":{"start":{"line":59,"column":2,"offset":5192},"end":{"line":59,"column":42,"offset":5232}}}],"position":{"start":{"line":59,"column":1,"offset":5191},"end":{"line":59,"column":131,"offset":5321}}},"children":"Holiday Inn Express Cartagena Bocagrande"},"post":{"id":"af9cbef1-f913-4240-91ca-e83c64a03afc","title":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","fileName":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","description":"undefined","date":"2024-06-15T08:02:21.470Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"루프탑 수영장","path":"$$/kr/tags/루프탑-수영장","id":"루프탑-수영장"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"무료 와이파이","path":"$$/kr/tags/무료-와이파이","id":"무료-와이파이"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","content":"$10","category":"articles","readMin":"8.5"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"f982d9c8","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카르타헤나의 평화로운 안식처"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Holiday Inn Cartagena Morros\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/238795603.jpg?k=663de6cba2f24a26eeda81f1c4db1812a1b74ecd8258827d32ea2ca0c6ca132a&s=450x450","alt":"Holiday Inn Cartagena Morros_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/238795532.jpg?k=86c13feecd6305e40de53a50b89ddc6c95b916b394c7063e7485d6d29c742bdd&s=50x50","alt":"Holiday Inn Cartagena Morros_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/265611431.jpg?k=95d89e57acc4c6cce56d7e66164b937c38efc73d1e0db773f939313cfe46f4e1&s=50x50","alt":"Holiday Inn Cartagena Morros_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"카르타헤나 해변 근처에 위치한 이 호텔은 휴양지로서의 매력을 한껏 뽐내고 있어요. 바다 전망을 바라보며 조용한 아침 시간을 보내거나, 호텔 외곽의 울창한 자연을 산책하며 휴식을 취할 수 있습니다. 기분 전환을 원하신다면 시내 중심가로 이동하여 역사적인 건축물과 다양한 상점들을 구경하실 수 있습니다. 호텔 내 시설들도 정말 다양해요. 수영장은 물론, 현대적이고 넓은 피트니스 센터도 갖추고 있어 즐거운 시간을 보낼 수 있습니다. 특히, 레스토랑에서는 현지 요리뿐만 아니라 국제적인 메뉴도 제공하여 모든 입맛을 만족시켜줍니다. 가족 단위 여행객들에게는 이곳의 키즈 클럽이 큰 인기랍니다. 편안한 휴식을 원하시거나 다양한 활동을 즐기고 싶다면, 이 호텔이 완벽한 선택일 거예요. 여러 숙박객들이 친절하고 효율적인 서비스에 대해 매우 만족해요. 친근하고 전문적인 직원들이 언제나 돕기 위해 대기 중이며, 청소와 관리가 철저해서 쾌적하게 머무를 수 있어요. 단순한 숙박을 넘어 카르타헤나에서의 멋진 경험을 만들어줄 이 호텔, 꼭 한번 방문해보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/holiday-inn-cartagena-morros/hotel/cartagena-co.html"},"children":[{"type":"text","value":"Holiday Inn Cartagena Morros","position":{"start":{"line":70,"column":2,"offset":6452},"end":{"line":70,"column":30,"offset":6480}}}],"position":{"start":{"line":70,"column":1,"offset":6451},"end":{"line":70,"column":107,"offset":6557}}},"children":"Holiday Inn Cartagena Morros"},"post":{"id":"af9cbef1-f913-4240-91ca-e83c64a03afc","title":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","fileName":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","description":"undefined","date":"2024-06-15T08:02:21.470Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"루프탑 수영장","path":"$$/kr/tags/루프탑-수영장","id":"루프탑-수영장"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"카르타헤나","path":"$$/kr/tags/카르타헤나","id":"카르타헤나"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"무료 와이파이","path":"$$/kr/tags/무료-와이파이","id":"무료-와이파이"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"활동","path":"$$/kr/tags/활동","id":"활동"}],"banner":"/images/10838-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"카르타헤나-바다-전망-리얼-낭만을-만끽하는-호텔-5선-af9cbef1","content":"$11","category":"articles","readMin":"8.5"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카르타헤나에서 머물기에 완벽한 호텔들을 소개해드렸습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Oz Hotel Luxury"}],"는 편리한 접근성과 고급 서비스를 통해 완벽한 휴양지를 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Estelar Cartagena de Indias Hotel y Centro de Convenciones"}],"는 세련된 분위기의 호텔로 카르타헤나의 중심에서 고급스러운 휴식을 취할 수 있습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Hyatt Regency Cartagena"}],"는 현대적이고 고급스러운 호텔로, 바다 전망과 다양한 시설을 자랑합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Holiday Inn Express Cartagena Bocagrande"}],"는 현대적인 시설과 편안한 객실에서 카르타헤나의 매력을 만끽할 수 있는 곳입니다. 마지막으로, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Holiday Inn Cartagena Morros"}],"는 평화로운 휴식과 다양한 활동을 동시에 즐길 수 있는 호텔입니다. 이처럼 풍부한 매력을 지닌 호텔들에서 잊지 못할 여행을 즐기세요. 지금 바로 예약하고 꿈꾸던 여행을 현실로 만들어보세요."]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","toc":[{"tagName":"h2","title":"카르타헤나 바다 전망, 리얼 낭만을 만끽하는 호텔 5선","id":"c6cf831c"},{"tagName":"h2","title":"카르타 헤나의 아늑한 휴양지","id":"fd47c78a"},{"tagName":"h2","title":"카르타헤나에서의 황홀한 휴식","id":"cc653633"},{"tagName":"h2","title":"카르타헤나의 럭셔리 해변 휴식","id":"be25100a"},{"tagName":"h2","title":"카르타헤나에서의 완벽한 힐링 여행","id":"4eaf2ecb"},{"tagName":"h2","title":"카르타헤나의 평화로운 안식처","id":"f982d9c8"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

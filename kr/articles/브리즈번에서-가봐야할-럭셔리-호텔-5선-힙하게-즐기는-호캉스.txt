@@ -1,0 +1,389 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EB%B8%8C%EB%A6%AC%EC%A6%88%EB%B2%88%EC%97%90%EC%84%9C-%EA%B0%80%EB%B4%90%EC%95%BC%ED%95%A0-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0-%ED%9E%99%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%EC%BA%89%EC%8A%A4","d"],{"children":["__PAGE__?{\"slug\":\"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EB%B8%8C%EB%A6%AC%EC%A6%88%EB%B2%88%EC%97%90%EC%84%9C-%EA%B0%80%EB%B4%90%EC%95%BC%ED%95%A0-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0-%ED%9E%99%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%EC%BA%89%EC%8A%A4","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스\"}"},"styles":[]}],"segment":["slug","%EB%B8%8C%EB%A6%AC%EC%A6%88%EB%B2%88%EC%97%90%EC%84%9C-%EA%B0%80%EB%B4%90%EC%95%BC%ED%95%A0-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0-%ED%9E%99%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%EC%BA%89%EC%8A%A4","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요."}],["$","meta","3",{"name":"keywords","content":"태평양 지역 및 호주,호주,럭셔리,가족,수영장,전망,편의시설,전망 좋은 호텔,편안함,모던,도심,편리,휴식,관광,브리즈번,레저,소풍,활기,미식가,강변,레스토랑,카지노,산책,쇼핑"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EB%B8%8C%EB%A6%AC%EC%A6%88%EB%B2%88%EC%97%90%EC%84%9C-%EA%B0%80%EB%B4%90%EC%95%BC%ED%95%A0-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0-%ED%9E%99%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%EC%BA%89%EC%8A%A4"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EB%B8%8C%EB%A6%AC%EC%A6%88%EB%B2%88%EC%97%90%EC%84%9C-%EA%B0%80%EB%B4%90%EC%95%BC%ED%95%A0-%EB%9F%AD%EC%85%94%EB%A6%AC-%ED%98%B8%ED%85%94-5%EC%84%A0-%ED%9E%99%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%EC%BA%89%EC%8A%A4"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/9466-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/9466-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T29ea,
+    
+
+
+## 브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 호주 브리즈번에서 꼭 한번쯤은 묵어봐야 할 럭셔리 호텔 5곳을 소개해드릴까 해요. 호텔에서의 휴식, 이른바 '호캉스'를 즐기기 위해서는 호텔의 고급스러운 시설과 힙한 분위기가 필수겠지요? 편안한 객실과 함께 **최고급 스파**, **멋진 뷰** 그리고 톡톡 튀는 **힙한 디자인**까지! 이런 모든 요소를 완벽하게 갖춘 호텔들이 브리즈번에 위치해 있다는 사실, 알고 계셨나요? 오늘 소개할 다섯 호텔은 브리즈번 여행 중 힐링과 재미를 동시에 느끼고 싶은 분들께 강력 추천합니다. 그럼 바로 시작해볼까요?
+
+
+## 하늘 아래 완벽한 휴식
+Brisbane Skytower by CLLIX
+    ![Brisbane Skytower by CLLIX_0_image](https://pix8.agoda.net/hotelImages/241/2418872/2418872_17101111300057639824.jpg)
+![Brisbane Skytower by CLLIX_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/173673997.jpg?k=d30c4538eb39ff3e94771a0e73149130ea961e71fa1f720f2eb3905d5e308fb4&s=50x50)
+![Brisbane Skytower by CLLIX_2_image](https://pix8.agoda.net/hotelImages/2418872/-1/05e5fa9bf1f54e95758a4f2b880922b3.jpg)
+
+브리즈번의 새로운 랜드마크, Skytower에서의 여행은 어떠신가요? 이곳은 90층 이상의 높은 고층 건물로 브리즈번의 멋진 전경을 한 눈에 담을 수 있어요. 객실은 현대적이고 세련된 인테리어로 꾸며져 있으며, 모든 편의시설이 완비되어 있어요. *무료 Wi-Fi*, *훌륭한 수영장*과 *헬스장* 등도 이용할 수 있답니다. 어디에서나 탁 트인 브리즈번의 경관을 즐길 수 있어, 매 순간이 특별한 경험이 될 거예요. 긴 여행의 여독을 풀기에는 최적의 장소랍니다. 특히 가족 단위 여행객들에게 추천드리고 싶어요. 돌봄 서비스가 잘 갖춰져 있어 아이들과 함께하는 여행도 걱정 없답니다. 식사 또한 다양하게 즐길 수 있어, 지루하지 않아요. 맛집 탐방을 좋아하신다면 주변에서도 다양한 레스토랑을 찾아보실 수 있습니다. 한 마디로, Skytower는 여행객들에게 필요한 모든 것을 제공해주는 종합 선물세트 같은 곳이에요. 브리즈번에서의 특별한 추억, Skytower에서 만들어보세요.
+
+[Brisbane Skytower by CLLIX](https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html)
+ 
+
+## 브리즈번의 숨은 보석을 발견하다
+엠포리움 사우스 뱅크 (Emporium South Bank)
+    ![엠포리움 사우스 뱅크 (Emporium South Bank)_0_image](https://pix8.agoda.net/hotelImages/4960395/-1/17cfd1076e518162375fcdbfee3f4718.jpg)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/483851800.jpg?k=8d13e5f155a83b75edf5f7a30e6d0f4e392e2f233e4ad96ca48c5fbc090a74d5&s=50x50)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_2_image](https://pix8.agoda.net/hotelImages/4960395/-1/ca87550475fb4ff33cbe63035e7ea791.jpg)
+
+브리즈번의 중심부에 위치한 이 호텔은 편안함과 현대적인 시설을 자랑해요. 각 객실은 널찍하고 깔끔하게 꾸며져 있으며, 최신형 침대와 고급 리넨을 갖추고 있어 편안한 휴식을 보장해요. 또한 호텔 전역에서 이용 가능한 무료 Wi-Fi도 준비되어 있어요. 유희를 위한 다양한 실내외 시설도 갖추고 있어, 여행 중에도 즐거움을 만끽할 수 있어요. 고급스러운 인테리어와 세심한 서비스가 여러분을 기다리고 있답니다. 
+
+브리즈번 특유의 활기찬 분위기를 느낄 수 있는 다양한 레스토랑과 카페들이 호텔 주변에 위치해 손쉽게 접근할 수 있어요. 피곤한 하루를 마무리한 뒤, 호텔의 루프탑 풀에서 도심의 야경을 감상하며 리프레쉬를 해보세요. 또한, 브리즈번의 주요 관광 명소까지 도보로 이동이 가능해요. 이곳에서 체류하는 동안 호주의 아름다움과 매력을 온전히 느낄 수 있을 거예요. 여행의 피로는 싹 사라지고, 잊을 수 없는 추억을 만들게 될 거예요. 
+
+[엠포리움 사우스 뱅크 (Emporium South Bank)](https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html)
+ 
+
+## 브리즈번 도심 속 휴식의 천국
+메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
+    ![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_0_image](https://pix8.agoda.net/hotelImages/8707173/-1/249e4814a1512ccaedf53b62ac6a347c.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_1_image](https://pix8.agoda.net/hotelImages/8707173/-1/20111cc43fdccdf2a8fc1f47294fe5b6.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_2_image](https://pix8.agoda.net/hotelImages/8707173/-1/a1d3887f6074254a2213b5ac38180ed1.jpg)
+
+브리즈번의 중심지에서 당신을 기다리는 *잊지 못할 경험*, 바로 **메리튼 스위트 허셀 스트리트**입니다. 이 호텔은 넓고 고급스러운 스위트룸을 자랑하며, 탁 트인 도시 전망과 함께 고객님을 맞이해드려요. 지친 하루의 끝, 여유롭게 휴식을 취할 수 있는 한적한 장소를 찾고 있다면 이곳이 바로 그곳이에요. 편안한 침대와 현대적인 인테리어, 그리고 세심한 서비스가 여행의 피로를 풀어줄 거예요.
+
+메리튼 스위트 허셀 스트리트는 **완벽한 위치** 덕분에 브리즈번의 주요 관광지를 손쉽게 방문할 수 있습니다. 주변에는 쇼핑센터, 레스토랑, 카페들이 자리잡고 있어 다양한 미식과 쇼핑을 한 자리에서 즐길 수 있어요. 또한, 호텔 내 레저 시설인 실내 수영장과 스파에서 몸과 마음을 재충전하는 시간도 가져보세요. 여행을 떠나기 전, 꼭 이곳에서 특별한 추억을 만들어보세요!
+
+[메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)](https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html)
+ 
+
+## 강변에서의 특별한 휴식
+스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)
+    ![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_0_image](https://pix8.agoda.net/hotelImages/78753/0/c5ffc93fc532939b0ae19962ce3bef01.jpg)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/500341887.jpg?k=e2b06cb4be7e792da80ccd5f1483f99d3170192571ac9cf1a7869539eafe01e9&s=50x50)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_2_image](https://pix8.agoda.net/hotelImages/78753/0/d93fa5cc2d3fe2ad911b5b9fcb0adf79.jpg)
+
+브리즈번의 중심에 위치한 이 호텔은 방문객에게 도시의 활기와 자연의 평온함을 동시에 제공합니다. 특히 강변의 멋진 전망은 아침을 더욱 특별하게 만들어 주죠. 여기서는 현대적인 편의 시설과 고풍스러운 장식이 조화를 이루고 있어, 오래된 친구 같은 따뜻한 분위기를 느낄 수 있어요. 여러분은 마치 집에 온 것처럼 편안함을 느끼실 거예요. 호텔 내의 레스토랑은 지역의 신선한 재료를 사용한 다양한 요리를 제공하므로, 미식가들에게는 천국과도 같습니다. 그 외에도 다양한 편의 시설과 서비스를 이용할 수 있어, 어느 하나 부족함이 없어요. 여행의 피로를 풀어주는 스파와 피트니스 센터는 정말 추천드리고 싶어요. **가족**과 함께하는 여행이든, **로맨틱**한 **커플** 여행이든 모두에게 완벽한 선택이 될 것입니다. 여러분의 기대를 뛰어넘는 경험을 보장합니다.
+
+[스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)](https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html)
+ 
+
+## 럭셔리와 편안함이 공존하는 곳
+트레저리 브리즈번 (Treasury Brisbane)
+    ![트레저리 브리즈번 (Treasury Brisbane)_0_image](https://pix8.agoda.net/hotelImages/931443/0/9fc1b35c48bd28f3fae426e4c1483e93.jpg)
+![트레저리 브리즈번 (Treasury Brisbane)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/60770636.jpg?k=83613a039fed6bcabd806ee13e91fc4a79533ad6aa0e93389dbe13227d806c74&s=50x50)
+![트레저리 브리즈번 (Treasury Brisbane)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/106468545.jpg?k=dd12f3e654c044e4fa95fb45294f5b48d25a975f229809e0b7bb324203e912c3&s=50x50)
+
+브리즈번의 중심지에 위치한 이 호텔은 현대적인 편의시설과 고급스러운 분위기를 자랑해요. 최고급 침구와 편안한 객실 덕분에 묵는 동안 편안한 휴식을 취할 수 있을 거예요. 특히, 다양한 레스토랑과 바가 있어 다양한 미식을 즐길 수 있다는 점이 큰 장점이에요. 또한, 호텔 내 카지노에서 특별한 경험을 해볼 수도 있어요. 시설 내 모든 것이 깔끔하게 관리되어 있어 고객의 만족도가 높습니다. 
+
+호텔 주변에는 걸어서 이동할 수 있는 다양한 관광 명소가 많아요. 브리즈번의 대표적인 랜드마크인 사우스 뱅크 파크랜드도 가까워서 여유로운 산책을 즐기기 좋습니다. 또한, 친절한 직원들이 제공하는 세심한 서비스 덕분에 더 편안하게 지낼 수 있답니다. 쇼핑, 문화 생활, 레저 활동 모두 이 호텔에서 편하게 누려보세요. 이곳에서는 일상에서 벗어나 진정한 휴식을 느낄 수 있습니다.
+
+[트레저리 브리즈번 (Treasury Brisbane)](https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html)
+ 
+
+
+## 결론
+
+브리즈번에서의 완벽한 숙박을 원한다면 다양한 선택지가 있습니다. *Brisbane Skytower by CLLIX*는 멋진 전경 뷰와 함께 완벽한 휴식을 제공합니다. *엠포리움 사우스 뱅크*는 현대적 시설과 편리한 위치에서 최고의 럭셔리를 경험할 수 있으며, *메리톤 스위트 허쉘 스트리트*는 브리즈번 중심에서 고급스러운 휴식 공간을 제공합니다. *스탬포드 프라자 브리즈번 호텔*은 브리즈번 강변의 멋진 전망과 다양한 편의 시설을 갖춘 완벽한 휴양지로, *트레저리 브리즈번*은 중심지에서 다양한 편의시설과 레스토랑을 즐길 수 있는 고급 호텔입니다. 이처럼 브리즈번에서의 특별한 경험을 원하신다면 지금 *예약을 서두르세요!*
+
+e:T29ea,
+    
+
+
+## 브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 호주 브리즈번에서 꼭 한번쯤은 묵어봐야 할 럭셔리 호텔 5곳을 소개해드릴까 해요. 호텔에서의 휴식, 이른바 '호캉스'를 즐기기 위해서는 호텔의 고급스러운 시설과 힙한 분위기가 필수겠지요? 편안한 객실과 함께 **최고급 스파**, **멋진 뷰** 그리고 톡톡 튀는 **힙한 디자인**까지! 이런 모든 요소를 완벽하게 갖춘 호텔들이 브리즈번에 위치해 있다는 사실, 알고 계셨나요? 오늘 소개할 다섯 호텔은 브리즈번 여행 중 힐링과 재미를 동시에 느끼고 싶은 분들께 강력 추천합니다. 그럼 바로 시작해볼까요?
+
+
+## 하늘 아래 완벽한 휴식
+Brisbane Skytower by CLLIX
+    ![Brisbane Skytower by CLLIX_0_image](https://pix8.agoda.net/hotelImages/241/2418872/2418872_17101111300057639824.jpg)
+![Brisbane Skytower by CLLIX_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/173673997.jpg?k=d30c4538eb39ff3e94771a0e73149130ea961e71fa1f720f2eb3905d5e308fb4&s=50x50)
+![Brisbane Skytower by CLLIX_2_image](https://pix8.agoda.net/hotelImages/2418872/-1/05e5fa9bf1f54e95758a4f2b880922b3.jpg)
+
+브리즈번의 새로운 랜드마크, Skytower에서의 여행은 어떠신가요? 이곳은 90층 이상의 높은 고층 건물로 브리즈번의 멋진 전경을 한 눈에 담을 수 있어요. 객실은 현대적이고 세련된 인테리어로 꾸며져 있으며, 모든 편의시설이 완비되어 있어요. *무료 Wi-Fi*, *훌륭한 수영장*과 *헬스장* 등도 이용할 수 있답니다. 어디에서나 탁 트인 브리즈번의 경관을 즐길 수 있어, 매 순간이 특별한 경험이 될 거예요. 긴 여행의 여독을 풀기에는 최적의 장소랍니다. 특히 가족 단위 여행객들에게 추천드리고 싶어요. 돌봄 서비스가 잘 갖춰져 있어 아이들과 함께하는 여행도 걱정 없답니다. 식사 또한 다양하게 즐길 수 있어, 지루하지 않아요. 맛집 탐방을 좋아하신다면 주변에서도 다양한 레스토랑을 찾아보실 수 있습니다. 한 마디로, Skytower는 여행객들에게 필요한 모든 것을 제공해주는 종합 선물세트 같은 곳이에요. 브리즈번에서의 특별한 추억, Skytower에서 만들어보세요.
+
+[Brisbane Skytower by CLLIX](https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html)
+ 
+
+## 브리즈번의 숨은 보석을 발견하다
+엠포리움 사우스 뱅크 (Emporium South Bank)
+    ![엠포리움 사우스 뱅크 (Emporium South Bank)_0_image](https://pix8.agoda.net/hotelImages/4960395/-1/17cfd1076e518162375fcdbfee3f4718.jpg)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/483851800.jpg?k=8d13e5f155a83b75edf5f7a30e6d0f4e392e2f233e4ad96ca48c5fbc090a74d5&s=50x50)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_2_image](https://pix8.agoda.net/hotelImages/4960395/-1/ca87550475fb4ff33cbe63035e7ea791.jpg)
+
+브리즈번의 중심부에 위치한 이 호텔은 편안함과 현대적인 시설을 자랑해요. 각 객실은 널찍하고 깔끔하게 꾸며져 있으며, 최신형 침대와 고급 리넨을 갖추고 있어 편안한 휴식을 보장해요. 또한 호텔 전역에서 이용 가능한 무료 Wi-Fi도 준비되어 있어요. 유희를 위한 다양한 실내외 시설도 갖추고 있어, 여행 중에도 즐거움을 만끽할 수 있어요. 고급스러운 인테리어와 세심한 서비스가 여러분을 기다리고 있답니다. 
+
+브리즈번 특유의 활기찬 분위기를 느낄 수 있는 다양한 레스토랑과 카페들이 호텔 주변에 위치해 손쉽게 접근할 수 있어요. 피곤한 하루를 마무리한 뒤, 호텔의 루프탑 풀에서 도심의 야경을 감상하며 리프레쉬를 해보세요. 또한, 브리즈번의 주요 관광 명소까지 도보로 이동이 가능해요. 이곳에서 체류하는 동안 호주의 아름다움과 매력을 온전히 느낄 수 있을 거예요. 여행의 피로는 싹 사라지고, 잊을 수 없는 추억을 만들게 될 거예요. 
+
+[엠포리움 사우스 뱅크 (Emporium South Bank)](https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html)
+ 
+
+## 브리즈번 도심 속 휴식의 천국
+메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
+    ![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_0_image](https://pix8.agoda.net/hotelImages/8707173/-1/249e4814a1512ccaedf53b62ac6a347c.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_1_image](https://pix8.agoda.net/hotelImages/8707173/-1/20111cc43fdccdf2a8fc1f47294fe5b6.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_2_image](https://pix8.agoda.net/hotelImages/8707173/-1/a1d3887f6074254a2213b5ac38180ed1.jpg)
+
+브리즈번의 중심지에서 당신을 기다리는 *잊지 못할 경험*, 바로 **메리튼 스위트 허셀 스트리트**입니다. 이 호텔은 넓고 고급스러운 스위트룸을 자랑하며, 탁 트인 도시 전망과 함께 고객님을 맞이해드려요. 지친 하루의 끝, 여유롭게 휴식을 취할 수 있는 한적한 장소를 찾고 있다면 이곳이 바로 그곳이에요. 편안한 침대와 현대적인 인테리어, 그리고 세심한 서비스가 여행의 피로를 풀어줄 거예요.
+
+메리튼 스위트 허셀 스트리트는 **완벽한 위치** 덕분에 브리즈번의 주요 관광지를 손쉽게 방문할 수 있습니다. 주변에는 쇼핑센터, 레스토랑, 카페들이 자리잡고 있어 다양한 미식과 쇼핑을 한 자리에서 즐길 수 있어요. 또한, 호텔 내 레저 시설인 실내 수영장과 스파에서 몸과 마음을 재충전하는 시간도 가져보세요. 여행을 떠나기 전, 꼭 이곳에서 특별한 추억을 만들어보세요!
+
+[메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)](https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html)
+ 
+
+## 강변에서의 특별한 휴식
+스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)
+    ![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_0_image](https://pix8.agoda.net/hotelImages/78753/0/c5ffc93fc532939b0ae19962ce3bef01.jpg)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/500341887.jpg?k=e2b06cb4be7e792da80ccd5f1483f99d3170192571ac9cf1a7869539eafe01e9&s=50x50)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_2_image](https://pix8.agoda.net/hotelImages/78753/0/d93fa5cc2d3fe2ad911b5b9fcb0adf79.jpg)
+
+브리즈번의 중심에 위치한 이 호텔은 방문객에게 도시의 활기와 자연의 평온함을 동시에 제공합니다. 특히 강변의 멋진 전망은 아침을 더욱 특별하게 만들어 주죠. 여기서는 현대적인 편의 시설과 고풍스러운 장식이 조화를 이루고 있어, 오래된 친구 같은 따뜻한 분위기를 느낄 수 있어요. 여러분은 마치 집에 온 것처럼 편안함을 느끼실 거예요. 호텔 내의 레스토랑은 지역의 신선한 재료를 사용한 다양한 요리를 제공하므로, 미식가들에게는 천국과도 같습니다. 그 외에도 다양한 편의 시설과 서비스를 이용할 수 있어, 어느 하나 부족함이 없어요. 여행의 피로를 풀어주는 스파와 피트니스 센터는 정말 추천드리고 싶어요. **가족**과 함께하는 여행이든, **로맨틱**한 **커플** 여행이든 모두에게 완벽한 선택이 될 것입니다. 여러분의 기대를 뛰어넘는 경험을 보장합니다.
+
+[스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)](https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html)
+ 
+
+## 럭셔리와 편안함이 공존하는 곳
+트레저리 브리즈번 (Treasury Brisbane)
+    ![트레저리 브리즈번 (Treasury Brisbane)_0_image](https://pix8.agoda.net/hotelImages/931443/0/9fc1b35c48bd28f3fae426e4c1483e93.jpg)
+![트레저리 브리즈번 (Treasury Brisbane)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/60770636.jpg?k=83613a039fed6bcabd806ee13e91fc4a79533ad6aa0e93389dbe13227d806c74&s=50x50)
+![트레저리 브리즈번 (Treasury Brisbane)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/106468545.jpg?k=dd12f3e654c044e4fa95fb45294f5b48d25a975f229809e0b7bb324203e912c3&s=50x50)
+
+브리즈번의 중심지에 위치한 이 호텔은 현대적인 편의시설과 고급스러운 분위기를 자랑해요. 최고급 침구와 편안한 객실 덕분에 묵는 동안 편안한 휴식을 취할 수 있을 거예요. 특히, 다양한 레스토랑과 바가 있어 다양한 미식을 즐길 수 있다는 점이 큰 장점이에요. 또한, 호텔 내 카지노에서 특별한 경험을 해볼 수도 있어요. 시설 내 모든 것이 깔끔하게 관리되어 있어 고객의 만족도가 높습니다. 
+
+호텔 주변에는 걸어서 이동할 수 있는 다양한 관광 명소가 많아요. 브리즈번의 대표적인 랜드마크인 사우스 뱅크 파크랜드도 가까워서 여유로운 산책을 즐기기 좋습니다. 또한, 친절한 직원들이 제공하는 세심한 서비스 덕분에 더 편안하게 지낼 수 있답니다. 쇼핑, 문화 생활, 레저 활동 모두 이 호텔에서 편하게 누려보세요. 이곳에서는 일상에서 벗어나 진정한 휴식을 느낄 수 있습니다.
+
+[트레저리 브리즈번 (Treasury Brisbane)](https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html)
+ 
+
+
+## 결론
+
+브리즈번에서의 완벽한 숙박을 원한다면 다양한 선택지가 있습니다. *Brisbane Skytower by CLLIX*는 멋진 전경 뷰와 함께 완벽한 휴식을 제공합니다. *엠포리움 사우스 뱅크*는 현대적 시설과 편리한 위치에서 최고의 럭셔리를 경험할 수 있으며, *메리톤 스위트 허쉘 스트리트*는 브리즈번 중심에서 고급스러운 휴식 공간을 제공합니다. *스탬포드 프라자 브리즈번 호텔*은 브리즈번 강변의 멋진 전망과 다양한 편의 시설을 갖춘 완벽한 휴양지로, *트레저리 브리즈번*은 중심지에서 다양한 편의시설과 레스토랑을 즐길 수 있는 고급 호텔입니다. 이처럼 브리즈번에서의 특별한 경험을 원하신다면 지금 *예약을 서두르세요!*
+
+f:T29ea,
+    
+
+
+## 브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 호주 브리즈번에서 꼭 한번쯤은 묵어봐야 할 럭셔리 호텔 5곳을 소개해드릴까 해요. 호텔에서의 휴식, 이른바 '호캉스'를 즐기기 위해서는 호텔의 고급스러운 시설과 힙한 분위기가 필수겠지요? 편안한 객실과 함께 **최고급 스파**, **멋진 뷰** 그리고 톡톡 튀는 **힙한 디자인**까지! 이런 모든 요소를 완벽하게 갖춘 호텔들이 브리즈번에 위치해 있다는 사실, 알고 계셨나요? 오늘 소개할 다섯 호텔은 브리즈번 여행 중 힐링과 재미를 동시에 느끼고 싶은 분들께 강력 추천합니다. 그럼 바로 시작해볼까요?
+
+
+## 하늘 아래 완벽한 휴식
+Brisbane Skytower by CLLIX
+    ![Brisbane Skytower by CLLIX_0_image](https://pix8.agoda.net/hotelImages/241/2418872/2418872_17101111300057639824.jpg)
+![Brisbane Skytower by CLLIX_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/173673997.jpg?k=d30c4538eb39ff3e94771a0e73149130ea961e71fa1f720f2eb3905d5e308fb4&s=50x50)
+![Brisbane Skytower by CLLIX_2_image](https://pix8.agoda.net/hotelImages/2418872/-1/05e5fa9bf1f54e95758a4f2b880922b3.jpg)
+
+브리즈번의 새로운 랜드마크, Skytower에서의 여행은 어떠신가요? 이곳은 90층 이상의 높은 고층 건물로 브리즈번의 멋진 전경을 한 눈에 담을 수 있어요. 객실은 현대적이고 세련된 인테리어로 꾸며져 있으며, 모든 편의시설이 완비되어 있어요. *무료 Wi-Fi*, *훌륭한 수영장*과 *헬스장* 등도 이용할 수 있답니다. 어디에서나 탁 트인 브리즈번의 경관을 즐길 수 있어, 매 순간이 특별한 경험이 될 거예요. 긴 여행의 여독을 풀기에는 최적의 장소랍니다. 특히 가족 단위 여행객들에게 추천드리고 싶어요. 돌봄 서비스가 잘 갖춰져 있어 아이들과 함께하는 여행도 걱정 없답니다. 식사 또한 다양하게 즐길 수 있어, 지루하지 않아요. 맛집 탐방을 좋아하신다면 주변에서도 다양한 레스토랑을 찾아보실 수 있습니다. 한 마디로, Skytower는 여행객들에게 필요한 모든 것을 제공해주는 종합 선물세트 같은 곳이에요. 브리즈번에서의 특별한 추억, Skytower에서 만들어보세요.
+
+[Brisbane Skytower by CLLIX](https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html)
+ 
+
+## 브리즈번의 숨은 보석을 발견하다
+엠포리움 사우스 뱅크 (Emporium South Bank)
+    ![엠포리움 사우스 뱅크 (Emporium South Bank)_0_image](https://pix8.agoda.net/hotelImages/4960395/-1/17cfd1076e518162375fcdbfee3f4718.jpg)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/483851800.jpg?k=8d13e5f155a83b75edf5f7a30e6d0f4e392e2f233e4ad96ca48c5fbc090a74d5&s=50x50)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_2_image](https://pix8.agoda.net/hotelImages/4960395/-1/ca87550475fb4ff33cbe63035e7ea791.jpg)
+
+브리즈번의 중심부에 위치한 이 호텔은 편안함과 현대적인 시설을 자랑해요. 각 객실은 널찍하고 깔끔하게 꾸며져 있으며, 최신형 침대와 고급 리넨을 갖추고 있어 편안한 휴식을 보장해요. 또한 호텔 전역에서 이용 가능한 무료 Wi-Fi도 준비되어 있어요. 유희를 위한 다양한 실내외 시설도 갖추고 있어, 여행 중에도 즐거움을 만끽할 수 있어요. 고급스러운 인테리어와 세심한 서비스가 여러분을 기다리고 있답니다. 
+
+브리즈번 특유의 활기찬 분위기를 느낄 수 있는 다양한 레스토랑과 카페들이 호텔 주변에 위치해 손쉽게 접근할 수 있어요. 피곤한 하루를 마무리한 뒤, 호텔의 루프탑 풀에서 도심의 야경을 감상하며 리프레쉬를 해보세요. 또한, 브리즈번의 주요 관광 명소까지 도보로 이동이 가능해요. 이곳에서 체류하는 동안 호주의 아름다움과 매력을 온전히 느낄 수 있을 거예요. 여행의 피로는 싹 사라지고, 잊을 수 없는 추억을 만들게 될 거예요. 
+
+[엠포리움 사우스 뱅크 (Emporium South Bank)](https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html)
+ 
+
+## 브리즈번 도심 속 휴식의 천국
+메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
+    ![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_0_image](https://pix8.agoda.net/hotelImages/8707173/-1/249e4814a1512ccaedf53b62ac6a347c.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_1_image](https://pix8.agoda.net/hotelImages/8707173/-1/20111cc43fdccdf2a8fc1f47294fe5b6.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_2_image](https://pix8.agoda.net/hotelImages/8707173/-1/a1d3887f6074254a2213b5ac38180ed1.jpg)
+
+브리즈번의 중심지에서 당신을 기다리는 *잊지 못할 경험*, 바로 **메리튼 스위트 허셀 스트리트**입니다. 이 호텔은 넓고 고급스러운 스위트룸을 자랑하며, 탁 트인 도시 전망과 함께 고객님을 맞이해드려요. 지친 하루의 끝, 여유롭게 휴식을 취할 수 있는 한적한 장소를 찾고 있다면 이곳이 바로 그곳이에요. 편안한 침대와 현대적인 인테리어, 그리고 세심한 서비스가 여행의 피로를 풀어줄 거예요.
+
+메리튼 스위트 허셀 스트리트는 **완벽한 위치** 덕분에 브리즈번의 주요 관광지를 손쉽게 방문할 수 있습니다. 주변에는 쇼핑센터, 레스토랑, 카페들이 자리잡고 있어 다양한 미식과 쇼핑을 한 자리에서 즐길 수 있어요. 또한, 호텔 내 레저 시설인 실내 수영장과 스파에서 몸과 마음을 재충전하는 시간도 가져보세요. 여행을 떠나기 전, 꼭 이곳에서 특별한 추억을 만들어보세요!
+
+[메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)](https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html)
+ 
+
+## 강변에서의 특별한 휴식
+스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)
+    ![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_0_image](https://pix8.agoda.net/hotelImages/78753/0/c5ffc93fc532939b0ae19962ce3bef01.jpg)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/500341887.jpg?k=e2b06cb4be7e792da80ccd5f1483f99d3170192571ac9cf1a7869539eafe01e9&s=50x50)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_2_image](https://pix8.agoda.net/hotelImages/78753/0/d93fa5cc2d3fe2ad911b5b9fcb0adf79.jpg)
+
+브리즈번의 중심에 위치한 이 호텔은 방문객에게 도시의 활기와 자연의 평온함을 동시에 제공합니다. 특히 강변의 멋진 전망은 아침을 더욱 특별하게 만들어 주죠. 여기서는 현대적인 편의 시설과 고풍스러운 장식이 조화를 이루고 있어, 오래된 친구 같은 따뜻한 분위기를 느낄 수 있어요. 여러분은 마치 집에 온 것처럼 편안함을 느끼실 거예요. 호텔 내의 레스토랑은 지역의 신선한 재료를 사용한 다양한 요리를 제공하므로, 미식가들에게는 천국과도 같습니다. 그 외에도 다양한 편의 시설과 서비스를 이용할 수 있어, 어느 하나 부족함이 없어요. 여행의 피로를 풀어주는 스파와 피트니스 센터는 정말 추천드리고 싶어요. **가족**과 함께하는 여행이든, **로맨틱**한 **커플** 여행이든 모두에게 완벽한 선택이 될 것입니다. 여러분의 기대를 뛰어넘는 경험을 보장합니다.
+
+[스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)](https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html)
+ 
+
+## 럭셔리와 편안함이 공존하는 곳
+트레저리 브리즈번 (Treasury Brisbane)
+    ![트레저리 브리즈번 (Treasury Brisbane)_0_image](https://pix8.agoda.net/hotelImages/931443/0/9fc1b35c48bd28f3fae426e4c1483e93.jpg)
+![트레저리 브리즈번 (Treasury Brisbane)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/60770636.jpg?k=83613a039fed6bcabd806ee13e91fc4a79533ad6aa0e93389dbe13227d806c74&s=50x50)
+![트레저리 브리즈번 (Treasury Brisbane)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/106468545.jpg?k=dd12f3e654c044e4fa95fb45294f5b48d25a975f229809e0b7bb324203e912c3&s=50x50)
+
+브리즈번의 중심지에 위치한 이 호텔은 현대적인 편의시설과 고급스러운 분위기를 자랑해요. 최고급 침구와 편안한 객실 덕분에 묵는 동안 편안한 휴식을 취할 수 있을 거예요. 특히, 다양한 레스토랑과 바가 있어 다양한 미식을 즐길 수 있다는 점이 큰 장점이에요. 또한, 호텔 내 카지노에서 특별한 경험을 해볼 수도 있어요. 시설 내 모든 것이 깔끔하게 관리되어 있어 고객의 만족도가 높습니다. 
+
+호텔 주변에는 걸어서 이동할 수 있는 다양한 관광 명소가 많아요. 브리즈번의 대표적인 랜드마크인 사우스 뱅크 파크랜드도 가까워서 여유로운 산책을 즐기기 좋습니다. 또한, 친절한 직원들이 제공하는 세심한 서비스 덕분에 더 편안하게 지낼 수 있답니다. 쇼핑, 문화 생활, 레저 활동 모두 이 호텔에서 편하게 누려보세요. 이곳에서는 일상에서 벗어나 진정한 휴식을 느낄 수 있습니다.
+
+[트레저리 브리즈번 (Treasury Brisbane)](https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html)
+ 
+
+
+## 결론
+
+브리즈번에서의 완벽한 숙박을 원한다면 다양한 선택지가 있습니다. *Brisbane Skytower by CLLIX*는 멋진 전경 뷰와 함께 완벽한 휴식을 제공합니다. *엠포리움 사우스 뱅크*는 현대적 시설과 편리한 위치에서 최고의 럭셔리를 경험할 수 있으며, *메리톤 스위트 허쉘 스트리트*는 브리즈번 중심에서 고급스러운 휴식 공간을 제공합니다. *스탬포드 프라자 브리즈번 호텔*은 브리즈번 강변의 멋진 전망과 다양한 편의 시설을 갖춘 완벽한 휴양지로, *트레저리 브리즈번*은 중심지에서 다양한 편의시설과 레스토랑을 즐길 수 있는 고급 호텔입니다. 이처럼 브리즈번에서의 특별한 경험을 원하신다면 지금 *예약을 서두르세요!*
+
+10:T29ea,
+    
+
+
+## 브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 호주 브리즈번에서 꼭 한번쯤은 묵어봐야 할 럭셔리 호텔 5곳을 소개해드릴까 해요. 호텔에서의 휴식, 이른바 '호캉스'를 즐기기 위해서는 호텔의 고급스러운 시설과 힙한 분위기가 필수겠지요? 편안한 객실과 함께 **최고급 스파**, **멋진 뷰** 그리고 톡톡 튀는 **힙한 디자인**까지! 이런 모든 요소를 완벽하게 갖춘 호텔들이 브리즈번에 위치해 있다는 사실, 알고 계셨나요? 오늘 소개할 다섯 호텔은 브리즈번 여행 중 힐링과 재미를 동시에 느끼고 싶은 분들께 강력 추천합니다. 그럼 바로 시작해볼까요?
+
+
+## 하늘 아래 완벽한 휴식
+Brisbane Skytower by CLLIX
+    ![Brisbane Skytower by CLLIX_0_image](https://pix8.agoda.net/hotelImages/241/2418872/2418872_17101111300057639824.jpg)
+![Brisbane Skytower by CLLIX_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/173673997.jpg?k=d30c4538eb39ff3e94771a0e73149130ea961e71fa1f720f2eb3905d5e308fb4&s=50x50)
+![Brisbane Skytower by CLLIX_2_image](https://pix8.agoda.net/hotelImages/2418872/-1/05e5fa9bf1f54e95758a4f2b880922b3.jpg)
+
+브리즈번의 새로운 랜드마크, Skytower에서의 여행은 어떠신가요? 이곳은 90층 이상의 높은 고층 건물로 브리즈번의 멋진 전경을 한 눈에 담을 수 있어요. 객실은 현대적이고 세련된 인테리어로 꾸며져 있으며, 모든 편의시설이 완비되어 있어요. *무료 Wi-Fi*, *훌륭한 수영장*과 *헬스장* 등도 이용할 수 있답니다. 어디에서나 탁 트인 브리즈번의 경관을 즐길 수 있어, 매 순간이 특별한 경험이 될 거예요. 긴 여행의 여독을 풀기에는 최적의 장소랍니다. 특히 가족 단위 여행객들에게 추천드리고 싶어요. 돌봄 서비스가 잘 갖춰져 있어 아이들과 함께하는 여행도 걱정 없답니다. 식사 또한 다양하게 즐길 수 있어, 지루하지 않아요. 맛집 탐방을 좋아하신다면 주변에서도 다양한 레스토랑을 찾아보실 수 있습니다. 한 마디로, Skytower는 여행객들에게 필요한 모든 것을 제공해주는 종합 선물세트 같은 곳이에요. 브리즈번에서의 특별한 추억, Skytower에서 만들어보세요.
+
+[Brisbane Skytower by CLLIX](https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html)
+ 
+
+## 브리즈번의 숨은 보석을 발견하다
+엠포리움 사우스 뱅크 (Emporium South Bank)
+    ![엠포리움 사우스 뱅크 (Emporium South Bank)_0_image](https://pix8.agoda.net/hotelImages/4960395/-1/17cfd1076e518162375fcdbfee3f4718.jpg)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/483851800.jpg?k=8d13e5f155a83b75edf5f7a30e6d0f4e392e2f233e4ad96ca48c5fbc090a74d5&s=50x50)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_2_image](https://pix8.agoda.net/hotelImages/4960395/-1/ca87550475fb4ff33cbe63035e7ea791.jpg)
+
+브리즈번의 중심부에 위치한 이 호텔은 편안함과 현대적인 시설을 자랑해요. 각 객실은 널찍하고 깔끔하게 꾸며져 있으며, 최신형 침대와 고급 리넨을 갖추고 있어 편안한 휴식을 보장해요. 또한 호텔 전역에서 이용 가능한 무료 Wi-Fi도 준비되어 있어요. 유희를 위한 다양한 실내외 시설도 갖추고 있어, 여행 중에도 즐거움을 만끽할 수 있어요. 고급스러운 인테리어와 세심한 서비스가 여러분을 기다리고 있답니다. 
+
+브리즈번 특유의 활기찬 분위기를 느낄 수 있는 다양한 레스토랑과 카페들이 호텔 주변에 위치해 손쉽게 접근할 수 있어요. 피곤한 하루를 마무리한 뒤, 호텔의 루프탑 풀에서 도심의 야경을 감상하며 리프레쉬를 해보세요. 또한, 브리즈번의 주요 관광 명소까지 도보로 이동이 가능해요. 이곳에서 체류하는 동안 호주의 아름다움과 매력을 온전히 느낄 수 있을 거예요. 여행의 피로는 싹 사라지고, 잊을 수 없는 추억을 만들게 될 거예요. 
+
+[엠포리움 사우스 뱅크 (Emporium South Bank)](https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html)
+ 
+
+## 브리즈번 도심 속 휴식의 천국
+메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
+    ![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_0_image](https://pix8.agoda.net/hotelImages/8707173/-1/249e4814a1512ccaedf53b62ac6a347c.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_1_image](https://pix8.agoda.net/hotelImages/8707173/-1/20111cc43fdccdf2a8fc1f47294fe5b6.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_2_image](https://pix8.agoda.net/hotelImages/8707173/-1/a1d3887f6074254a2213b5ac38180ed1.jpg)
+
+브리즈번의 중심지에서 당신을 기다리는 *잊지 못할 경험*, 바로 **메리튼 스위트 허셀 스트리트**입니다. 이 호텔은 넓고 고급스러운 스위트룸을 자랑하며, 탁 트인 도시 전망과 함께 고객님을 맞이해드려요. 지친 하루의 끝, 여유롭게 휴식을 취할 수 있는 한적한 장소를 찾고 있다면 이곳이 바로 그곳이에요. 편안한 침대와 현대적인 인테리어, 그리고 세심한 서비스가 여행의 피로를 풀어줄 거예요.
+
+메리튼 스위트 허셀 스트리트는 **완벽한 위치** 덕분에 브리즈번의 주요 관광지를 손쉽게 방문할 수 있습니다. 주변에는 쇼핑센터, 레스토랑, 카페들이 자리잡고 있어 다양한 미식과 쇼핑을 한 자리에서 즐길 수 있어요. 또한, 호텔 내 레저 시설인 실내 수영장과 스파에서 몸과 마음을 재충전하는 시간도 가져보세요. 여행을 떠나기 전, 꼭 이곳에서 특별한 추억을 만들어보세요!
+
+[메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)](https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html)
+ 
+
+## 강변에서의 특별한 휴식
+스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)
+    ![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_0_image](https://pix8.agoda.net/hotelImages/78753/0/c5ffc93fc532939b0ae19962ce3bef01.jpg)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/500341887.jpg?k=e2b06cb4be7e792da80ccd5f1483f99d3170192571ac9cf1a7869539eafe01e9&s=50x50)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_2_image](https://pix8.agoda.net/hotelImages/78753/0/d93fa5cc2d3fe2ad911b5b9fcb0adf79.jpg)
+
+브리즈번의 중심에 위치한 이 호텔은 방문객에게 도시의 활기와 자연의 평온함을 동시에 제공합니다. 특히 강변의 멋진 전망은 아침을 더욱 특별하게 만들어 주죠. 여기서는 현대적인 편의 시설과 고풍스러운 장식이 조화를 이루고 있어, 오래된 친구 같은 따뜻한 분위기를 느낄 수 있어요. 여러분은 마치 집에 온 것처럼 편안함을 느끼실 거예요. 호텔 내의 레스토랑은 지역의 신선한 재료를 사용한 다양한 요리를 제공하므로, 미식가들에게는 천국과도 같습니다. 그 외에도 다양한 편의 시설과 서비스를 이용할 수 있어, 어느 하나 부족함이 없어요. 여행의 피로를 풀어주는 스파와 피트니스 센터는 정말 추천드리고 싶어요. **가족**과 함께하는 여행이든, **로맨틱**한 **커플** 여행이든 모두에게 완벽한 선택이 될 것입니다. 여러분의 기대를 뛰어넘는 경험을 보장합니다.
+
+[스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)](https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html)
+ 
+
+## 럭셔리와 편안함이 공존하는 곳
+트레저리 브리즈번 (Treasury Brisbane)
+    ![트레저리 브리즈번 (Treasury Brisbane)_0_image](https://pix8.agoda.net/hotelImages/931443/0/9fc1b35c48bd28f3fae426e4c1483e93.jpg)
+![트레저리 브리즈번 (Treasury Brisbane)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/60770636.jpg?k=83613a039fed6bcabd806ee13e91fc4a79533ad6aa0e93389dbe13227d806c74&s=50x50)
+![트레저리 브리즈번 (Treasury Brisbane)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/106468545.jpg?k=dd12f3e654c044e4fa95fb45294f5b48d25a975f229809e0b7bb324203e912c3&s=50x50)
+
+브리즈번의 중심지에 위치한 이 호텔은 현대적인 편의시설과 고급스러운 분위기를 자랑해요. 최고급 침구와 편안한 객실 덕분에 묵는 동안 편안한 휴식을 취할 수 있을 거예요. 특히, 다양한 레스토랑과 바가 있어 다양한 미식을 즐길 수 있다는 점이 큰 장점이에요. 또한, 호텔 내 카지노에서 특별한 경험을 해볼 수도 있어요. 시설 내 모든 것이 깔끔하게 관리되어 있어 고객의 만족도가 높습니다. 
+
+호텔 주변에는 걸어서 이동할 수 있는 다양한 관광 명소가 많아요. 브리즈번의 대표적인 랜드마크인 사우스 뱅크 파크랜드도 가까워서 여유로운 산책을 즐기기 좋습니다. 또한, 친절한 직원들이 제공하는 세심한 서비스 덕분에 더 편안하게 지낼 수 있답니다. 쇼핑, 문화 생활, 레저 활동 모두 이 호텔에서 편하게 누려보세요. 이곳에서는 일상에서 벗어나 진정한 휴식을 느낄 수 있습니다.
+
+[트레저리 브리즈번 (Treasury Brisbane)](https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html)
+ 
+
+
+## 결론
+
+브리즈번에서의 완벽한 숙박을 원한다면 다양한 선택지가 있습니다. *Brisbane Skytower by CLLIX*는 멋진 전경 뷰와 함께 완벽한 휴식을 제공합니다. *엠포리움 사우스 뱅크*는 현대적 시설과 편리한 위치에서 최고의 럭셔리를 경험할 수 있으며, *메리톤 스위트 허쉘 스트리트*는 브리즈번 중심에서 고급스러운 휴식 공간을 제공합니다. *스탬포드 프라자 브리즈번 호텔*은 브리즈번 강변의 멋진 전망과 다양한 편의 시설을 갖춘 완벽한 휴양지로, *트레저리 브리즈번*은 중심지에서 다양한 편의시설과 레스토랑을 즐길 수 있는 고급 호텔입니다. 이처럼 브리즈번에서의 특별한 경험을 원하신다면 지금 *예약을 서두르세요!*
+
+11:T29ea,
+    
+
+
+## 브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 호주 브리즈번에서 꼭 한번쯤은 묵어봐야 할 럭셔리 호텔 5곳을 소개해드릴까 해요. 호텔에서의 휴식, 이른바 '호캉스'를 즐기기 위해서는 호텔의 고급스러운 시설과 힙한 분위기가 필수겠지요? 편안한 객실과 함께 **최고급 스파**, **멋진 뷰** 그리고 톡톡 튀는 **힙한 디자인**까지! 이런 모든 요소를 완벽하게 갖춘 호텔들이 브리즈번에 위치해 있다는 사실, 알고 계셨나요? 오늘 소개할 다섯 호텔은 브리즈번 여행 중 힐링과 재미를 동시에 느끼고 싶은 분들께 강력 추천합니다. 그럼 바로 시작해볼까요?
+
+
+## 하늘 아래 완벽한 휴식
+Brisbane Skytower by CLLIX
+    ![Brisbane Skytower by CLLIX_0_image](https://pix8.agoda.net/hotelImages/241/2418872/2418872_17101111300057639824.jpg)
+![Brisbane Skytower by CLLIX_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/173673997.jpg?k=d30c4538eb39ff3e94771a0e73149130ea961e71fa1f720f2eb3905d5e308fb4&s=50x50)
+![Brisbane Skytower by CLLIX_2_image](https://pix8.agoda.net/hotelImages/2418872/-1/05e5fa9bf1f54e95758a4f2b880922b3.jpg)
+
+브리즈번의 새로운 랜드마크, Skytower에서의 여행은 어떠신가요? 이곳은 90층 이상의 높은 고층 건물로 브리즈번의 멋진 전경을 한 눈에 담을 수 있어요. 객실은 현대적이고 세련된 인테리어로 꾸며져 있으며, 모든 편의시설이 완비되어 있어요. *무료 Wi-Fi*, *훌륭한 수영장*과 *헬스장* 등도 이용할 수 있답니다. 어디에서나 탁 트인 브리즈번의 경관을 즐길 수 있어, 매 순간이 특별한 경험이 될 거예요. 긴 여행의 여독을 풀기에는 최적의 장소랍니다. 특히 가족 단위 여행객들에게 추천드리고 싶어요. 돌봄 서비스가 잘 갖춰져 있어 아이들과 함께하는 여행도 걱정 없답니다. 식사 또한 다양하게 즐길 수 있어, 지루하지 않아요. 맛집 탐방을 좋아하신다면 주변에서도 다양한 레스토랑을 찾아보실 수 있습니다. 한 마디로, Skytower는 여행객들에게 필요한 모든 것을 제공해주는 종합 선물세트 같은 곳이에요. 브리즈번에서의 특별한 추억, Skytower에서 만들어보세요.
+
+[Brisbane Skytower by CLLIX](https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html)
+ 
+
+## 브리즈번의 숨은 보석을 발견하다
+엠포리움 사우스 뱅크 (Emporium South Bank)
+    ![엠포리움 사우스 뱅크 (Emporium South Bank)_0_image](https://pix8.agoda.net/hotelImages/4960395/-1/17cfd1076e518162375fcdbfee3f4718.jpg)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/483851800.jpg?k=8d13e5f155a83b75edf5f7a30e6d0f4e392e2f233e4ad96ca48c5fbc090a74d5&s=50x50)
+![엠포리움 사우스 뱅크 (Emporium South Bank)_2_image](https://pix8.agoda.net/hotelImages/4960395/-1/ca87550475fb4ff33cbe63035e7ea791.jpg)
+
+브리즈번의 중심부에 위치한 이 호텔은 편안함과 현대적인 시설을 자랑해요. 각 객실은 널찍하고 깔끔하게 꾸며져 있으며, 최신형 침대와 고급 리넨을 갖추고 있어 편안한 휴식을 보장해요. 또한 호텔 전역에서 이용 가능한 무료 Wi-Fi도 준비되어 있어요. 유희를 위한 다양한 실내외 시설도 갖추고 있어, 여행 중에도 즐거움을 만끽할 수 있어요. 고급스러운 인테리어와 세심한 서비스가 여러분을 기다리고 있답니다. 
+
+브리즈번 특유의 활기찬 분위기를 느낄 수 있는 다양한 레스토랑과 카페들이 호텔 주변에 위치해 손쉽게 접근할 수 있어요. 피곤한 하루를 마무리한 뒤, 호텔의 루프탑 풀에서 도심의 야경을 감상하며 리프레쉬를 해보세요. 또한, 브리즈번의 주요 관광 명소까지 도보로 이동이 가능해요. 이곳에서 체류하는 동안 호주의 아름다움과 매력을 온전히 느낄 수 있을 거예요. 여행의 피로는 싹 사라지고, 잊을 수 없는 추억을 만들게 될 거예요. 
+
+[엠포리움 사우스 뱅크 (Emporium South Bank)](https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html)
+ 
+
+## 브리즈번 도심 속 휴식의 천국
+메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
+    ![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_0_image](https://pix8.agoda.net/hotelImages/8707173/-1/249e4814a1512ccaedf53b62ac6a347c.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_1_image](https://pix8.agoda.net/hotelImages/8707173/-1/20111cc43fdccdf2a8fc1f47294fe5b6.jpg)
+![메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_2_image](https://pix8.agoda.net/hotelImages/8707173/-1/a1d3887f6074254a2213b5ac38180ed1.jpg)
+
+브리즈번의 중심지에서 당신을 기다리는 *잊지 못할 경험*, 바로 **메리튼 스위트 허셀 스트리트**입니다. 이 호텔은 넓고 고급스러운 스위트룸을 자랑하며, 탁 트인 도시 전망과 함께 고객님을 맞이해드려요. 지친 하루의 끝, 여유롭게 휴식을 취할 수 있는 한적한 장소를 찾고 있다면 이곳이 바로 그곳이에요. 편안한 침대와 현대적인 인테리어, 그리고 세심한 서비스가 여행의 피로를 풀어줄 거예요.
+
+메리튼 스위트 허셀 스트리트는 **완벽한 위치** 덕분에 브리즈번의 주요 관광지를 손쉽게 방문할 수 있습니다. 주변에는 쇼핑센터, 레스토랑, 카페들이 자리잡고 있어 다양한 미식과 쇼핑을 한 자리에서 즐길 수 있어요. 또한, 호텔 내 레저 시설인 실내 수영장과 스파에서 몸과 마음을 재충전하는 시간도 가져보세요. 여행을 떠나기 전, 꼭 이곳에서 특별한 추억을 만들어보세요!
+
+[메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)](https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html)
+ 
+
+## 강변에서의 특별한 휴식
+스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)
+    ![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_0_image](https://pix8.agoda.net/hotelImages/78753/0/c5ffc93fc532939b0ae19962ce3bef01.jpg)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/500341887.jpg?k=e2b06cb4be7e792da80ccd5f1483f99d3170192571ac9cf1a7869539eafe01e9&s=50x50)
+![스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_2_image](https://pix8.agoda.net/hotelImages/78753/0/d93fa5cc2d3fe2ad911b5b9fcb0adf79.jpg)
+
+브리즈번의 중심에 위치한 이 호텔은 방문객에게 도시의 활기와 자연의 평온함을 동시에 제공합니다. 특히 강변의 멋진 전망은 아침을 더욱 특별하게 만들어 주죠. 여기서는 현대적인 편의 시설과 고풍스러운 장식이 조화를 이루고 있어, 오래된 친구 같은 따뜻한 분위기를 느낄 수 있어요. 여러분은 마치 집에 온 것처럼 편안함을 느끼실 거예요. 호텔 내의 레스토랑은 지역의 신선한 재료를 사용한 다양한 요리를 제공하므로, 미식가들에게는 천국과도 같습니다. 그 외에도 다양한 편의 시설과 서비스를 이용할 수 있어, 어느 하나 부족함이 없어요. 여행의 피로를 풀어주는 스파와 피트니스 센터는 정말 추천드리고 싶어요. **가족**과 함께하는 여행이든, **로맨틱**한 **커플** 여행이든 모두에게 완벽한 선택이 될 것입니다. 여러분의 기대를 뛰어넘는 경험을 보장합니다.
+
+[스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)](https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html)
+ 
+
+## 럭셔리와 편안함이 공존하는 곳
+트레저리 브리즈번 (Treasury Brisbane)
+    ![트레저리 브리즈번 (Treasury Brisbane)_0_image](https://pix8.agoda.net/hotelImages/931443/0/9fc1b35c48bd28f3fae426e4c1483e93.jpg)
+![트레저리 브리즈번 (Treasury Brisbane)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/60770636.jpg?k=83613a039fed6bcabd806ee13e91fc4a79533ad6aa0e93389dbe13227d806c74&s=50x50)
+![트레저리 브리즈번 (Treasury Brisbane)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/106468545.jpg?k=dd12f3e654c044e4fa95fb45294f5b48d25a975f229809e0b7bb324203e912c3&s=50x50)
+
+브리즈번의 중심지에 위치한 이 호텔은 현대적인 편의시설과 고급스러운 분위기를 자랑해요. 최고급 침구와 편안한 객실 덕분에 묵는 동안 편안한 휴식을 취할 수 있을 거예요. 특히, 다양한 레스토랑과 바가 있어 다양한 미식을 즐길 수 있다는 점이 큰 장점이에요. 또한, 호텔 내 카지노에서 특별한 경험을 해볼 수도 있어요. 시설 내 모든 것이 깔끔하게 관리되어 있어 고객의 만족도가 높습니다. 
+
+호텔 주변에는 걸어서 이동할 수 있는 다양한 관광 명소가 많아요. 브리즈번의 대표적인 랜드마크인 사우스 뱅크 파크랜드도 가까워서 여유로운 산책을 즐기기 좋습니다. 또한, 친절한 직원들이 제공하는 세심한 서비스 덕분에 더 편안하게 지낼 수 있답니다. 쇼핑, 문화 생활, 레저 활동 모두 이 호텔에서 편하게 누려보세요. 이곳에서는 일상에서 벗어나 진정한 휴식을 느낄 수 있습니다.
+
+[트레저리 브리즈번 (Treasury Brisbane)](https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html)
+ 
+
+
+## 결론
+
+브리즈번에서의 완벽한 숙박을 원한다면 다양한 선택지가 있습니다. *Brisbane Skytower by CLLIX*는 멋진 전경 뷰와 함께 완벽한 휴식을 제공합니다. *엠포리움 사우스 뱅크*는 현대적 시설과 편리한 위치에서 최고의 럭셔리를 경험할 수 있으며, *메리톤 스위트 허쉘 스트리트*는 브리즈번 중심에서 고급스러운 휴식 공간을 제공합니다. *스탬포드 프라자 브리즈번 호텔*은 브리즈번 강변의 멋진 전망과 다양한 편의 시설을 갖춘 완벽한 휴양지로, *트레저리 브리즈번*은 중심지에서 다양한 편의시설과 레스토랑을 즐길 수 있는 고급 호텔입니다. 이처럼 브리즈번에서의 특별한 경험을 원하신다면 지금 *예약을 서두르세요!*
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스"}],["$","data",null,{"children":"2024-05-29T01:17:14.057Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"태평양 지역 및 호주"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"호주"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"전망"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"전망 좋은 호텔"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"모던"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"도심"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"편리"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"관광"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"브리즈번"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"레저"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"소풍"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"활기"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"미식가"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"강변"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"레스토랑"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"카지노"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"산책"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"쇼핑"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"dc5800fc","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 호주 브리즈번에서 꼭 한번쯤은 묵어봐야 할 럭셔리 호텔 5곳을 소개해드릴까 해요. 호텔에서의 휴식, 이른바 '호캉스'를 즐기기 위해서는 호텔의 고급스러운 시설과 힙한 분위기가 필수겠지요? 편안한 객실과 함께 ",["$","strong",null,{"className":"font-black","children":"최고급 스파"}],", ",["$","strong",null,{"className":"font-black","children":"멋진 뷰"}]," 그리고 톡톡 튀는 ",["$","strong",null,{"className":"font-black","children":"힙한 디자인"}],"까지! 이런 모든 요소를 완벽하게 갖춘 호텔들이 브리즈번에 위치해 있다는 사실, 알고 계셨나요? 오늘 소개할 다섯 호텔은 브리즈번 여행 중 힐링과 재미를 동시에 느끼고 싶은 분들께 강력 추천합니다. 그럼 바로 시작해볼까요?"]}],"\n",["$","h2",null,{"id":"e2a14b0c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"하늘 아래 완벽한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Brisbane Skytower by CLLIX\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/241/2418872/2418872_17101111300057639824.jpg","alt":"Brisbane Skytower by CLLIX_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/173673997.jpg?k=d30c4538eb39ff3e94771a0e73149130ea961e71fa1f720f2eb3905d5e308fb4&s=50x50","alt":"Brisbane Skytower by CLLIX_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2418872/-1/05e5fa9bf1f54e95758a4f2b880922b3.jpg","alt":"Brisbane Skytower by CLLIX_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브리즈번의 새로운 랜드마크, Skytower에서의 여행은 어떠신가요? 이곳은 90층 이상의 높은 고층 건물로 브리즈번의 멋진 전경을 한 눈에 담을 수 있어요. 객실은 현대적이고 세련된 인테리어로 꾸며져 있으며, 모든 편의시설이 완비되어 있어요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"무료 Wi-Fi"}],", ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"훌륭한 수영장"}],"과 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"헬스장"}]," 등도 이용할 수 있답니다. 어디에서나 탁 트인 브리즈번의 경관을 즐길 수 있어, 매 순간이 특별한 경험이 될 거예요. 긴 여행의 여독을 풀기에는 최적의 장소랍니다. 특히 가족 단위 여행객들에게 추천드리고 싶어요. 돌봄 서비스가 잘 갖춰져 있어 아이들과 함께하는 여행도 걱정 없답니다. 식사 또한 다양하게 즐길 수 있어, 지루하지 않아요. 맛집 탐방을 좋아하신다면 주변에서도 다양한 레스토랑을 찾아보실 수 있습니다. 한 마디로, Skytower는 여행객들에게 필요한 모든 것을 제공해주는 종합 선물세트 같은 곳이에요. 브리즈번에서의 특별한 추억, Skytower에서 만들어보세요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/brisbane-skytower/hotel/brisbane-au.html"},"children":[{"type":"text","value":"Brisbane Skytower by CLLIX","position":{"start":{"line":18,"column":2,"offset":1312},"end":{"line":18,"column":28,"offset":1338}}}],"position":{"start":{"line":18,"column":1,"offset":1311},"end":{"line":18,"column":99,"offset":1409}}},"children":"Brisbane Skytower by CLLIX"},"post":{"id":"1af0cbe8-0f94-493e-ae4d-d352a56facdf","title":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스","fileName":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","description":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요.","date":"2024-05-29T01:17:14.057Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"호주","path":"$$/kr/tags/호주","id":"호주"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"전망 좋은 호텔","path":"$$/kr/tags/전망-좋은-호텔","id":"전망-좋은-호텔"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"편리","path":"$$/kr/tags/편리","id":"편리"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"브리즈번","path":"$$/kr/tags/브리즈번","id":"브리즈번"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"소풍","path":"$$/kr/tags/소풍","id":"소풍"},{"name":"활기","path":"$$/kr/tags/활기","id":"활기"},{"name":"미식가","path":"$$/kr/tags/미식가","id":"미식가"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"카지노","path":"$$/kr/tags/카지노","id":"카지노"},{"name":"산책","path":"$$/kr/tags/산책","id":"산책"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"}],"banner":"/images/9466-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","content":"$d","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5987f270","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"브리즈번의 숨은 보석을 발견하다"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["엠포리움 사우스 뱅크 (Emporium South Bank)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4960395/-1/17cfd1076e518162375fcdbfee3f4718.jpg","alt":"엠포리움 사우스 뱅크 (Emporium South Bank)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/483851800.jpg?k=8d13e5f155a83b75edf5f7a30e6d0f4e392e2f233e4ad96ca48c5fbc090a74d5&s=50x50","alt":"엠포리움 사우스 뱅크 (Emporium South Bank)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/4960395/-1/ca87550475fb4ff33cbe63035e7ea791.jpg","alt":"엠포리움 사우스 뱅크 (Emporium South Bank)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브리즈번의 중심부에 위치한 이 호텔은 편안함과 현대적인 시설을 자랑해요. 각 객실은 널찍하고 깔끔하게 꾸며져 있으며, 최신형 침대와 고급 리넨을 갖추고 있어 편안한 휴식을 보장해요. 또한 호텔 전역에서 이용 가능한 무료 Wi-Fi도 준비되어 있어요. 유희를 위한 다양한 실내외 시설도 갖추고 있어, 여행 중에도 즐거움을 만끽할 수 있어요. 고급스러운 인테리어와 세심한 서비스가 여러분을 기다리고 있답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브리즈번 특유의 활기찬 분위기를 느낄 수 있는 다양한 레스토랑과 카페들이 호텔 주변에 위치해 손쉽게 접근할 수 있어요. 피곤한 하루를 마무리한 뒤, 호텔의 루프탑 풀에서 도심의 야경을 감상하며 리프레쉬를 해보세요. 또한, 브리즈번의 주요 관광 명소까지 도보로 이동이 가능해요. 이곳에서 체류하는 동안 호주의 아름다움과 매력을 온전히 느낄 수 있을 거예요. 여행의 피로는 싹 사라지고, 잊을 수 없는 추억을 만들게 될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/emporium-south-bank/hotel/brisbane-au.html"},"children":[{"type":"text","value":"엠포리움 사우스 뱅크 (Emporium South Bank)","position":{"start":{"line":31,"column":2,"offset":2387},"end":{"line":31,"column":35,"offset":2420}}}],"position":{"start":{"line":31,"column":1,"offset":2386},"end":{"line":31,"column":108,"offset":2493}}},"children":"엠포리움 사우스 뱅크 (Emporium South Bank)"},"post":{"id":"1af0cbe8-0f94-493e-ae4d-d352a56facdf","title":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스","fileName":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","description":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요.","date":"2024-05-29T01:17:14.057Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"호주","path":"$$/kr/tags/호주","id":"호주"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"전망 좋은 호텔","path":"$$/kr/tags/전망-좋은-호텔","id":"전망-좋은-호텔"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"편리","path":"$$/kr/tags/편리","id":"편리"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"브리즈번","path":"$$/kr/tags/브리즈번","id":"브리즈번"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"소풍","path":"$$/kr/tags/소풍","id":"소풍"},{"name":"활기","path":"$$/kr/tags/활기","id":"활기"},{"name":"미식가","path":"$$/kr/tags/미식가","id":"미식가"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"카지노","path":"$$/kr/tags/카지노","id":"카지노"},{"name":"산책","path":"$$/kr/tags/산책","id":"산책"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"}],"banner":"/images/9466-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","content":"$e","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"9cebcf20","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"브리즈번 도심 속 휴식의 천국"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/8707173/-1/249e4814a1512ccaedf53b62ac6a347c.jpg","alt":"메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/8707173/-1/20111cc43fdccdf2a8fc1f47294fe5b6.jpg","alt":"메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/8707173/-1/a1d3887f6074254a2213b5ac38180ed1.jpg","alt":"메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브리즈번의 중심지에서 당신을 기다리는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"잊지 못할 경험"}],", 바로 ",["$","strong",null,{"className":"font-black","children":"메리튼 스위트 허셀 스트리트"}],"입니다. 이 호텔은 넓고 고급스러운 스위트룸을 자랑하며, 탁 트인 도시 전망과 함께 고객님을 맞이해드려요. 지친 하루의 끝, 여유롭게 휴식을 취할 수 있는 한적한 장소를 찾고 있다면 이곳이 바로 그곳이에요. 편안한 침대와 현대적인 인테리어, 그리고 세심한 서비스가 여행의 피로를 풀어줄 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["메리튼 스위트 허셀 스트리트는 ",["$","strong",null,{"className":"font-black","children":"완벽한 위치"}]," 덕분에 브리즈번의 주요 관광지를 손쉽게 방문할 수 있습니다. 주변에는 쇼핑센터, 레스토랑, 카페들이 자리잡고 있어 다양한 미식과 쇼핑을 한 자리에서 즐길 수 있어요. 또한, 호텔 내 레저 시설인 실내 수영장과 스파에서 몸과 마음을 재충전하는 시간도 가져보세요. 여행을 떠나기 전, 꼭 이곳에서 특별한 추억을 만들어보세요!"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/meriton-suites-herschel-street/hotel/brisbane-au.html"},"children":[{"type":"text","value":"메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)","position":{"start":{"line":44,"column":2,"offset":3434},"end":{"line":44,"column":50,"offset":3482}}}],"position":{"start":{"line":44,"column":1,"offset":3433},"end":{"line":44,"column":134,"offset":3566}}},"children":"메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)"},"post":{"id":"1af0cbe8-0f94-493e-ae4d-d352a56facdf","title":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스","fileName":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","description":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요.","date":"2024-05-29T01:17:14.057Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"호주","path":"$$/kr/tags/호주","id":"호주"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"전망 좋은 호텔","path":"$$/kr/tags/전망-좋은-호텔","id":"전망-좋은-호텔"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"편리","path":"$$/kr/tags/편리","id":"편리"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"브리즈번","path":"$$/kr/tags/브리즈번","id":"브리즈번"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"소풍","path":"$$/kr/tags/소풍","id":"소풍"},{"name":"활기","path":"$$/kr/tags/활기","id":"활기"},{"name":"미식가","path":"$$/kr/tags/미식가","id":"미식가"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"카지노","path":"$$/kr/tags/카지노","id":"카지노"},{"name":"산책","path":"$$/kr/tags/산책","id":"산책"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"}],"banner":"/images/9466-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","content":"$f","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"b7f47a7f","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"강변에서의 특별한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/78753/0/c5ffc93fc532939b0ae19962ce3bef01.jpg","alt":"스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/500341887.jpg?k=e2b06cb4be7e792da80ccd5f1483f99d3170192571ac9cf1a7869539eafe01e9&s=50x50","alt":"스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/78753/0/d93fa5cc2d3fe2ad911b5b9fcb0adf79.jpg","alt":"스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브리즈번의 중심에 위치한 이 호텔은 방문객에게 도시의 활기와 자연의 평온함을 동시에 제공합니다. 특히 강변의 멋진 전망은 아침을 더욱 특별하게 만들어 주죠. 여기서는 현대적인 편의 시설과 고풍스러운 장식이 조화를 이루고 있어, 오래된 친구 같은 따뜻한 분위기를 느낄 수 있어요. 여러분은 마치 집에 온 것처럼 편안함을 느끼실 거예요. 호텔 내의 레스토랑은 지역의 신선한 재료를 사용한 다양한 요리를 제공하므로, 미식가들에게는 천국과도 같습니다. 그 외에도 다양한 편의 시설과 서비스를 이용할 수 있어, 어느 하나 부족함이 없어요. 여행의 피로를 풀어주는 스파와 피트니스 센터는 정말 추천드리고 싶어요. ",["$","strong",null,{"className":"font-black","children":"가족"}],"과 함께하는 여행이든, ",["$","strong",null,{"className":"font-black","children":"로맨틱"}],"한 ",["$","strong",null,{"className":"font-black","children":"커플"}]," 여행이든 모두에게 완벽한 선택이 될 것입니다. 여러분의 기대를 뛰어넘는 경험을 보장합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/stamford-plaza-brisbane-hotel/hotel/brisbane-au.html"},"children":[{"type":"text","value":"스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)","position":{"start":{"line":55,"column":2,"offset":4548},"end":{"line":55,"column":50,"offset":4596}}}],"position":{"start":{"line":55,"column":1,"offset":4547},"end":{"line":55,"column":133,"offset":4679}}},"children":"스탬포드 프라자 브리즈번 호텔 (Stamford Plaza Brisbane Hotel)"},"post":{"id":"1af0cbe8-0f94-493e-ae4d-d352a56facdf","title":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스","fileName":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","description":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요.","date":"2024-05-29T01:17:14.057Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"호주","path":"$$/kr/tags/호주","id":"호주"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"전망 좋은 호텔","path":"$$/kr/tags/전망-좋은-호텔","id":"전망-좋은-호텔"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"편리","path":"$$/kr/tags/편리","id":"편리"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"브리즈번","path":"$$/kr/tags/브리즈번","id":"브리즈번"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"소풍","path":"$$/kr/tags/소풍","id":"소풍"},{"name":"활기","path":"$$/kr/tags/활기","id":"활기"},{"name":"미식가","path":"$$/kr/tags/미식가","id":"미식가"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"카지노","path":"$$/kr/tags/카지노","id":"카지노"},{"name":"산책","path":"$$/kr/tags/산책","id":"산책"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"}],"banner":"/images/9466-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","content":"$10","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"45b8c8c6","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"럭셔리와 편안함이 공존하는 곳"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["트레저리 브리즈번 (Treasury Brisbane)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/931443/0/9fc1b35c48bd28f3fae426e4c1483e93.jpg","alt":"트레저리 브리즈번 (Treasury Brisbane)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/60770636.jpg?k=83613a039fed6bcabd806ee13e91fc4a79533ad6aa0e93389dbe13227d806c74&s=50x50","alt":"트레저리 브리즈번 (Treasury Brisbane)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/106468545.jpg?k=dd12f3e654c044e4fa95fb45294f5b48d25a975f229809e0b7bb324203e912c3&s=50x50","alt":"트레저리 브리즈번 (Treasury Brisbane)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브리즈번의 중심지에 위치한 이 호텔은 현대적인 편의시설과 고급스러운 분위기를 자랑해요. 최고급 침구와 편안한 객실 덕분에 묵는 동안 편안한 휴식을 취할 수 있을 거예요. 특히, 다양한 레스토랑과 바가 있어 다양한 미식을 즐길 수 있다는 점이 큰 장점이에요. 또한, 호텔 내 카지노에서 특별한 경험을 해볼 수도 있어요. 시설 내 모든 것이 깔끔하게 관리되어 있어 고객의 만족도가 높습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔 주변에는 걸어서 이동할 수 있는 다양한 관광 명소가 많아요. 브리즈번의 대표적인 랜드마크인 사우스 뱅크 파크랜드도 가까워서 여유로운 산책을 즐기기 좋습니다. 또한, 친절한 직원들이 제공하는 세심한 서비스 덕분에 더 편안하게 지낼 수 있답니다. 쇼핑, 문화 생활, 레저 활동 모두 이 호텔에서 편하게 누려보세요. 이곳에서는 일상에서 벗어나 진정한 휴식을 느낄 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/treasury-brisbane_4/hotel/brisbane-au.html"},"children":[{"type":"text","value":"트레저리 브리즈번 (Treasury Brisbane)","position":{"start":{"line":68,"column":2,"offset":5656},"end":{"line":68,"column":31,"offset":5685}}}],"position":{"start":{"line":68,"column":1,"offset":5655},"end":{"line":68,"column":104,"offset":5758}}},"children":"트레저리 브리즈번 (Treasury Brisbane)"},"post":{"id":"1af0cbe8-0f94-493e-ae4d-d352a56facdf","title":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스","fileName":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","description":"브리즈번에서 힙하고 럭셔리한 호캉스를 즐기고 싶다면 여기 주목하세요! Brisbane Skytower, Emporium South Bank, Meriton Suites Herschel Street, Stamford Plaza Brisbane Hotel, 그리고 Treasury Brisbane까지. 이 다섯 호텔은 최고의 위치와 서비스로 여행객들에게 큰 인기를 끌고 있어요. 아름다운 리버뷰에서부터 최첨단 시설까지, 완벽한 휴식을 제공하는 호텔들을 만나보세요. 브리즈번을 더욱 특별하게 만들어줄 이 호텔들로 잊지 못할 추억을 만들어보세요.","date":"2024-05-29T01:17:14.057Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"호주","path":"$$/kr/tags/호주","id":"호주"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"전망 좋은 호텔","path":"$$/kr/tags/전망-좋은-호텔","id":"전망-좋은-호텔"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"편리","path":"$$/kr/tags/편리","id":"편리"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"브리즈번","path":"$$/kr/tags/브리즈번","id":"브리즈번"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"소풍","path":"$$/kr/tags/소풍","id":"소풍"},{"name":"활기","path":"$$/kr/tags/활기","id":"활기"},{"name":"미식가","path":"$$/kr/tags/미식가","id":"미식가"},{"name":"강변","path":"$$/kr/tags/강변","id":"강변"},{"name":"레스토랑","path":"$$/kr/tags/레스토랑","id":"레스토랑"},{"name":"카지노","path":"$$/kr/tags/카지노","id":"카지노"},{"name":"산책","path":"$$/kr/tags/산책","id":"산책"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"}],"banner":"/images/9466-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"브리즈번에서-가봐야할-럭셔리-호텔-5선-힙하게-즐기는-호캉스","content":"$11","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브리즈번에서의 완벽한 숙박을 원한다면 다양한 선택지가 있습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Brisbane Skytower by CLLIX"}],"는 멋진 전경 뷰와 함께 완벽한 휴식을 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"엠포리움 사우스 뱅크"}],"는 현대적 시설과 편리한 위치에서 최고의 럭셔리를 경험할 수 있으며, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"메리톤 스위트 허쉘 스트리트"}],"는 브리즈번 중심에서 고급스러운 휴식 공간을 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"스탬포드 프라자 브리즈번 호텔"}],"은 브리즈번 강변의 멋진 전망과 다양한 편의 시설을 갖춘 완벽한 휴양지로, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"트레저리 브리즈번"}],"은 중심지에서 다양한 편의시설과 레스토랑을 즐길 수 있는 고급 호텔입니다. 이처럼 브리즈번에서의 특별한 경험을 원하신다면 지금 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"예약을 서두르세요!"}]]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"브리즈번에서 가봐야할 럭셔리 호텔 5선, 힙하게 즐기는 호캉스","toc":[{"tagName":"h2","title":"브리즈번 럭셔리 호텔 5선: 힙하게 즐기는 호캉스","id":"dc5800fc"},{"tagName":"h2","title":"하늘 아래 완벽한 휴식","id":"e2a14b0c"},{"tagName":"h2","title":"브리즈번의 숨은 보석을 발견하다","id":"5987f270"},{"tagName":"h2","title":"브리즈번 도심 속 휴식의 천국","id":"9cebcf20"},{"tagName":"h2","title":"강변에서의 특별한 휴식","id":"b7f47a7f"},{"tagName":"h2","title":"럭셔리와 편안함이 공존하는 곳","id":"45b8c8c6"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

@@ -1,0 +1,369 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%A0%84%EC%A3%BC-%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-%ED%9E%90%EB%A7%81%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%9D%B4-%EC%96%B4%EC%9A%B0%EB%9F%AC%EC%A7%84-%ED%98%B8%ED%85%94-5%EC%84%A0","d"],{"children":["__PAGE__?{\"slug\":\"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%A0%84%EC%A3%BC-%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-%ED%9E%90%EB%A7%81%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%9D%B4-%EC%96%B4%EC%9A%B0%EB%9F%AC%EC%A7%84-%ED%98%B8%ED%85%94-5%EC%84%A0","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선\"}"},"styles":[]}],"segment":["slug","%EC%A0%84%EC%A3%BC-%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-%ED%9E%90%EB%A7%81%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%9D%B4-%EC%96%B4%EC%9A%B0%EB%9F%AC%EC%A7%84-%ED%98%B8%ED%85%94-5%EC%84%A0","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!"}],["$","meta","3",{"name":"keywords","content":"아시아,전주,한옥마을,편안한,전통,맛집,현지경험,한옥,편안함,따뜻함,청결,조식,위치,서비스,게스트,친절,평화로움,현대,휴식,정원"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%A0%84%EC%A3%BC-%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-%ED%9E%90%EB%A7%81%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%9D%B4-%EC%96%B4%EC%9A%B0%EB%9F%AC%EC%A7%84-%ED%98%B8%ED%85%94-5%EC%84%A0"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%A0%84%EC%A3%BC-%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-%ED%9E%90%EB%A7%81%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%9D%B4-%EC%96%B4%EC%9A%B0%EB%9F%AC%EC%A7%84-%ED%98%B8%ED%85%94-5%EC%84%A0"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/17831-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/17831-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2bb8,
+## 전주 한옥마을에서 특별한 힐링과 전통 경험하기
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 *전주 한옥마을*에서 꼭 가봐야 할 **힐링과 전통**이 어우러진 호텔 5곳을 소개하려고 해요. 전주 한옥마을은 700여 채의 전통 한옥이 모여 있는 곳으로, 한국의 깊은 역사와 문화를 직접 느낄 수 있는 특별한 장소죠. 전주 한옥마을에서는 걷기만 해도 그 옛날로 돌아간 듯한 기분을 만끽할 수 있고, 독특한 한옥 숙소에서 쉬면서 힐링을 즐길 수 있어요. 이번에 소개해 드릴 호텔들은 단순히 숙박을 넘어서 전통과 현대가 조화를 이루는, 특별한 경험을 선사하는 곳들입니다. 그렇다면 전주 한옥마을의 매력을 한껏 느끼며 진정한 힐링을 누릴 수 있는 호텔들을 함께 살펴볼까요? 기대해도 좋습니다!
+
+## 전주의 매력 속으로 떠나는 특별한 여정
+
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110110045948004.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/76611724.jpg?k=8e6b26deb899762f6771cf0d943669507db99d9d7d21cde6c397fd5a0398fae7&s=50x50)
+
+전주에 오면 한옥마을을 꼭 방문해야 한다는 건 다들 아시죠? 전통 한옥의 매력을 가득 담고 있는 이곳에는 **행복가득 한옥 게스트하우스**가 있습니다. 고즈넉한 돌담길을 따라 걷다 보면, 어느새 마주하게 되는 이 게스트하우스는 전통적인 한옥의 아름다움을 그대로 이어받아 여러분을 맞이해요. 넓은 마당과 정갈한 방들은 마치 예전에 살았던 사람들의 이야기를 듣는 듯한 착각에 빠지게 합니다. 여기서는 편안함과 동시에 전통의 아름다움을 즐길 수 있어서, 한 번 방문하면 또 오고 싶어지는 곳이 될 거에요. 특히 전통 문양이 아름다운 다다미 방은 정말 인상적이에요.
+
+전주 한옥마을을 여행하는 동안 피로를 풀고 싶다면, 행복가득 한옥 게스트하우스에서 편안한 휴식을 취해보세요. 친절한 주인분과 함께하는 아침식사는 전주의 맛을 더욱 특별하게 만들어 준답니다. 또한 도보로 가까운 거리에 있는 다양한 전통 시장과 맛집들을 방문하며, 여행의 재미를 더해보세요. 많은 방문객들이 이곳에서의 멋진 경험을 자랑하며 떠나곤 한답니다. **풍성한 전주의 매력**과 **편안한 숙박**을 원한다면, 이곳을 강력하게 추천할게요!
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+
+## 한옥마을에서 찾은 평화
+
+전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_0_image](https://pix8.agoda.net/hotelImages/18970569/0/8019e94780d53a980b78fc39b1f310f2.jpeg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_1_image](https://pix8.agoda.net/hotelImages/18970569/279177610/fa8c150e398a0d9d3d13219694f5d436.jpg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_2_image](https://pix8.agoda.net/hotelImages/18970569/0/2e39f7b1a42fb6138a36953cdb28703c.jpeg)
+
+전주의 전통이 살아 숨쉬는 한옥마을 중심에 위치한 이락당사랑채는 한옥의 매력을 듬뿍 느낄 수 있는 곳이에요. 나무 문살 사이로 스며드는 햇살, 은은하게 퍼지는 목재의 향기, 정갈한 정원이 어우러져 한눈에 마음을 사로잡아요. 이곳에서는 현대식 편의시설과 전통 한옥의 아름다움을 동시에 누릴 수 있어요. 모든 방은 깔끔하고 아늑하며 편안한 잠자리를 제공해요. 전주 한옥마을을 눈앞에 두고 하루를 시작한다는 것, 정말 특별한 경험이어요. 이락당사랑채의 따뜻한 환대와 세심한 서비스는 방문객들의 마음을 사로잡기 충분해요. 특히, 손님 하나하나를 가족처럼 맞이하는 주인장의 친절함이 기억에 남아요. 작은 디테일까지 신경쓴 인테리어와 청결한 시설은 여행객들에게 '집 같은' 편안함을 선사해요. 전주 한옥마을의 매력을 온전히 느끼며 편안하게 머물 수 있는 이곳에서 새로운 추억을 만들어보세요.
+
+[전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)](https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html)
+
+## 전주의 매력을 담은 특별한 숙소
+
+하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_0_image](https://pix8.agoda.net/hotelImages/5587572/-1/667c43a921afbe2cf439cbb8d85e3db5.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_1_image](https://pix8.agoda.net/hotelImages/5587572/-1/f7f24d4463a4e053d8f4e21722335ea9.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_2_image](https://pix8.agoda.net/hotelImages/5587572/-1/fdd0e2aa609f0e284b54c0ca964c2b97.jpg)
+
+전주의 한옥마을 한복판에 위치한 이 숙소는 전통적인 아름다움과 편안함을 동시에 느낄 수 있어요. 한옥 특유의 따뜻한 나무 향기와 아늑한 분위기가 방문하신 분들을 언제나 환영해요. 특히 이곳에서는 현대적인 시설과 전통의 절묘한 조화가 이루어져 있어요. 한옥의 특징인 마루와 대청마루에서 느낄 수 있는 시원한 바람, 그리고 아침에는 새소리와 함께 시작되는 하루가 정말 일품이에요. 손님들이 직접 경험한 다정한 서비스와 깨끗한 시설은 여러분이 머무르는 동안 편안하고 기분 좋은 시간을 보장해줄 거예요.
+
+조식도 이곳의 자랑 중 하나인데요, 전통 한식으로 구성된 아침 식사는 숙박하신 분들께 특별한 하루를 선사합니다. 또, 한옥마을의 주요 관광지가 도보로 이동 가능한 거리에 있어 매우 편리해요. 근처에 다양한 먹거리와 즐길 거리도 많아 전주의 색다른 매력을 경험하기 딱 좋은 위치랍니다. 이곳에서는 주변의 자연 경관을 감상하며 여유롭게 산책을 즐길 수 있고, 저녁에는 고즈넉한 분위기 속에서 하루의 피로를 풀 수 있어요. 전주 여행을 계획 중이라면 이 특별한 한옥에서의 숙박을 꼭 고려해보세요!
+
+[하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)](https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html)
+
+## 한옥에서의 푸근한 하루
+
+전주 한옥이야기 (Hanok Story Guesthouse)
+![전주 한옥이야기  (Hanok Story Guesthouse)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154413997.jpg?k=ce6b6bb7ca5306ae51e7361693dd1edfa6270235c618c90f0f3b5c6e55546bbb&s=450x450)
+![전주 한옥이야기  (Hanok Story Guesthouse)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/235816590.jpg?k=c4bc450046b02b5996b5d1be79b47b881e67ad4cac23216e607972e3c51afb8e&s=50x50)
+![전주 한옥이야기  (Hanok Story Guesthouse)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154416231.jpg?k=849fa02e3381dbcdad8b23dd364dc26603a9715188dc91c011a584caa84007fa&s=50x50)
+
+전주를 여행하면서 매력을 느껴본 적 있나요? 전통 한옥에서의 숙박이 참 독특하거든요. 한옥 스토리 게스트하우스는 그런 전통적인 매력을 그대로 간직한 곳이에요. 황홀한 전주 한옥마을의 중앙에 위치해 있어서, 거리에서 나는 은은한 전통의 향기와 아침에 들려오는 새소리가 참 평화로워요. 이곳에서는 현대적인 편의시설과 전통적인 한옥의 아름다움을 동시에 경험할 수 있어요.
+
+깨끗하고 아늑한 게스트하우스의 객실은 흠잡을 데 없으며, 직원들은 매우 친절해서 마치 집에 온 듯한 기분이 들어요. 특히 조식으로 제공되는 한식은 그야말로 일품이랍니다! 예약하는 동안 친구, 가족과든 편안한 시간을 보내고 싶다면 이곳으로 오세요. 전주 한옥마을을 감상하며 특별한 추억을 쌓기에 정말 좋은 곳이랍니다.
+
+[전주 한옥이야기 (Hanok Story Guesthouse)](https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html)
+
+## 전주에서의 특별한 하루를 꿈꾸세요
+
+한옥혜윰 (Hanok Hyeyum (Korea Quality))
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_0_image](https://pix8.agoda.net/hotelImages/6253152/-1/bc412627d6454bab7934c9a9a2155442.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_1_image](https://pix8.agoda.net/hotelImages/6253152/-1/d89c405fd27225189a2a417cea92f477.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_2_image](https://pix8.agoda.net/hotelImages/6253152/-1/d350c3ea6af1a266e6192a644bba03e6.jpg)
+
+전주 한옥마을 근처에서 특별한 하루를 보내고 싶으신가요? 한옥 혜윰은 전통과 현대가 조화를 이루는 멋진 선택지예요. 고즈넉한 한옥의 매력을 그대로 살리면서도, 현대적인 편안함이 여러분을 맞이해요. 여유로운 마당과 정성스러운 인테리어가 눈길을 사로잡을 거예요. 더불어 초록이 가득한 정원도 있어 자연 속에서 휴식을 취하기에 안성맞춤이랍니다.
+
+특히 한옥 혜윰의 아침 식사는 여행의 즐거움을 더해줘요. 정갈하고 건강한 한식 조식을 맛보며 하루를 시작할 수 있어요. 또한, 친절하고 따뜻한 직원들이 여러분을 집처럼 맞아줘서 기분 좋은 여행이 될 거예요. 전주의 골목골목을 탐방한 후 돌아와 편안한 휴식을 취할 수 있는 이곳, 한옥 혜윰에서 특별한 추억을 만들어보세요.
+
+[한옥혜윰 (Hanok Hyeyum (Korea Quality))](https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html)
+
+## 결론
+
+전주의 여행을 계획하신다면, *행복가득 한옥 게스트하우스*에서 전통과 편안함을 동시에 느껴보세요. 전주의 *한옥마을 일락당 사랑채*에서는 따뜻한 환대와 편안한 휴식을 경험할 수 있습니다. 또한, *하늘기와 한옥 스테이*는 전통과 현대의 조화를 이루어 더욱 특별한 숙박 경험을 제공합니다. 전주의 평온함과 특별한 추억을 누리고 싶다면, *전주 한옥이야기*를 추천드립니다. 마지막으로, 전통과 현대가 어우러진 멋진 한옥 숙소인 *한옥 혜윰*에서 여유로운 시간을 보내보세요. 지금 바로 예약하여 잊지 못할 전주 여행을 완성해보세요!
+e:T2bb8,
+## 전주 한옥마을에서 특별한 힐링과 전통 경험하기
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 *전주 한옥마을*에서 꼭 가봐야 할 **힐링과 전통**이 어우러진 호텔 5곳을 소개하려고 해요. 전주 한옥마을은 700여 채의 전통 한옥이 모여 있는 곳으로, 한국의 깊은 역사와 문화를 직접 느낄 수 있는 특별한 장소죠. 전주 한옥마을에서는 걷기만 해도 그 옛날로 돌아간 듯한 기분을 만끽할 수 있고, 독특한 한옥 숙소에서 쉬면서 힐링을 즐길 수 있어요. 이번에 소개해 드릴 호텔들은 단순히 숙박을 넘어서 전통과 현대가 조화를 이루는, 특별한 경험을 선사하는 곳들입니다. 그렇다면 전주 한옥마을의 매력을 한껏 느끼며 진정한 힐링을 누릴 수 있는 호텔들을 함께 살펴볼까요? 기대해도 좋습니다!
+
+## 전주의 매력 속으로 떠나는 특별한 여정
+
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110110045948004.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/76611724.jpg?k=8e6b26deb899762f6771cf0d943669507db99d9d7d21cde6c397fd5a0398fae7&s=50x50)
+
+전주에 오면 한옥마을을 꼭 방문해야 한다는 건 다들 아시죠? 전통 한옥의 매력을 가득 담고 있는 이곳에는 **행복가득 한옥 게스트하우스**가 있습니다. 고즈넉한 돌담길을 따라 걷다 보면, 어느새 마주하게 되는 이 게스트하우스는 전통적인 한옥의 아름다움을 그대로 이어받아 여러분을 맞이해요. 넓은 마당과 정갈한 방들은 마치 예전에 살았던 사람들의 이야기를 듣는 듯한 착각에 빠지게 합니다. 여기서는 편안함과 동시에 전통의 아름다움을 즐길 수 있어서, 한 번 방문하면 또 오고 싶어지는 곳이 될 거에요. 특히 전통 문양이 아름다운 다다미 방은 정말 인상적이에요.
+
+전주 한옥마을을 여행하는 동안 피로를 풀고 싶다면, 행복가득 한옥 게스트하우스에서 편안한 휴식을 취해보세요. 친절한 주인분과 함께하는 아침식사는 전주의 맛을 더욱 특별하게 만들어 준답니다. 또한 도보로 가까운 거리에 있는 다양한 전통 시장과 맛집들을 방문하며, 여행의 재미를 더해보세요. 많은 방문객들이 이곳에서의 멋진 경험을 자랑하며 떠나곤 한답니다. **풍성한 전주의 매력**과 **편안한 숙박**을 원한다면, 이곳을 강력하게 추천할게요!
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+
+## 한옥마을에서 찾은 평화
+
+전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_0_image](https://pix8.agoda.net/hotelImages/18970569/0/8019e94780d53a980b78fc39b1f310f2.jpeg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_1_image](https://pix8.agoda.net/hotelImages/18970569/279177610/fa8c150e398a0d9d3d13219694f5d436.jpg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_2_image](https://pix8.agoda.net/hotelImages/18970569/0/2e39f7b1a42fb6138a36953cdb28703c.jpeg)
+
+전주의 전통이 살아 숨쉬는 한옥마을 중심에 위치한 이락당사랑채는 한옥의 매력을 듬뿍 느낄 수 있는 곳이에요. 나무 문살 사이로 스며드는 햇살, 은은하게 퍼지는 목재의 향기, 정갈한 정원이 어우러져 한눈에 마음을 사로잡아요. 이곳에서는 현대식 편의시설과 전통 한옥의 아름다움을 동시에 누릴 수 있어요. 모든 방은 깔끔하고 아늑하며 편안한 잠자리를 제공해요. 전주 한옥마을을 눈앞에 두고 하루를 시작한다는 것, 정말 특별한 경험이어요. 이락당사랑채의 따뜻한 환대와 세심한 서비스는 방문객들의 마음을 사로잡기 충분해요. 특히, 손님 하나하나를 가족처럼 맞이하는 주인장의 친절함이 기억에 남아요. 작은 디테일까지 신경쓴 인테리어와 청결한 시설은 여행객들에게 '집 같은' 편안함을 선사해요. 전주 한옥마을의 매력을 온전히 느끼며 편안하게 머물 수 있는 이곳에서 새로운 추억을 만들어보세요.
+
+[전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)](https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html)
+
+## 전주의 매력을 담은 특별한 숙소
+
+하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_0_image](https://pix8.agoda.net/hotelImages/5587572/-1/667c43a921afbe2cf439cbb8d85e3db5.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_1_image](https://pix8.agoda.net/hotelImages/5587572/-1/f7f24d4463a4e053d8f4e21722335ea9.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_2_image](https://pix8.agoda.net/hotelImages/5587572/-1/fdd0e2aa609f0e284b54c0ca964c2b97.jpg)
+
+전주의 한옥마을 한복판에 위치한 이 숙소는 전통적인 아름다움과 편안함을 동시에 느낄 수 있어요. 한옥 특유의 따뜻한 나무 향기와 아늑한 분위기가 방문하신 분들을 언제나 환영해요. 특히 이곳에서는 현대적인 시설과 전통의 절묘한 조화가 이루어져 있어요. 한옥의 특징인 마루와 대청마루에서 느낄 수 있는 시원한 바람, 그리고 아침에는 새소리와 함께 시작되는 하루가 정말 일품이에요. 손님들이 직접 경험한 다정한 서비스와 깨끗한 시설은 여러분이 머무르는 동안 편안하고 기분 좋은 시간을 보장해줄 거예요.
+
+조식도 이곳의 자랑 중 하나인데요, 전통 한식으로 구성된 아침 식사는 숙박하신 분들께 특별한 하루를 선사합니다. 또, 한옥마을의 주요 관광지가 도보로 이동 가능한 거리에 있어 매우 편리해요. 근처에 다양한 먹거리와 즐길 거리도 많아 전주의 색다른 매력을 경험하기 딱 좋은 위치랍니다. 이곳에서는 주변의 자연 경관을 감상하며 여유롭게 산책을 즐길 수 있고, 저녁에는 고즈넉한 분위기 속에서 하루의 피로를 풀 수 있어요. 전주 여행을 계획 중이라면 이 특별한 한옥에서의 숙박을 꼭 고려해보세요!
+
+[하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)](https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html)
+
+## 한옥에서의 푸근한 하루
+
+전주 한옥이야기 (Hanok Story Guesthouse)
+![전주 한옥이야기  (Hanok Story Guesthouse)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154413997.jpg?k=ce6b6bb7ca5306ae51e7361693dd1edfa6270235c618c90f0f3b5c6e55546bbb&s=450x450)
+![전주 한옥이야기  (Hanok Story Guesthouse)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/235816590.jpg?k=c4bc450046b02b5996b5d1be79b47b881e67ad4cac23216e607972e3c51afb8e&s=50x50)
+![전주 한옥이야기  (Hanok Story Guesthouse)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154416231.jpg?k=849fa02e3381dbcdad8b23dd364dc26603a9715188dc91c011a584caa84007fa&s=50x50)
+
+전주를 여행하면서 매력을 느껴본 적 있나요? 전통 한옥에서의 숙박이 참 독특하거든요. 한옥 스토리 게스트하우스는 그런 전통적인 매력을 그대로 간직한 곳이에요. 황홀한 전주 한옥마을의 중앙에 위치해 있어서, 거리에서 나는 은은한 전통의 향기와 아침에 들려오는 새소리가 참 평화로워요. 이곳에서는 현대적인 편의시설과 전통적인 한옥의 아름다움을 동시에 경험할 수 있어요.
+
+깨끗하고 아늑한 게스트하우스의 객실은 흠잡을 데 없으며, 직원들은 매우 친절해서 마치 집에 온 듯한 기분이 들어요. 특히 조식으로 제공되는 한식은 그야말로 일품이랍니다! 예약하는 동안 친구, 가족과든 편안한 시간을 보내고 싶다면 이곳으로 오세요. 전주 한옥마을을 감상하며 특별한 추억을 쌓기에 정말 좋은 곳이랍니다.
+
+[전주 한옥이야기 (Hanok Story Guesthouse)](https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html)
+
+## 전주에서의 특별한 하루를 꿈꾸세요
+
+한옥혜윰 (Hanok Hyeyum (Korea Quality))
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_0_image](https://pix8.agoda.net/hotelImages/6253152/-1/bc412627d6454bab7934c9a9a2155442.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_1_image](https://pix8.agoda.net/hotelImages/6253152/-1/d89c405fd27225189a2a417cea92f477.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_2_image](https://pix8.agoda.net/hotelImages/6253152/-1/d350c3ea6af1a266e6192a644bba03e6.jpg)
+
+전주 한옥마을 근처에서 특별한 하루를 보내고 싶으신가요? 한옥 혜윰은 전통과 현대가 조화를 이루는 멋진 선택지예요. 고즈넉한 한옥의 매력을 그대로 살리면서도, 현대적인 편안함이 여러분을 맞이해요. 여유로운 마당과 정성스러운 인테리어가 눈길을 사로잡을 거예요. 더불어 초록이 가득한 정원도 있어 자연 속에서 휴식을 취하기에 안성맞춤이랍니다.
+
+특히 한옥 혜윰의 아침 식사는 여행의 즐거움을 더해줘요. 정갈하고 건강한 한식 조식을 맛보며 하루를 시작할 수 있어요. 또한, 친절하고 따뜻한 직원들이 여러분을 집처럼 맞아줘서 기분 좋은 여행이 될 거예요. 전주의 골목골목을 탐방한 후 돌아와 편안한 휴식을 취할 수 있는 이곳, 한옥 혜윰에서 특별한 추억을 만들어보세요.
+
+[한옥혜윰 (Hanok Hyeyum (Korea Quality))](https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html)
+
+## 결론
+
+전주의 여행을 계획하신다면, *행복가득 한옥 게스트하우스*에서 전통과 편안함을 동시에 느껴보세요. 전주의 *한옥마을 일락당 사랑채*에서는 따뜻한 환대와 편안한 휴식을 경험할 수 있습니다. 또한, *하늘기와 한옥 스테이*는 전통과 현대의 조화를 이루어 더욱 특별한 숙박 경험을 제공합니다. 전주의 평온함과 특별한 추억을 누리고 싶다면, *전주 한옥이야기*를 추천드립니다. 마지막으로, 전통과 현대가 어우러진 멋진 한옥 숙소인 *한옥 혜윰*에서 여유로운 시간을 보내보세요. 지금 바로 예약하여 잊지 못할 전주 여행을 완성해보세요!
+f:T2bb8,
+## 전주 한옥마을에서 특별한 힐링과 전통 경험하기
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 *전주 한옥마을*에서 꼭 가봐야 할 **힐링과 전통**이 어우러진 호텔 5곳을 소개하려고 해요. 전주 한옥마을은 700여 채의 전통 한옥이 모여 있는 곳으로, 한국의 깊은 역사와 문화를 직접 느낄 수 있는 특별한 장소죠. 전주 한옥마을에서는 걷기만 해도 그 옛날로 돌아간 듯한 기분을 만끽할 수 있고, 독특한 한옥 숙소에서 쉬면서 힐링을 즐길 수 있어요. 이번에 소개해 드릴 호텔들은 단순히 숙박을 넘어서 전통과 현대가 조화를 이루는, 특별한 경험을 선사하는 곳들입니다. 그렇다면 전주 한옥마을의 매력을 한껏 느끼며 진정한 힐링을 누릴 수 있는 호텔들을 함께 살펴볼까요? 기대해도 좋습니다!
+
+## 전주의 매력 속으로 떠나는 특별한 여정
+
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110110045948004.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/76611724.jpg?k=8e6b26deb899762f6771cf0d943669507db99d9d7d21cde6c397fd5a0398fae7&s=50x50)
+
+전주에 오면 한옥마을을 꼭 방문해야 한다는 건 다들 아시죠? 전통 한옥의 매력을 가득 담고 있는 이곳에는 **행복가득 한옥 게스트하우스**가 있습니다. 고즈넉한 돌담길을 따라 걷다 보면, 어느새 마주하게 되는 이 게스트하우스는 전통적인 한옥의 아름다움을 그대로 이어받아 여러분을 맞이해요. 넓은 마당과 정갈한 방들은 마치 예전에 살았던 사람들의 이야기를 듣는 듯한 착각에 빠지게 합니다. 여기서는 편안함과 동시에 전통의 아름다움을 즐길 수 있어서, 한 번 방문하면 또 오고 싶어지는 곳이 될 거에요. 특히 전통 문양이 아름다운 다다미 방은 정말 인상적이에요.
+
+전주 한옥마을을 여행하는 동안 피로를 풀고 싶다면, 행복가득 한옥 게스트하우스에서 편안한 휴식을 취해보세요. 친절한 주인분과 함께하는 아침식사는 전주의 맛을 더욱 특별하게 만들어 준답니다. 또한 도보로 가까운 거리에 있는 다양한 전통 시장과 맛집들을 방문하며, 여행의 재미를 더해보세요. 많은 방문객들이 이곳에서의 멋진 경험을 자랑하며 떠나곤 한답니다. **풍성한 전주의 매력**과 **편안한 숙박**을 원한다면, 이곳을 강력하게 추천할게요!
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+
+## 한옥마을에서 찾은 평화
+
+전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_0_image](https://pix8.agoda.net/hotelImages/18970569/0/8019e94780d53a980b78fc39b1f310f2.jpeg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_1_image](https://pix8.agoda.net/hotelImages/18970569/279177610/fa8c150e398a0d9d3d13219694f5d436.jpg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_2_image](https://pix8.agoda.net/hotelImages/18970569/0/2e39f7b1a42fb6138a36953cdb28703c.jpeg)
+
+전주의 전통이 살아 숨쉬는 한옥마을 중심에 위치한 이락당사랑채는 한옥의 매력을 듬뿍 느낄 수 있는 곳이에요. 나무 문살 사이로 스며드는 햇살, 은은하게 퍼지는 목재의 향기, 정갈한 정원이 어우러져 한눈에 마음을 사로잡아요. 이곳에서는 현대식 편의시설과 전통 한옥의 아름다움을 동시에 누릴 수 있어요. 모든 방은 깔끔하고 아늑하며 편안한 잠자리를 제공해요. 전주 한옥마을을 눈앞에 두고 하루를 시작한다는 것, 정말 특별한 경험이어요. 이락당사랑채의 따뜻한 환대와 세심한 서비스는 방문객들의 마음을 사로잡기 충분해요. 특히, 손님 하나하나를 가족처럼 맞이하는 주인장의 친절함이 기억에 남아요. 작은 디테일까지 신경쓴 인테리어와 청결한 시설은 여행객들에게 '집 같은' 편안함을 선사해요. 전주 한옥마을의 매력을 온전히 느끼며 편안하게 머물 수 있는 이곳에서 새로운 추억을 만들어보세요.
+
+[전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)](https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html)
+
+## 전주의 매력을 담은 특별한 숙소
+
+하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_0_image](https://pix8.agoda.net/hotelImages/5587572/-1/667c43a921afbe2cf439cbb8d85e3db5.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_1_image](https://pix8.agoda.net/hotelImages/5587572/-1/f7f24d4463a4e053d8f4e21722335ea9.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_2_image](https://pix8.agoda.net/hotelImages/5587572/-1/fdd0e2aa609f0e284b54c0ca964c2b97.jpg)
+
+전주의 한옥마을 한복판에 위치한 이 숙소는 전통적인 아름다움과 편안함을 동시에 느낄 수 있어요. 한옥 특유의 따뜻한 나무 향기와 아늑한 분위기가 방문하신 분들을 언제나 환영해요. 특히 이곳에서는 현대적인 시설과 전통의 절묘한 조화가 이루어져 있어요. 한옥의 특징인 마루와 대청마루에서 느낄 수 있는 시원한 바람, 그리고 아침에는 새소리와 함께 시작되는 하루가 정말 일품이에요. 손님들이 직접 경험한 다정한 서비스와 깨끗한 시설은 여러분이 머무르는 동안 편안하고 기분 좋은 시간을 보장해줄 거예요.
+
+조식도 이곳의 자랑 중 하나인데요, 전통 한식으로 구성된 아침 식사는 숙박하신 분들께 특별한 하루를 선사합니다. 또, 한옥마을의 주요 관광지가 도보로 이동 가능한 거리에 있어 매우 편리해요. 근처에 다양한 먹거리와 즐길 거리도 많아 전주의 색다른 매력을 경험하기 딱 좋은 위치랍니다. 이곳에서는 주변의 자연 경관을 감상하며 여유롭게 산책을 즐길 수 있고, 저녁에는 고즈넉한 분위기 속에서 하루의 피로를 풀 수 있어요. 전주 여행을 계획 중이라면 이 특별한 한옥에서의 숙박을 꼭 고려해보세요!
+
+[하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)](https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html)
+
+## 한옥에서의 푸근한 하루
+
+전주 한옥이야기 (Hanok Story Guesthouse)
+![전주 한옥이야기  (Hanok Story Guesthouse)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154413997.jpg?k=ce6b6bb7ca5306ae51e7361693dd1edfa6270235c618c90f0f3b5c6e55546bbb&s=450x450)
+![전주 한옥이야기  (Hanok Story Guesthouse)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/235816590.jpg?k=c4bc450046b02b5996b5d1be79b47b881e67ad4cac23216e607972e3c51afb8e&s=50x50)
+![전주 한옥이야기  (Hanok Story Guesthouse)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154416231.jpg?k=849fa02e3381dbcdad8b23dd364dc26603a9715188dc91c011a584caa84007fa&s=50x50)
+
+전주를 여행하면서 매력을 느껴본 적 있나요? 전통 한옥에서의 숙박이 참 독특하거든요. 한옥 스토리 게스트하우스는 그런 전통적인 매력을 그대로 간직한 곳이에요. 황홀한 전주 한옥마을의 중앙에 위치해 있어서, 거리에서 나는 은은한 전통의 향기와 아침에 들려오는 새소리가 참 평화로워요. 이곳에서는 현대적인 편의시설과 전통적인 한옥의 아름다움을 동시에 경험할 수 있어요.
+
+깨끗하고 아늑한 게스트하우스의 객실은 흠잡을 데 없으며, 직원들은 매우 친절해서 마치 집에 온 듯한 기분이 들어요. 특히 조식으로 제공되는 한식은 그야말로 일품이랍니다! 예약하는 동안 친구, 가족과든 편안한 시간을 보내고 싶다면 이곳으로 오세요. 전주 한옥마을을 감상하며 특별한 추억을 쌓기에 정말 좋은 곳이랍니다.
+
+[전주 한옥이야기 (Hanok Story Guesthouse)](https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html)
+
+## 전주에서의 특별한 하루를 꿈꾸세요
+
+한옥혜윰 (Hanok Hyeyum (Korea Quality))
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_0_image](https://pix8.agoda.net/hotelImages/6253152/-1/bc412627d6454bab7934c9a9a2155442.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_1_image](https://pix8.agoda.net/hotelImages/6253152/-1/d89c405fd27225189a2a417cea92f477.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_2_image](https://pix8.agoda.net/hotelImages/6253152/-1/d350c3ea6af1a266e6192a644bba03e6.jpg)
+
+전주 한옥마을 근처에서 특별한 하루를 보내고 싶으신가요? 한옥 혜윰은 전통과 현대가 조화를 이루는 멋진 선택지예요. 고즈넉한 한옥의 매력을 그대로 살리면서도, 현대적인 편안함이 여러분을 맞이해요. 여유로운 마당과 정성스러운 인테리어가 눈길을 사로잡을 거예요. 더불어 초록이 가득한 정원도 있어 자연 속에서 휴식을 취하기에 안성맞춤이랍니다.
+
+특히 한옥 혜윰의 아침 식사는 여행의 즐거움을 더해줘요. 정갈하고 건강한 한식 조식을 맛보며 하루를 시작할 수 있어요. 또한, 친절하고 따뜻한 직원들이 여러분을 집처럼 맞아줘서 기분 좋은 여행이 될 거예요. 전주의 골목골목을 탐방한 후 돌아와 편안한 휴식을 취할 수 있는 이곳, 한옥 혜윰에서 특별한 추억을 만들어보세요.
+
+[한옥혜윰 (Hanok Hyeyum (Korea Quality))](https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html)
+
+## 결론
+
+전주의 여행을 계획하신다면, *행복가득 한옥 게스트하우스*에서 전통과 편안함을 동시에 느껴보세요. 전주의 *한옥마을 일락당 사랑채*에서는 따뜻한 환대와 편안한 휴식을 경험할 수 있습니다. 또한, *하늘기와 한옥 스테이*는 전통과 현대의 조화를 이루어 더욱 특별한 숙박 경험을 제공합니다. 전주의 평온함과 특별한 추억을 누리고 싶다면, *전주 한옥이야기*를 추천드립니다. 마지막으로, 전통과 현대가 어우러진 멋진 한옥 숙소인 *한옥 혜윰*에서 여유로운 시간을 보내보세요. 지금 바로 예약하여 잊지 못할 전주 여행을 완성해보세요!
+10:T2bb8,
+## 전주 한옥마을에서 특별한 힐링과 전통 경험하기
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 *전주 한옥마을*에서 꼭 가봐야 할 **힐링과 전통**이 어우러진 호텔 5곳을 소개하려고 해요. 전주 한옥마을은 700여 채의 전통 한옥이 모여 있는 곳으로, 한국의 깊은 역사와 문화를 직접 느낄 수 있는 특별한 장소죠. 전주 한옥마을에서는 걷기만 해도 그 옛날로 돌아간 듯한 기분을 만끽할 수 있고, 독특한 한옥 숙소에서 쉬면서 힐링을 즐길 수 있어요. 이번에 소개해 드릴 호텔들은 단순히 숙박을 넘어서 전통과 현대가 조화를 이루는, 특별한 경험을 선사하는 곳들입니다. 그렇다면 전주 한옥마을의 매력을 한껏 느끼며 진정한 힐링을 누릴 수 있는 호텔들을 함께 살펴볼까요? 기대해도 좋습니다!
+
+## 전주의 매력 속으로 떠나는 특별한 여정
+
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110110045948004.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/76611724.jpg?k=8e6b26deb899762f6771cf0d943669507db99d9d7d21cde6c397fd5a0398fae7&s=50x50)
+
+전주에 오면 한옥마을을 꼭 방문해야 한다는 건 다들 아시죠? 전통 한옥의 매력을 가득 담고 있는 이곳에는 **행복가득 한옥 게스트하우스**가 있습니다. 고즈넉한 돌담길을 따라 걷다 보면, 어느새 마주하게 되는 이 게스트하우스는 전통적인 한옥의 아름다움을 그대로 이어받아 여러분을 맞이해요. 넓은 마당과 정갈한 방들은 마치 예전에 살았던 사람들의 이야기를 듣는 듯한 착각에 빠지게 합니다. 여기서는 편안함과 동시에 전통의 아름다움을 즐길 수 있어서, 한 번 방문하면 또 오고 싶어지는 곳이 될 거에요. 특히 전통 문양이 아름다운 다다미 방은 정말 인상적이에요.
+
+전주 한옥마을을 여행하는 동안 피로를 풀고 싶다면, 행복가득 한옥 게스트하우스에서 편안한 휴식을 취해보세요. 친절한 주인분과 함께하는 아침식사는 전주의 맛을 더욱 특별하게 만들어 준답니다. 또한 도보로 가까운 거리에 있는 다양한 전통 시장과 맛집들을 방문하며, 여행의 재미를 더해보세요. 많은 방문객들이 이곳에서의 멋진 경험을 자랑하며 떠나곤 한답니다. **풍성한 전주의 매력**과 **편안한 숙박**을 원한다면, 이곳을 강력하게 추천할게요!
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+
+## 한옥마을에서 찾은 평화
+
+전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_0_image](https://pix8.agoda.net/hotelImages/18970569/0/8019e94780d53a980b78fc39b1f310f2.jpeg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_1_image](https://pix8.agoda.net/hotelImages/18970569/279177610/fa8c150e398a0d9d3d13219694f5d436.jpg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_2_image](https://pix8.agoda.net/hotelImages/18970569/0/2e39f7b1a42fb6138a36953cdb28703c.jpeg)
+
+전주의 전통이 살아 숨쉬는 한옥마을 중심에 위치한 이락당사랑채는 한옥의 매력을 듬뿍 느낄 수 있는 곳이에요. 나무 문살 사이로 스며드는 햇살, 은은하게 퍼지는 목재의 향기, 정갈한 정원이 어우러져 한눈에 마음을 사로잡아요. 이곳에서는 현대식 편의시설과 전통 한옥의 아름다움을 동시에 누릴 수 있어요. 모든 방은 깔끔하고 아늑하며 편안한 잠자리를 제공해요. 전주 한옥마을을 눈앞에 두고 하루를 시작한다는 것, 정말 특별한 경험이어요. 이락당사랑채의 따뜻한 환대와 세심한 서비스는 방문객들의 마음을 사로잡기 충분해요. 특히, 손님 하나하나를 가족처럼 맞이하는 주인장의 친절함이 기억에 남아요. 작은 디테일까지 신경쓴 인테리어와 청결한 시설은 여행객들에게 '집 같은' 편안함을 선사해요. 전주 한옥마을의 매력을 온전히 느끼며 편안하게 머물 수 있는 이곳에서 새로운 추억을 만들어보세요.
+
+[전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)](https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html)
+
+## 전주의 매력을 담은 특별한 숙소
+
+하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_0_image](https://pix8.agoda.net/hotelImages/5587572/-1/667c43a921afbe2cf439cbb8d85e3db5.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_1_image](https://pix8.agoda.net/hotelImages/5587572/-1/f7f24d4463a4e053d8f4e21722335ea9.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_2_image](https://pix8.agoda.net/hotelImages/5587572/-1/fdd0e2aa609f0e284b54c0ca964c2b97.jpg)
+
+전주의 한옥마을 한복판에 위치한 이 숙소는 전통적인 아름다움과 편안함을 동시에 느낄 수 있어요. 한옥 특유의 따뜻한 나무 향기와 아늑한 분위기가 방문하신 분들을 언제나 환영해요. 특히 이곳에서는 현대적인 시설과 전통의 절묘한 조화가 이루어져 있어요. 한옥의 특징인 마루와 대청마루에서 느낄 수 있는 시원한 바람, 그리고 아침에는 새소리와 함께 시작되는 하루가 정말 일품이에요. 손님들이 직접 경험한 다정한 서비스와 깨끗한 시설은 여러분이 머무르는 동안 편안하고 기분 좋은 시간을 보장해줄 거예요.
+
+조식도 이곳의 자랑 중 하나인데요, 전통 한식으로 구성된 아침 식사는 숙박하신 분들께 특별한 하루를 선사합니다. 또, 한옥마을의 주요 관광지가 도보로 이동 가능한 거리에 있어 매우 편리해요. 근처에 다양한 먹거리와 즐길 거리도 많아 전주의 색다른 매력을 경험하기 딱 좋은 위치랍니다. 이곳에서는 주변의 자연 경관을 감상하며 여유롭게 산책을 즐길 수 있고, 저녁에는 고즈넉한 분위기 속에서 하루의 피로를 풀 수 있어요. 전주 여행을 계획 중이라면 이 특별한 한옥에서의 숙박을 꼭 고려해보세요!
+
+[하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)](https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html)
+
+## 한옥에서의 푸근한 하루
+
+전주 한옥이야기 (Hanok Story Guesthouse)
+![전주 한옥이야기  (Hanok Story Guesthouse)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154413997.jpg?k=ce6b6bb7ca5306ae51e7361693dd1edfa6270235c618c90f0f3b5c6e55546bbb&s=450x450)
+![전주 한옥이야기  (Hanok Story Guesthouse)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/235816590.jpg?k=c4bc450046b02b5996b5d1be79b47b881e67ad4cac23216e607972e3c51afb8e&s=50x50)
+![전주 한옥이야기  (Hanok Story Guesthouse)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154416231.jpg?k=849fa02e3381dbcdad8b23dd364dc26603a9715188dc91c011a584caa84007fa&s=50x50)
+
+전주를 여행하면서 매력을 느껴본 적 있나요? 전통 한옥에서의 숙박이 참 독특하거든요. 한옥 스토리 게스트하우스는 그런 전통적인 매력을 그대로 간직한 곳이에요. 황홀한 전주 한옥마을의 중앙에 위치해 있어서, 거리에서 나는 은은한 전통의 향기와 아침에 들려오는 새소리가 참 평화로워요. 이곳에서는 현대적인 편의시설과 전통적인 한옥의 아름다움을 동시에 경험할 수 있어요.
+
+깨끗하고 아늑한 게스트하우스의 객실은 흠잡을 데 없으며, 직원들은 매우 친절해서 마치 집에 온 듯한 기분이 들어요. 특히 조식으로 제공되는 한식은 그야말로 일품이랍니다! 예약하는 동안 친구, 가족과든 편안한 시간을 보내고 싶다면 이곳으로 오세요. 전주 한옥마을을 감상하며 특별한 추억을 쌓기에 정말 좋은 곳이랍니다.
+
+[전주 한옥이야기 (Hanok Story Guesthouse)](https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html)
+
+## 전주에서의 특별한 하루를 꿈꾸세요
+
+한옥혜윰 (Hanok Hyeyum (Korea Quality))
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_0_image](https://pix8.agoda.net/hotelImages/6253152/-1/bc412627d6454bab7934c9a9a2155442.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_1_image](https://pix8.agoda.net/hotelImages/6253152/-1/d89c405fd27225189a2a417cea92f477.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_2_image](https://pix8.agoda.net/hotelImages/6253152/-1/d350c3ea6af1a266e6192a644bba03e6.jpg)
+
+전주 한옥마을 근처에서 특별한 하루를 보내고 싶으신가요? 한옥 혜윰은 전통과 현대가 조화를 이루는 멋진 선택지예요. 고즈넉한 한옥의 매력을 그대로 살리면서도, 현대적인 편안함이 여러분을 맞이해요. 여유로운 마당과 정성스러운 인테리어가 눈길을 사로잡을 거예요. 더불어 초록이 가득한 정원도 있어 자연 속에서 휴식을 취하기에 안성맞춤이랍니다.
+
+특히 한옥 혜윰의 아침 식사는 여행의 즐거움을 더해줘요. 정갈하고 건강한 한식 조식을 맛보며 하루를 시작할 수 있어요. 또한, 친절하고 따뜻한 직원들이 여러분을 집처럼 맞아줘서 기분 좋은 여행이 될 거예요. 전주의 골목골목을 탐방한 후 돌아와 편안한 휴식을 취할 수 있는 이곳, 한옥 혜윰에서 특별한 추억을 만들어보세요.
+
+[한옥혜윰 (Hanok Hyeyum (Korea Quality))](https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html)
+
+## 결론
+
+전주의 여행을 계획하신다면, *행복가득 한옥 게스트하우스*에서 전통과 편안함을 동시에 느껴보세요. 전주의 *한옥마을 일락당 사랑채*에서는 따뜻한 환대와 편안한 휴식을 경험할 수 있습니다. 또한, *하늘기와 한옥 스테이*는 전통과 현대의 조화를 이루어 더욱 특별한 숙박 경험을 제공합니다. 전주의 평온함과 특별한 추억을 누리고 싶다면, *전주 한옥이야기*를 추천드립니다. 마지막으로, 전통과 현대가 어우러진 멋진 한옥 숙소인 *한옥 혜윰*에서 여유로운 시간을 보내보세요. 지금 바로 예약하여 잊지 못할 전주 여행을 완성해보세요!
+11:T2bb8,
+## 전주 한옥마을에서 특별한 힐링과 전통 경험하기
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 *전주 한옥마을*에서 꼭 가봐야 할 **힐링과 전통**이 어우러진 호텔 5곳을 소개하려고 해요. 전주 한옥마을은 700여 채의 전통 한옥이 모여 있는 곳으로, 한국의 깊은 역사와 문화를 직접 느낄 수 있는 특별한 장소죠. 전주 한옥마을에서는 걷기만 해도 그 옛날로 돌아간 듯한 기분을 만끽할 수 있고, 독특한 한옥 숙소에서 쉬면서 힐링을 즐길 수 있어요. 이번에 소개해 드릴 호텔들은 단순히 숙박을 넘어서 전통과 현대가 조화를 이루는, 특별한 경험을 선사하는 곳들입니다. 그렇다면 전주 한옥마을의 매력을 한껏 느끼며 진정한 힐링을 누릴 수 있는 호텔들을 함께 살펴볼까요? 기대해도 좋습니다!
+
+## 전주의 매력 속으로 떠나는 특별한 여정
+
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110110045948004.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/76611724.jpg?k=8e6b26deb899762f6771cf0d943669507db99d9d7d21cde6c397fd5a0398fae7&s=50x50)
+
+전주에 오면 한옥마을을 꼭 방문해야 한다는 건 다들 아시죠? 전통 한옥의 매력을 가득 담고 있는 이곳에는 **행복가득 한옥 게스트하우스**가 있습니다. 고즈넉한 돌담길을 따라 걷다 보면, 어느새 마주하게 되는 이 게스트하우스는 전통적인 한옥의 아름다움을 그대로 이어받아 여러분을 맞이해요. 넓은 마당과 정갈한 방들은 마치 예전에 살았던 사람들의 이야기를 듣는 듯한 착각에 빠지게 합니다. 여기서는 편안함과 동시에 전통의 아름다움을 즐길 수 있어서, 한 번 방문하면 또 오고 싶어지는 곳이 될 거에요. 특히 전통 문양이 아름다운 다다미 방은 정말 인상적이에요.
+
+전주 한옥마을을 여행하는 동안 피로를 풀고 싶다면, 행복가득 한옥 게스트하우스에서 편안한 휴식을 취해보세요. 친절한 주인분과 함께하는 아침식사는 전주의 맛을 더욱 특별하게 만들어 준답니다. 또한 도보로 가까운 거리에 있는 다양한 전통 시장과 맛집들을 방문하며, 여행의 재미를 더해보세요. 많은 방문객들이 이곳에서의 멋진 경험을 자랑하며 떠나곤 한답니다. **풍성한 전주의 매력**과 **편안한 숙박**을 원한다면, 이곳을 강력하게 추천할게요!
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+
+## 한옥마을에서 찾은 평화
+
+전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_0_image](https://pix8.agoda.net/hotelImages/18970569/0/8019e94780d53a980b78fc39b1f310f2.jpeg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_1_image](https://pix8.agoda.net/hotelImages/18970569/279177610/fa8c150e398a0d9d3d13219694f5d436.jpg)
+![전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_2_image](https://pix8.agoda.net/hotelImages/18970569/0/2e39f7b1a42fb6138a36953cdb28703c.jpeg)
+
+전주의 전통이 살아 숨쉬는 한옥마을 중심에 위치한 이락당사랑채는 한옥의 매력을 듬뿍 느낄 수 있는 곳이에요. 나무 문살 사이로 스며드는 햇살, 은은하게 퍼지는 목재의 향기, 정갈한 정원이 어우러져 한눈에 마음을 사로잡아요. 이곳에서는 현대식 편의시설과 전통 한옥의 아름다움을 동시에 누릴 수 있어요. 모든 방은 깔끔하고 아늑하며 편안한 잠자리를 제공해요. 전주 한옥마을을 눈앞에 두고 하루를 시작한다는 것, 정말 특별한 경험이어요. 이락당사랑채의 따뜻한 환대와 세심한 서비스는 방문객들의 마음을 사로잡기 충분해요. 특히, 손님 하나하나를 가족처럼 맞이하는 주인장의 친절함이 기억에 남아요. 작은 디테일까지 신경쓴 인테리어와 청결한 시설은 여행객들에게 '집 같은' 편안함을 선사해요. 전주 한옥마을의 매력을 온전히 느끼며 편안하게 머물 수 있는 이곳에서 새로운 추억을 만들어보세요.
+
+[전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)](https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html)
+
+## 전주의 매력을 담은 특별한 숙소
+
+하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_0_image](https://pix8.agoda.net/hotelImages/5587572/-1/667c43a921afbe2cf439cbb8d85e3db5.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_1_image](https://pix8.agoda.net/hotelImages/5587572/-1/f7f24d4463a4e053d8f4e21722335ea9.jpg)
+![하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_2_image](https://pix8.agoda.net/hotelImages/5587572/-1/fdd0e2aa609f0e284b54c0ca964c2b97.jpg)
+
+전주의 한옥마을 한복판에 위치한 이 숙소는 전통적인 아름다움과 편안함을 동시에 느낄 수 있어요. 한옥 특유의 따뜻한 나무 향기와 아늑한 분위기가 방문하신 분들을 언제나 환영해요. 특히 이곳에서는 현대적인 시설과 전통의 절묘한 조화가 이루어져 있어요. 한옥의 특징인 마루와 대청마루에서 느낄 수 있는 시원한 바람, 그리고 아침에는 새소리와 함께 시작되는 하루가 정말 일품이에요. 손님들이 직접 경험한 다정한 서비스와 깨끗한 시설은 여러분이 머무르는 동안 편안하고 기분 좋은 시간을 보장해줄 거예요.
+
+조식도 이곳의 자랑 중 하나인데요, 전통 한식으로 구성된 아침 식사는 숙박하신 분들께 특별한 하루를 선사합니다. 또, 한옥마을의 주요 관광지가 도보로 이동 가능한 거리에 있어 매우 편리해요. 근처에 다양한 먹거리와 즐길 거리도 많아 전주의 색다른 매력을 경험하기 딱 좋은 위치랍니다. 이곳에서는 주변의 자연 경관을 감상하며 여유롭게 산책을 즐길 수 있고, 저녁에는 고즈넉한 분위기 속에서 하루의 피로를 풀 수 있어요. 전주 여행을 계획 중이라면 이 특별한 한옥에서의 숙박을 꼭 고려해보세요!
+
+[하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)](https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html)
+
+## 한옥에서의 푸근한 하루
+
+전주 한옥이야기 (Hanok Story Guesthouse)
+![전주 한옥이야기  (Hanok Story Guesthouse)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154413997.jpg?k=ce6b6bb7ca5306ae51e7361693dd1edfa6270235c618c90f0f3b5c6e55546bbb&s=450x450)
+![전주 한옥이야기  (Hanok Story Guesthouse)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/235816590.jpg?k=c4bc450046b02b5996b5d1be79b47b881e67ad4cac23216e607972e3c51afb8e&s=50x50)
+![전주 한옥이야기  (Hanok Story Guesthouse)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/154416231.jpg?k=849fa02e3381dbcdad8b23dd364dc26603a9715188dc91c011a584caa84007fa&s=50x50)
+
+전주를 여행하면서 매력을 느껴본 적 있나요? 전통 한옥에서의 숙박이 참 독특하거든요. 한옥 스토리 게스트하우스는 그런 전통적인 매력을 그대로 간직한 곳이에요. 황홀한 전주 한옥마을의 중앙에 위치해 있어서, 거리에서 나는 은은한 전통의 향기와 아침에 들려오는 새소리가 참 평화로워요. 이곳에서는 현대적인 편의시설과 전통적인 한옥의 아름다움을 동시에 경험할 수 있어요.
+
+깨끗하고 아늑한 게스트하우스의 객실은 흠잡을 데 없으며, 직원들은 매우 친절해서 마치 집에 온 듯한 기분이 들어요. 특히 조식으로 제공되는 한식은 그야말로 일품이랍니다! 예약하는 동안 친구, 가족과든 편안한 시간을 보내고 싶다면 이곳으로 오세요. 전주 한옥마을을 감상하며 특별한 추억을 쌓기에 정말 좋은 곳이랍니다.
+
+[전주 한옥이야기 (Hanok Story Guesthouse)](https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html)
+
+## 전주에서의 특별한 하루를 꿈꾸세요
+
+한옥혜윰 (Hanok Hyeyum (Korea Quality))
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_0_image](https://pix8.agoda.net/hotelImages/6253152/-1/bc412627d6454bab7934c9a9a2155442.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_1_image](https://pix8.agoda.net/hotelImages/6253152/-1/d89c405fd27225189a2a417cea92f477.jpg)
+![한옥혜윰 (Hanok Hyeyum (Korea Quality))_2_image](https://pix8.agoda.net/hotelImages/6253152/-1/d350c3ea6af1a266e6192a644bba03e6.jpg)
+
+전주 한옥마을 근처에서 특별한 하루를 보내고 싶으신가요? 한옥 혜윰은 전통과 현대가 조화를 이루는 멋진 선택지예요. 고즈넉한 한옥의 매력을 그대로 살리면서도, 현대적인 편안함이 여러분을 맞이해요. 여유로운 마당과 정성스러운 인테리어가 눈길을 사로잡을 거예요. 더불어 초록이 가득한 정원도 있어 자연 속에서 휴식을 취하기에 안성맞춤이랍니다.
+
+특히 한옥 혜윰의 아침 식사는 여행의 즐거움을 더해줘요. 정갈하고 건강한 한식 조식을 맛보며 하루를 시작할 수 있어요. 또한, 친절하고 따뜻한 직원들이 여러분을 집처럼 맞아줘서 기분 좋은 여행이 될 거예요. 전주의 골목골목을 탐방한 후 돌아와 편안한 휴식을 취할 수 있는 이곳, 한옥 혜윰에서 특별한 추억을 만들어보세요.
+
+[한옥혜윰 (Hanok Hyeyum (Korea Quality))](https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html)
+
+## 결론
+
+전주의 여행을 계획하신다면, *행복가득 한옥 게스트하우스*에서 전통과 편안함을 동시에 느껴보세요. 전주의 *한옥마을 일락당 사랑채*에서는 따뜻한 환대와 편안한 휴식을 경험할 수 있습니다. 또한, *하늘기와 한옥 스테이*는 전통과 현대의 조화를 이루어 더욱 특별한 숙박 경험을 제공합니다. 전주의 평온함과 특별한 추억을 누리고 싶다면, *전주 한옥이야기*를 추천드립니다. 마지막으로, 전통과 현대가 어우러진 멋진 한옥 숙소인 *한옥 혜윰*에서 여유로운 시간을 보내보세요. 지금 바로 예약하여 잊지 못할 전주 여행을 완성해보세요!
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선"}],["$","data",null,{"children":"2024-05-31T03:19:54.666Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"아시아"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"전주"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"한옥마을"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"편안한"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"전통"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"맛집"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"현지경험"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"한옥"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"따뜻함"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"청결"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"위치"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"게스트"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"평화로움"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"현대"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"정원"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"b944260d","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주 한옥마을에서 특별한 힐링과 전통 경험하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"전주 한옥마을"}],"에서 꼭 가봐야 할 ",["$","strong",null,{"className":"font-black","children":"힐링과 전통"}],"이 어우러진 호텔 5곳을 소개하려고 해요. 전주 한옥마을은 700여 채의 전통 한옥이 모여 있는 곳으로, 한국의 깊은 역사와 문화를 직접 느낄 수 있는 특별한 장소죠. 전주 한옥마을에서는 걷기만 해도 그 옛날로 돌아간 듯한 기분을 만끽할 수 있고, 독특한 한옥 숙소에서 쉬면서 힐링을 즐길 수 있어요. 이번에 소개해 드릴 호텔들은 단순히 숙박을 넘어서 전통과 현대가 조화를 이루는, 특별한 경험을 선사하는 곳들입니다. 그렇다면 전주 한옥마을의 매력을 한껏 느끼며 진정한 힐링을 누릴 수 있는 호텔들을 함께 살펴볼까요? 기대해도 좋습니다!"]}],"\n",["$","h2",null,{"id":"0e80d96c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주의 매력 속으로 떠나는 특별한 여정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg","alt":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/947/947875/947875_16083110110045948004.jpg","alt":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/76611724.jpg?k=8e6b26deb899762f6771cf0d943669507db99d9d7d21cde6c397fd5a0398fae7&s=50x50","alt":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["전주에 오면 한옥마을을 꼭 방문해야 한다는 건 다들 아시죠? 전통 한옥의 매력을 가득 담고 있는 이곳에는 ",["$","strong",null,{"className":"font-black","children":"행복가득 한옥 게스트하우스"}],"가 있습니다. 고즈넉한 돌담길을 따라 걷다 보면, 어느새 마주하게 되는 이 게스트하우스는 전통적인 한옥의 아름다움을 그대로 이어받아 여러분을 맞이해요. 넓은 마당과 정갈한 방들은 마치 예전에 살았던 사람들의 이야기를 듣는 듯한 착각에 빠지게 합니다. 여기서는 편안함과 동시에 전통의 아름다움을 즐길 수 있어서, 한 번 방문하면 또 오고 싶어지는 곳이 될 거에요. 특히 전통 문양이 아름다운 다다미 방은 정말 인상적이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["전주 한옥마을을 여행하는 동안 피로를 풀고 싶다면, 행복가득 한옥 게스트하우스에서 편안한 휴식을 취해보세요. 친절한 주인분과 함께하는 아침식사는 전주의 맛을 더욱 특별하게 만들어 준답니다. 또한 도보로 가까운 거리에 있는 다양한 전통 시장과 맛집들을 방문하며, 여행의 재미를 더해보세요. 많은 방문객들이 이곳에서의 멋진 경험을 자랑하며 떠나곤 한답니다. ",["$","strong",null,{"className":"font-black","children":"풍성한 전주의 매력"}],"과 ",["$","strong",null,{"className":"font-black","children":"편안한 숙박"}],"을 원한다면, 이곳을 강력하게 추천할게요!"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)","position":{"start":{"line":17,"column":2,"offset":1542},"end":{"line":17,"column":57,"offset":1597}}}],"position":{"start":{"line":17,"column":1,"offset":1541},"end":{"line":17,"column":150,"offset":1690}}},"children":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)"},"post":{"id":"83c35ddc-5540-4f92-a30b-dcc4e1d664ab","title":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선","fileName":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","description":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!","date":"2024-05-31T03:19:54.666Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"현지경험","path":"$$/kr/tags/현지경험","id":"현지경험"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"따뜻함","path":"$$/kr/tags/따뜻함","id":"따뜻함"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"게스트","path":"$$/kr/tags/게스트","id":"게스트"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"평화로움","path":"$$/kr/tags/평화로움","id":"평화로움"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","content":"$d","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"360dfc49","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"한옥마을에서 찾은 평화"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/18970569/0/8019e94780d53a980b78fc39b1f310f2.jpeg","alt":"전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/18970569/279177610/fa8c150e398a0d9d3d13219694f5d436.jpg","alt":"전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/18970569/0/2e39f7b1a42fb6138a36953cdb28703c.jpeg","alt":"전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주의 전통이 살아 숨쉬는 한옥마을 중심에 위치한 이락당사랑채는 한옥의 매력을 듬뿍 느낄 수 있는 곳이에요. 나무 문살 사이로 스며드는 햇살, 은은하게 퍼지는 목재의 향기, 정갈한 정원이 어우러져 한눈에 마음을 사로잡아요. 이곳에서는 현대식 편의시설과 전통 한옥의 아름다움을 동시에 누릴 수 있어요. 모든 방은 깔끔하고 아늑하며 편안한 잠자리를 제공해요. 전주 한옥마을을 눈앞에 두고 하루를 시작한다는 것, 정말 특별한 경험이어요. 이락당사랑채의 따뜻한 환대와 세심한 서비스는 방문객들의 마음을 사로잡기 충분해요. 특히, 손님 하나하나를 가족처럼 맞이하는 주인장의 친절함이 기억에 남아요. 작은 디테일까지 신경쓴 인테리어와 청결한 시설은 여행객들에게 '집 같은' 편안함을 선사해요. 전주 한옥마을의 매력을 온전히 느끼며 편안하게 머물 수 있는 이곳에서 새로운 추억을 만들어보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/jeonjuhanogmaeul-ilragdangsarangcae/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)","position":{"start":{"line":28,"column":2,"offset":2660},"end":{"line":28,"column":55,"offset":2713}}}],"position":{"start":{"line":28,"column":1,"offset":2659},"end":{"line":28,"column":145,"offset":2803}}},"children":"전주 한옥마을 일락당 사랑채 (jeonjuhanogmaeul ilragdangsarangcae)"},"post":{"id":"83c35ddc-5540-4f92-a30b-dcc4e1d664ab","title":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선","fileName":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","description":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!","date":"2024-05-31T03:19:54.666Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"현지경험","path":"$$/kr/tags/현지경험","id":"현지경험"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"따뜻함","path":"$$/kr/tags/따뜻함","id":"따뜻함"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"게스트","path":"$$/kr/tags/게스트","id":"게스트"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"평화로움","path":"$$/kr/tags/평화로움","id":"평화로움"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","content":"$e","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"f1b145e2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주의 매력을 담은 특별한 숙소"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/5587572/-1/667c43a921afbe2cf439cbb8d85e3db5.jpg","alt":"하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/5587572/-1/f7f24d4463a4e053d8f4e21722335ea9.jpg","alt":"하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/5587572/-1/fdd0e2aa609f0e284b54c0ca964c2b97.jpg","alt":"하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주의 한옥마을 한복판에 위치한 이 숙소는 전통적인 아름다움과 편안함을 동시에 느낄 수 있어요. 한옥 특유의 따뜻한 나무 향기와 아늑한 분위기가 방문하신 분들을 언제나 환영해요. 특히 이곳에서는 현대적인 시설과 전통의 절묘한 조화가 이루어져 있어요. 한옥의 특징인 마루와 대청마루에서 느낄 수 있는 시원한 바람, 그리고 아침에는 새소리와 함께 시작되는 하루가 정말 일품이에요. 손님들이 직접 경험한 다정한 서비스와 깨끗한 시설은 여러분이 머무르는 동안 편안하고 기분 좋은 시간을 보장해줄 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"조식도 이곳의 자랑 중 하나인데요, 전통 한식으로 구성된 아침 식사는 숙박하신 분들께 특별한 하루를 선사합니다. 또, 한옥마을의 주요 관광지가 도보로 이동 가능한 거리에 있어 매우 편리해요. 근처에 다양한 먹거리와 즐길 거리도 많아 전주의 색다른 매력을 경험하기 딱 좋은 위치랍니다. 이곳에서는 주변의 자연 경관을 감상하며 여유롭게 산책을 즐길 수 있고, 저녁에는 고즈넉한 분위기 속에서 하루의 피로를 풀 수 있어요. 전주 여행을 계획 중이라면 이 특별한 한옥에서의 숙박을 꼭 고려해보세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hanulgiwa-hanok-stay_2/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)","position":{"start":{"line":41,"column":2,"offset":3809},"end":{"line":41,"column":36,"offset":3843}}}],"position":{"start":{"line":41,"column":1,"offset":3808},"end":{"line":41,"column":113,"offset":3920}}},"children":"하늘기와 한옥 스테이 (Hanulgiwa Hanok Stay)"},"post":{"id":"83c35ddc-5540-4f92-a30b-dcc4e1d664ab","title":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선","fileName":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","description":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!","date":"2024-05-31T03:19:54.666Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"현지경험","path":"$$/kr/tags/현지경험","id":"현지경험"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"따뜻함","path":"$$/kr/tags/따뜻함","id":"따뜻함"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"게스트","path":"$$/kr/tags/게스트","id":"게스트"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"평화로움","path":"$$/kr/tags/평화로움","id":"평화로움"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","content":"$f","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"3e567802","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"한옥에서의 푸근한 하루"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["전주 한옥이야기 (Hanok Story Guesthouse)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/154413997.jpg?k=ce6b6bb7ca5306ae51e7361693dd1edfa6270235c618c90f0f3b5c6e55546bbb&s=450x450","alt":"전주 한옥이야기  (Hanok Story Guesthouse)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/235816590.jpg?k=c4bc450046b02b5996b5d1be79b47b881e67ad4cac23216e607972e3c51afb8e&s=50x50","alt":"전주 한옥이야기  (Hanok Story Guesthouse)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/154416231.jpg?k=849fa02e3381dbcdad8b23dd364dc26603a9715188dc91c011a584caa84007fa&s=50x50","alt":"전주 한옥이야기  (Hanok Story Guesthouse)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주를 여행하면서 매력을 느껴본 적 있나요? 전통 한옥에서의 숙박이 참 독특하거든요. 한옥 스토리 게스트하우스는 그런 전통적인 매력을 그대로 간직한 곳이에요. 황홀한 전주 한옥마을의 중앙에 위치해 있어서, 거리에서 나는 은은한 전통의 향기와 아침에 들려오는 새소리가 참 평화로워요. 이곳에서는 현대적인 편의시설과 전통적인 한옥의 아름다움을 동시에 경험할 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"깨끗하고 아늑한 게스트하우스의 객실은 흠잡을 데 없으며, 직원들은 매우 친절해서 마치 집에 온 듯한 기분이 들어요. 특히 조식으로 제공되는 한식은 그야말로 일품이랍니다! 예약하는 동안 친구, 가족과든 편안한 시간을 보내고 싶다면 이곳으로 오세요. 전주 한옥마을을 감상하며 특별한 추억을 쌓기에 정말 좋은 곳이랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hanok-story-guesthouse/hotel/all/jeonju-si-kr.html"},"children":[{"type":"text","value":"전주 한옥이야기 (Hanok Story Guesthouse)","position":{"start":{"line":54,"column":2,"offset":4922},"end":{"line":54,"column":35,"offset":4955}}}],"position":{"start":{"line":54,"column":1,"offset":4921},"end":{"line":54,"column":116,"offset":5036}}},"children":"전주 한옥이야기 (Hanok Story Guesthouse)"},"post":{"id":"83c35ddc-5540-4f92-a30b-dcc4e1d664ab","title":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선","fileName":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","description":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!","date":"2024-05-31T03:19:54.666Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"현지경험","path":"$$/kr/tags/현지경험","id":"현지경험"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"따뜻함","path":"$$/kr/tags/따뜻함","id":"따뜻함"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"게스트","path":"$$/kr/tags/게스트","id":"게스트"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"평화로움","path":"$$/kr/tags/평화로움","id":"평화로움"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","content":"$10","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5c562772","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주에서의 특별한 하루를 꿈꾸세요"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["한옥혜윰 (Hanok Hyeyum (Korea Quality))\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6253152/-1/bc412627d6454bab7934c9a9a2155442.jpg","alt":"한옥혜윰 (Hanok Hyeyum (Korea Quality))_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6253152/-1/d89c405fd27225189a2a417cea92f477.jpg","alt":"한옥혜윰 (Hanok Hyeyum (Korea Quality))_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6253152/-1/d350c3ea6af1a266e6192a644bba03e6.jpg","alt":"한옥혜윰 (Hanok Hyeyum (Korea Quality))_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주 한옥마을 근처에서 특별한 하루를 보내고 싶으신가요? 한옥 혜윰은 전통과 현대가 조화를 이루는 멋진 선택지예요. 고즈넉한 한옥의 매력을 그대로 살리면서도, 현대적인 편안함이 여러분을 맞이해요. 여유로운 마당과 정성스러운 인테리어가 눈길을 사로잡을 거예요. 더불어 초록이 가득한 정원도 있어 자연 속에서 휴식을 취하기에 안성맞춤이랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"특히 한옥 혜윰의 아침 식사는 여행의 즐거움을 더해줘요. 정갈하고 건강한 한식 조식을 맛보며 하루를 시작할 수 있어요. 또한, 친절하고 따뜻한 직원들이 여러분을 집처럼 맞아줘서 기분 좋은 여행이 될 거예요. 전주의 골목골목을 탐방한 후 돌아와 편안한 휴식을 취할 수 있는 이곳, 한옥 혜윰에서 특별한 추억을 만들어보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hanok-hyeyum_2/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"한옥혜윰 (Hanok Hyeyum (Korea Quality))","position":{"start":{"line":67,"column":2,"offset":5864},"end":{"line":67,"column":37,"offset":5899}}}],"position":{"start":{"line":67,"column":1,"offset":5863},"end":{"line":67,"column":106,"offset":5968}}},"children":"한옥혜윰 (Hanok Hyeyum (Korea Quality))"},"post":{"id":"83c35ddc-5540-4f92-a30b-dcc4e1d664ab","title":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선","fileName":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","description":"전주의 매력을 제대로 느낄 수 있는 곳, 한옥마을에서의 멋진 힐링 경험을 준비해보세요. 행복가득 전주 한옥 게스트하우스, 한옥마을 일락당 사랑채, 한울기와 한옥 스테이, 한옥이야기 게스트하우스, 그리고 한옥 혜윰이 여러분을 기다리고 있습니다. 전주 한옥마을의 전통과 아름다움을 고스란히 느낄 수 있는 이 호텔들은 가족 여행, 커플 여행, 그리고 혼자만의 힐링 여행 모두 완벽하게 만족시킬 것입니다. 전주 한옥마을 숙소, 지금 바로 예약하세요!","date":"2024-05-31T03:19:54.666Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"현지경험","path":"$$/kr/tags/현지경험","id":"현지경험"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"따뜻함","path":"$$/kr/tags/따뜻함","id":"따뜻함"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"게스트","path":"$$/kr/tags/게스트","id":"게스트"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"평화로움","path":"$$/kr/tags/평화로움","id":"평화로움"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-한옥마을-힐링과-전통이-어우러진-호텔-5선","content":"$11","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["전주의 여행을 계획하신다면, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"행복가득 한옥 게스트하우스"}],"에서 전통과 편안함을 동시에 느껴보세요. 전주의 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"한옥마을 일락당 사랑채"}],"에서는 따뜻한 환대와 편안한 휴식을 경험할 수 있습니다. 또한, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"하늘기와 한옥 스테이"}],"는 전통과 현대의 조화를 이루어 더욱 특별한 숙박 경험을 제공합니다. 전주의 평온함과 특별한 추억을 누리고 싶다면, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"전주 한옥이야기"}],"를 추천드립니다. 마지막으로, 전통과 현대가 어우러진 멋진 한옥 숙소인 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"한옥 혜윰"}],"에서 여유로운 시간을 보내보세요. 지금 바로 예약하여 잊지 못할 전주 여행을 완성해보세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"전주 한옥마을, 힐링과 전통이 어우러진 호텔 5선","toc":[{"tagName":"h2","title":"전주 한옥마을에서 특별한 힐링과 전통 경험하기","id":"b944260d"},{"tagName":"h2","title":"전주의 매력 속으로 떠나는 특별한 여정","id":"0e80d96c"},{"tagName":"h2","title":"한옥마을에서 찾은 평화","id":"360dfc49"},{"tagName":"h2","title":"전주의 매력을 담은 특별한 숙소","id":"f1b145e2"},{"tagName":"h2","title":"한옥에서의 푸근한 하루","id":"3e567802"},{"tagName":"h2","title":"전주에서의 특별한 하루를 꿈꾸세요","id":"5c562772"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

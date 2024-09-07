@@ -1,0 +1,359 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/48936534cb8cc7d3.css",{"as":"style"}]
+0:["V6j3o-CWcBASwzn0cAbd6",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%EB%A7%9B%EC%A7%91-%ED%88%AC%EC%96%B4%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EC%84%A0","d"],{"children":["__PAGE__?{\"slug\":\"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48936534cb8cc7d3.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-c663ee85b1bbc456.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2e31def611a44168.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%EB%A7%9B%EC%A7%91-%ED%88%AC%EC%96%B4%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EC%84%A0","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선\"}"},"styles":[]}],"segment":["slug","%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%EB%A7%9B%EC%A7%91-%ED%88%AC%EC%96%B4%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EC%84%A0","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!"}],["$","meta","3",{"name":"keywords","content":"남미,열대,휴식,비치,서비스,자전거,수영장,가족,커플,해변,자연,모험,조식,편안함,편의시설,현지 특산물,가족 친화적,현대적,청결,휴양지,바비큐,가족여행,어린이,맛집,모던,넓은 객실,스파,연인"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%EB%A7%9B%EC%A7%91-%ED%88%AC%EC%96%B4%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EC%84%A0"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%EB%A7%9B%EC%A7%91-%ED%88%AC%EC%96%B4%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A6%90%EA%B8%B0%EB%8A%94-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-5%EC%84%A0"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","874:static/chunks/874-e6013a6b9b7498e0.js","368:static/chunks/app/kr/articles/[slug]/page-5f55e1ebbd58fbba.js"],"name":"","async":false}
+d:T2818,
+## 우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 여러분께 브라질의 보석 같은 도시, 우바투바에서의 완벽한 휴가를 위한 호텔을 추천해드리려고 해요. 우바투바는 환상적인 해변과 맛있는 음식, 그리고 멋진 자연 경관으로 유명한데요. 특히 여기서 맛집 투어를 하며 현지의 진정한 맛을 느껴보는 건 정말 매력적이에요! 그렇다면 이제 여러분을 위해 우바투바 맛집 투어와 함께 즐길 수 있는 **최고의 호텔 5선**을 소개해드릴게요. 이 호텔들로 여행의 모든 순간이 완벽해질 거에요!
+
+## 열대 낙원에서의 편안한 휴식
+
+Pousada Ilha Vitoria
+![Pousada Ilha Vitoria_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/466412727.jpg?k=d2b45b49d87c630a61e1f2f0f44b85ea597fad386566484d3a8a5214f4677ba3&s=450x450)
+![Pousada Ilha Vitoria_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444449645.jpg?k=c041af4c4998e8d3b7e30fbd381c0c1e6fb0b3bb8622436a7a1a36d8d858853f&s=50x50)
+![Pousada Ilha Vitoria_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/180337378.jpg?k=7619a4da7528e13fe0a524ec927bd7f5cb0265652606891d2d86bef5f1799f5e&s=50x50)
+
+브라질의 숨겨진 보석인 우바투바 지역에서, 푸사다 일라 비토리아는 현대적인 편의시설과 자연의 조화를 이루는 멋진 숙소예요. 깔끔하게 정리된 객실과 친절한 서비스는 여행의 피로를 씻어줄 거예요. 각 객실은 세련된 인테리어와 함께, 놀라운 바다 전망을 자랑해요. 아침마다 싱그러운 열대 정원을 바라보며 신선한 아침 식사를 즐길 수 있어서 기분 좋은 하루를 시작할 수 있답니다. 게다가, 무료 Wi-Fi를 통해 언제나 연결되어 있어 편리해요.
+
+이 호텔은 특히 가족과 커플에게 인기가 많은데요, 인근 비치와 다양한 액티비티를 즐길 수 있는 점도 크게 작용해요. 무료 자전거 대여 서비스가 제공되어 바닷가를 탐험하기에도 좋고, 수영장도 있어 여유롭게 시간을 보내기 딱이에요. 가까운 곳에 현지 맛집도 많아 다양한 음식을 맛볼 수 있는 기회도 많아요. 푸사다 일라 비토리아에서의 휴가를 통해 일상에서 벗어나 열대 낙원을 경험해보세요!
+
+[Pousada Ilha Vitoria](https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html)
+
+## 해변의 환상적인 전망과 모험
+
+Chales Ceu e Mar Ubatuba
+![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/436842849.jpg?k=dcff7cce6a5ea404ca80fb30f191d225a5eaa1935cdf62f80c7e6c4cc0306445&s=450x450)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/159539714.jpg?k=17ce9a2a15cf53ffa9d5656c9ab7642e454483d704fd4a6a32ee6e15b620bb8e&s=50x50)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/53266290.jpg?k=6f8cf40323aed0f1cf7ec5cade75e442cfa441af48d04f45787d91c8c674970a&s=50x50)
+
+마치 파라다이스에 온 듯한 *우바투바*의 한적한 지역에 위치해 있는 이 호텔은 아름다운 해변과 싱그러운 자연경관을 자랑해요. 바람을 가르며 서핑을 즐기거나 잔잔한 파도 소리를 들으며 해변을 산책하는 것은 이곳에서만 느낄 수 있는 특별한 경험이죠. 방 안에서 창밖을 내다보면, 끝없이 펼쳐진 푸른 바다와 파란 하늘이 한눈에 들어와요. 뿐만 아니라 매일 아침 제공되는 신선한 현지 음식도 큰 매력 중 하나예요. 다양한 요리들로 가득한 조식은 여행의 시작을 힘차게 만들어준답니다. 이곳의 직원들은 항상 친절하고 도움이 되어 여행 내내 편안하게 지낼 수 있었어요. 특히 아이들과 함께한 여행자들에게도 좋은 추억을 만들어 줬다는 이야기가 많아요. 아이들이 놀 수 있는 공간도 잘 마련되어 있어 가족 여행에도 제격인 곳이랍니다. **우바투바**의 아름다움을 한껏 즐기고 싶다면, 이 호텔에서의 숙박은 필수적이에요. 풍부한 액티비티와 편안한 휴식이 공존하는 이곳에서 잊지 못할 시간을 보내세요. 매 순간이 특별할 거예요.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+
+## 아름다운 해변과 편안함의 만남
+
+Hotel Porto do Eixo Ubatuba
+![Hotel Porto do Eixo Ubatuba_0_image](https://pix8.agoda.net/hotelImages/480147/0/3ac8b40b0d98ab424ac3e1866ab39f4c.jpeg)
+![Hotel Porto do Eixo Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/534166939.jpg?k=fde5c7e6d61d697cbc95106a3803fea5c5cf12c9d75bc8047ab0d02c2a925ca2&s=50x50)
+![Hotel Porto do Eixo Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323906917.jpg?k=9410cba76f4581c38f765a15b5101f1b8fdc23ab337fb0f3449b157d14addf7f&s=50x50)
+
+브라질의 우바투바에 위치한 이 호텔은 *탁 트인 바다 전망*과 함께 *직접 해변에 접근*할 수 있는 편리함을 자랑해요. 해변에서의 하루를 보낸 후, 숙소로 돌아와 넓고 깨끗한 객실에서 *편안하게 쉴 수 있는 공간*을 제공하죠. 또한, 친절한 직원들이 여러분의 편안한 숙박을 위해 최선을 다해 도와드립니다.
+
+객실 내부는 현대적이고 깔끔하며, 필요한 모든 시설이 잘 갖추어져 있어요. 아침 식사는 신선한 과일과 현지 특산물이 다양하게 제공되어 *선릉한 아침을 맞이*할 수 있어요. 또한, 가족 단위 여행객에게도 적합한 여러 가지 편의 시설이 준비되어 있어, 남녀노소 할 것 없이 모두가 즐겁게 보낼 수 있답니다.
+
+[Hotel Porto do Eixo Ubatuba](https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html)
+
+## 평화로운 해변 휴양지의 매력
+
+Itamambuca Casa de Praia
+![Itamambuca Casa de Praia_0_image](https://pix8.agoda.net/hotelImages/532207/0/d0e7abe267a1f44c0a80f424c3734a62.jpeg)
+![Itamambuca Casa de Praia_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007150.jpg?k=a4920fdf723f79c885b74c1dcca33347b8bbd2bcc18527e8b36e11e97164b05c&s=50x50)
+![Itamambuca Casa de Praia_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007294.jpg?k=0c99fac61ace63a27ca77be4c31f8a9d0f30659401ac12d7d7cae52d73049d5b&s=50x50)
+
+브라질의 아름다운 우바투바에 위치한 이타맘부카 카사 데 프라이아는 평화로운 해변 휴양지로 완벽한 선택이에요. 숙소 주변에는 드넓은 백사장과 푸른 바다가 펼쳐져 있어, 아침에는 파도 소리를 들으며 햇살을 만끽할 수 있답니다. 룸은 깔끔하고 세련되게 디자인되어 있으며, 최신 시설을 갖추고 있어 머무는 동안 불편함이 없어요. 자연과 함께하는 여유로운 시간을 보내고 싶다면, 이보다 더 좋은 곳은 없을 거예요.
+
+여기서는 바비큐 시설도 준비되어 있어, 저녁에는 직접 요리한 음식을 해변가에서 즐길 수 있어요. 물론, 현지 맛집과 카페들도 가까이에 있으니 다양한 먹거리를 만나보는 것도 좋은 경험이겠죠? 아이들을 위한 놀이 공간과 수영장도 마련되어 있어 가족 단위 여행객에게도 딱이에요. 이타맘부카 카사 데 프라이아에서 삶의 소소한 기쁨을 발견하고, 특별한 추억을 만들어 보세요.
+
+[Itamambuca Casa de Praia](https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html)
+
+## 트로피컬한 오아시스, 낙원같은 휴양지
+
+Trakai Suites
+![Trakai Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/315735465.jpg?k=b19d991791bb29bd22a8230c7e4e25b70f3753d3fa1a218ca916526963c5a379&s=450x450)
+![Trakai Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/429726558.jpg?k=5b4161ecced1eaeef0a6612c897a20cc958fab59286ddb68bea1a522b5413d8a&s=50x50)
+![Trakai Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281297368.jpg?k=bc418bc4d561e290fa131d03ea820b35814a181cf29369e37e659ed41f3ffe82&s=50x50)
+
+우바투바의 따스한 날씨와 푸른 해변이 어우러진 *트라카이 스위트*에서 잊지 못할 휴가를 즐기실 수 있어요. 이 호텔은 모던한 인테리어와 넓은 객실을 자랑하며, 투숙객에게 아늑한 환경을 제공합니다. 특히, 해변과 가까워서 해변 산책을 언제든 즐길 수 있는 장점이 있어요. 더불어 객실 내부는 청결하고 편안하게 꾸며져 있어, 휴식을 취하기에도 좋아요. 호텔 주변에는 다양한 레스토랑과 카페가 있어, 현지의 맛도 체험할 수 있습니다. 가족 단위 여행자나 연인들에게 적합한 호텔이에요. 하루의 피로를 풀어줄 수 있는 스파 시설도 이용 가능해요. 이곳에서 평온한 시간을 보내시면 일상 속 스트레스를 다 잊게 될 거예요. 정말로 낙원 같은 여행지라 할 수 있어요. 여행을 평화롭게 보내고 싶다면, *트라카이 스위트*는 완벽한 선택입니다.
+
+[Trakai Suites](https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html)
+
+## 결론
+
+브라질 우바투바에서 특별한 휴가를 계획 중이라면 다양한 매력의 호텔들을 고려해보세요. *자연과 현대적 편의*가 어우러진 **Pousada Ilha Vitoria**에서 여유로운 시간을 보낼 수 있습니다. 또한 **Chales Ceu e Mar Ubatuba**에서는 해변과 자연 속에서 진정한 휴식과 모험을 동시에 즐길 수 있습니다. **Hotel Porto do Eixo Ubatuba**는 우바투바의 아름다운 해변과 편안함을 한곳에서 느낄 수 있는 최고의 호텔입니다. 평화로운 해변과 최신 시설이 돋보이는 **Itamambuca Casa de Praia**는 완벽한 숙소로 손색이 없습니다. 마지막으로, **Trakai Suites**는 모던한 인테리어와 넓은 객실을 제공하며, 우바투바 해변 인접한 최고의 입지로 낙원 같은 휴가를 선사합니다. 지금 바로 예약하고 *잊지 못할 휴가*를 경험하세요!
+e:T2818,
+## 우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 여러분께 브라질의 보석 같은 도시, 우바투바에서의 완벽한 휴가를 위한 호텔을 추천해드리려고 해요. 우바투바는 환상적인 해변과 맛있는 음식, 그리고 멋진 자연 경관으로 유명한데요. 특히 여기서 맛집 투어를 하며 현지의 진정한 맛을 느껴보는 건 정말 매력적이에요! 그렇다면 이제 여러분을 위해 우바투바 맛집 투어와 함께 즐길 수 있는 **최고의 호텔 5선**을 소개해드릴게요. 이 호텔들로 여행의 모든 순간이 완벽해질 거에요!
+
+## 열대 낙원에서의 편안한 휴식
+
+Pousada Ilha Vitoria
+![Pousada Ilha Vitoria_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/466412727.jpg?k=d2b45b49d87c630a61e1f2f0f44b85ea597fad386566484d3a8a5214f4677ba3&s=450x450)
+![Pousada Ilha Vitoria_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444449645.jpg?k=c041af4c4998e8d3b7e30fbd381c0c1e6fb0b3bb8622436a7a1a36d8d858853f&s=50x50)
+![Pousada Ilha Vitoria_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/180337378.jpg?k=7619a4da7528e13fe0a524ec927bd7f5cb0265652606891d2d86bef5f1799f5e&s=50x50)
+
+브라질의 숨겨진 보석인 우바투바 지역에서, 푸사다 일라 비토리아는 현대적인 편의시설과 자연의 조화를 이루는 멋진 숙소예요. 깔끔하게 정리된 객실과 친절한 서비스는 여행의 피로를 씻어줄 거예요. 각 객실은 세련된 인테리어와 함께, 놀라운 바다 전망을 자랑해요. 아침마다 싱그러운 열대 정원을 바라보며 신선한 아침 식사를 즐길 수 있어서 기분 좋은 하루를 시작할 수 있답니다. 게다가, 무료 Wi-Fi를 통해 언제나 연결되어 있어 편리해요.
+
+이 호텔은 특히 가족과 커플에게 인기가 많은데요, 인근 비치와 다양한 액티비티를 즐길 수 있는 점도 크게 작용해요. 무료 자전거 대여 서비스가 제공되어 바닷가를 탐험하기에도 좋고, 수영장도 있어 여유롭게 시간을 보내기 딱이에요. 가까운 곳에 현지 맛집도 많아 다양한 음식을 맛볼 수 있는 기회도 많아요. 푸사다 일라 비토리아에서의 휴가를 통해 일상에서 벗어나 열대 낙원을 경험해보세요!
+
+[Pousada Ilha Vitoria](https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html)
+
+## 해변의 환상적인 전망과 모험
+
+Chales Ceu e Mar Ubatuba
+![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/436842849.jpg?k=dcff7cce6a5ea404ca80fb30f191d225a5eaa1935cdf62f80c7e6c4cc0306445&s=450x450)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/159539714.jpg?k=17ce9a2a15cf53ffa9d5656c9ab7642e454483d704fd4a6a32ee6e15b620bb8e&s=50x50)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/53266290.jpg?k=6f8cf40323aed0f1cf7ec5cade75e442cfa441af48d04f45787d91c8c674970a&s=50x50)
+
+마치 파라다이스에 온 듯한 *우바투바*의 한적한 지역에 위치해 있는 이 호텔은 아름다운 해변과 싱그러운 자연경관을 자랑해요. 바람을 가르며 서핑을 즐기거나 잔잔한 파도 소리를 들으며 해변을 산책하는 것은 이곳에서만 느낄 수 있는 특별한 경험이죠. 방 안에서 창밖을 내다보면, 끝없이 펼쳐진 푸른 바다와 파란 하늘이 한눈에 들어와요. 뿐만 아니라 매일 아침 제공되는 신선한 현지 음식도 큰 매력 중 하나예요. 다양한 요리들로 가득한 조식은 여행의 시작을 힘차게 만들어준답니다. 이곳의 직원들은 항상 친절하고 도움이 되어 여행 내내 편안하게 지낼 수 있었어요. 특히 아이들과 함께한 여행자들에게도 좋은 추억을 만들어 줬다는 이야기가 많아요. 아이들이 놀 수 있는 공간도 잘 마련되어 있어 가족 여행에도 제격인 곳이랍니다. **우바투바**의 아름다움을 한껏 즐기고 싶다면, 이 호텔에서의 숙박은 필수적이에요. 풍부한 액티비티와 편안한 휴식이 공존하는 이곳에서 잊지 못할 시간을 보내세요. 매 순간이 특별할 거예요.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+
+## 아름다운 해변과 편안함의 만남
+
+Hotel Porto do Eixo Ubatuba
+![Hotel Porto do Eixo Ubatuba_0_image](https://pix8.agoda.net/hotelImages/480147/0/3ac8b40b0d98ab424ac3e1866ab39f4c.jpeg)
+![Hotel Porto do Eixo Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/534166939.jpg?k=fde5c7e6d61d697cbc95106a3803fea5c5cf12c9d75bc8047ab0d02c2a925ca2&s=50x50)
+![Hotel Porto do Eixo Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323906917.jpg?k=9410cba76f4581c38f765a15b5101f1b8fdc23ab337fb0f3449b157d14addf7f&s=50x50)
+
+브라질의 우바투바에 위치한 이 호텔은 *탁 트인 바다 전망*과 함께 *직접 해변에 접근*할 수 있는 편리함을 자랑해요. 해변에서의 하루를 보낸 후, 숙소로 돌아와 넓고 깨끗한 객실에서 *편안하게 쉴 수 있는 공간*을 제공하죠. 또한, 친절한 직원들이 여러분의 편안한 숙박을 위해 최선을 다해 도와드립니다.
+
+객실 내부는 현대적이고 깔끔하며, 필요한 모든 시설이 잘 갖추어져 있어요. 아침 식사는 신선한 과일과 현지 특산물이 다양하게 제공되어 *선릉한 아침을 맞이*할 수 있어요. 또한, 가족 단위 여행객에게도 적합한 여러 가지 편의 시설이 준비되어 있어, 남녀노소 할 것 없이 모두가 즐겁게 보낼 수 있답니다.
+
+[Hotel Porto do Eixo Ubatuba](https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html)
+
+## 평화로운 해변 휴양지의 매력
+
+Itamambuca Casa de Praia
+![Itamambuca Casa de Praia_0_image](https://pix8.agoda.net/hotelImages/532207/0/d0e7abe267a1f44c0a80f424c3734a62.jpeg)
+![Itamambuca Casa de Praia_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007150.jpg?k=a4920fdf723f79c885b74c1dcca33347b8bbd2bcc18527e8b36e11e97164b05c&s=50x50)
+![Itamambuca Casa de Praia_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007294.jpg?k=0c99fac61ace63a27ca77be4c31f8a9d0f30659401ac12d7d7cae52d73049d5b&s=50x50)
+
+브라질의 아름다운 우바투바에 위치한 이타맘부카 카사 데 프라이아는 평화로운 해변 휴양지로 완벽한 선택이에요. 숙소 주변에는 드넓은 백사장과 푸른 바다가 펼쳐져 있어, 아침에는 파도 소리를 들으며 햇살을 만끽할 수 있답니다. 룸은 깔끔하고 세련되게 디자인되어 있으며, 최신 시설을 갖추고 있어 머무는 동안 불편함이 없어요. 자연과 함께하는 여유로운 시간을 보내고 싶다면, 이보다 더 좋은 곳은 없을 거예요.
+
+여기서는 바비큐 시설도 준비되어 있어, 저녁에는 직접 요리한 음식을 해변가에서 즐길 수 있어요. 물론, 현지 맛집과 카페들도 가까이에 있으니 다양한 먹거리를 만나보는 것도 좋은 경험이겠죠? 아이들을 위한 놀이 공간과 수영장도 마련되어 있어 가족 단위 여행객에게도 딱이에요. 이타맘부카 카사 데 프라이아에서 삶의 소소한 기쁨을 발견하고, 특별한 추억을 만들어 보세요.
+
+[Itamambuca Casa de Praia](https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html)
+
+## 트로피컬한 오아시스, 낙원같은 휴양지
+
+Trakai Suites
+![Trakai Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/315735465.jpg?k=b19d991791bb29bd22a8230c7e4e25b70f3753d3fa1a218ca916526963c5a379&s=450x450)
+![Trakai Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/429726558.jpg?k=5b4161ecced1eaeef0a6612c897a20cc958fab59286ddb68bea1a522b5413d8a&s=50x50)
+![Trakai Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281297368.jpg?k=bc418bc4d561e290fa131d03ea820b35814a181cf29369e37e659ed41f3ffe82&s=50x50)
+
+우바투바의 따스한 날씨와 푸른 해변이 어우러진 *트라카이 스위트*에서 잊지 못할 휴가를 즐기실 수 있어요. 이 호텔은 모던한 인테리어와 넓은 객실을 자랑하며, 투숙객에게 아늑한 환경을 제공합니다. 특히, 해변과 가까워서 해변 산책을 언제든 즐길 수 있는 장점이 있어요. 더불어 객실 내부는 청결하고 편안하게 꾸며져 있어, 휴식을 취하기에도 좋아요. 호텔 주변에는 다양한 레스토랑과 카페가 있어, 현지의 맛도 체험할 수 있습니다. 가족 단위 여행자나 연인들에게 적합한 호텔이에요. 하루의 피로를 풀어줄 수 있는 스파 시설도 이용 가능해요. 이곳에서 평온한 시간을 보내시면 일상 속 스트레스를 다 잊게 될 거예요. 정말로 낙원 같은 여행지라 할 수 있어요. 여행을 평화롭게 보내고 싶다면, *트라카이 스위트*는 완벽한 선택입니다.
+
+[Trakai Suites](https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html)
+
+## 결론
+
+브라질 우바투바에서 특별한 휴가를 계획 중이라면 다양한 매력의 호텔들을 고려해보세요. *자연과 현대적 편의*가 어우러진 **Pousada Ilha Vitoria**에서 여유로운 시간을 보낼 수 있습니다. 또한 **Chales Ceu e Mar Ubatuba**에서는 해변과 자연 속에서 진정한 휴식과 모험을 동시에 즐길 수 있습니다. **Hotel Porto do Eixo Ubatuba**는 우바투바의 아름다운 해변과 편안함을 한곳에서 느낄 수 있는 최고의 호텔입니다. 평화로운 해변과 최신 시설이 돋보이는 **Itamambuca Casa de Praia**는 완벽한 숙소로 손색이 없습니다. 마지막으로, **Trakai Suites**는 모던한 인테리어와 넓은 객실을 제공하며, 우바투바 해변 인접한 최고의 입지로 낙원 같은 휴가를 선사합니다. 지금 바로 예약하고 *잊지 못할 휴가*를 경험하세요!
+f:T2818,
+## 우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 여러분께 브라질의 보석 같은 도시, 우바투바에서의 완벽한 휴가를 위한 호텔을 추천해드리려고 해요. 우바투바는 환상적인 해변과 맛있는 음식, 그리고 멋진 자연 경관으로 유명한데요. 특히 여기서 맛집 투어를 하며 현지의 진정한 맛을 느껴보는 건 정말 매력적이에요! 그렇다면 이제 여러분을 위해 우바투바 맛집 투어와 함께 즐길 수 있는 **최고의 호텔 5선**을 소개해드릴게요. 이 호텔들로 여행의 모든 순간이 완벽해질 거에요!
+
+## 열대 낙원에서의 편안한 휴식
+
+Pousada Ilha Vitoria
+![Pousada Ilha Vitoria_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/466412727.jpg?k=d2b45b49d87c630a61e1f2f0f44b85ea597fad386566484d3a8a5214f4677ba3&s=450x450)
+![Pousada Ilha Vitoria_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444449645.jpg?k=c041af4c4998e8d3b7e30fbd381c0c1e6fb0b3bb8622436a7a1a36d8d858853f&s=50x50)
+![Pousada Ilha Vitoria_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/180337378.jpg?k=7619a4da7528e13fe0a524ec927bd7f5cb0265652606891d2d86bef5f1799f5e&s=50x50)
+
+브라질의 숨겨진 보석인 우바투바 지역에서, 푸사다 일라 비토리아는 현대적인 편의시설과 자연의 조화를 이루는 멋진 숙소예요. 깔끔하게 정리된 객실과 친절한 서비스는 여행의 피로를 씻어줄 거예요. 각 객실은 세련된 인테리어와 함께, 놀라운 바다 전망을 자랑해요. 아침마다 싱그러운 열대 정원을 바라보며 신선한 아침 식사를 즐길 수 있어서 기분 좋은 하루를 시작할 수 있답니다. 게다가, 무료 Wi-Fi를 통해 언제나 연결되어 있어 편리해요.
+
+이 호텔은 특히 가족과 커플에게 인기가 많은데요, 인근 비치와 다양한 액티비티를 즐길 수 있는 점도 크게 작용해요. 무료 자전거 대여 서비스가 제공되어 바닷가를 탐험하기에도 좋고, 수영장도 있어 여유롭게 시간을 보내기 딱이에요. 가까운 곳에 현지 맛집도 많아 다양한 음식을 맛볼 수 있는 기회도 많아요. 푸사다 일라 비토리아에서의 휴가를 통해 일상에서 벗어나 열대 낙원을 경험해보세요!
+
+[Pousada Ilha Vitoria](https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html)
+
+## 해변의 환상적인 전망과 모험
+
+Chales Ceu e Mar Ubatuba
+![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/436842849.jpg?k=dcff7cce6a5ea404ca80fb30f191d225a5eaa1935cdf62f80c7e6c4cc0306445&s=450x450)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/159539714.jpg?k=17ce9a2a15cf53ffa9d5656c9ab7642e454483d704fd4a6a32ee6e15b620bb8e&s=50x50)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/53266290.jpg?k=6f8cf40323aed0f1cf7ec5cade75e442cfa441af48d04f45787d91c8c674970a&s=50x50)
+
+마치 파라다이스에 온 듯한 *우바투바*의 한적한 지역에 위치해 있는 이 호텔은 아름다운 해변과 싱그러운 자연경관을 자랑해요. 바람을 가르며 서핑을 즐기거나 잔잔한 파도 소리를 들으며 해변을 산책하는 것은 이곳에서만 느낄 수 있는 특별한 경험이죠. 방 안에서 창밖을 내다보면, 끝없이 펼쳐진 푸른 바다와 파란 하늘이 한눈에 들어와요. 뿐만 아니라 매일 아침 제공되는 신선한 현지 음식도 큰 매력 중 하나예요. 다양한 요리들로 가득한 조식은 여행의 시작을 힘차게 만들어준답니다. 이곳의 직원들은 항상 친절하고 도움이 되어 여행 내내 편안하게 지낼 수 있었어요. 특히 아이들과 함께한 여행자들에게도 좋은 추억을 만들어 줬다는 이야기가 많아요. 아이들이 놀 수 있는 공간도 잘 마련되어 있어 가족 여행에도 제격인 곳이랍니다. **우바투바**의 아름다움을 한껏 즐기고 싶다면, 이 호텔에서의 숙박은 필수적이에요. 풍부한 액티비티와 편안한 휴식이 공존하는 이곳에서 잊지 못할 시간을 보내세요. 매 순간이 특별할 거예요.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+
+## 아름다운 해변과 편안함의 만남
+
+Hotel Porto do Eixo Ubatuba
+![Hotel Porto do Eixo Ubatuba_0_image](https://pix8.agoda.net/hotelImages/480147/0/3ac8b40b0d98ab424ac3e1866ab39f4c.jpeg)
+![Hotel Porto do Eixo Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/534166939.jpg?k=fde5c7e6d61d697cbc95106a3803fea5c5cf12c9d75bc8047ab0d02c2a925ca2&s=50x50)
+![Hotel Porto do Eixo Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323906917.jpg?k=9410cba76f4581c38f765a15b5101f1b8fdc23ab337fb0f3449b157d14addf7f&s=50x50)
+
+브라질의 우바투바에 위치한 이 호텔은 *탁 트인 바다 전망*과 함께 *직접 해변에 접근*할 수 있는 편리함을 자랑해요. 해변에서의 하루를 보낸 후, 숙소로 돌아와 넓고 깨끗한 객실에서 *편안하게 쉴 수 있는 공간*을 제공하죠. 또한, 친절한 직원들이 여러분의 편안한 숙박을 위해 최선을 다해 도와드립니다.
+
+객실 내부는 현대적이고 깔끔하며, 필요한 모든 시설이 잘 갖추어져 있어요. 아침 식사는 신선한 과일과 현지 특산물이 다양하게 제공되어 *선릉한 아침을 맞이*할 수 있어요. 또한, 가족 단위 여행객에게도 적합한 여러 가지 편의 시설이 준비되어 있어, 남녀노소 할 것 없이 모두가 즐겁게 보낼 수 있답니다.
+
+[Hotel Porto do Eixo Ubatuba](https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html)
+
+## 평화로운 해변 휴양지의 매력
+
+Itamambuca Casa de Praia
+![Itamambuca Casa de Praia_0_image](https://pix8.agoda.net/hotelImages/532207/0/d0e7abe267a1f44c0a80f424c3734a62.jpeg)
+![Itamambuca Casa de Praia_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007150.jpg?k=a4920fdf723f79c885b74c1dcca33347b8bbd2bcc18527e8b36e11e97164b05c&s=50x50)
+![Itamambuca Casa de Praia_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007294.jpg?k=0c99fac61ace63a27ca77be4c31f8a9d0f30659401ac12d7d7cae52d73049d5b&s=50x50)
+
+브라질의 아름다운 우바투바에 위치한 이타맘부카 카사 데 프라이아는 평화로운 해변 휴양지로 완벽한 선택이에요. 숙소 주변에는 드넓은 백사장과 푸른 바다가 펼쳐져 있어, 아침에는 파도 소리를 들으며 햇살을 만끽할 수 있답니다. 룸은 깔끔하고 세련되게 디자인되어 있으며, 최신 시설을 갖추고 있어 머무는 동안 불편함이 없어요. 자연과 함께하는 여유로운 시간을 보내고 싶다면, 이보다 더 좋은 곳은 없을 거예요.
+
+여기서는 바비큐 시설도 준비되어 있어, 저녁에는 직접 요리한 음식을 해변가에서 즐길 수 있어요. 물론, 현지 맛집과 카페들도 가까이에 있으니 다양한 먹거리를 만나보는 것도 좋은 경험이겠죠? 아이들을 위한 놀이 공간과 수영장도 마련되어 있어 가족 단위 여행객에게도 딱이에요. 이타맘부카 카사 데 프라이아에서 삶의 소소한 기쁨을 발견하고, 특별한 추억을 만들어 보세요.
+
+[Itamambuca Casa de Praia](https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html)
+
+## 트로피컬한 오아시스, 낙원같은 휴양지
+
+Trakai Suites
+![Trakai Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/315735465.jpg?k=b19d991791bb29bd22a8230c7e4e25b70f3753d3fa1a218ca916526963c5a379&s=450x450)
+![Trakai Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/429726558.jpg?k=5b4161ecced1eaeef0a6612c897a20cc958fab59286ddb68bea1a522b5413d8a&s=50x50)
+![Trakai Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281297368.jpg?k=bc418bc4d561e290fa131d03ea820b35814a181cf29369e37e659ed41f3ffe82&s=50x50)
+
+우바투바의 따스한 날씨와 푸른 해변이 어우러진 *트라카이 스위트*에서 잊지 못할 휴가를 즐기실 수 있어요. 이 호텔은 모던한 인테리어와 넓은 객실을 자랑하며, 투숙객에게 아늑한 환경을 제공합니다. 특히, 해변과 가까워서 해변 산책을 언제든 즐길 수 있는 장점이 있어요. 더불어 객실 내부는 청결하고 편안하게 꾸며져 있어, 휴식을 취하기에도 좋아요. 호텔 주변에는 다양한 레스토랑과 카페가 있어, 현지의 맛도 체험할 수 있습니다. 가족 단위 여행자나 연인들에게 적합한 호텔이에요. 하루의 피로를 풀어줄 수 있는 스파 시설도 이용 가능해요. 이곳에서 평온한 시간을 보내시면 일상 속 스트레스를 다 잊게 될 거예요. 정말로 낙원 같은 여행지라 할 수 있어요. 여행을 평화롭게 보내고 싶다면, *트라카이 스위트*는 완벽한 선택입니다.
+
+[Trakai Suites](https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html)
+
+## 결론
+
+브라질 우바투바에서 특별한 휴가를 계획 중이라면 다양한 매력의 호텔들을 고려해보세요. *자연과 현대적 편의*가 어우러진 **Pousada Ilha Vitoria**에서 여유로운 시간을 보낼 수 있습니다. 또한 **Chales Ceu e Mar Ubatuba**에서는 해변과 자연 속에서 진정한 휴식과 모험을 동시에 즐길 수 있습니다. **Hotel Porto do Eixo Ubatuba**는 우바투바의 아름다운 해변과 편안함을 한곳에서 느낄 수 있는 최고의 호텔입니다. 평화로운 해변과 최신 시설이 돋보이는 **Itamambuca Casa de Praia**는 완벽한 숙소로 손색이 없습니다. 마지막으로, **Trakai Suites**는 모던한 인테리어와 넓은 객실을 제공하며, 우바투바 해변 인접한 최고의 입지로 낙원 같은 휴가를 선사합니다. 지금 바로 예약하고 *잊지 못할 휴가*를 경험하세요!
+10:T2818,
+## 우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 여러분께 브라질의 보석 같은 도시, 우바투바에서의 완벽한 휴가를 위한 호텔을 추천해드리려고 해요. 우바투바는 환상적인 해변과 맛있는 음식, 그리고 멋진 자연 경관으로 유명한데요. 특히 여기서 맛집 투어를 하며 현지의 진정한 맛을 느껴보는 건 정말 매력적이에요! 그렇다면 이제 여러분을 위해 우바투바 맛집 투어와 함께 즐길 수 있는 **최고의 호텔 5선**을 소개해드릴게요. 이 호텔들로 여행의 모든 순간이 완벽해질 거에요!
+
+## 열대 낙원에서의 편안한 휴식
+
+Pousada Ilha Vitoria
+![Pousada Ilha Vitoria_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/466412727.jpg?k=d2b45b49d87c630a61e1f2f0f44b85ea597fad386566484d3a8a5214f4677ba3&s=450x450)
+![Pousada Ilha Vitoria_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444449645.jpg?k=c041af4c4998e8d3b7e30fbd381c0c1e6fb0b3bb8622436a7a1a36d8d858853f&s=50x50)
+![Pousada Ilha Vitoria_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/180337378.jpg?k=7619a4da7528e13fe0a524ec927bd7f5cb0265652606891d2d86bef5f1799f5e&s=50x50)
+
+브라질의 숨겨진 보석인 우바투바 지역에서, 푸사다 일라 비토리아는 현대적인 편의시설과 자연의 조화를 이루는 멋진 숙소예요. 깔끔하게 정리된 객실과 친절한 서비스는 여행의 피로를 씻어줄 거예요. 각 객실은 세련된 인테리어와 함께, 놀라운 바다 전망을 자랑해요. 아침마다 싱그러운 열대 정원을 바라보며 신선한 아침 식사를 즐길 수 있어서 기분 좋은 하루를 시작할 수 있답니다. 게다가, 무료 Wi-Fi를 통해 언제나 연결되어 있어 편리해요.
+
+이 호텔은 특히 가족과 커플에게 인기가 많은데요, 인근 비치와 다양한 액티비티를 즐길 수 있는 점도 크게 작용해요. 무료 자전거 대여 서비스가 제공되어 바닷가를 탐험하기에도 좋고, 수영장도 있어 여유롭게 시간을 보내기 딱이에요. 가까운 곳에 현지 맛집도 많아 다양한 음식을 맛볼 수 있는 기회도 많아요. 푸사다 일라 비토리아에서의 휴가를 통해 일상에서 벗어나 열대 낙원을 경험해보세요!
+
+[Pousada Ilha Vitoria](https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html)
+
+## 해변의 환상적인 전망과 모험
+
+Chales Ceu e Mar Ubatuba
+![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/436842849.jpg?k=dcff7cce6a5ea404ca80fb30f191d225a5eaa1935cdf62f80c7e6c4cc0306445&s=450x450)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/159539714.jpg?k=17ce9a2a15cf53ffa9d5656c9ab7642e454483d704fd4a6a32ee6e15b620bb8e&s=50x50)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/53266290.jpg?k=6f8cf40323aed0f1cf7ec5cade75e442cfa441af48d04f45787d91c8c674970a&s=50x50)
+
+마치 파라다이스에 온 듯한 *우바투바*의 한적한 지역에 위치해 있는 이 호텔은 아름다운 해변과 싱그러운 자연경관을 자랑해요. 바람을 가르며 서핑을 즐기거나 잔잔한 파도 소리를 들으며 해변을 산책하는 것은 이곳에서만 느낄 수 있는 특별한 경험이죠. 방 안에서 창밖을 내다보면, 끝없이 펼쳐진 푸른 바다와 파란 하늘이 한눈에 들어와요. 뿐만 아니라 매일 아침 제공되는 신선한 현지 음식도 큰 매력 중 하나예요. 다양한 요리들로 가득한 조식은 여행의 시작을 힘차게 만들어준답니다. 이곳의 직원들은 항상 친절하고 도움이 되어 여행 내내 편안하게 지낼 수 있었어요. 특히 아이들과 함께한 여행자들에게도 좋은 추억을 만들어 줬다는 이야기가 많아요. 아이들이 놀 수 있는 공간도 잘 마련되어 있어 가족 여행에도 제격인 곳이랍니다. **우바투바**의 아름다움을 한껏 즐기고 싶다면, 이 호텔에서의 숙박은 필수적이에요. 풍부한 액티비티와 편안한 휴식이 공존하는 이곳에서 잊지 못할 시간을 보내세요. 매 순간이 특별할 거예요.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+
+## 아름다운 해변과 편안함의 만남
+
+Hotel Porto do Eixo Ubatuba
+![Hotel Porto do Eixo Ubatuba_0_image](https://pix8.agoda.net/hotelImages/480147/0/3ac8b40b0d98ab424ac3e1866ab39f4c.jpeg)
+![Hotel Porto do Eixo Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/534166939.jpg?k=fde5c7e6d61d697cbc95106a3803fea5c5cf12c9d75bc8047ab0d02c2a925ca2&s=50x50)
+![Hotel Porto do Eixo Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323906917.jpg?k=9410cba76f4581c38f765a15b5101f1b8fdc23ab337fb0f3449b157d14addf7f&s=50x50)
+
+브라질의 우바투바에 위치한 이 호텔은 *탁 트인 바다 전망*과 함께 *직접 해변에 접근*할 수 있는 편리함을 자랑해요. 해변에서의 하루를 보낸 후, 숙소로 돌아와 넓고 깨끗한 객실에서 *편안하게 쉴 수 있는 공간*을 제공하죠. 또한, 친절한 직원들이 여러분의 편안한 숙박을 위해 최선을 다해 도와드립니다.
+
+객실 내부는 현대적이고 깔끔하며, 필요한 모든 시설이 잘 갖추어져 있어요. 아침 식사는 신선한 과일과 현지 특산물이 다양하게 제공되어 *선릉한 아침을 맞이*할 수 있어요. 또한, 가족 단위 여행객에게도 적합한 여러 가지 편의 시설이 준비되어 있어, 남녀노소 할 것 없이 모두가 즐겁게 보낼 수 있답니다.
+
+[Hotel Porto do Eixo Ubatuba](https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html)
+
+## 평화로운 해변 휴양지의 매력
+
+Itamambuca Casa de Praia
+![Itamambuca Casa de Praia_0_image](https://pix8.agoda.net/hotelImages/532207/0/d0e7abe267a1f44c0a80f424c3734a62.jpeg)
+![Itamambuca Casa de Praia_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007150.jpg?k=a4920fdf723f79c885b74c1dcca33347b8bbd2bcc18527e8b36e11e97164b05c&s=50x50)
+![Itamambuca Casa de Praia_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007294.jpg?k=0c99fac61ace63a27ca77be4c31f8a9d0f30659401ac12d7d7cae52d73049d5b&s=50x50)
+
+브라질의 아름다운 우바투바에 위치한 이타맘부카 카사 데 프라이아는 평화로운 해변 휴양지로 완벽한 선택이에요. 숙소 주변에는 드넓은 백사장과 푸른 바다가 펼쳐져 있어, 아침에는 파도 소리를 들으며 햇살을 만끽할 수 있답니다. 룸은 깔끔하고 세련되게 디자인되어 있으며, 최신 시설을 갖추고 있어 머무는 동안 불편함이 없어요. 자연과 함께하는 여유로운 시간을 보내고 싶다면, 이보다 더 좋은 곳은 없을 거예요.
+
+여기서는 바비큐 시설도 준비되어 있어, 저녁에는 직접 요리한 음식을 해변가에서 즐길 수 있어요. 물론, 현지 맛집과 카페들도 가까이에 있으니 다양한 먹거리를 만나보는 것도 좋은 경험이겠죠? 아이들을 위한 놀이 공간과 수영장도 마련되어 있어 가족 단위 여행객에게도 딱이에요. 이타맘부카 카사 데 프라이아에서 삶의 소소한 기쁨을 발견하고, 특별한 추억을 만들어 보세요.
+
+[Itamambuca Casa de Praia](https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html)
+
+## 트로피컬한 오아시스, 낙원같은 휴양지
+
+Trakai Suites
+![Trakai Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/315735465.jpg?k=b19d991791bb29bd22a8230c7e4e25b70f3753d3fa1a218ca916526963c5a379&s=450x450)
+![Trakai Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/429726558.jpg?k=5b4161ecced1eaeef0a6612c897a20cc958fab59286ddb68bea1a522b5413d8a&s=50x50)
+![Trakai Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281297368.jpg?k=bc418bc4d561e290fa131d03ea820b35814a181cf29369e37e659ed41f3ffe82&s=50x50)
+
+우바투바의 따스한 날씨와 푸른 해변이 어우러진 *트라카이 스위트*에서 잊지 못할 휴가를 즐기실 수 있어요. 이 호텔은 모던한 인테리어와 넓은 객실을 자랑하며, 투숙객에게 아늑한 환경을 제공합니다. 특히, 해변과 가까워서 해변 산책을 언제든 즐길 수 있는 장점이 있어요. 더불어 객실 내부는 청결하고 편안하게 꾸며져 있어, 휴식을 취하기에도 좋아요. 호텔 주변에는 다양한 레스토랑과 카페가 있어, 현지의 맛도 체험할 수 있습니다. 가족 단위 여행자나 연인들에게 적합한 호텔이에요. 하루의 피로를 풀어줄 수 있는 스파 시설도 이용 가능해요. 이곳에서 평온한 시간을 보내시면 일상 속 스트레스를 다 잊게 될 거예요. 정말로 낙원 같은 여행지라 할 수 있어요. 여행을 평화롭게 보내고 싶다면, *트라카이 스위트*는 완벽한 선택입니다.
+
+[Trakai Suites](https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html)
+
+## 결론
+
+브라질 우바투바에서 특별한 휴가를 계획 중이라면 다양한 매력의 호텔들을 고려해보세요. *자연과 현대적 편의*가 어우러진 **Pousada Ilha Vitoria**에서 여유로운 시간을 보낼 수 있습니다. 또한 **Chales Ceu e Mar Ubatuba**에서는 해변과 자연 속에서 진정한 휴식과 모험을 동시에 즐길 수 있습니다. **Hotel Porto do Eixo Ubatuba**는 우바투바의 아름다운 해변과 편안함을 한곳에서 느낄 수 있는 최고의 호텔입니다. 평화로운 해변과 최신 시설이 돋보이는 **Itamambuca Casa de Praia**는 완벽한 숙소로 손색이 없습니다. 마지막으로, **Trakai Suites**는 모던한 인테리어와 넓은 객실을 제공하며, 우바투바 해변 인접한 최고의 입지로 낙원 같은 휴가를 선사합니다. 지금 바로 예약하고 *잊지 못할 휴가*를 경험하세요!
+11:T2818,
+## 우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 여러분께 브라질의 보석 같은 도시, 우바투바에서의 완벽한 휴가를 위한 호텔을 추천해드리려고 해요. 우바투바는 환상적인 해변과 맛있는 음식, 그리고 멋진 자연 경관으로 유명한데요. 특히 여기서 맛집 투어를 하며 현지의 진정한 맛을 느껴보는 건 정말 매력적이에요! 그렇다면 이제 여러분을 위해 우바투바 맛집 투어와 함께 즐길 수 있는 **최고의 호텔 5선**을 소개해드릴게요. 이 호텔들로 여행의 모든 순간이 완벽해질 거에요!
+
+## 열대 낙원에서의 편안한 휴식
+
+Pousada Ilha Vitoria
+![Pousada Ilha Vitoria_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/466412727.jpg?k=d2b45b49d87c630a61e1f2f0f44b85ea597fad386566484d3a8a5214f4677ba3&s=450x450)
+![Pousada Ilha Vitoria_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444449645.jpg?k=c041af4c4998e8d3b7e30fbd381c0c1e6fb0b3bb8622436a7a1a36d8d858853f&s=50x50)
+![Pousada Ilha Vitoria_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/180337378.jpg?k=7619a4da7528e13fe0a524ec927bd7f5cb0265652606891d2d86bef5f1799f5e&s=50x50)
+
+브라질의 숨겨진 보석인 우바투바 지역에서, 푸사다 일라 비토리아는 현대적인 편의시설과 자연의 조화를 이루는 멋진 숙소예요. 깔끔하게 정리된 객실과 친절한 서비스는 여행의 피로를 씻어줄 거예요. 각 객실은 세련된 인테리어와 함께, 놀라운 바다 전망을 자랑해요. 아침마다 싱그러운 열대 정원을 바라보며 신선한 아침 식사를 즐길 수 있어서 기분 좋은 하루를 시작할 수 있답니다. 게다가, 무료 Wi-Fi를 통해 언제나 연결되어 있어 편리해요.
+
+이 호텔은 특히 가족과 커플에게 인기가 많은데요, 인근 비치와 다양한 액티비티를 즐길 수 있는 점도 크게 작용해요. 무료 자전거 대여 서비스가 제공되어 바닷가를 탐험하기에도 좋고, 수영장도 있어 여유롭게 시간을 보내기 딱이에요. 가까운 곳에 현지 맛집도 많아 다양한 음식을 맛볼 수 있는 기회도 많아요. 푸사다 일라 비토리아에서의 휴가를 통해 일상에서 벗어나 열대 낙원을 경험해보세요!
+
+[Pousada Ilha Vitoria](https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html)
+
+## 해변의 환상적인 전망과 모험
+
+Chales Ceu e Mar Ubatuba
+![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/436842849.jpg?k=dcff7cce6a5ea404ca80fb30f191d225a5eaa1935cdf62f80c7e6c4cc0306445&s=450x450)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/159539714.jpg?k=17ce9a2a15cf53ffa9d5656c9ab7642e454483d704fd4a6a32ee6e15b620bb8e&s=50x50)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/53266290.jpg?k=6f8cf40323aed0f1cf7ec5cade75e442cfa441af48d04f45787d91c8c674970a&s=50x50)
+
+마치 파라다이스에 온 듯한 *우바투바*의 한적한 지역에 위치해 있는 이 호텔은 아름다운 해변과 싱그러운 자연경관을 자랑해요. 바람을 가르며 서핑을 즐기거나 잔잔한 파도 소리를 들으며 해변을 산책하는 것은 이곳에서만 느낄 수 있는 특별한 경험이죠. 방 안에서 창밖을 내다보면, 끝없이 펼쳐진 푸른 바다와 파란 하늘이 한눈에 들어와요. 뿐만 아니라 매일 아침 제공되는 신선한 현지 음식도 큰 매력 중 하나예요. 다양한 요리들로 가득한 조식은 여행의 시작을 힘차게 만들어준답니다. 이곳의 직원들은 항상 친절하고 도움이 되어 여행 내내 편안하게 지낼 수 있었어요. 특히 아이들과 함께한 여행자들에게도 좋은 추억을 만들어 줬다는 이야기가 많아요. 아이들이 놀 수 있는 공간도 잘 마련되어 있어 가족 여행에도 제격인 곳이랍니다. **우바투바**의 아름다움을 한껏 즐기고 싶다면, 이 호텔에서의 숙박은 필수적이에요. 풍부한 액티비티와 편안한 휴식이 공존하는 이곳에서 잊지 못할 시간을 보내세요. 매 순간이 특별할 거예요.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+
+## 아름다운 해변과 편안함의 만남
+
+Hotel Porto do Eixo Ubatuba
+![Hotel Porto do Eixo Ubatuba_0_image](https://pix8.agoda.net/hotelImages/480147/0/3ac8b40b0d98ab424ac3e1866ab39f4c.jpeg)
+![Hotel Porto do Eixo Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/534166939.jpg?k=fde5c7e6d61d697cbc95106a3803fea5c5cf12c9d75bc8047ab0d02c2a925ca2&s=50x50)
+![Hotel Porto do Eixo Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/323906917.jpg?k=9410cba76f4581c38f765a15b5101f1b8fdc23ab337fb0f3449b157d14addf7f&s=50x50)
+
+브라질의 우바투바에 위치한 이 호텔은 *탁 트인 바다 전망*과 함께 *직접 해변에 접근*할 수 있는 편리함을 자랑해요. 해변에서의 하루를 보낸 후, 숙소로 돌아와 넓고 깨끗한 객실에서 *편안하게 쉴 수 있는 공간*을 제공하죠. 또한, 친절한 직원들이 여러분의 편안한 숙박을 위해 최선을 다해 도와드립니다.
+
+객실 내부는 현대적이고 깔끔하며, 필요한 모든 시설이 잘 갖추어져 있어요. 아침 식사는 신선한 과일과 현지 특산물이 다양하게 제공되어 *선릉한 아침을 맞이*할 수 있어요. 또한, 가족 단위 여행객에게도 적합한 여러 가지 편의 시설이 준비되어 있어, 남녀노소 할 것 없이 모두가 즐겁게 보낼 수 있답니다.
+
+[Hotel Porto do Eixo Ubatuba](https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html)
+
+## 평화로운 해변 휴양지의 매력
+
+Itamambuca Casa de Praia
+![Itamambuca Casa de Praia_0_image](https://pix8.agoda.net/hotelImages/532207/0/d0e7abe267a1f44c0a80f424c3734a62.jpeg)
+![Itamambuca Casa de Praia_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007150.jpg?k=a4920fdf723f79c885b74c1dcca33347b8bbd2bcc18527e8b36e11e97164b05c&s=50x50)
+![Itamambuca Casa de Praia_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/172007294.jpg?k=0c99fac61ace63a27ca77be4c31f8a9d0f30659401ac12d7d7cae52d73049d5b&s=50x50)
+
+브라질의 아름다운 우바투바에 위치한 이타맘부카 카사 데 프라이아는 평화로운 해변 휴양지로 완벽한 선택이에요. 숙소 주변에는 드넓은 백사장과 푸른 바다가 펼쳐져 있어, 아침에는 파도 소리를 들으며 햇살을 만끽할 수 있답니다. 룸은 깔끔하고 세련되게 디자인되어 있으며, 최신 시설을 갖추고 있어 머무는 동안 불편함이 없어요. 자연과 함께하는 여유로운 시간을 보내고 싶다면, 이보다 더 좋은 곳은 없을 거예요.
+
+여기서는 바비큐 시설도 준비되어 있어, 저녁에는 직접 요리한 음식을 해변가에서 즐길 수 있어요. 물론, 현지 맛집과 카페들도 가까이에 있으니 다양한 먹거리를 만나보는 것도 좋은 경험이겠죠? 아이들을 위한 놀이 공간과 수영장도 마련되어 있어 가족 단위 여행객에게도 딱이에요. 이타맘부카 카사 데 프라이아에서 삶의 소소한 기쁨을 발견하고, 특별한 추억을 만들어 보세요.
+
+[Itamambuca Casa de Praia](https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html)
+
+## 트로피컬한 오아시스, 낙원같은 휴양지
+
+Trakai Suites
+![Trakai Suites_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/315735465.jpg?k=b19d991791bb29bd22a8230c7e4e25b70f3753d3fa1a218ca916526963c5a379&s=450x450)
+![Trakai Suites_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/429726558.jpg?k=5b4161ecced1eaeef0a6612c897a20cc958fab59286ddb68bea1a522b5413d8a&s=50x50)
+![Trakai Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/281297368.jpg?k=bc418bc4d561e290fa131d03ea820b35814a181cf29369e37e659ed41f3ffe82&s=50x50)
+
+우바투바의 따스한 날씨와 푸른 해변이 어우러진 *트라카이 스위트*에서 잊지 못할 휴가를 즐기실 수 있어요. 이 호텔은 모던한 인테리어와 넓은 객실을 자랑하며, 투숙객에게 아늑한 환경을 제공합니다. 특히, 해변과 가까워서 해변 산책을 언제든 즐길 수 있는 장점이 있어요. 더불어 객실 내부는 청결하고 편안하게 꾸며져 있어, 휴식을 취하기에도 좋아요. 호텔 주변에는 다양한 레스토랑과 카페가 있어, 현지의 맛도 체험할 수 있습니다. 가족 단위 여행자나 연인들에게 적합한 호텔이에요. 하루의 피로를 풀어줄 수 있는 스파 시설도 이용 가능해요. 이곳에서 평온한 시간을 보내시면 일상 속 스트레스를 다 잊게 될 거예요. 정말로 낙원 같은 여행지라 할 수 있어요. 여행을 평화롭게 보내고 싶다면, *트라카이 스위트*는 완벽한 선택입니다.
+
+[Trakai Suites](https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html)
+
+## 결론
+
+브라질 우바투바에서 특별한 휴가를 계획 중이라면 다양한 매력의 호텔들을 고려해보세요. *자연과 현대적 편의*가 어우러진 **Pousada Ilha Vitoria**에서 여유로운 시간을 보낼 수 있습니다. 또한 **Chales Ceu e Mar Ubatuba**에서는 해변과 자연 속에서 진정한 휴식과 모험을 동시에 즐길 수 있습니다. **Hotel Porto do Eixo Ubatuba**는 우바투바의 아름다운 해변과 편안함을 한곳에서 느낄 수 있는 최고의 호텔입니다. 평화로운 해변과 최신 시설이 돋보이는 **Itamambuca Casa de Praia**는 완벽한 숙소로 손색이 없습니다. 마지막으로, **Trakai Suites**는 모던한 인테리어와 넓은 객실을 제공하며, 우바투바 해변 인접한 최고의 입지로 낙원 같은 휴가를 선사합니다. 지금 바로 예약하고 *잊지 못할 휴가*를 경험하세요!
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선"}],["$","data",null,{"children":"2024-05-30T08:12:45.488Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"남미"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"열대"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"비치"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"자전거"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"커플"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"모험"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"현지 특산물"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"가족 친화적"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"청결"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"바비큐"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"가족여행"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"어린이"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"맛집"}]}],["$","li","[object Object]_24",{"children":["$","span",null,{"children":"모던"}]}],["$","li","[object Object]_25",{"children":["$","span",null,{"children":"넓은 객실"}]}],["$","li","[object Object]_26",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_27",{"children":["$","span",null,{"children":"연인"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"928907e5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 여러분께 브라질의 보석 같은 도시, 우바투바에서의 완벽한 휴가를 위한 호텔을 추천해드리려고 해요. 우바투바는 환상적인 해변과 맛있는 음식, 그리고 멋진 자연 경관으로 유명한데요. 특히 여기서 맛집 투어를 하며 현지의 진정한 맛을 느껴보는 건 정말 매력적이에요! 그렇다면 이제 여러분을 위해 우바투바 맛집 투어와 함께 즐길 수 있는 ",["$","strong",null,{"className":"font-black","children":"최고의 호텔 5선"}],"을 소개해드릴게요. 이 호텔들로 여행의 모든 순간이 완벽해질 거에요!"]}],"\n",["$","h2",null,{"id":"5cbcfbc7","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"열대 낙원에서의 편안한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Pousada Ilha Vitoria\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/466412727.jpg?k=d2b45b49d87c630a61e1f2f0f44b85ea597fad386566484d3a8a5214f4677ba3&s=450x450","alt":"Pousada Ilha Vitoria_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/444449645.jpg?k=c041af4c4998e8d3b7e30fbd381c0c1e6fb0b3bb8622436a7a1a36d8d858853f&s=50x50","alt":"Pousada Ilha Vitoria_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/180337378.jpg?k=7619a4da7528e13fe0a524ec927bd7f5cb0265652606891d2d86bef5f1799f5e&s=50x50","alt":"Pousada Ilha Vitoria_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브라질의 숨겨진 보석인 우바투바 지역에서, 푸사다 일라 비토리아는 현대적인 편의시설과 자연의 조화를 이루는 멋진 숙소예요. 깔끔하게 정리된 객실과 친절한 서비스는 여행의 피로를 씻어줄 거예요. 각 객실은 세련된 인테리어와 함께, 놀라운 바다 전망을 자랑해요. 아침마다 싱그러운 열대 정원을 바라보며 신선한 아침 식사를 즐길 수 있어서 기분 좋은 하루를 시작할 수 있답니다. 게다가, 무료 Wi-Fi를 통해 언제나 연결되어 있어 편리해요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 호텔은 특히 가족과 커플에게 인기가 많은데요, 인근 비치와 다양한 액티비티를 즐길 수 있는 점도 크게 작용해요. 무료 자전거 대여 서비스가 제공되어 바닷가를 탐험하기에도 좋고, 수영장도 있어 여유롭게 시간을 보내기 딱이에요. 가까운 곳에 현지 맛집도 많아 다양한 음식을 맛볼 수 있는 기회도 많아요. 푸사다 일라 비토리아에서의 휴가를 통해 일상에서 벗어나 열대 낙원을 경험해보세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/pousada-ilha-vitoria/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Pousada Ilha Vitoria","position":{"start":{"line":17,"column":2,"offset":1327},"end":{"line":17,"column":22,"offset":1347}}}],"position":{"start":{"line":17,"column":1,"offset":1326},"end":{"line":17,"column":99,"offset":1424}}},"children":"Pousada Ilha Vitoria"},"post":{"id":"299ef90c-e0c2-4494-85b4-257f72d888b6","title":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선","fileName":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","description":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!","date":"2024-05-30T08:12:45.488Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"비치","path":"$$/kr/tags/비치","id":"비치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"자전거","path":"$$/kr/tags/자전거","id":"자전거"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"현지 특산물","path":"$$/kr/tags/현지-특산물","id":"현지-특산물"},{"name":"가족 친화적","path":"$$/kr/tags/가족-친화적","id":"가족-친화적"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바비큐","path":"$$/kr/tags/바비큐","id":"바비큐"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"어린이","path":"$$/kr/tags/어린이","id":"어린이"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"넓은 객실","path":"$$/kr/tags/넓은-객실","id":"넓은-객실"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"연인","path":"$$/kr/tags/연인","id":"연인"}],"banner":"/images/우바투바.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","content":"$d","category":"articles","readMin":"7.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"40eb1203","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변의 환상적인 전망과 모험"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Chales Ceu e Mar Ubatuba\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/436842849.jpg?k=dcff7cce6a5ea404ca80fb30f191d225a5eaa1935cdf62f80c7e6c4cc0306445&s=450x450","alt":"Chales Ceu e Mar Ubatuba_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/159539714.jpg?k=17ce9a2a15cf53ffa9d5656c9ab7642e454483d704fd4a6a32ee6e15b620bb8e&s=50x50","alt":"Chales Ceu e Mar Ubatuba_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/53266290.jpg?k=6f8cf40323aed0f1cf7ec5cade75e442cfa441af48d04f45787d91c8c674970a&s=50x50","alt":"Chales Ceu e Mar Ubatuba_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["마치 파라다이스에 온 듯한 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"우바투바"}],"의 한적한 지역에 위치해 있는 이 호텔은 아름다운 해변과 싱그러운 자연경관을 자랑해요. 바람을 가르며 서핑을 즐기거나 잔잔한 파도 소리를 들으며 해변을 산책하는 것은 이곳에서만 느낄 수 있는 특별한 경험이죠. 방 안에서 창밖을 내다보면, 끝없이 펼쳐진 푸른 바다와 파란 하늘이 한눈에 들어와요. 뿐만 아니라 매일 아침 제공되는 신선한 현지 음식도 큰 매력 중 하나예요. 다양한 요리들로 가득한 조식은 여행의 시작을 힘차게 만들어준답니다. 이곳의 직원들은 항상 친절하고 도움이 되어 여행 내내 편안하게 지낼 수 있었어요. 특히 아이들과 함께한 여행자들에게도 좋은 추억을 만들어 줬다는 이야기가 많아요. 아이들이 놀 수 있는 공간도 잘 마련되어 있어 가족 여행에도 제격인 곳이랍니다. ",["$","strong",null,{"className":"font-black","children":"우바투바"}],"의 아름다움을 한껏 즐기고 싶다면, 이 호텔에서의 숙박은 필수적이에요. 풍부한 액티비티와 편안한 휴식이 공존하는 이곳에서 잊지 못할 시간을 보내세요. 매 순간이 특별할 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Chales Ceu e Mar Ubatuba","position":{"start":{"line":28,"column":2,"offset":2515},"end":{"line":28,"column":26,"offset":2539}}}],"position":{"start":{"line":28,"column":1,"offset":2514},"end":{"line":28,"column":107,"offset":2620}}},"children":"Chales Ceu e Mar Ubatuba"},"post":{"id":"299ef90c-e0c2-4494-85b4-257f72d888b6","title":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선","fileName":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","description":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!","date":"2024-05-30T08:12:45.488Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"비치","path":"$$/kr/tags/비치","id":"비치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"자전거","path":"$$/kr/tags/자전거","id":"자전거"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"현지 특산물","path":"$$/kr/tags/현지-특산물","id":"현지-특산물"},{"name":"가족 친화적","path":"$$/kr/tags/가족-친화적","id":"가족-친화적"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바비큐","path":"$$/kr/tags/바비큐","id":"바비큐"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"어린이","path":"$$/kr/tags/어린이","id":"어린이"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"넓은 객실","path":"$$/kr/tags/넓은-객실","id":"넓은-객실"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"연인","path":"$$/kr/tags/연인","id":"연인"}],"banner":"/images/우바투바.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","content":"$e","category":"articles","readMin":"7.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"cdeff26f","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"아름다운 해변과 편안함의 만남"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Porto do Eixo Ubatuba\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/480147/0/3ac8b40b0d98ab424ac3e1866ab39f4c.jpeg","alt":"Hotel Porto do Eixo Ubatuba_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/534166939.jpg?k=fde5c7e6d61d697cbc95106a3803fea5c5cf12c9d75bc8047ab0d02c2a925ca2&s=50x50","alt":"Hotel Porto do Eixo Ubatuba_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/323906917.jpg?k=9410cba76f4581c38f765a15b5101f1b8fdc23ab337fb0f3449b157d14addf7f&s=50x50","alt":"Hotel Porto do Eixo Ubatuba_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브라질의 우바투바에 위치한 이 호텔은 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"탁 트인 바다 전망"}],"과 함께 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"직접 해변에 접근"}],"할 수 있는 편리함을 자랑해요. 해변에서의 하루를 보낸 후, 숙소로 돌아와 넓고 깨끗한 객실에서 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"편안하게 쉴 수 있는 공간"}],"을 제공하죠. 또한, 친절한 직원들이 여러분의 편안한 숙박을 위해 최선을 다해 도와드립니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["객실 내부는 현대적이고 깔끔하며, 필요한 모든 시설이 잘 갖추어져 있어요. 아침 식사는 신선한 과일과 현지 특산물이 다양하게 제공되어 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"선릉한 아침을 맞이"}],"할 수 있어요. 또한, 가족 단위 여행객에게도 적합한 여러 가지 편의 시설이 준비되어 있어, 남녀노소 할 것 없이 모두가 즐겁게 보낼 수 있답니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hotel-porto-do-eixo-ubatuba/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Hotel Porto do Eixo Ubatuba","position":{"start":{"line":41,"column":2,"offset":3498},"end":{"line":41,"column":29,"offset":3525}}}],"position":{"start":{"line":41,"column":1,"offset":3497},"end":{"line":41,"column":113,"offset":3609}}},"children":"Hotel Porto do Eixo Ubatuba"},"post":{"id":"299ef90c-e0c2-4494-85b4-257f72d888b6","title":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선","fileName":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","description":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!","date":"2024-05-30T08:12:45.488Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"비치","path":"$$/kr/tags/비치","id":"비치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"자전거","path":"$$/kr/tags/자전거","id":"자전거"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"현지 특산물","path":"$$/kr/tags/현지-특산물","id":"현지-특산물"},{"name":"가족 친화적","path":"$$/kr/tags/가족-친화적","id":"가족-친화적"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바비큐","path":"$$/kr/tags/바비큐","id":"바비큐"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"어린이","path":"$$/kr/tags/어린이","id":"어린이"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"넓은 객실","path":"$$/kr/tags/넓은-객실","id":"넓은-객실"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"연인","path":"$$/kr/tags/연인","id":"연인"}],"banner":"/images/우바투바.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","content":"$f","category":"articles","readMin":"7.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"f0e7a0aa","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"평화로운 해변 휴양지의 매력"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Itamambuca Casa de Praia\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/532207/0/d0e7abe267a1f44c0a80f424c3734a62.jpeg","alt":"Itamambuca Casa de Praia_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/172007150.jpg?k=a4920fdf723f79c885b74c1dcca33347b8bbd2bcc18527e8b36e11e97164b05c&s=50x50","alt":"Itamambuca Casa de Praia_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/172007294.jpg?k=0c99fac61ace63a27ca77be4c31f8a9d0f30659401ac12d7d7cae52d73049d5b&s=50x50","alt":"Itamambuca Casa de Praia_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브라질의 아름다운 우바투바에 위치한 이타맘부카 카사 데 프라이아는 평화로운 해변 휴양지로 완벽한 선택이에요. 숙소 주변에는 드넓은 백사장과 푸른 바다가 펼쳐져 있어, 아침에는 파도 소리를 들으며 햇살을 만끽할 수 있답니다. 룸은 깔끔하고 세련되게 디자인되어 있으며, 최신 시설을 갖추고 있어 머무는 동안 불편함이 없어요. 자연과 함께하는 여유로운 시간을 보내고 싶다면, 이보다 더 좋은 곳은 없을 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"여기서는 바비큐 시설도 준비되어 있어, 저녁에는 직접 요리한 음식을 해변가에서 즐길 수 있어요. 물론, 현지 맛집과 카페들도 가까이에 있으니 다양한 먹거리를 만나보는 것도 좋은 경험이겠죠? 아이들을 위한 놀이 공간과 수영장도 마련되어 있어 가족 단위 여행객에게도 딱이에요. 이타맘부카 카사 데 프라이아에서 삶의 소소한 기쁨을 발견하고, 특별한 추억을 만들어 보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/itamambuca-casa-de-praia/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Itamambuca Casa de Praia","position":{"start":{"line":54,"column":2,"offset":4565},"end":{"line":54,"column":26,"offset":4589}}}],"position":{"start":{"line":54,"column":1,"offset":4564},"end":{"line":54,"column":107,"offset":4670}}},"children":"Itamambuca Casa de Praia"},"post":{"id":"299ef90c-e0c2-4494-85b4-257f72d888b6","title":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선","fileName":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","description":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!","date":"2024-05-30T08:12:45.488Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"비치","path":"$$/kr/tags/비치","id":"비치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"자전거","path":"$$/kr/tags/자전거","id":"자전거"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"현지 특산물","path":"$$/kr/tags/현지-특산물","id":"현지-특산물"},{"name":"가족 친화적","path":"$$/kr/tags/가족-친화적","id":"가족-친화적"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바비큐","path":"$$/kr/tags/바비큐","id":"바비큐"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"어린이","path":"$$/kr/tags/어린이","id":"어린이"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"넓은 객실","path":"$$/kr/tags/넓은-객실","id":"넓은-객실"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"연인","path":"$$/kr/tags/연인","id":"연인"}],"banner":"/images/우바투바.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","content":"$10","category":"articles","readMin":"7.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"05dc7e92","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"트로피컬한 오아시스, 낙원같은 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Trakai Suites\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/315735465.jpg?k=b19d991791bb29bd22a8230c7e4e25b70f3753d3fa1a218ca916526963c5a379&s=450x450","alt":"Trakai Suites_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/429726558.jpg?k=5b4161ecced1eaeef0a6612c897a20cc958fab59286ddb68bea1a522b5413d8a&s=50x50","alt":"Trakai Suites_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/281297368.jpg?k=bc418bc4d561e290fa131d03ea820b35814a181cf29369e37e659ed41f3ffe82&s=50x50","alt":"Trakai Suites_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["우바투바의 따스한 날씨와 푸른 해변이 어우러진 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"트라카이 스위트"}],"에서 잊지 못할 휴가를 즐기실 수 있어요. 이 호텔은 모던한 인테리어와 넓은 객실을 자랑하며, 투숙객에게 아늑한 환경을 제공합니다. 특히, 해변과 가까워서 해변 산책을 언제든 즐길 수 있는 장점이 있어요. 더불어 객실 내부는 청결하고 편안하게 꾸며져 있어, 휴식을 취하기에도 좋아요. 호텔 주변에는 다양한 레스토랑과 카페가 있어, 현지의 맛도 체험할 수 있습니다. 가족 단위 여행자나 연인들에게 적합한 호텔이에요. 하루의 피로를 풀어줄 수 있는 스파 시설도 이용 가능해요. 이곳에서 평온한 시간을 보내시면 일상 속 스트레스를 다 잊게 될 거예요. 정말로 낙원 같은 여행지라 할 수 있어요. 여행을 평화롭게 보내고 싶다면, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"트라카이 스위트"}],"는 완벽한 선택입니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/trakai-suites/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Trakai Suites","position":{"start":{"line":65,"column":2,"offset":5621},"end":{"line":65,"column":15,"offset":5634}}}],"position":{"start":{"line":65,"column":1,"offset":5620},"end":{"line":65,"column":85,"offset":5704}}},"children":"Trakai Suites"},"post":{"id":"299ef90c-e0c2-4494-85b4-257f72d888b6","title":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선","fileName":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","description":"브라질의 숨은 진주, 아름다운 해변도시 우바투바에서의 완벽한 여행을 위해 추천하는 5곳의 호텔을 소개합니다. 'Pousada Ilha Vitoria'에서 여유로운 힐링을 즐기며 휴식을 취해보세요. 산뜻한 자연 속의 'Chales Ceu e Mar Ubatuba'는 가족 여행자들에게 딱 맞는 선택지입니다. 해변 근처의 'Hotel Porto do Eixo Ubatuba'에 머물며 일몰을 감상하고, 친환경적인 'Itamambuca Casa de Praia'에서 상쾌한 아침을 만나보세요. 마지막으로 모던한 인테리어와 편안한 시설을 자랑하는 'Trakai Suites'에서 휴가의 끝을 장식해보세요. 맛집 투어로 가득 찬 일정 속에서 최고의 휴식을 취할 수 있는 호텔들을 지금 확인해보세요!","date":"2024-05-30T08:12:45.488Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"비치","path":"$$/kr/tags/비치","id":"비치"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"자전거","path":"$$/kr/tags/자전거","id":"자전거"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"커플","path":"$$/kr/tags/커플","id":"커플"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"현지 특산물","path":"$$/kr/tags/현지-특산물","id":"현지-특산물"},{"name":"가족 친화적","path":"$$/kr/tags/가족-친화적","id":"가족-친화적"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바비큐","path":"$$/kr/tags/바비큐","id":"바비큐"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"어린이","path":"$$/kr/tags/어린이","id":"어린이"},{"name":"맛집","path":"$$/kr/tags/맛집","id":"맛집"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"넓은 객실","path":"$$/kr/tags/넓은-객실","id":"넓은-객실"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"연인","path":"$$/kr/tags/연인","id":"연인"}],"banner":"/images/우바투바.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-맛집-투어와-함께-즐기는-호텔-추천-5선","content":"$11","category":"articles","readMin":"7.2"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브라질 우바투바에서 특별한 휴가를 계획 중이라면 다양한 매력의 호텔들을 고려해보세요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"자연과 현대적 편의"}],"가 어우러진 ",["$","strong",null,{"className":"font-black","children":"Pousada Ilha Vitoria"}],"에서 여유로운 시간을 보낼 수 있습니다. 또한 ",["$","strong",null,{"className":"font-black","children":"Chales Ceu e Mar Ubatuba"}],"에서는 해변과 자연 속에서 진정한 휴식과 모험을 동시에 즐길 수 있습니다. ",["$","strong",null,{"className":"font-black","children":"Hotel Porto do Eixo Ubatuba"}],"는 우바투바의 아름다운 해변과 편안함을 한곳에서 느낄 수 있는 최고의 호텔입니다. 평화로운 해변과 최신 시설이 돋보이는 ",["$","strong",null,{"className":"font-black","children":"Itamambuca Casa de Praia"}],"는 완벽한 숙소로 손색이 없습니다. 마지막으로, ",["$","strong",null,{"className":"font-black","children":"Trakai Suites"}],"는 모던한 인테리어와 넓은 객실을 제공하며, 우바투바 해변 인접한 최고의 입지로 낙원 같은 휴가를 선사합니다. 지금 바로 예약하고 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"잊지 못할 휴가"}],"를 경험하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"우바투바 맛집 투어와 함께 즐기는 호텔 추천 5선","toc":[{"tagName":"h2","title":"우바투바 맛집 투어와 함께 즐기는 최고의 호텔 5선","id":"928907e5"},{"tagName":"h2","title":"열대 낙원에서의 편안한 휴식","id":"5cbcfbc7"},{"tagName":"h2","title":"해변의 환상적인 전망과 모험","id":"40eb1203"},{"tagName":"h2","title":"아름다운 해변과 편안함의 만남","id":"cdeff26f"},{"tagName":"h2","title":"평화로운 해변 휴양지의 매력","id":"f0e7a0aa"},{"tagName":"h2","title":"트로피컬한 오아시스, 낙원같은 휴양지","id":"05dc7e92"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null
